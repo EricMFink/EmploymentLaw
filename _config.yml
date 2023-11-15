@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /EmploymentLaw
 title: Employment Law
 
-last_updated: 27 August 2023 # leave blank if you don't want to display last updated
+last_updated: 15 November 2023 # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -17,7 +17,7 @@ author:
 
 course:
   subject: Employment Law
-  term: Winter 2023
+  term: Winter 2024
   room: Room 105 
   meets: "Mondays & Wednesdays, 10:30 am – 12:30 pm"
   repository: EmploymentLaw
@@ -26,7 +26,7 @@ coursebook:
   title: Employment Law
   subtitle: An Open-Source Casebook
   version: '2.0'
-  date: August 2023
+  date: December 2023
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
