@@ -28,6 +28,13 @@ coursebook:
   version: '2.0'
   date: December 2023
 
+collections:
+  casebook:
+    output: true
+  questions:
+    output: true
+
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -47,6 +54,7 @@ markdown: Pandoc
 pandoc:
   extensions:
     - section-divs
+    - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
