@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /EmploymentLaw
 title: Employment Law
 
-last_updated: 15 November 2023 # leave blank if you don't want to display last updated
+last_updated: 2 December 2023 # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -31,7 +31,7 @@ coursebook:
 collections:
   casebook:
     output: true
-  questions:
+  problems:
     output: true
 
 
