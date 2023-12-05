@@ -655,7 +655,7 @@ In any event, the circuit split on this issue is not dispositive here in light o
 
 
 
-#### Modise v. CareOne Health Services, LLC, No. 3:20-CV-765 (SVN) (D. Conn. Nov. 1, 2022) {#modise-v-careone-health-services}
+#### Modise v. CareOne Health Services, LLC, 638 F.Supp.3d 159 (D. Conn. Nov. 1, 2022) {#modise-v-careone-health-services}
 
 ##### Sarala V. Nagala, United States District Judge.
 
