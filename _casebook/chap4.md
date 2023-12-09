@@ -6,7 +6,7 @@ title: Scope & Limits of Employer Control
 
 ## Control at Work 
 
-### Employee Privacy 
+### Privacy, Autonomy, & Dignity
 
 #### K-Mart Corp. Store No. 7441 v. Trotti, 677 S.W.2d 632 (Tex. App. 1984) {#kmart-v-trotti}
 
@@ -237,7 +237,6 @@ Loving Care contends that the _Rule_ does not apply because Stengart left the e-
 
 To be clear, the Firm did not hack into plaintiff's personal account or maliciously seek out attorney-client documents in a clandestine way. Nor did it rummage through an employee's personal files out of idle curiosity. Instead, it legitimately attempted to preserve evidence to defend a civil lawsuit. Its error was in not setting aside the arguably privileged messages once it realized they were attorney-client communications, and failing either to notify its adversary or seek court permission before reading further. There is nothing in the record before us to suggest any bad faith on the Firm's part in reading the Policy as it did. Nonetheless, the Firm should have promptly notified opposing counsel when it discovered the nature of the e-mails.
 
-### Employee Appearance
 
 #### Jesperson v. Harrah's Operating Company, Inc., 444 F.3d 1104 (9th Cir. 2006) {#jesperson-v-harrahs}
 
@@ -504,8 +503,6 @@ We find Cloutier's contention, and the affidavits underlying it, unpersuasive. T
 Cloutier appears to reason that because other employees have violated the no-facial-jewelry policy, it would not be an additional burden on Costco's effort to present a professional workforce for her to display her piercings as well. But there is an important distinction between an employee who displays facial jewelry unnoticed in violation of the dress code and one who does so under an exemption from the dress code. In the first scenario, Costco can instruct an employee to remove facial jewelry as soon as it becomes aware of a violation. In the second scenario, Costco forfeits its ability to mandate compliance and thus loses control over its public image. That loss, as we have discussed, would constitute an undue hardship.
 
 [^Cloutier6]: (n.6 in opinion) We note that Cloutier's requested accommodation has evolved over time. When she first informed Costco management that her religious practice conflicted with its no-facial-jewelry requirement, Cloutier proposed that she be allowed to cover her piercing with a band-aid while working. In the course of this litigation, she has asserted that, even at the time, she believed that wearing the band-aid would violate the tenets of the CBM but nonetheless proposed it to "try and come to an agreement with them." She now maintains that covering her piercings with a band-aid or temporarily replacing them with a plastic retainer would violate her religious beliefs and thus that any such accommodation would not be reasonable. We accept the finality of Cloutier's position in evaluating whether Costco could have reasonably accommodated her religious practice without suffering an undue hardship.
-
-### Harassment 
 
 #### Hogan v. Forsyth Country Club Co., 340 S.E.2d 116 (N.C. App. 1986) {#hogan-v-forsyth-country-club}
 

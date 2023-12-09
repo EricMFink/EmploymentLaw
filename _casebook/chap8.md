@@ -4,9 +4,9 @@ chapter: 8
 title: Terminating Employment
 ---
 
-## Employment-at-Will  and Claims for Wrongful Termination {#employment-at-will}
+## Claims for Wrongful Termination {#wrongful-termination}
 
-### Contractual Claims
+### Employment-at-Will {#employment-at-will}
 
 #### Skagerberg v. Blandin Paper Co., 266 N.W. 872 (Minn. 1936) {#skagerberg_v_blandin_paper}
 
@@ -198,6 +198,7 @@ By what standard that burden is to be measured will depend, in part, upon what c
 
 [^Pugh26]: (n. 26 in opinion) Labor arbitrators have generated a large body of decisions interpreting and applying such terms as "just cause", and some of their work may be useful. It must be remembered, however, that arbitrators are selected by the parties and on the basis, partly, of the confidence which the parties have in their knowledge and judgment concerning labor relations matters. For courts to apply the same standards may prove overly intrusive in some cases.
 
+### Contractual Claims {#contractual-claims}
 
 #### Enterprise Wire Co., 46 LA 359 (1966) {#enterprise_wire}
 
@@ -542,7 +543,7 @@ There was testimony in this case that during the course of negotiation for emplo
 
 All the evidence considered by the jury, viewed in the light most favorable to plaintiff, could reasonably support plaintiff's contention that defendant made specific assurances that plaintiff would not be discharged unless his performance was deficient and that the contract was supported by additional consideration apart from plaintiff's services. Therefore, I believe that the trial judge properly denied defendant's motion for a directed verdict and for judgment notwithstanding the verdict and that the Court of Appeals correctly affirmed the trial court.
 
-### Tort Claims 
+### Tort Claims {#tort-claims}
 
 #### Wilson v. Monarch Paper, 939 F.2d 1138 (5th Cir. 1991) {#wilson_v_monarch_paper}
 
@@ -765,7 +766,7 @@ However, we confront here the unique situation in which the very claim to the pu
 
 There remains an evolving discussion about the role of firearms in our society. While certain areas of that debate are more developed than others, the mature at-will employment law in the state of Utah rejects the idea that, in the face of a freely entered-into agreement to the contrary, an employee has the right to carry a firearm on his employer's premises.
 
-### Statutory Claims 
+### Statutory Claims {#statutory-claims}
 
 #### Nelson v. Knight, 834 N.W.2d 64 (Iowa 2013) {#nelson_v_knight}
 
@@ -1060,80 +1061,94 @@ The evidence proffered by L'Oreal does indicate that there were problems with Ya
 
 Thus, we conclude that the record reveals triable issues of fact as to whether L'Oreal's heightened response to Yanowitz's allegedly poor performance — after she refused to follow Wiswall's directive — was retaliation for her protected activity under the FEHA. Taking into account all of the evidence submitted in support of and in opposition to the summary judgment motion, there exists a _genuine issue of material fact_ as to whether L'Oreal's articulated, nonretaliatory reasons for its actions were pretextual. Therefore, the Court of Appeal properly held that the trial court's grant of summary judgment in favor of L'Oreal cannot be sustained on this ground.
 
+#### Starbucks Corp., 372 NLRB No. 122 (N.L.R.B. Aug. 9, 2023)
 
-#### Retaliatory Employment Discrimination, N.C.G.S. § 95-240 et seq. {#nc_reda}
-<div class="legal-code">
+##### CHAIRMAN MCFERRAN AND MEMBERS WILCOX AND PROUTY
 
-##### § 95-240 Definitions
+On October 7, 2022, Administrative Law Judge Geoffrey Carter issued the attached decision. The Respondent filed exceptions and a supporting brief, the General Counsel filed an answering brief, and the Respondent filed a reply brief. The General Counsel filed cross-exceptions and a supporting brief, and the Respondent filed an answering brief.
 
-The following definitions apply in this Article:
+The National Labor Relations Board has delegated its authority in this proceeding to a three-member panel.
 
-> (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
-> 
-> (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
+The Board has considered the decision and record in light of the exceptions and briefs and has decided to affirm the judge’s rulings, findings, and conclusions, to amend the remedy,^[starbucks1] and to adopt the recommended Order as modified and set forth in full below.
+
+The judge found, among other things, that the Respondent violated Section 8(a)(3) and 8(a)(4) by discharging employee Hannah Whitbeck. As explained below, we adopt the judge’s finding that the discharge violated the Act as alleged.
+
+##### Background
+
+The Respondent is engaged in the operation of public restaurants selling food and beverages throughout the United States, including, as relevant here, five stores in Ann Arbor, Michigan, one of which is located at 300 South Main Street (Main and Liberty).These stores are part of a District of approximately 10 stores in Ann Arbor and the surrounding area, overseen by Respondent’s District Manager, Paige Schmehl. Hannah Whitbeck was a shift supervisor at the Respondent’s Main and Liberty store. Whitbeck reported directly to the Store Manager, Erin Lind, who in turn reports to Schmehl.
+
+In about January 2022, Whitbeck, in collaboration with a coworker, initiated a union organizing effort at her store by contacting Workers United (the Union). Whitbeck and her coworkers viewed her as the lead organizer at the Main and Liberty store. Whitbeck became visible as a union advocate to the Respondent when, on February 4, she began wearing a union button at work and sent a letter, signed by her and a handful of coworkers to the Respondent’s CEO, requesting that the Respondent voluntarily recognize the Union as their collective-bargaining representative.
+
+On February 8, the Union filed a petition to represent the employees at Main and Liberty. Contemporaneously, the Union filed petitions to represent the employees at three other Ann Arbor stores, including its store on Zeeb Road. The Respondent actively opposed the Union’s coordinated organizing effort among the Ann Arbor stores in Schmehl’s District.
+
+The Board held a representation hearing covering the petitions for the five Ann Arbor locations. Whitbeck attended the last day of the hearing and was noticed by Schmehl, who was also present for 10-15 minutes of the hearing. On March 20, employees at the Respondent’s Zeeb Road store held a “sip-in” event in support of the union organizing effort there, during which volunteers handed out Union buttons and “post it” notes to customers entering the store to encourage them to post supportive comments regarding the organizing campaign on the store’s community board. Whitbeck was on duty at Main and Liberty and did not participate, but Schmehl attended this 3-hour event, periodically removing “post it” notes from the board. Thereafter, on March 23, the Union filed a charge against the Respondent referencing Whitbeck, which the Respondent received on March 28.
+
+During this same time period, the Respondent was investigating an incident involving Whitbeck’s violation of the Respondent’s “two-employee” rule. The rule requires that there be two employees in a store at all times. As discussed in detail in the judge’s decision, on February 27, Whitbeck departed work promptly at her scheduled leave time although the other shift supervisor on duty (with whom she had a dispute earlier in the shift) had not yet returned from his break, leaving the barista on duty alone in the store until the other shift supervisor returned. After learning from the barista on duty, via text message, that he had been alone in store for over a half hour, Whitbeck filed an incident report the following day.
+
+District Manager Schmehl oversaw the investigation of the incident with guidance from the Respondent’s Partner Relations Support Center (PRSC), which handles human resources matters, and the Respondent’s legal department. The Respondent’s corrective action policy states generally that “the form of the corrective action taken will depend on the seriousness of the situation and the surrounding circumstances.” The Respondent also maintains a nonbinding job aid that recommends a final warning for “two employee”-rule violations. Consistent with the job aid, a former store manager at Main and Liberty, Laura Gibbons, testified that, in consultation with PRSC, she issued a final warning to a shift supervisor (A.H.) in 2021 for violating the “two employee” rule. Nevertheless, on March 21, Schmehl recommended that Whitbeck be discharged for violating the rule.
+
+The Respondent’s legal department authorized Whitbeck’s discharge on April 3. Schmehl testified that the final discharge decision was a product of her collaboration with PRSC and the Respondent’s legal team. It is undisputed that the Respondent has not discharged any other employees at any of its Michigan locations for violating the “two employee” rule.
+
+##### Discussion
+
+Applying Wright Line, the judge found that the Respondent violated Section 8(a)(3) and 8(a)(4) of the Act by discharging Whitbeck on April 11. Under Wright Line, the General Counsel bears the initial burden of establishing that an employee’s union or other protected activity was a motivating factor in the employer’s adverse employment action. The General Counsel meets this burden by proving that (1) the employee engaged in union or other protected activity, (2) the employer knew of that activity, and (3) the employer bore animus against union or other protected activity. An employer’s motivation is a question of fact that may be inferred from both direct and circumstantial evidence on the record as a whole. Circumstantial evidence of discriminatory motive may include, among other factors, the timing of the action in relation to the union or other protected conduct; contemporaneous unfair labor practices; shifting, false, or exaggerated reasons offered for the action; failure to conduct a meaningful investigation; departures from past practices; and disparate treatment of the employee. Once the General Counsel sustains her initial burden under Wright Line, the burden shifts to the employer to show that it would have taken the same action even in the absence of the protected activity.
+
+Regarding the General Counsel’s initial burden, as the judge made clear, there is no dispute that Whitbeck had engaged in protected activity, including supporting the Union and participating in Board proceedings, and that the Respondent was aware of such activities at the time it discharged her on April 11. In addition, in finding that the Respondent acted with animus in discharging Whitbeck, the judge relied upon (1) District Manager Schmehl’s activity during the March 20 “sip-in” event at Zeeb Road, which the judge found arguably created an impression of surveillance, (2) the Respondent’s disparate treatment of Whitbeck as compared with lesser discipline of another shift supervisor and the recommended corrective action set forth in Respondent’s job aid, (3) the Respondent’s deviation from its investigative practice in determining the level of discipline for Whitbeck, and (4) timing. As explained below, we agree with the judge that these factors provide ample evidence that the Respondent’s animus was a motivating factor in Whitbeck’s discharge.
+
+In adopting the judge’s finding that District Manager Schmehl’s activity during the March 20 “sip-in” at the Respondent’s Zeeb Road store supports an inference of unlawful motivation by the Respondent, we note that Schmehl’s only discernable work activity during her unusual and unexplained 3-hour presence at the store was to remove “post it” notes from the community board, a task that the acting store manager clearly could have performed without assistance. Although there is no allegation in the complaint that Schmehl’s actions created an impression of surveillance, and we do not find such an independent Section 8(a)(1) violation here, Schmehl’s conduct nevertheless sheds light on the Respondent’s unlawful motive in discharging Whitbeck. Moreover, we reject the Respondent’s contention that the incident is irrelevant because Whitbeck did not participate in the sip-in. In this regard, we find the larger context here significant: on February 8, the Union had filed petitions to represent the Zeeb Road employees and the employees at Whitbeck’s “home” store, along with petitions at two other Ann Arbor stores in Schmehl’s District, and had filed a petition at a fifth Ann Arbor store only a few days earlier, on January 31. The Respondent actively opposed this coordinated organizing effort in which Whitbeck played a visible part.
+
+We further agree with the judge that the Respondent subjected Whitbeck to disparate treatment in discharging her. Specifically, the Respondent departed from its job aid’s recommendation of a final warning for violations of the “two employee” rule and from its history of issuing a final warning for a previous violation of the “two employee” rule. Even assuming, as the Respondent contends, that Schmehl was unaware of the previous lesser discipline issued to another shift supervisor who violated the “two employee” rule, that fact does not undercut a finding of disparate treatment here given the participation of multiple overlapping decisionmakers. Indeed, Schmehl admitted that the Respondent’s Partner Relations Support Center (PRSC), which handles human resources issues and was involved in the previous discipline, collaborated with her in the final determination to discharge Whitbeck. _Compare_ _New Otani Hotel & Garden_, 325 NLRB 928 (1998) (no disparate treatment warranting inference of unlawful motive where multiple decision makers’ testimony established that none was aware of previous instances of misconduct similar to that which prompted alleged unlawful discipline). On these facts, we find, in agreement with the judge, that the Respondent’s disparate treatment of Whitbeck supports an inference of unlawful motive.
+
+Moreover, we agree with the judge’s finding that the Respondent’s failure to consider surrounding circumstances in evaluating the appropriate discipline for Whitbeck lends further support to the inference of unlawful motive here. We rely both on the language of the Respondent’s corrective action policy--i.e., “the form of the corrective action taken will depend on the seriousness of the situation and the surrounding circumstances”--and on Schmehl’s testimony that the Respondent’s practice was consistent with that policy. Indeed, Schmehl specifically asserted that Whitbeck’s reasons for her prompt departure at the end of her shift, which resulted in her leaving a partner alone in the store, would have been considered during the investigation. Yet, as the judge found, the Respondent entirely failed to follow up on Whitbeck’s indication in her incident report that she had “something serious” after work that necessitated her prompt departure.
+
+Finally, we agree with the judge that the timing also supports the inference that Whitbeck’s discharge was unlawfully motivated. In so finding, we note that Schmehl recommended Whitbeck’s discharge the day after her unusual activity in observing the “sip-in” at Zeeb Road and only 2-1/2 weeks after she noted Whitbeck in attendance at the Board’s representation hearing on the petitions pending in Schmehl’s district, including those for Zeeb Road and Whitbeck’s home store. Unlike the judge, we further rely on the timing of the discharge in relation to the Union’s filing of an unfair labor practice charge naming Whitbeck. It is undisputed that the Respondent’s legal department--which, by Schmehl’s own admission, also participated in the discharge decision--did not authorize the discharge until April 3, nearly 2 weeks after Schmehl recommended it and only 5 days after the Respondent received the charge. 
+
+Based on the foregoing, we find, in agreement with the judge, that the General Counsel sustained her initial burden under Wright Line of proving that the Respondent’s discharge of Whitbeck was unlawfully motivated. Having done so, we turn to the Respondent’s Wright Line defense burden. In finding that the Respondent did not meet its defense burden here, the judge noted that the Respondent asserted that it discharged Whitbeck for “knowingly” violating the “two employee” rule, but found that the Respondent failed to present any evidence that discharge would be the appropriate level of discipline for a “knowing” violation. In addition, the judge relied on the lack of comparator evidence from the Respondent that it had discharged other employees for violating the “two employee” rule. Further, the judge relied on the fact that Respondent’s disciplinary job aid recommends a final written warning, not discharge, for violations of the “two employee” rule. For the reasons stated by the judge, we agree that the Respondent failed to establish that it would have discharged Whitbeck even absent her Section 7 and other protected activity. In particular, in the absence of evidence that any other employee in one of the Respondent’s Michigan stores ever had been discharged for violating the rule, we agree with the judge that the Respondent failed to establish that it would have discharged Whitbeck for violating the “two employee” rule even absent her protected activity. See Tschiggfrie Properties, 368 NLRB No. 120, supra, slip op. at 5 (employer failed to meet defense burden, in part, based on absence of evidence that any other employee had previously been discharged for misconduct on which the employer relied).
+
+Having found, in agreement with the judge, that the General Counsel sustained her initial burden under Wright Line and that the Respondent failed to establish that it would have discharged Whitbeck even absent her protected activities, we adopt the judge’s findings that the Respondent violated Section 8(a)(3) and (4) by discharging Whitbeck on April 11.
+
+^[starbucks1]: (n.3 in opinion) The Respondent excepts to the judge’s ordering of a notice reading to remedy Whitbeck’s unlawful discharge. Contrary to the judge, in the circumstances of this case, we find that the Board’s standard remedies suffice to inform employees of the Respondent’s unlawful conduct. In so doing, we observe that the circumstances of this case are distinguishable from those presented in _Gavilon Grain, LLC_, 371 NLRB No. 79 (2022), and _Absolute Healthcare d/b/a Curaleaf Arizona_, 372 NLRB No. 16 (2022), in which high-level management officials openly participated in a widely disseminated course of unlawful conduct. We have thus amended the judge’s recommended remedy and Order to remove the notice reading. We shall substitute a new notice to conform to the Order as modified.
+
+The General Counsel excepts to the judge’s refusal to order a nationwide notice posting and the additional expansions in scope, content and duration of the posting sought by the General Counsel--specifically, an “Explanation of Rights” as well as the Notice posted for 90 days in all Michigan facilities and emailed to all employees at Whitbeck’s store. In agreement with the judge, we find these remedies unwarranted here. 
+
+Contrary to his colleagues, Member Prouty agrees with the judge that a notice reading by District Manager Paige Schmehl, or by a Board agent in Schmehl’s presence, is warranted here. The Respondent, with direct involvement by Schmehl, who was the chief manager for the Respondent overseeing approximately 10 locations, including the discriminatee’s, and corporate officials from the legal and human resources departments, discharged the employee who was viewed by her and her coworkers as the leader of the organizing effort in retaliation for her union activity and participation in the Board’s processes. In Member Prouty’s view, this conduct “struck at the heart of employees’ Section 7 rights” and sent a message that employees who support the union do so at their peril. Although _Absolute Healthcare d/b/a Curaleaf Arizona_ (ordering notice-reading where violations included the discharge of the sole union organizer), and _Gavilon Grain, LLC_ (ordering a notice reading where high-level management officials discharged an employee among the initiators of the union drive and made adverse changes to working conditions shortly after the union demanded recognition), involved unfair labor practices in addition to the discharge of a key union supporter, Member Prouty notes that “the Board has long recognized that ... unlawful terminations are destructive to Sec. 7 rights because they tend to instill fear in the remaining employees that, they will lose their employment if union activity persists.” In Member Prouty’s view, the reading of the notice in a group setting would be far more likely than a notice posting to dissipate the fear that the discharge of this key union supporter likely engendered in this store of approximately 25 employees. Member Prouty would also require the Board agent to distribute the notice to employees at the meeting before the reading. Member Prouty would make a reading of the notice to employees at a group meeting, accompanied by the distribution of the notice at the meeting, a standard remedy for unfair labor practices found by the Board.
 
 
-##### § 95-241
+##### ORDER
 
-(a\) No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to do any of the following:
+The National Labor Relations Board orders that the Respondent, Starbucks Corporation, Ann Arbor, Michigan, its officers, agents, successors, and assigns, shall
 
-> (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
-> 
-> > a. Chapter 97 of the General Statutes.
-> > 
-> > b. Article 2A or Article 16 of this Chapter.
-> > 
-> > c. Article 2A of Chapter 74 of the General Statutes.
-> > 
-> > d. G.S. 95-28.1.
-> > 
-> > e. Article 16 of Chapter 127A of the General Statutes.
-> > 
-> > f. G.S. 95-28.1A.
-> > 
-> > g. Article 52 of Chapter 143 of the General Statutes.
-> > 
-> > h. Article 5F of Chapter 90 of the General Statutes.
-> 
-> (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
-> 
-> (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
-> 
-> (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
-> 
-> (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
+1\. Cease and desist from
 
-(b\) It shall not be a violation of this Article for a person to discharge or take any other unfavorable action with respect to an employee who has engaged in protected activity as set forth under this Article if the person proves by the greater weight of the evidence that it would have taken the same unfavorable action in the absence of the protected activity of the employee.
+(a) Discharging or otherwise discriminating against employees for supporting Workers United or any other labor organization.
 
-</div>
+(b) Discharging or otherwise discriminating against employees for participating in National Labor Relations Board processes.
 
-<div class="comment">
+(c) In any like or related manner interfering with, restraining, or coercing employees in the exercise of the rights guaranteed them by Section 7 of the Act.
 
-N.C.G.S. § 95-241 applies to discrimination or retaliation based on employee conduct under certain specified North Carolina statutes: 
+2\. Take the following affirmative action necessary to effectuate the policies of the Act.
 
-- N.C.G.S. Chap. 97: Workers' Compensation Act
+(a) Within 14 days from the date of this Order, offer Hannah Whitbeck full reinstatement to her former job or, if that no longer exists, to a substantially equivalent position, without prejudice to her seniority or other rights or privileges previously enjoyed.
 
-- N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
+(b) Make Hannah Whitbeck whole for any loss of earnings and other benefits, and for any other direct or foreseeable pecuniary harms, suffered as a result of the discrimination against her in the manner set forth in the remedy section of the judge’s decision as amended in this decision.
 
-- N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
- 
-- N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
+(c) Within 14 days from the date of this Order, remove from its files any reference to the unlawful discharge and, within 3 days thereafter, notify the employee in writing that this has been done and that the discharge will not be used against her in any way.
 
-- N.C.G.S. 95-28.1:  Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
+(d) Compensate Hannah Whitbeck for the adverse tax consequences, if any, of receiving a lump-sum backpay award, and file with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed, either by agreement or Board order, a report allocating the backpay award to the appropriate calendar years.
 
-- N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
+(e) File with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed by agreement or Board order or such additional time as the Regional Director may allow for good cause shown, a copy of Hannah Whitbeck’s corresponding W-2 forms reflecting the backpay award.
 
-- N.C.G.S. 95-28.1A:  Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
+(f) Preserve and, within 14 days of a request, or such additional time as the Regional Director may allow for good cause shown, provide at a reasonable place designated by the Board or its agents, all payroll records, social security payment records, timecards, personnel records and reports, and all other records, including an electronic copy of such records if stored in electronic form, necessary to analyze the amount of backpay due under the terms of this Order.
 
-- N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
+(g) Within 14 days after service by the Region, post at its Main and Liberty facility in Ann Arbor, Michigan, copies of the attached notice marked “Appendix.” Copies of the notice, on forms provided by the Regional Director for Region 7, after being signed by the Respondent’s authorized representative, shall be posted by the Respondent and maintained for 60 consecutive days in conspicuous places, including all places where notices to employees are customarily posted. In addition to physical posting of paper notices, notices shall be distributed electronically, such as by email, posting on an intranet or an internet site, and/or other electronic means, if the Respondent customarily communicates with its employees by such means. Reasonable steps shall be taken by the Respondent to ensure that the notices are not altered, defaced, or covered by any other material. If the Respondent has gone out of business or closed the facility involved in these proceedings, the Respondent shall duplicate and mail, at its own expense, a copy of the notice to all current employees and former employees employed by the Respondent at the facility at any time since April 11, 2022.
 
-- N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
+(h) Within 21 days after service by the Region, file with the Regional Director for Region 7 a sworn certification of a responsible official on a form provided by the Region attesting to the steps that the Respondent has taken to comply.
 
-- N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
+IT IS FURTHER ORDERED that the complaint is dismissed insofar as it alleges violations of the Act not specifically found.
 
-- N.C.G.S. Chap. 50B: Domestic Violence
+##### APPENDIX
 
-</div>
+![NLRB Notice](../img/StarbucksNLRBNoticeFull.png)
 
 
 #### Driskell v. Summit Contracting Group, Inc., 828 Fed. Appx. 858 (4th Cir. 2020) {#driskell_v_summit_contracting}
@@ -1196,9 +1211,12 @@ The jury found that Summit had fired Driskell and, in doing so, violated REDA an
 
 First, Summit insists that it was entitled to judgment as a matter of law on Driskell’s REDA and wrongful-discharge claims because it never fired him; rather, he quit. We must affirm the district court unless no reasonable jury could have ruled for Driskell.
 
-As relevant here, REDA provides that:
+As relevant here, REDA^[ncreda1] provides that:
 
 > No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to ... [f]ile a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to [the Occupational Safety and Health Act of North Carolina (“OSHANC”) or the North Carolina Workers’ Compensation Act].
+
+^[ncreda1]:
+  {-} Additional provisions from the statute appear [below](#nc_reda). 
 
 To prevail on a REDA claim, a plaintiff must show that (1) he exercised his right to engage in protected activity; (2) he suffered an adverse employment action; and (3) a causal connection exists between his exercise of the protected activity and the retaliatory action. And a wrongful-discharge claim requires a plaintiff to “identify a specified North Carolina public policy”—here, the policy against retaliation codified in REDA—“that was violated by an employer in discharging the employee.” 
 
@@ -1271,7 +1289,129 @@ Next, Summit asserts that it was entitled to judgment on Driskell’s wrongful-d
 
 As Summit recognizes, Driskell’s “wrongful termination claim rises or falls on the viability of his REDA-based claim.” This is because “wrongful discharge claims have been recognized in North Carolina where the employee was discharged for engaging in a legally protected activity,” like complaining about OSHANC violations. Thus, just as we affirm the verdict for Driskell on his REDA claim, so too do we affirm the verdict on his wrongful-discharge claim.
 
+#### NC Retaliatory Employment Discrimination Act, N.C.G.S. § 95-240 et seq. {#nc_reda}
 
+<div class="legal-code">
+
+##### § 95-240. Definitions
+
+The following definitions apply in this Article:
+
+> (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
+> 
+> (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
+
+##### § 95-241. Discrimination Prohibited
+
+(a\) No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to do any of the following:
+
+> (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
+> 
+> > a. Chapter 97 of the General Statutes.
+> > 
+> > b. Article 2A or Article 16 of this Chapter.
+> > 
+> > c. Article 2A of Chapter 74 of the General Statutes.
+> > 
+> > d. G.S. 95-28.1.
+> > 
+> > e. Article 16 of Chapter 127A of the General Statutes.
+> > 
+> > f. G.S. 95-28.1A.
+> > 
+> > g. Article 52 of Chapter 143 of the General Statutes.
+> > 
+> > h. Article 5F of Chapter 90 of the General Statutes.
+> 
+> (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
+> 
+> (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
+> 
+> (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
+> 
+> (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
+
+(b\) It shall not be a violation of this Article for a person to discharge or take any other unfavorable action with respect to an employee who has engaged in protected activity as set forth under this Article if the person proves by the greater weight of the evidence that it would have taken the same unfavorable action in the absence of the protected activity of the employee.
+
+##### § 95-242. Complaint; investigation; conciliation.
+
+(a\) An employee allegedly aggrieved by a violation of G.S. 95-241 may file a written complaint with the Commissioner of Labor alleging the violation. The complaint shall be filed within 180 days of the alleged violation. Within 20 days following receipt of the complaint, the Commissioner shall forward a copy of the complaint to the person alleged to have committed the violation and shall initiate an investigation. If the Commissioner determines after the investigation that there is not reasonable cause to believe that the allegation is true, the Commissioner shall dismiss the complaint, promptly notify the employee and the respondent, and issue a right-to-sue letter to the employee that will enable the employee to bring a civil action pursuant to G.S. 95-243. If the Commissioner determines after investigation that there is reasonable cause to believe that the allegation is true, the Commissioner shall attempt to eliminate the alleged violation by informal methods which may consist of conference, conciliation, and persuasion. The Commissioner shall make a determination as soon as possible and, in any event, not later than 90 days after the filing of the complaint.
+
+(b\) If the Commissioner is unable to resolve the alleged violation through the informal methods, the Commissioner shall notify the parties in writing that conciliation efforts have failed. The Commissioner shall then either file a civil action on behalf of the employee pursuant to G.S. 95-243 or issue a right-to-sue letter to the employee enabling the employee to bring a civil action pursuant to G.S. 95-243.
+
+(b1\) The Commissioner may reopen an investigation under this Article for good cause shown within 30 days of receipt of the right-to-sue letter. If an investigation is reopened pursuant to this section, the 90-day time limit set forth in G.S. 95-243(b) shall not commence until the new investigation is complete and either a new right-to-sue letter is issued or the Commissioner notifies the parties in writing that conciliation efforts have failed.
+
+(c\) An employee may make a written request to the Commissioner for a right-to-sue letter after 90 days following the filing of a complaint if the Commissioner has not issued a notice of conciliation failure and has not commenced an action pursuant to G.S. 95-242.
+
+(d\) Nothing said or done during the use of the informal methods described in subsection (a) of this section may be made public by the Commissioner or used as evidence in a subsequent proceeding under this Article without the written consent of the persons concerned.
+
+(e\) The Commissioner's files and the Commissioner's other records relating to investigations and enforcement proceedings pursuant to this Article shall not be subject to inspection and examination as authorized by G.S. 132-6 while such investigations and proceedings are open or pending in the trial court division.
+
+(f\) In making inspections and investigations under this Article, the Commissioner or his duly authorized agents may, in addition to exercising the authority granted in G.S. 95-4, issue subpoenas to require the attendance and testimony of witnesses and the production of evidence under oath. Witnesses shall be reimbursed for all travel and other necessary expenses which shall be claimed and paid in accordance with the prevailing travel reimbursement requirements of the State. In the case of failure or refusal of any person to obey a subpoena under this Article, the district court judge or superior court judge of the county in which the inspection or investigation is conducted shall, upon the application of the Commissioner, have jurisdiction to issue an order requiring compliance. 
+
+##### § 95-243. Civil action.
+
+(a\) An employee who has been issued a right-to-sue letter or the Commissioner of Labor may commence a civil action in the superior court of the county where the violation occurred, where the complainant resides, or where the respondent resides or has his principal place of business.
+
+(b\) A civil action under this section shall be commenced by an employee within 90 days of the date upon which the right-to-sue letter was issued or by the Commissioner within 90 days of the date on which the Commissioner notifies the parties in writing that conciliation efforts have failed.
+
+(c\) The employee or the Commissioner may seek and the court may award any or all of the following types of relief:
+
+> (1\) An injunction to enjoin continued violation of this Article.
+> 
+> (2\) Reinstatement of the employee to the same position held before the retaliatory action or discrimination or to an equivalent position.
+> 
+> (3\) Reinstatement of full fringe benefits and seniority rights.
+> 
+> (4\) Compensation for lost wages, lost benefits, and other economic losses that were proximately caused by the retaliatory action or discrimination.
+
+If in an action under this Article the court finds that the employee was injured by a willful violation of G.S. 95-241, the court shall treble the amount awarded under subdivision (4) of this subsection.
+
+The court may award to the plaintiff and assess against the defendant the reasonable costs and expenses, including attorneys' fees, of the plaintiff in bringing an action pursuant to this section. If the court determines that the plaintiff's action is frivolous, it may award to the defendant and assess against the plaintiff the reasonable costs and expenses, including attorneys' fees, of the defendant in defending the action brought pursuant to this section.
+
+(d\) Parties to a civil action brought pursuant to this section shall have the right to a jury trial as provided under G.S. 1A-1, Rules of Civil Procedure.
+
+(e\) An employee may only bring an action under this section when he has been issued a right-to-sue letter by the Commissioner.
+
+##### § 95-244. Effect of Article on other rights.
+
+Nothing in this Article shall be deemed to diminish the rights or remedies of any employee under any collective bargaining agreement, employment contract, other statutory rights or remedies, or at common law. (1991 (Reg. Sess., 1992), c. 1021, s. 1.)
+
+##### § 95-245. Rules.
+
+The Commissioner may adopt rules needed to implement this Article pursuant to the provisions of Chapter 150B of the General Statutes.
+
+</div>
+
+<div class="comment">
+
+##### Note: Protected Activity Under NC REDA 
+
+NC REDA applies only to discrimination or retaliation based on employee conduct under the specific North Carolina statutes identified in § 95-241: 
+
+- N.C.G.S. Chap. 97: Workers' Compensation Act
+
+- N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
+
+- N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
+ 
+- N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
+
+- N.C.G.S. 95-28.1:  Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
+
+- N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
+
+- N.C.G.S. 95-28.1A:  Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
+
+- N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
+
+- N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
+
+- N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
+
+- N.C.G.S. Chap. 50B: Domestic Violence
+
+</div>
 
 #### Myers v. Howmedica Osteonics Corp., No. CV 14-248-M-DLC. (D. Mont. March 30, 2016) {#meyers_v_howmedica}
 

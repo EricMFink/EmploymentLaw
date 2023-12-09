@@ -4,7 +4,6 @@ title: "Discussion Problem: Confidentiality Policy"
 
 ---
 
-
 MegaMedia, Inc. is a major producer and distributor of movies and television programs. The CEO of MegaMedia, Harry Whitestone, has a reputation for egregious treatment of female employees. Several woman have threatened to sue over sexual harassment and abuse by Whitestone while they worked at MegaMedia. To avoid the inevitiable negative publicity, the company has settled those claims before any suits were filed. Despite this, the company has allowed Whitestone to remain as CEO, because he is such a successful producer and powerful figure within the industry. Instead, in an effort to avoid further legal claims and settlement payments, the company requires all new hires and current employees to sign the following non-disclosure agreement: 
 
 > I understand that MegaMedia, Inc. ("Company") is involved in the entertainment industry. I further understand that because Company's business requires a creative working environment, including exposure to offensive speech, I may be exposed to conduct and speech that openly and explicitly relates to sex as well as race, sexual orientation, gender, national origin, religion, disability and age. 
@@ -17,8 +16,7 @@ MegaMedia, Inc. is a major producer and distributor of movies and television pro
 >
 > I expressly agree not to disclose information about the working environment and creative process at the Company, including conduct or speech as described above, except as expressly authorized by the Company. This agreement includes, but is not limited to, communications with other Company employees, news or entertainment media, or other persons or entities outside the Company. 
 
-Faye Greener is an actress who has been cast in several MegaMedia productions. Whitestone repeatedly subjected Greener to sexually suggestive remarks and unwanted physical contact. Fed up with Whitestone's behavior, she decides to speak out. She meets with other women who she worked with on MegaMedia productions and they share their experiences of harassment and abuse by Whitestone. Greener then contacts a reporter who covers the movie industry, revealing details about Whitestone's conduct and the company's complicity. Finally, she files an employement discrimination complaint with the EEOC and provides information about her experiences to EEOC officials as part of the agency's investigation into the complaint. 
+Faye Greener is an actress who has been cast in several MegaMedia productions. Whitestone repeatedly subjected Greener to sexually suggestive remarks and unwanted physical contact. Fed up with Whitestone's behavior, she decides to speak out. She meets with other women who she worked with on MegaMedia productions and they share their experiences of harassment and abuse by Whitestone. Greener then contacts a reporter who covers the movie industry, revealing details about Whitestone's conduct and the company's complicity. Finally, she files an employment discrimination complaint with the EEOC and provides information about her experiences to EEOC officials as part of the agency's investigation into the complaint. 
 
 - Would the non-disclosure agreement be legally enforceable against Greener for any of her actions? 
 - If Greener proceeds with a lawsuit against MegaMedia and Whitestone, can the defendants rely on the non-disclosure agreement to establish that Greener did not find Whitestone's conduct to be offensive or objectionable? 
-

@@ -6,102 +6,6 @@ title: Employee Duties to Employers
 
 ## Confidentiality
 
-### Trade Secrets 
-
-#### TSG Finishing, LLC v. Bollinger (I), 767 S.E.2d 870 (N.C. App. 2014) {#tsg-finishing-v-bollinger-i}
-
-##### ROBERT C. HUNTER, Judge.
-
-TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
-
-After careful review, we reverse the trial court's order and remand with instructions to issue the preliminary injunction.
-
-##### Background
-
-TSG is in the business of fabric finishing. It has three plants in Catawba County, North Carolina. Rather than manufacturing fabrics, TSG applies chemical coatings to achieve whichever result is desired by the customer, such as coloring, stiffening, deodorizing, and abrasion resistance.
-
-Defendant began working in the field of fabric finishing for Geltman Corporation after graduating from high school in 1982. He has no formal education beyond high school. TSG, Incorporated ("TSG, Inc.") acquired Geltman in 1992, and defendant stayed on to work for TSG, Inc. By the late 1990's, defendant was promoted to Quality Control Manager.
-
-Defendant was responsible for assessing a customer's finishing needs and developing a finishing protocol for that customer. Defendant also helped in the creation of a "style data card" for each customer. The style data cards contained information on each step of the finishing process, such as: (1) the chemical finish compound, 70 percent of which was proprietary to TSG; (2) "cup weight" density; (3) needle punch technique; (4) type of machine needed for the needle punch technique; (5) speed of needle punch; (6) types of needles used; (7) needle punch depths; (8) method of compound application; (9) speed of compound application; (10) blade size; (11) fabric tension; and (12) temperature and type of drying required.
-
-Defendant testified during deposition that some of these factors required trial and error to achieve a customer's desired result. For example, on one of the style data cards used to explain defendant's work-related duties during the deposition, defendant had marked a number of changes to the various factors listed and signed his initials to the changes. He testified that he changed the data entered by the customer because subsequent testing revealed different and more efficient methods to achieve the result. He also testified that the results of the trials he conducted and the knowledge he gained regarding how to achieve these results were not known outside of TSG. Michael Goldman, the Director of Operations at TSG, filed an affidavit in which he asserted that some of the customer projects that defendant worked on required over a year's worth of trial and error to achieve a customer's desired result.
-
-TSG expends great effort to keep its customer and finishing information confidential. Specifically, it uses a code system in its communications with customers that allows the customer to identify the type of finish it wants, but does not reveal the chemicals or processes involved in creating that finish. TSG has confidentiality agreements in place with many of its customers. Third parties must sign confidentiality agreements and receive a temporary identification badge when visiting TSG's facilities. TSG's computers are password protected, with additional passwords being required to access the company's production information.
-
-In 2007, TSG, Inc. and defendant entered into a non-disclosure and non-compete agreement. In exchange for an annual increase in compensation of $1,300.00 and a $3,500.00 signing bonus, defendant agreed not to disclose TSG, Inc.'s confidential or proprietary trade secrets and further assented to employment restrictions after his tenure at the company ended.
-
-TSG, Inc. filed for bankruptcy in 2009. By a plan approved by the United States Bankruptcy Court on 1 May 2011, TSG, Inc. transferred its interests to plaintiff, a wholly owned operating subsidy of TSG, Inc., which remained in operation. According to defendant, every aspect of his day-to-day job remained the same after bankruptcy reorganization.
-
-In July 2013, defendant and a direct competitor of TSG, American Custom Finishing, LLC ("ACF"), began negotiations regarding defendant's potential to leave TSG and work for ACF. According to TSG, defendant resigned from his position on 21 November 2013 and announced that he was leaving to become plant manager for ACF at a plant five miles away from TSG. Defendant claims that he gave TSG two weeks' notice on 21 November 2013 but was terminated immediately and escorted off of the premises. Defendant began working for ACF the following Monday, on 25 November 2013. During his deposition, defendant testified that TSG and ACF shared certain customers, and that defendant is responsible for performing similar customer evaluations for ACF as he did at TSG.
-
-TSG filed suit against defendant on 16 January 2014, alleging claims for breach of contract, misappropriation of trade secrets, and unfair and deceptive practices. TSG also moved for a preliminary injunction to prevent defendant from breaching the non-compete and misappropriating TSG's trade secrets. A confidential hearing was held on plaintiff's motion, and by order entered 20 February 2014, the trial court denied the motion for preliminary injunction. Plaintiff filed timely notice of appeal.
-
-We must first address the interlocutory nature of plaintiff's appeal. Orders granting or denying preliminary injunctions are "interlocutory and thus generally not immediately reviewable. An appeal may be proper, however, in cases, including those involving trade secrets and non-compete agreements, where the denial of the injunction deprives the appellant of a substantial right which he would lose absent review prior to final determination." 
-
-Accordingly, because both a non-compete and the potential misappropriation of trade secrets are implicated by this case, we conclude that plaintiff has succeeded in demonstrating how a substantial right may be lost without immediate appellate review; thus, we will reach the merits of the appeal.
-
-##### Discussion
-
-##### I. Misappropriation of Trade Secrets
-
-Plaintiff first argues that the trial court erred by concluding that it has not demonstrated a likelihood of success on the merits of its claim for trade secret misappropriation. After careful review, we agree.
-
-> As a general rule, a preliminary injunction is an extraordinary measure taken by a court to preserve the status quo of the parties during litigation. It will be issued only (1) if a plaintiff is able to show _likelihood_ of success on the merits of his case and (2) if a plaintiff is likely to sustain irreparable loss unless the injunction is issued, or if, in the opinion of the Court, issuance is necessary for the protection of a plaintiff's rights during the course of litigation.
-
-The [Trade Secrets Protection Act](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html) ("TSPA") allows for a private cause of action where a plaintiff can prove the "acquisition, disclosure, or use of a trade secret of another without express or implied authority or consent, unless such trade secret was arrived at by independent development, reverse engineering, or was obtained from another person with a right to disclose the trade secret." 
-
-> "Trade secret" means business or technical information, including but not limited to a formula, pattern, program, device, compilation of information, method, technique, or process that:
-> 
-> a\. Derives independent actual or potential commercial value from not being generally known or readily ascertainable through independent development or reverse engineering by persons who can obtain economic value from its disclosure or use; and
-> 
-> b\. Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
-
-N.C. Gen.Stat. § 66-152(3) (2013). To determine what information should be treated as a trade secret for the purposes of protection under the TSPA, the Court should consider the following factors:
-
-> (1\) the extent to which the information is known outside the business;
-> 
-> (2\) the extent to which it is known to employees and others involved in the business;
-> 
-> (3\) the extent of measures taken to guard secrecy of the information;
-> 
-> (4\) the value of the information to business and its competitors;
-> 
-> (5\) the amount of effort or money expended in developing the information; and
-> 
-> (6\) the ease or difficulty with which the information could properly be acquired or duplicated by others.
-
-"Actual or threatened misappropriation of a trade secret may be preliminarily enjoined during the pendency of the action and shall be permanently enjoined upon judgment finding misappropriation." N.C. Gen. Stat. § 66-154(a).
-
-> Misappropriation of a trade secret is prima facie established by the introduction of substantial evidence that the person against whom relief is sought both:
-
-> (1\) Knows or should have known of the trade secret; and
-> 
-> (2\) Has had a specific opportunity to acquire it for disclosure or use or has acquired, disclosed, or used it without the express or implied consent or authority of the owner.
-
-N.C. Gen.Stat. § 66-155.
-
-Here, the trial court determined that plaintiff failed to demonstrate likelihood of success on the merits of its misappropriation of trade secrets claim for the following reasons: (1) plaintiff asserted that its finishing process "as a whole" was the trade secret for which it sought protection, and under the holding of _Analog Devices, Inc. v. Michalski,_ 157 N.C.App. 462 (2003), general processes are too vague to receive TSPA protection; and (2) defendant's familiarity with customer preferences was "more akin to general knowledge and skill acquired on the job than any trade secret maintained by plaintiff." For the following reasons, we disagree with the trial court's conclusions.
-
-First, contrary to the trial court's assessment of the preliminary injunction hearing, plaintiff did not "continually assert" that it was the "combination of the components," or the "process as a whole," for which it sought protection. Although TSG's Chief Executive Officer Jack Rosenstein ("Rosenstein") did say that the entire equation of processes was a trade secret in and of itself, he also testified that the particular steps in the process were also trade secrets. As an example, Rosenstein highlighted the needle punch technique on a style data card that defendant had worked on during his time at TSG. The customer initially requested that the fabric be put through the needle punch machine one time at a specific setting. Through trial and error, defendant discovered that the customer's desired result could not be accomplished by running the needle punch machine one time at this setting, so he changed the process after experimenting with varying settings. Rosenstein testified the needle punch research for this client, in addition to the similar types of experimentation done to various processes throughout the finish equation, were trade secrets. Specifically, he testified as follows:
-
-> ROSENSTEIN: That's all part of the trade secrets. That's all part of what defendant, in his own mind when he's looking at a new fabric, needs to determine—which Latex should be used, what density needs to be used, whether it needs to be needle punched or not and then within that which—which needle punch, what depth of penetration—exactly what the parameters are. Then he needs to determine what range it needs to go on, what speed needs to be run, what the finish is.
-> 
-> Q: And so each one of those variables impacts the other variables in the equation?
-> 
-> ROSENSTEIN: Yes.
-
-Therefore, it was not just the process as a whole, but the specific knowledge defendant gained as to each discrete step in the process, that TSG sought to protect.
-
-Based on _Analog Devices, Inc.,_ the trial court concluded that plaintiff had failed to "put forward enough facts to support trade secret protection over the process as a whole or any particular component such that the trial court would be justified in granting the injunction sought." However, the _Analog Devices, Inc._ Court upheld the denial of a preliminary injunction in part because the differences between the defendant's former and new employers "rendered the alleged trade secrets largely non-transferable." Furthermore, the Court determined that the plaintiff did not carry its burden of producing evidence specifically identifying the trade secrets it sought to protect. The evidence before the Court showed that some of the plaintiff's production techniques were "easily and readily reverse engineered," while others were "either generally known in the industry, are process dependent so as to preclude misappropriation, or are readily ascertainable by reverse engineering." Finally, regarding the processes used by the plaintiff, the Court found that there was substantial differences between the products of the two companies that would "require new experimentation and development of new ways to effectively identify efforts that will lead to successful development." Thus, the Court affirmed the trial court's denial of the preliminary injunction.
-
-The facts of this case are readily distinguishable from _Analog Devices, Inc.,_ and they demonstrate that TSG would likely prevail on the merits of its claim for misappropriation of trade secrets. Using the factors enunciated by _Area Landscaping, L.L.C. v. Glaxo-Welcome, Inc.,_ 586 S.E.2d 507 (N.C. App. 2003), TSG presented sufficient evidence on its specific trade secrets to warrant protection. First, Rosenstein testified that the company spends $500,000.00 per year on research and development in order to create unique finishes and applications for his customers. Defendant testified that the results of his experimentation at TSG regarding specific process refinements were not known outside of TSG. Rosenstein also testified that defendant's work was not something that anyone else in the industry would know without years of trial and error by experienced technicians. Security measures were in place such that only top-level employees were familiar with the proprietary information defendant was in charge of developing. The trial court acknowledged in its order that TSG "maintains significant security measures over its finishing process." Indeed, TSG made its employees, customers, and facility visitors sign confidentiality forms to protect this information. Additionally, Rosenstein testified that defendant's disclosure of the trade secrets would give ACF the opportunity to save "untold amounts of hours, days, weeks, and months to come up with these finishes and these applications." Rosenstein testified that defendant could help ACF achieve their customers' desired results, which they sometimes shared with TSG, without spending the money on research and development that TSG invested. Defendant admitted as much in his deposition when he testified that he performs many of the same duties for ACF for some of the same customers that he formerly served at TSG. Therefore, unlike in _Analog Devices, Inc.,_ there was significant evidence showing that TSG's trade secrets were transferrable to ACF. Over the past two decades, TSG invested millions of dollars to develop and protect the information defendant compiled through his years of employment. The director of operations at TSG testified in deposition that defendant would sometimes work for more than a year on a process in order to achieve a desired result. There is no indication in the record that these process are able to be "reverse engineered" like those in _Analog Devices, Inc.,_ and it is undisputed that they are not generally known throughout the industry.
-
-In sum, each of the factors identified by the _Area Landscaping, L.L.C._ Court weigh in plaintiff's favor. Plaintiff specifically identified the production factors for which it claims trade secret protection. Defendant acknowledged during his deposition that he performed research and development for these factors during his time at TSG and was responsible for keeping customer- and fabric-specific proprietary information regarding these processes on the style data cards. Therefore, we conclude that plaintiff has carried its burden of presenting evidence sufficient to identify the specific trade secrets protected by the TSPA.
-
-Additionally, we hold that plaintiff presented _prima facie_ evidence of misappropriation of its trade secrets. "Direct evidence is not necessary to establish a claim for misappropriation of trade secrets; rather, such a claim may be proven through circumstantial evidence." Defendant testified that he is being asked to perform similar duties for ACF that he did at TSG, including evaluating customer needs and organizing production processes. Defendant acknowledged that TSG and ACF share customers and that he is currently working with multiple customers for ACF that he served at TSG. Specifically, he admitted that he had done independent research and experimentation for TSG on the needle punch, finish, and heating processes for one specific customer that he now serves at ACF, and that he talks about the various components of the TSG style data cards with ACF management personnel. This is precisely the type of threatened misappropriation, if not actual misappropriation, that the TSPA aims to prevent through issuance of a preliminary injunction. 
-
-Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of success on the merits of his claim for trade secret misappropriation.
-
 ### Confidentiality Policies
 
 #### Lowe’s Home Centers, LLC v. NLRB, 850 Fed.Appx. 886 (5th Cir. March 15, 2021) {#lowes-home-centers-v-nlrb}
@@ -216,7 +120,101 @@ We acknowledge that the Respondent has a legitimate and, indeed, weighty interes
 
 Based on the foregoing, we find that the media-contact provision in the Respondent’s Confidentiality Agreement is unlawful and that the Respondent therefore violated Section 8(a)(1) by maintaining it. Further, we place rules that prohibit employees from communicating with the media regardless of whether the communications concern confidential information or the employees purport to speak on the employer’s behalf in _Boeing_ Category 3.
 
+### Trade Secrets 
 
+#### TSG Finishing, LLC v. Bollinger (I), 767 S.E.2d 870 (N.C. App. 2014) {#tsg-finishing-v-bollinger-i}
+
+##### ROBERT C. HUNTER, Judge.
+
+TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
+
+After careful review, we reverse the trial court's order and remand with instructions to issue the preliminary injunction.
+
+##### Background
+
+TSG is in the business of fabric finishing. It has three plants in Catawba County, North Carolina. Rather than manufacturing fabrics, TSG applies chemical coatings to achieve whichever result is desired by the customer, such as coloring, stiffening, deodorizing, and abrasion resistance.
+
+Defendant began working in the field of fabric finishing for Geltman Corporation after graduating from high school in 1982. He has no formal education beyond high school. TSG, Incorporated ("TSG, Inc.") acquired Geltman in 1992, and defendant stayed on to work for TSG, Inc. By the late 1990's, defendant was promoted to Quality Control Manager.
+
+Defendant was responsible for assessing a customer's finishing needs and developing a finishing protocol for that customer. Defendant also helped in the creation of a "style data card" for each customer. The style data cards contained information on each step of the finishing process, such as: (1) the chemical finish compound, 70 percent of which was proprietary to TSG; (2) "cup weight" density; (3) needle punch technique; (4) type of machine needed for the needle punch technique; (5) speed of needle punch; (6) types of needles used; (7) needle punch depths; (8) method of compound application; (9) speed of compound application; (10) blade size; (11) fabric tension; and (12) temperature and type of drying required.
+
+Defendant testified during deposition that some of these factors required trial and error to achieve a customer's desired result. For example, on one of the style data cards used to explain defendant's work-related duties during the deposition, defendant had marked a number of changes to the various factors listed and signed his initials to the changes. He testified that he changed the data entered by the customer because subsequent testing revealed different and more efficient methods to achieve the result. He also testified that the results of the trials he conducted and the knowledge he gained regarding how to achieve these results were not known outside of TSG. Michael Goldman, the Director of Operations at TSG, filed an affidavit in which he asserted that some of the customer projects that defendant worked on required over a year's worth of trial and error to achieve a customer's desired result.
+
+TSG expends great effort to keep its customer and finishing information confidential. Specifically, it uses a code system in its communications with customers that allows the customer to identify the type of finish it wants, but does not reveal the chemicals or processes involved in creating that finish. TSG has confidentiality agreements in place with many of its customers. Third parties must sign confidentiality agreements and receive a temporary identification badge when visiting TSG's facilities. TSG's computers are password protected, with additional passwords being required to access the company's production information.
+
+In 2007, TSG, Inc. and defendant entered into a non-disclosure and non-compete agreement. In exchange for an annual increase in compensation of $1,300.00 and a $3,500.00 signing bonus, defendant agreed not to disclose TSG, Inc.'s confidential or proprietary trade secrets and further assented to employment restrictions after his tenure at the company ended.
+
+TSG, Inc. filed for bankruptcy in 2009. By a plan approved by the United States Bankruptcy Court on 1 May 2011, TSG, Inc. transferred its interests to plaintiff, a wholly owned operating subsidy of TSG, Inc., which remained in operation. According to defendant, every aspect of his day-to-day job remained the same after bankruptcy reorganization.
+
+In July 2013, defendant and a direct competitor of TSG, American Custom Finishing, LLC ("ACF"), began negotiations regarding defendant's potential to leave TSG and work for ACF. According to TSG, defendant resigned from his position on 21 November 2013 and announced that he was leaving to become plant manager for ACF at a plant five miles away from TSG. Defendant claims that he gave TSG two weeks' notice on 21 November 2013 but was terminated immediately and escorted off of the premises. Defendant began working for ACF the following Monday, on 25 November 2013. During his deposition, defendant testified that TSG and ACF shared certain customers, and that defendant is responsible for performing similar customer evaluations for ACF as he did at TSG.
+
+TSG filed suit against defendant on 16 January 2014, alleging claims for breach of contract, misappropriation of trade secrets, and unfair and deceptive practices. TSG also moved for a preliminary injunction to prevent defendant from breaching the non-compete and misappropriating TSG's trade secrets. A confidential hearing was held on plaintiff's motion, and by order entered 20 February 2014, the trial court denied the motion for preliminary injunction. Plaintiff filed timely notice of appeal.
+
+We must first address the interlocutory nature of plaintiff's appeal. Orders granting or denying preliminary injunctions are "interlocutory and thus generally not immediately reviewable. An appeal may be proper, however, in cases, including those involving trade secrets and non-compete agreements, where the denial of the injunction deprives the appellant of a substantial right which he would lose absent review prior to final determination." 
+
+Accordingly, because both a non-compete and the potential misappropriation of trade secrets are implicated by this case, we conclude that plaintiff has succeeded in demonstrating how a substantial right may be lost without immediate appellate review; thus, we will reach the merits of the appeal.
+
+##### Discussion
+
+##### I. Misappropriation of Trade Secrets
+
+Plaintiff first argues that the trial court erred by concluding that it has not demonstrated a likelihood of success on the merits of its claim for trade secret misappropriation. After careful review, we agree.
+
+> As a general rule, a preliminary injunction is an extraordinary measure taken by a court to preserve the status quo of the parties during litigation. It will be issued only (1) if a plaintiff is able to show _likelihood_ of success on the merits of his case and (2) if a plaintiff is likely to sustain irreparable loss unless the injunction is issued, or if, in the opinion of the Court, issuance is necessary for the protection of a plaintiff's rights during the course of litigation.
+
+The [Trade Secrets Protection Act](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_66/Article_24.html) ("TSPA") allows for a private cause of action where a plaintiff can prove the "acquisition, disclosure, or use of a trade secret of another without express or implied authority or consent, unless such trade secret was arrived at by independent development, reverse engineering, or was obtained from another person with a right to disclose the trade secret." 
+
+> "Trade secret" means business or technical information, including but not limited to a formula, pattern, program, device, compilation of information, method, technique, or process that:
+> 
+> a\. Derives independent actual or potential commercial value from not being generally known or readily ascertainable through independent development or reverse engineering by persons who can obtain economic value from its disclosure or use; and
+> 
+> b\. Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+N.C. Gen.Stat. § 66-152(3) (2013). To determine what information should be treated as a trade secret for the purposes of protection under the TSPA, the Court should consider the following factors:
+
+> (1\) the extent to which the information is known outside the business;
+> 
+> (2\) the extent to which it is known to employees and others involved in the business;
+> 
+> (3\) the extent of measures taken to guard secrecy of the information;
+> 
+> (4\) the value of the information to business and its competitors;
+> 
+> (5\) the amount of effort or money expended in developing the information; and
+> 
+> (6\) the ease or difficulty with which the information could properly be acquired or duplicated by others.
+
+"Actual or threatened misappropriation of a trade secret may be preliminarily enjoined during the pendency of the action and shall be permanently enjoined upon judgment finding misappropriation." N.C. Gen. Stat. § 66-154(a).
+
+> Misappropriation of a trade secret is prima facie established by the introduction of substantial evidence that the person against whom relief is sought both:
+
+> (1\) Knows or should have known of the trade secret; and
+> 
+> (2\) Has had a specific opportunity to acquire it for disclosure or use or has acquired, disclosed, or used it without the express or implied consent or authority of the owner.
+
+N.C. Gen.Stat. § 66-155.
+
+Here, the trial court determined that plaintiff failed to demonstrate likelihood of success on the merits of its misappropriation of trade secrets claim for the following reasons: (1) plaintiff asserted that its finishing process "as a whole" was the trade secret for which it sought protection, and under the holding of _Analog Devices, Inc. v. Michalski,_ 157 N.C.App. 462 (2003), general processes are too vague to receive TSPA protection; and (2) defendant's familiarity with customer preferences was "more akin to general knowledge and skill acquired on the job than any trade secret maintained by plaintiff." For the following reasons, we disagree with the trial court's conclusions.
+
+First, contrary to the trial court's assessment of the preliminary injunction hearing, plaintiff did not "continually assert" that it was the "combination of the components," or the "process as a whole," for which it sought protection. Although TSG's Chief Executive Officer Jack Rosenstein ("Rosenstein") did say that the entire equation of processes was a trade secret in and of itself, he also testified that the particular steps in the process were also trade secrets. As an example, Rosenstein highlighted the needle punch technique on a style data card that defendant had worked on during his time at TSG. The customer initially requested that the fabric be put through the needle punch machine one time at a specific setting. Through trial and error, defendant discovered that the customer's desired result could not be accomplished by running the needle punch machine one time at this setting, so he changed the process after experimenting with varying settings. Rosenstein testified the needle punch research for this client, in addition to the similar types of experimentation done to various processes throughout the finish equation, were trade secrets. Specifically, he testified as follows:
+
+> ROSENSTEIN: That's all part of the trade secrets. That's all part of what defendant, in his own mind when he's looking at a new fabric, needs to determine—which Latex should be used, what density needs to be used, whether it needs to be needle punched or not and then within that which—which needle punch, what depth of penetration—exactly what the parameters are. Then he needs to determine what range it needs to go on, what speed needs to be run, what the finish is.
+> 
+> Q: And so each one of those variables impacts the other variables in the equation?
+> 
+> ROSENSTEIN: Yes.
+
+Therefore, it was not just the process as a whole, but the specific knowledge defendant gained as to each discrete step in the process, that TSG sought to protect.
+
+Based on _Analog Devices, Inc.,_ the trial court concluded that plaintiff had failed to "put forward enough facts to support trade secret protection over the process as a whole or any particular component such that the trial court would be justified in granting the injunction sought." However, the _Analog Devices, Inc._ Court upheld the denial of a preliminary injunction in part because the differences between the defendant's former and new employers "rendered the alleged trade secrets largely non-transferable." Furthermore, the Court determined that the plaintiff did not carry its burden of producing evidence specifically identifying the trade secrets it sought to protect. The evidence before the Court showed that some of the plaintiff's production techniques were "easily and readily reverse engineered," while others were "either generally known in the industry, are process dependent so as to preclude misappropriation, or are readily ascertainable by reverse engineering." Finally, regarding the processes used by the plaintiff, the Court found that there was substantial differences between the products of the two companies that would "require new experimentation and development of new ways to effectively identify efforts that will lead to successful development." Thus, the Court affirmed the trial court's denial of the preliminary injunction.
+
+The facts of this case are readily distinguishable from _Analog Devices, Inc.,_ and they demonstrate that TSG would likely prevail on the merits of its claim for misappropriation of trade secrets. Using the factors enunciated by _Area Landscaping, L.L.C. v. Glaxo-Welcome, Inc.,_ 586 S.E.2d 507 (N.C. App. 2003), TSG presented sufficient evidence on its specific trade secrets to warrant protection. First, Rosenstein testified that the company spends $500,000.00 per year on research and development in order to create unique finishes and applications for his customers. Defendant testified that the results of his experimentation at TSG regarding specific process refinements were not known outside of TSG. Rosenstein also testified that defendant's work was not something that anyone else in the industry would know without years of trial and error by experienced technicians. Security measures were in place such that only top-level employees were familiar with the proprietary information defendant was in charge of developing. The trial court acknowledged in its order that TSG "maintains significant security measures over its finishing process." Indeed, TSG made its employees, customers, and facility visitors sign confidentiality forms to protect this information. Additionally, Rosenstein testified that defendant's disclosure of the trade secrets would give ACF the opportunity to save "untold amounts of hours, days, weeks, and months to come up with these finishes and these applications." Rosenstein testified that defendant could help ACF achieve their customers' desired results, which they sometimes shared with TSG, without spending the money on research and development that TSG invested. Defendant admitted as much in his deposition when he testified that he performs many of the same duties for ACF for some of the same customers that he formerly served at TSG. Therefore, unlike in _Analog Devices, Inc.,_ there was significant evidence showing that TSG's trade secrets were transferrable to ACF. Over the past two decades, TSG invested millions of dollars to develop and protect the information defendant compiled through his years of employment. The director of operations at TSG testified in deposition that defendant would sometimes work for more than a year on a process in order to achieve a desired result. There is no indication in the record that these process are able to be "reverse engineered" like those in _Analog Devices, Inc.,_ and it is undisputed that they are not generally known throughout the industry.
+
+In sum, each of the factors identified by the _Area Landscaping, L.L.C._ Court weigh in plaintiff's favor. Plaintiff specifically identified the production factors for which it claims trade secret protection. Defendant acknowledged during his deposition that he performed research and development for these factors during his time at TSG and was responsible for keeping customer- and fabric-specific proprietary information regarding these processes on the style data cards. Therefore, we conclude that plaintiff has carried its burden of presenting evidence sufficient to identify the specific trade secrets protected by the TSPA.
+
+Additionally, we hold that plaintiff presented _prima facie_ evidence of misappropriation of its trade secrets. "Direct evidence is not necessary to establish a claim for misappropriation of trade secrets; rather, such a claim may be proven through circumstantial evidence." Defendant testified that he is being asked to perform similar duties for ACF that he did at TSG, including evaluating customer needs and organizing production processes. Defendant acknowledged that TSG and ACF share customers and that he is currently working with multiple customers for ACF that he served at TSG. Specifically, he admitted that he had done independent research and experimentation for TSG on the needle punch, finish, and heating processes for one specific customer that he now serves at ACF, and that he talks about the various components of the TSG style data cards with ACF management personnel. This is precisely the type of threatened misappropriation, if not actual misappropriation, that the TSPA aims to prevent through issuance of a preliminary injunction. 
+
+Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of success on the merits of his claim for trade secret misappropriation.
 
 ## Loyalty
 

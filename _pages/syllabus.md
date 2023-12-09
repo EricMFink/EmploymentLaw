@@ -2,13 +2,31 @@
 layout: syllabus
 title: Syllabus
 permalink: /syllabus/
+
+course: Employment Law
+author: Eric M. Fink
+affiliation: Elon Law School
+email: efink@elon.edu
+phone: 336-279-9334
+address1: 201 North Greene Street
+address2: Greensboro, North Carolina 27401
+term: 'Winter 2024'
+days: 'Monday & Wednesday, 10:30 am–12:30 pm'
+room: 'Room 105'
+
 syllabus: true
+
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: master.tex
+    path: /assets/pdf/syllabus.pdf
 ---
 
 
 ## Description
 
-This course surveys federal and state laws governing employment. Topics to be covered include establishing an employment relationship; recruitment & hiring; supervisory control and employee autonomy; confidentiality & competition; wages & hours; employee health & workplace injuries; termination of employment; and arbitration of employment disputes.
+This course surveys federal and state laws governing employment, in both the individual and organized labor settings. Topics to be covered include establishing an employment relationship; recruitment & hiring; the scope and limits of supervisory control; confidentiality & competition; wages & hours; employee health & safety; and termination of employment. 
 
 After completing the course, you should be able to recognize and diagnose legal issues arising in the employment context, analyze those issues under the applicable law, and help clients avoid legal problems or pursue remedies when they arise. Simulation problems, including in-class discussion and take-home assignments, provide an opportunity to develop practical skills for representing clients in employment matters.
 
@@ -16,23 +34,20 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 ### Required
 
-Casebook, available at [emfink.net/EmploymentCasebook/](https://www.emfink.net/EmploymentCasebook/). You can also access the casebook, class schedule & readings assignments, and links to other material, through the course website: 
-[`emfink.net/EmploymentLaw`](https://www.emfink.net/EmploymentLaw)
+[Employment Law: An Open-Source Casebook (Fink 2023)](../casebook) ("Casebook"). The casebook is posted online as part of the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw). A PDF copy is available for download on the [Table of Contents](https://www.emfink.net/EmploymentLaw/casebook/contents/) page. 
 
-Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016) ("Workbook")
+Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016) ("Workbook"). Digital version available at no cost through [West Academic Online Study Aids Collection](https://subscription-westacademic-com.ezproxy.elon.edu/).
 
 ### Suggested
 
-Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016)
-
-_Note:_ You can access the _Developing Professional Skills_ workbook and the _Principles of Employment Law_ hornbook at no cost through the law school's subscription to the [West Academic Online Study Aids Collection](https://subscription-westacademic-com.ezproxy.elon.edu/).
+Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016). Digital version available at no cost through [West Academic Online Study Aids Collection](https://subscription-westacademic-com.ezproxy.elon.edu/).
 
 
 ## Policies
 
 ### Grading
 
-Your final grade for the term will be based on three take-home research & writing problems (25% each; 75% total) and your in-class performance (25%). There will be no final exam or paper for this course.
+Your final grade for the term will be based on three problem assinments (25% each; 75% total) and your contributions to in-class discussion (25%). There will be no final exam or paper for this course.
 
 The graded problem assignments (from the _Developing Professional Skills_ workbook) and due dates are indicated in the "Schedule & Assignments" section of the syllabus. I will provide further information about each assignment in class before it is due. 
 
@@ -60,41 +75,39 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
  &nbsp; | **Foundations of Employment Law** | &nbsp;
- January 4 | Employment as a Socio-Legal Relationship | Casebook, Chap. 1, § 1 
- January 9 | Labor Organizing & Collective Bargaining | Casebook, Chap. 1, § 2
+ January 3 | Employment as a Socio-Legal Relationship | Casebook, Chap. 1
+ January 8 | Labor Organizing & Collective Bargaining | Casebook, Chap. 2
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Establishing an Employment Relationship** | &nbsp;
- January 11 | Identifying Employees | Casebook, Chap. 2, § 1 
- January 18 | Identifying Employers | Casebook, Chap. 2, § 2 
- January 23  | Recruitment & Hiring |  Casebook, Chap. 2, § 3
- January 25 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
+ January 10 | Identifying Employees | Casebook, Chap. 3, § 1 
+ January 17 | Identifying Employers | Casebook, Chap. 3, § 2 
+ January 22  | Recruitment & Hiring |  Casebook, Chap. 3, § 3
+ January 24 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Scope & Limits of Employer Control** | &nbsp;
- January 25 | Emplolyee Privacy & Discrimination | Casebook, Chap. 3, §§ 1.1 & 1.2
- January 30 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 3, § 1.3
- February 1 | Control Outside Work | Casebook, Chap. 3, § 2
+ January 24 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
+ January 29 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
+ January 31 | Control Outside Work | Casebook, Chap. 4, § 2
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Duties to Employers** | &nbsp;
- February 6 | Confidentiality & Trade Secrets | Casebook, Chap. 4, § 1
- February 8 | Loyalty & Competition | Casebook, Chap. 4, § 2
- February 10 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
+ February 5 | Confidentiality | Casebook, Chap. 5, § 1
+ February 7 | Loyalty | Casebook, Chap. 5, § 2
+ February 12 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Wages & Hours** | &nbsp;
- February 13 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 5
+ February 12 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Health & Safety** | &nbsp;
- February 15 | Medical Leave; Disability Discrimination | Casebook, Chap. 6, §§ 1 & 2
- February 20 | OSHA; Workers' Compensation | Casebook, Chap. 6, §§ 3 & 4
+ February 14 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
+ February 19 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Terminating Employment** | &nbsp;
- February 22 | Employment-at-Will and Contractual Limits | Casebook, Chap. 7, § 1
- February 27 | Tort Claims for Wrongful Termination | Casebook, Chap. 7, § 2
- March 1  | Statutory Claims for Wrongful Termination | Casebook, Chap. 7, § 3
- March 6  | Unemployment Compensation | Casebook, Chap. 7, § 4
- March 8 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)
+ February 21 | Employment-at-Will | Casebook, Chap. 8, § 1.1
+ February 26 | Contractual Claims | Casebook, Chap. 8, § 1.2
+ February 28 | Tort Claims | Casebook, Chap. 8, § 1.3
+ March 4 | Statutory Claims | Casebook, Chap. 8, § 1.4
+ March 6  | Unemployment Compensation | Casebook, Chap. 8, § 2
+ March 11 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)
  &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Enforcing Employee Rights** | &nbsp;
- March 8 | Public Enforcement, Private Lawsuits, & Arbitration | Casebook, Chap. 8
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Recent Developments** | &nbsp;
- March 9 | Local Government Protections for Precarious Employment | Casebook, Chap. 9
+ &nbsp; | **Wrapping Up** | &nbsp;
+ March 11 | Recent Developments | TBA
