@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 4
-title: Scope & Limits of Employer Control
+chapter-number: 4
+chapter-title: Scope & Limits of Employer Control
 ---
 
 ## Control at Work 

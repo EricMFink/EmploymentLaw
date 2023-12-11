@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: Preface
-title: Preface
+chapter-number: Preface
+chapter-title: Preface
 
 ---
 

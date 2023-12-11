@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 1
-title: Employment as a Socio-Legal Relationship
+chapter-number: 1
+chapter-title: Employment as a Socio-Legal Relationship
 ---
 
 ## Employment as Status and Contract
@@ -16,18 +16,20 @@ At the most abstract level, "feudal" refers to the fact that the hierarchical re
 
 [B]eing a worker in late-nineteenth century America was still a legal _status_. By "status," I refer to an established position in society conferred upon an individual that does not arise from any specific action or from a contract but from the individual's personal characteristics. Nothing in American law directly stated that being a worker was a status or that there was a legal duty to work. Nevertheless, in every jurisdiction in the United States, not to work or be seeking work, if one was an able-bodied person without other visible means of support, was a crime, punishable by fine or imprisonment. Moreover, just as being a worker was a status, this crime, known as vagrancy, was one of the few acknowledged crimes of status in American law---that is, one that was not defined by an action or inaction taken in itself but was committed purely through one's personal condition, by being a member of some predefined legal category. … 
 
-The [Statutes of Labourers](../StatutesOfLabourers/))^[Orren1] presented the first comprehensive scheme in which the worker's failure to work was suppressed through the apparatus of the criminal law. In the text, situated between the provision that victuals must be sold at reasonable prices and the provision that a laborer accepting more wages than customary must pay the surplus to the town, appears the following: 
+The [Statutes of Labourers](../StatutesOfLabourers/)[^Orren1] presented the first comprehensive scheme in which the worker's failure to work was suppressed through the apparatus of the criminal law. In the text, situated between the provision that victuals must be sold at reasonable prices and the provision that a laborer accepting more wages than customary must pay the surplus to the town, appears the following: 
 
 > Item, because that many valiant \[able-bodied] beggars, as long as they may live of begging do refuse to labour, giving themselves to idleness and vice, and sometime to theft and other abominations; none upon the said pain of imprisonment shall, under the coulour of pity of alms, give anything to such, which may labour, or presume to favour them towards their desires, so that therby they may be compelled to labour for their necessary being. 
 
-^[Orren1]
-  [-] During the Black Plague in England (1348-50), between 30-60% of the population died. The English Parliament enacted the Ordinance of Labourers (1349) and the Statute of Labourers (1351) to address the resulting labor shortage by imposing caps on wages, compelling all able-bodied men and women under age 60 (except those of independent means) to work, and restricting labor mobility. 
+[^Orren1]:
+
+  {-} During the Black Plague in England (1348-50), between 30-60% of the population died. The English Parliament enacted the Ordinance of Labourers (1349) and the Statute of Labourers (1351) to address the resulting labor shortage by imposing caps on wages, compelling all able-bodied men and women under age 60 (except those of independent means) to work, and restricting labor mobility. 
 	
 Those statutes, which were enforced in the British colonies, went essentially unchanged into the eighteenth century, when they were grafted onto the laws of the new American statutes. The same configuration of meanings and policies in the old laws carried on into the nineteenth century. …
 
 Another such principle was _quicquid acquietur servo acquietur domino_ ("whatever is acquired by the servant is acquired by the master"). That principle was continued in the law of master and servant. A note in Hargrave's eighteeth-century edition of Coke's _Institutes_ [^Orren2] observed that the rule "about _slaves_ holds _in some degree_ in respect to _apprentices_ and _servants_" and that it pertained with certainty to wages a worker earned from other employment when the master had given permission to the other employer without waiving the earnings.
 
 [^Orren2]: 
+
   {-} The _Institutes of the Lawes of England_ are a series of legal treatises written by Sir Edward Coke, a prominent English barrister, judge and politician in the late sixteenth and early seventeenth centuries. 
 
 By the late nineteenth century, employers in the United States could sue workers for breach of contract for their earnings in other employment only when it could be shown that the work had been done during hours and activities in which the plaintiff employer had been entitled to the worker's efforts. In an 1877 _Treatise on the Law of Master and Servant_, however, Horace Wood[^Orren3] devoted three full pages to Hargrave's "learned note" and concluded that under the rule of _quicquid acquietur servo_ the employer could also retain waged earned by a worker in outside activities if the money somehow came into the employer's hands. Moreover, even in its diluted American form, the law expressed the employer's proprietary interest not only in the worker's labor performed under the contract but also in all labor that might be performed by the worker's _person_, under a different contract, The remedy went beyond simply dismissing the worker or deducting from his wages for so many hours; it extended to the outside earnings acquired, as if they (as an extension of the worker) belonged to the master. Such a principle would seem incongruous not simply with the market-model morality of enterprising employees, but even with the more sober depictions of nineteenth-century workers as earnest breadwinners for their families. It was eminently compatible, however, with other features, likewise ancient, of the hierarchical structure of employment relations during the period. 

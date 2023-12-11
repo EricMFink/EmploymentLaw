@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 5
-title: Employee Duties to Employers
+chapter-number: 5
+chapter-title: Employee Duties to Employers
 ---
 
 ## Confidentiality

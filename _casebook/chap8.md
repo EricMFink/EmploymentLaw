@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 8
-title: Terminating Employment
+chapter-number: 8
+chapter-title: Terminating Employment
 ---
 
 ## Claims for Wrongful Termination {#wrongful-termination}

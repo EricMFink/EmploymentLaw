@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 7
-title: Employee Health & Safety 
+chapter-number: 7
+chapter-title: Employee Health & Safety 
 ---
 
 ## Family & Medical Leave
@@ -351,7 +351,7 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 #### § 12102 - Definition of disability
 
-As used in this chapter:
+As used in this chapter-number:
 
 (1\) Disability
 
@@ -411,7 +411,7 @@ The definition of “disability” in paragraph (1) shall be construed in accord
 
 #### § 12111 - Definitions
 
-As used in this subchapter:
+As used in this subchapter-number:
 
 **(1\) Commission**
 

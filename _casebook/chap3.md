@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 3
-title: Establishing an Employment Relationship
+chapter-number: 3
+chapter-title: Establishing an Employment Relationship
 ---
 
 ## Identifying Employees

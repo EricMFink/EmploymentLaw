@@ -1,7 +1,7 @@
 ---
 layout: casebook
-chapter: 2
-title: Labor Organizing & Collective Bargaining 
+chapter-number: 2
+chapter-title: Labor Organizing & Collective Bargaining 
 ---
 
 ## Collective Action as an Illegal Conspiracy 
@@ -203,7 +203,7 @@ It shall be an unfair labor practice for an employer—
 
 It shall be an unfair labor practice for a labor organization or its agents—
 
-> (1) to restrain or coerce (A) employees in the exercise of the rights guaranteed in section 157 of this title: Provided, That this paragraph shall not impair the right of a labor organization to prescribe its own rules with respect to the acquisition or retention of membership therein; or (B) an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances;
+> (1) to restrain or coerce (A) employees in the exercise of the rights guaranteed in section 157 of this chapter-title: Provided, That this paragraph shall not impair the right of a labor organization to prescribe its own rules with respect to the acquisition or retention of membership therein; or (B) an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances;
 > 
 > (2) to cause or attempt to cause an employer to discriminate against an employee in violation of subsection (a)(3) or to discriminate against an employee with respect to whom membership in such organization has been denied or terminated on some ground other than his failure to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership [ ... ];
 > 
