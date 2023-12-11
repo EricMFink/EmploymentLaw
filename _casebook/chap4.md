@@ -4,6 +4,10 @@ chapter-number: 4
 chapter-title: Scope & Limits of Employer Control
 ---
 
+<p class="chapter-number">Chapter 4</p>
+
+# Scope & Limits of Employer Control 
+
 ## Control at Work 
 
 ### Privacy, Autonomy, & Dignity

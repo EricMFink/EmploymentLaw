@@ -4,6 +4,10 @@ chapter-number: 7
 chapter-title: Employee Health & Safety 
 ---
 
+<p class="chapter-number">Chapter 7</p>
+
+# Employee Health & Safety
+
 ## Family & Medical Leave
 
 #### Family and Medical Leave Act, 29 U.S.C. § 2601 et seq. {#fmla}

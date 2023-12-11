@@ -1,16 +1,20 @@
 ---
 layout: casebook
-chapter: 9
-title: Enforcing Employee Rights
+chapter-number: 9
+chapter-title: Enforcing Employee Rights
 ---
 
-# Public Enforcement 
+<p class="chapter-number">Chapter 9</p>
+
+# Enforcing Employee Rights
+
+## Public Enforcement 
 
 Federal labor and employment laws typically vest a designated government agency with regulatory and enforcement authority. Agencies may be authorized to conduct routine inspections, investigate alleged violations, or pursue actions against employers in an administrative proceeding, civil suit, or criminal prosecution.[^Enforcement1] 
 
 [^Enforcement1]: _See, e.g._ Fair Labor Standards Act, 29 U.S.C. § 216(a): "Any person who willfully violates any of the provisions of section 215 of this title shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for not more than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection." 
 
-## Exclusive Agency Enforcement
+### Exclusive Agency Enforcement
 
 Some statutes vest an administrative agency with exclusive authority to commence legal action for alleged violations, and provide for administrative adjudication (subject to judicial review), rather than a civil suit, in contested cases. 
 
@@ -22,7 +26,7 @@ For example, if someone[^Enforcement2] believes an employer or labor union has c
 Similarly, under the Occupational Safety and Health Act, the Secretary of Labor has exclusive authority to issue citations and assess penalties for violations. [29 U.S. Code § 658](https://www.law.cornell.edu/uscode/text/29/658); [29 U.S. Code § 659(a) & (b)](https://www.law.cornell.edu/uscode/text/29/659). If an employer contests a citation, the Occupational Safety and Health Review Commission, [29 U.S. Code § 661](https://www.law.cornell.edu/uscode/text/29/661) will conduct a hearing and "issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary's citation or proposed penalty, or directing other appropriate relief". [29 U.S. Code § 659(c)](https://www.law.cornell.edu/uscode/text/29/659). The Commission's order are subject to judicial review "in any United States court of appeals for the circuit in which the violation is alleged to have occurred or where the employer has its principal office, or in the Court of Appeals for the District of Columbia Circuit" [29 U.S. Code § 660](https://www.law.cornell.edu/uscode/text/29/660). 
 
 
-## Dual Enforcement
+### Dual Enforcement
 
 Other statutes authorize both public enforcement and private suits by affected employees. 
 
@@ -31,9 +35,9 @@ For example, the Fair Labor Standards Act authorizes the Secretary of Labor to "
 Similarly, under Title VII, when an employee files a charge of unlawful employment practices with the EEOC, "if the Commission determines after [ ... ] investigation that there is reasonable cause to believe that the charge is true, the Commission shall endeavor to eliminate any such alleged unlawful employment practice by informal methods of conference, conciliation, and persuasion." [42 U.S.C. § 2000e–5(b)](https://www.law.cornell.edu/uscode/text/42/2000e-5). If that effort is unsuccessful, the EEOC may bring a suit against the employer (or, in the case of a charge against a government entity, refer the matter to the U.S. Attorney General). [42 U.S.C. § 2000e–5(f)](https://www.law.cornell.edu/uscode/text/42/2000e-5). 
 
 
-# Private Enforcement
+## Private Enforcement
 
-## Civil Suits
+### Civil Suits
 
 Many employment laws authorize civil suits by employees. Such laws typically provide for recovery of attorney's fees, and sometimes statutory or punitive damages, in addition to actual damages. _See, e.g._ Fair Labor Standards Act, 29 U.S.C. § 216(b) (authorizing suits by "the employee or employees affected" to recover "the amount of their unpaid minimum wages, or their unpaid overtime compensation," plus "an additional equal amount as liquidated damages," and "a reasonable attorney's fee to be paid by the defendant, and costs of the action.").
 
@@ -45,9 +49,9 @@ Some employment laws have an administrative procedure that employees must satisf
 
 Under state unemployment and workers' compensation laws (and similar federal programs, e.g. [Federal Employees' Compensation Act](https://www.dol.gov/agencies/owcp/FECA/about); [Black Lung Benefits Act](https://www.dol.gov/agencies/owcp/dcmwc); [Longshore and Harbor Workers' Compensation Act](https://www.dol.gov/agencies/owcp/dlhwc); [Energy Employees Occupational Illness Compensation Program Act](https://www.dol.gov/agencies/owcp/energy/about)), an employee must file a claim for benefits with the appropriate administrative agency. Adjudication of disputed claims is within the exclusive original jurisidiction of an administrative tribunal (subject to judicial review). 
 
-# Arbitration
+## Arbitration
 
-## Labor Arbitration 
+### Labor Arbitration 
 
 #### United Steelworkers of America v. Warrior & Gulf Navigation Co., 363 U.S. 574 (1960)
 
@@ -155,7 +159,7 @@ The collective bargaining agreement could have provided that if any of the emplo
 	"Under the process in the old mills a very real 'miniature society' had grown up, and in important ways the technological revolution described in this case history shattered it. But a new society or work community was born immediately, though for a long time it developed slowly. As the old society was strongly molded by the _discontinuous_ process of making pipe, so was the new one molded by the _continuous_ process and strongly influenced by the characteristics of new highspeed automatic equipment." Walker, Life in the Automatic Factory, 36 Harv. Bus. Rev. 111, 117.
 
 
-## Employment Arbitration 
+### Individual Employment Arbitration 
 
 #### Federal Arbitration Act, 9 U.S. Code §§ 1 et seq.
 

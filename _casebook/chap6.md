@@ -4,6 +4,10 @@ chapter-number: 6
 chapter-title: Wages & Hours
 ---
 
+<p class="chapter-number">Chapter 6</p>
+
+# Wages & Hours
+
 ## Legislative Regulation of Wages and Hours 
 
 #### Lochner v. New York, 198 U.S. 45 (1905) {#lochner-v-ny}

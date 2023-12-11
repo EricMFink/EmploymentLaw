@@ -4,6 +4,10 @@ chapter-number: 2
 chapter-title: Labor Organizing & Collective Bargaining 
 ---
 
+<p class="chapter-number">Chapter 2</p>
+
+# Labor Organizing & Collective Bargaining
+
 ## Collective Action as an Illegal Conspiracy 
 
 #### Commonwealth v. Pullis (Phila. 1806), 3 Doc. Hist. of Am. Ind. Soc. 59 (2d ed. Commons 1910) {#commonwealth-v-pullis}

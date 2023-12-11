@@ -4,6 +4,10 @@ chapter-number: 1
 chapter-title: Employment as a Socio-Legal Relationship
 ---
 
+<p class="chapter-number">Chapter 1</p>
+
+# Employment as a Socio-Legal Relationship
+
 ## Employment as Status and Contract
 
 #### Karen Orren, _Belated Feudalism_ (1991) {#orren-belated-feudalism}
