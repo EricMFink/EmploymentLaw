@@ -125,13 +125,13 @@ The Fair Labor Standards Act, enacted in 1938, establishes minimum wage and over
 
 <div class="legal-code">
 
-#### § 202. Congressional finding and declaration of policy
+##### § 202. Congressional finding and declaration of policy
 
 (a\) The Congress finds that the existence, in industries engaged in commerce or in the production of goods for commerce, of labor conditions detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being of workers (1) causes commerce and the channels and instrumentalities of commerce to be used to spread and perpetuate such labor conditions among the workers of the several States; (2) burdens commerce and the free flow of goods in commerce; (3) constitutes an unfair method of competition in commerce; (4) leads to labor disputes burdening and obstructing commerce and the free flow of goods in commerce; and (5) interferes with the orderly and fair marketing of goods in commerce. That Congress further finds that the employment of persons in domestic service in households affects commerce.
 
 (b\) It is declared to be the policy of this chapter, through the exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct and as rapidly as practicable to eliminate the conditions above referred to in such industries without substantially curtailing employment or earning power.
 
-#### § 203. Definitions
+##### § 203. Definitions
 
 As used in this chapter—
 
@@ -157,7 +157,7 @@ As used in this chapter—
 
 (o\) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
 
-#### § 206. Minimum wage
+##### § 206. Minimum wage
 
 (a\) Employees engaged in commerce; home workers in Puerto Rico and Virgin Islands; employees in American Samoa; seamen on American vessels; agricultural employees
 
@@ -181,7 +181,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 > 
 > (4\) As used in this subsection, the term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
-#### § 207. Maximum hours
+##### § 207. Maximum hours
 
 (a\) Employees engaged in interstate commerce; additional applicability to employees pursuant to subsequent amendatory provisions
 
@@ -231,21 +231,21 @@ and if (i\) the employee's average hourly earnings for the workweek exclusive of
 
 <div class="legal-code">
 
-#### § 95-25.6. Wage payment.
+##### § 95-25.6. Wage payment.
 
 Every employer shall pay every employee all wages and tips accruing to the employee on the regular payday. Pay periods may be daily, weekly, bi-weekly, semi-monthly, or monthly. Wages based upon bonuses, commissions, or other forms of calculation may be paid as infrequently as annually if prescribed in advance. 
 
-#### § 95-25.7. Payment to separated employees.
+##### § 95-25.7. Payment to separated employees.
 
 Employees whose employment is discontinued for any reason shall be paid all wages due on or before the next regular payday either through the regular pay channels or by trackable mail if requested by the employee in writing. Wages based on bonuses, commissions or other forms of calculation shall be paid on the first regular payday after the amount becomes calculable when a separation occurs. Such wages may not be forfeited unless the employee has been notified in accordance with G.S. 95-25.13 of the employer's policy or practice which results in forfeiture. Employees not so notified are not subject to such loss or forfeiture. 
 
-#### § 95-25.7A. Wages in dispute.
+##### § 95-25.7A. Wages in dispute.
 
 (a\) If the amount of wages is in dispute, the employer shall pay the wages, or that part of the wages, which the employer concedes to be due without condition, within the time set by this Article. The employee retains all remedies that the employee might otherwise be entitled to regarding any balance of wages claimed by the employee, including those remedies provided under this Article.
 
 (b\) Acceptance of a partial payment of wages under this section by an employee does not constitute a release of the balance of the claim. Further, any release of the claim required by an employer as a condition of partial payment is void.
 
-#### § 95-25.8. Withholding of wages.
+##### § 95-25.8. Withholding of wages.
 
 (a\) An employer may withhold or divert any portion of an employee's wages when:
 
@@ -273,7 +273,7 @@ Employees whose employment is discontinued for any reason shall be paid all wage
 
 (g\) Nothing in this Article shall preclude an employer from bringing a civil action in the General Court of Justice to collect any amounts due the employer from the employee. 
 
-#### § 95-25.22. Recovery of unpaid wages.
+##### § 95-25.22. Recovery of unpaid wages.
 
 (a\) Any employer who violates the provisions of G.S. 95-25.3 (Minimum Wage), G.S. 95-25.4 (Overtime), or G.S. 95-25.6 through 95-25.12 (Wage Payment) shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, their unpaid overtime compensation, or their unpaid amounts due under G.S. 95-25.6 through 95-25.12, as the case may be, plus interest at the legal rate set forth in G.S. 24-1, from the date each amount first came due.
 

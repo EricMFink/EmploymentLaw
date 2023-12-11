@@ -903,9 +903,11 @@ In this case, Plaintiff argues that she had a reasonable expectation of privacy 
 The Court finds that Plaintiff has stated a plausible claim for invasion of privacy, especially given the open-ended nature of the case law. Plaintiff may have had a reasonable expectation that her Facebook posting would remain private, considering that she actively took steps to protect her Facebook page from public viewing. More importantly, however, reasonableness (and offensiveness) are highly fact-sensitive inquiries. As such, these issues are not properly resolved on a motion to dismiss. 
 
 
-#### Cal. Labor Code § 980--Employer Use of Social Media {#cal-labor-code-social-media}
+#### Cal. Labor Code § 980{#cal-labor-code-980}
 
 <div class="legal-code">
+
+##### Employer Use of Social Media 
 
 (a) As used in this chapter, “social media” means an electronic service or account, or electronic content, including, but not limited to, videos, still photographs, blogs, video blogs, podcasts, instant and text messages, email, online services or accounts, or Internet Web site profiles or locations.
 
@@ -927,13 +929,13 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 ### Political Activity 
 
-#### Truitt v. Salisbury Bank & Trust Co., 52 F.4th 80 (2d Cir. 2022) {#truitt-v-salisburty-bank-and-trust}
+#### Truitt v. Salisbury Bank & Trust Co., 52 F.4th 80 (2d Cir. 2022) {#truitt-v-salisbury-bank}
 
 ##### Chin, Circuit Judge:
 
 In this case, plaintiff-appellant William Gunnar Truitt, an employee of defendant-appellee Salisbury Bank and Trust Company (the "Bank"), announced his candidacy for a New York State Assembly seat. The Bank thereafter advised Truitt that he had to choose between running for office and continuing his employment with the Bank. Truitt decided not to discontinue his campaign, and his employment with the Bank ended.
 
-Truitt brought this action below, contending that the Bank violated New York Labor Law § 201-d by requiring him to cease protected political activity as a condition of retaining his employment at the Bank. The statute makes it unlawful for an employer to discharge or discriminate against an employee for engaging in, _inter alia,_ specified political activities outside of working hours. [N.Y. Lab. Law § 201d(2)(a)](https://www.nysenate.gov/legislation/laws/LAB/201-D). Protected activities expressly include "running for public office." The district court granted summary judgment in favor of the Bank, concluding, as a matter of law, that because Truitt voluntarily resigned from his position and was not constructively discharged, his suit could not succeed. The court thereafter denied Truitt's motion for reconsideration, and this appeal followed.
+Truitt brought this action below, contending that the Bank violated New York Labor Law § 201-d by requiring him to cease protected political activity as a condition of retaining his employment at the Bank. The statute makes it unlawful for an employer to discharge or discriminate against an employee for engaging in, _inter alia,_ specified political activities outside of working hours. [N.Y. Lab. Law § 201d(2)(a)](#ny-labor-code-201d). Protected activities expressly include "running for public office." The district court granted summary judgment in favor of the Bank, concluding, as a matter of law, that because Truitt voluntarily resigned from his position and was not constructively discharged, his suit could not succeed. The court thereafter denied Truitt's motion for reconsideration, and this appeal followed.
 
 For the reasons discussed below, we vacate the judgment and remand.
 
@@ -983,7 +985,7 @@ Two weeks later, on August 4, 2020, Truitt timely moved for reconsideration of t
 
 ###### B. Applicable Law
 
-Under New York Labor Law § 201-d, an employer may generally not refuse to hire, discharge, or otherwise discriminate "in compensation, promotion or terms, conditions or privileges of employment" against an employee for, among other things, engaging in "political" or "recreational" activity if such activity is legal and occurs outside of working hours. N.Y. Lab. Law § 201-d(2). The statute expressly provides that an employee may sue an employer who violates the statute for "equitable relief and damages."
+Under [New York Labor Law § 201-d](#ny-labor-code-201d), an employer may generally not refuse to hire, discharge, or otherwise discriminate "in compensation, promotion or terms, conditions or privileges of employment" against an employee for, among other things, engaging in "political" or "recreational" activity if such activity is legal and occurs outside of working hours. N.Y. Lab. Law § 201-d(2). The statute expressly provides that an employee may sue an employer who violates the statute for "equitable relief and damages."
 
 Section 201-d was enacted in 1992 to "prohibit employers from discriminating against employees for engaging in certain off-duty activities," including "political or recreational activity, use of legal consumable products, or union activities." The bill, commonly referred to as the "Legal Activities Bill," sought, for instance, to protect those who smoked and used tobacco products outside of working hours "against the extensive vigilantism" of their employers. 
 
@@ -1023,7 +1025,75 @@ While the Bank's evidence includes some stray references to campaigning, most of
 
 For these reasons, a reasonable jury could find that the Bank's actions violated New York Labor Law § 201-d because the bank failed to demonstrate a legitimate, non-discriminatory reason for the adverse employment action it took against Truitt. We conclude that the district court erred in granting summary judgment dismissing Truitt's New York Labor Law § 201-d claim.
 
+#### NY Labior Code § 201-d {#ny-labor-code-201d}
 
+<div class="legal-code">
+
+##### Discrimination against the engagement in certain activities.
+
+1\. Definitions. As used in this section:
+
+> a\. "Political activities" shall mean (i) running for public office, (ii) campaigning for a candidate for public office, or (iii) participating in fund-raising activities for the benefit of a candidate, political party or political advocacy group;
+> 
+> b\. "Recreational activities" shall mean any lawful, leisure-time activity, for which the employee receives no compensation and which is generally engaged in for recreational purposes, including but not limited to sports, games, hobbies, exercise, reading and the viewing of television, movies and similar material;
+> 
+> c\. "Work hours" shall mean, for purposes of this section, all time, including paid and unpaid breaks and meal periods, that the employee is suffered, permitted or expected to be engaged in work, and all time the employee is actually engaged in work. This definition shall not be referred to in determining hours worked for which an employee is entitled to compensation under any law including article nineteen of this chapter;
+> 
+> d\. "Political matters" shall mean matters relating to elections for political office, political parties, legislation, regulation and the decision to join or support any political party or political, civic, community, fraternal or labor organization;
+> 
+> e\. "Religious matters" shall mean matters relating to religious affiliation and practice and the decision to join or support any religious organization or association.
+
+2\. Unless otherwise provided by law, it shall be unlawful for any employer or employment agency to refuse to hire, employ or license, or to discharge from employment or otherwise discriminate against an individual in compensation, promotion or terms, conditions or privileges of employment because of:
+
+> a\. an individual's political activities outside of working hours, off of the employer's premises and without use of the employer's equipment or other property, if such activities are legal, provided, however, that this paragraph shall not apply to persons whose employment is defined in paragraph six of subdivision (a) of section seventy-nine-h of the civil rights law, and provided further that this paragraph shall not apply to persons who would otherwise be prohibited from engaging in political activity pursuant to chapter 15 of title 5 and subchapter III of chapter 73 of title 5 of the USCA;
+> 
+> b\. an individual's legal use of consumable products, including cannabis in accordance with state law, prior to the beginning or after the conclusion of the employee's work hours, and off of the employer's premises and without use of the employer's equipment or other property;
+> 
+> c\. an individual's legal recreational activities, including cannabis in accordance with state law, outside work hours, off of the employer's premises and without use of the employer's equipment or other property;
+> 
+> d\. an individual's membership in a union or any exercise of rights granted under Title 29, USCA, Chapter 7 or under article fourteen of the civil service law; or
+> 
+> e\. an individual's refusal to: (i) attend an employer-sponsored meeting with the employer or its agent, representative or designee, the primary purpose of which is to communicate the employer's opinion concerning religious or political matters; or (ii) listen to speech or view communications, the primary purpose of which is to communicate the employer's opinion concerning religious or political matters.
+
+3\. The provisions of subdivision two of this section shall not be deemed to protect activity which:
+
+> a\. creates a material conflict of interest related to the employer's trade secrets, proprietary information or other proprietary or business interest;
+> 
+> b\. with respect to employees of a state agency as defined in sections seventy-three and seventy-four of the public officers law respectively, is in knowing violation of subdivision two, three, four, five, seven, eight or twelve of section seventy-three or of section seventy-four of the public officers law, or of any executive order, policy, directive, or other rule which has been issued by the attorney general regulating outside employment or activities that could conflict with employees' performance of their official duties;
+> 
+> c\. with respect to employees of any employer as defined in section twenty-seven-a of this chapter, is in knowing violation of a provision of a collective bargaining agreement concerning ethics, conflicts of interest, potential conflicts of interest, or the proper discharge of official duties;
+> 
+> d\. with respect to employees of any employer as defined in section twenty-seven-a of this chapter who are not subject to section seventy-three or seventy-four of the public officers law, is in knowing violation of article eighteen of the general municipal law or any local law, administrative code provision, charter provision or rule or directive of the mayor or any agency head of a city having a population of one million or more, where such law, code provision, charter provision, rule or directive concerns ethics, conflicts of interest, potential conflicts of interest, or the proper discharge of official duties and otherwise covers such employees; and
+> 
+> e\. with respect to employees other than those of any employer as defined in section twenty-seven-a of this chapter, violates a collective bargaining agreement or a certified or licensed professional's contractual obligation to devote his or her entire compensated working hours to a single employer, provided however that the provisions of this paragraph shall apply only to professionals whose compensation is at least fifty thousand dollars for the year nineteen hundred ninety-two and in subsequent years is an equivalent amount adjusted by the same percentage as the annual increase or decrease in the consumer price index.
+
+4\. Notwithstanding the provisions of subdivision three of this section, an employer shall not be in violation of this section where the employer takes action based on the belief either that: (i) the employer's actions were required by statute, regulation, ordinance or other governmental mandate, (ii) the employer's actions were permissible pursuant to an established substance abuse or alcohol program or workplace policy, professional contract or collective bargaining agreement, or (iii) the individual's actions were deemed by an employer or previous employer to be illegal or to constitute habitually poor performance, incompetency or misconduct.
+
+4-a\. Notwithstanding the provisions of subdivision three or four of this section, an employer shall not be in violation of this section where the employer takes action related to the use of cannabis based on the following:
+
+> (i\) the employer's actions were required by state or federal statute, regulation, ordinance, or other state or federal governmental mandate;
+> 
+> (ii\) the employee is impaired by the use of cannabis, meaning the employee manifests specific articulable symptoms while working that decrease or lessen the employee's performance of the duties or tasks of the employee's job position, or such specific articulable symptoms interfere with an employer's obligation to provide a safe and healthy work place, free from recognized hazards, as required by state and federal occupational safety and health law; or
+> 
+> (iii\) the employer's actions would require such employer to commit any act that would cause the employer to be in violation of federal law or would result in the loss of a federal contract or federal funding.
+
+5\. Nothing in this section shall apply to persons who, on an individual basis, have a professional service contract with an employer and the unique nature of the services provided is such that the employer shall be permitted, as part of such professional service contract, to limit the off-duty activities which may be engaged in by such individual.
+
+6\. Nothing in this section shall prohibit an organization or employer from offering, imposing or having in effect a health, disability or life insurance policy that makes distinctions between employees for the type of coverage or the price of coverage based upon the employees' recreational activities or use of consumable products, provided that differential premium rates charged employees reflect a differential cost to the employer and that employers provide employees with a statement delineating the differential rates used by the carriers providing insurance for the employer, and provided further that such distinctions in type or price of coverage shall not be utilized to expand, limit or curtail the rights or liabilities of any party with regard to a civil cause of action.
+
+7\. 
+
+> a\. Where a violation of this section is alleged to have occurred, the attorney general may apply in the name of the people of the state of New York for an order enjoining or restraining the commission or continuance of the alleged unlawful acts. In any such proceeding, the court may impose a civil penalty in the amount of three hundred dollars for the first violation and five hundred dollars for each subsequent violation.
+> 
+> b\. In addition to any other penalties or actions otherwise applicable pursuant to this chapter, where a violation of this section is alleged to have occurred, an aggrieved individual may commence an action for equitable relief and damages.
+
+8\. Nothing in this section shall prohibit: (i) an employer or its agent, representative or designee from communicating to its employees any information that the employer is required by law to communicate, but only to the extent of such legal requirement; (ii) an employer or its agent, representative or designee from communicating to its employees any information that is necessary for such employees to perform their job duties; (iii) an institution of higher education, or any agent, representative or designee of such institution, from meeting with or participating in any communications with its employees that are part of coursework, any symposia or an academic program at such institution; (iv) casual conversations between employees or between an employee and an agent, representative or designee of an employer, provided participation in such conversations is not required; or (v) a requirement limited to the employer's managerial and supervisory employees.
+
+9\. The provisions of this section shall not apply to a religious corporation, entity, association, educational institution or society that is exempt from the requirements of Title VII of the Civil Rights Act of 1964 pursuant to 42 USC 2000e-1(a) with respect to speech on religious matters to employees who perform work connected with the activities undertaken by such religious corporation, entity, association, educational institution or society.
+
+10\. Every employer shall post a sign in every workplace at the location or locations where notices to employees are normally posted, to inform employees of their rights pursuant to this section.
+
+</div>
 
 ### Other Personal Activity
 
@@ -1165,7 +1235,7 @@ On February 13, 2019, Plaintiff was injured at work when a windstorm blew an ope
 
 Her direct supervisor as well as the Assistant General Manager and Human Resources representative wanted Plaintiff to remain employed and urged the corporate office not to terminate her. Plaintiff provided her managers with information about the CBD oil as well as her doctor’s agreement that she take it to treat her fibromyalgia. Plaintiff also offered to discontinue the CBD oil and resume her prescription medication. Defendants’ corporate officials rejected that proposal and insisted she be terminated. Plaintiff’s appeal to the corporate office for reinstatement was denied.
 
-On May 22, 2019, Plaintiff filed a wrongful discharge claim in Iredell County Superior Court alleging that she was terminated for using CBD oil outside of work, in violation of the public policy set forth in [N.C.Gen. Stat. §95-28.2](https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_95/gs_95-28.2.html).
+On May 22, 2019, Plaintiff filed a wrongful discharge claim in Iredell County Superior Court alleging that she was terminated for using CBD oil outside of work, in violation of the public policy set forth in [N.C.Gen. Stat. §95-28.2](#ncgs-95-28-2).
 
 Defendants removed the case to this Court on July 1, 2019 and moved to dismiss Plaintiff’s Complaint.
 
@@ -1200,3 +1270,42 @@ Defendants also argue that Plaintiff used a commercial CBD oil that exceeded the
 Defendants argue that even if Plaintiff was engaged in the lawful use of a lawful product, her wrongful discharge claim must still be dismissed because her use of CBD oil with detectable levels of THC conflicted with the bona fide occupational requirement of their drug testing policy. The Court disagrees. Defendants’ drug testing policy states that “testing positive for substances that are illegal under state or federal law may result in corrective action, up to and including separation from employment.” Plaintiff has alleged that she did not test positive for an illegal substance in violation of that policy, but for the legal substance of CBD oil made from Cannibis sativa L. containing less than 0.3 percent THC by dry weight. Plaintiff has further alleged that the threshold level for a positive THC test under Federal Department of Transportation regulations is 50 ng/dl and that she tested positive for THC at the level of 20 ng/dl.
 
 Accordingly, the undersigned respectfully recommends that Defendants’ Motion to Dismiss Plaintiff’s wrongful termination for use of a lawful product claim be denied.
+
+
+#### NCGS § 95-28.2 {#ncgs-95-28-2}
+
+<div class="legal-code">
+
+##### Discrimination against persons for lawful use of lawful products during nonworking hours prohibited.
+
+(a\) As used in this section, "employer" means the State and all political subdivisions of the State, public and quasi-public corporations, boards, bureaus, commissions, councils, and private employers with three or more regularly employed employees.
+
+(b\) It is an unlawful employment practice for an employer to fail or refuse to hire a prospective employee, or discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the prospective employee or the employee engages in or has engaged in the lawful use of lawful products if the activity occurs off the premises of the employer during nonworking hours and does not adversely affect the employee's job performance or the person's ability to properly fulfill the responsibilities of the position in question or the safety of other employees.
+
+(c\) It is not a violation of this section for an employer to do any of the following:
+
+> (1\) Restrict the lawful use of lawful products by employees during nonworking hours if the restriction relates to a bona fide occupational requirement and is reasonably related to the employment activities. If the restriction reasonably relates to only a particular employee or group of employees, then the restriction may only lawfully apply to them.
+> 
+> (2\) Restrict the lawful use of lawful products by employees during nonworking hours if the restriction relates to the fundamental objectives of the organization.
+> 
+> (3\) Discharge, discipline, or take any action against an employee because of the employee's failure to comply with the requirements of the employer's substance abuse prevention program or the recommendations of substance abuse prevention counselors employed or retained by the employer.
+
+(d\) This section shall not prohibit an employer from offering, imposing, or having in effect a health, disability, or life insurance policy distinguishing between employees for the type or price of coverage based on the use or nonuse of lawful products if each of the following is met:
+
+> (1\) Differential rates assessed employees reflect actuarially justified differences in the provision of employee benefits.
+> 
+> (2\) The employer provides written notice to employees setting forth the differential rates imposed by insurance carriers.
+> 
+> (3\) The employer contributes an equal amount to the insurance carrier on behalf of each employee of the employer.
+> 
+(e\) An employee who is discharged or otherwise discriminated against, or a prospective employee who is denied employment in violation of this section, may bring a civil action within one year from the date of the alleged violation against the employer who violates the provisions of subsection (b) of this section and obtain any of the following:
+
+> (1\) Any wages or benefits lost as a result of the violation;
+> 
+> (2\) An order of reinstatement without loss of position, seniority, or benefits; or
+> 
+(3\) An order directing the employer to offer employment to the prospective employee.
+
+(f\) The court may award reasonable costs, including court costs and attorneys' fees, to the prevailing party in an action brought pursuant to this section. 
+
+</div>

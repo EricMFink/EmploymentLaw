@@ -820,7 +820,7 @@ As further evidence of the symbiotic relationship between Defendants, Plaintiff 
 
 _2. New York City's Fair Chance Act_[^Franklin5]
 
-The FCA, which went into effect on October 27, 2015, amended the NYCHRL to provide additional protection from employment discrimination to individuals with criminal histories. _See_ N.Y.C. Local Law 63 (2015); _see also_ N.Y.C. Comm'n on Human Rights, Legal Enforcement Guidance on the Fair Chance Act ("Enforcement Guidance") at 1 (June 24, 2016) ("The FCA is intended to level the playing field so that New Yorkers who are part of the approximately 70 million adults residing in the United States who have been arrested or convicted of a crime are 'not overlooked during the hiring process simply because they have to check a box.'"). With the aim of preventing an applicant's criminal history from tainting initial hiring decisions, the FCA regulates precisely when in the hiring process an employer may seek and use information regarding an applicant's criminal background. To this end, the FCA deems it an "unlawful employment practice" for most employers to "make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant." The FCA defines "any inquiry" as "any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information." The law further defines "any statement" as "a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check." The NYCCHR defined "conditional offer of employment" in the Enforcement Guidance as:
+The FCA, which went into effect on October 27, 2015, amended the NYCHRL to provide additional protection from employment discrimination to individuals with criminal histories. _See_ N.Y.C. Local Law 63 (2015); _see also_ N.Y.C. Comm'n on Human Rights, [Legal Enforcement Guidance on the Fair Chance Act](https://www.nyc.gov/site/cchr/law/fair-chance-act.page) ("Enforcement Guidance") at 1 (June 24, 2016) ("The FCA is intended to level the playing field so that New Yorkers who are part of the approximately 70 million adults residing in the United States who have been arrested or convicted of a crime are 'not overlooked during the hiring process simply because they have to check a box.'"). With the aim of preventing an applicant's criminal history from tainting initial hiring decisions, the FCA regulates precisely when in the hiring process an employer may seek and use information regarding an applicant's criminal background. To this end, the FCA deems it an "unlawful employment practice" for most employers to "make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant." The FCA defines "any inquiry" as "any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information." The law further defines "any statement" as "a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check." The NYCCHR defined "conditional offer of employment" in the Enforcement Guidance as:
 
 > An offer of employment that can only be revoked based on: i The results of a criminal background check; ii The results of a medical exam in situations in which such exams are permitted by the Americans with Disabilities Act; or iii Other information the employer could not have reasonably known before the conditional offer if, based on the information, the employer would not have made the offer and the employer can show the information is material to job performance.
 
@@ -917,7 +917,7 @@ Congress enacted three provisions in Title I which explicitly limit the ability 
 
 At its heart, the issue in this case is whether the MMPI fits the ADA's definition of a "medical examination." In that regard, we note the parties' agreement that, although the Karrakers were already employed by RAC, the tests here were administered "pre-employment" for ADA purposes because they were required for those seeking new positions within RAC. This agreement means we need not determine whether the Karrakers should be considered to be in the preemployment offer category. Plaintiffs have argued only that the MMPI is a medical examination. RAC could have argued not only that the MMPI is not a medical examination, but also that even if it is, it is "job-related and consistent with business necessity." By prevailing on the latter, defendants could claim that the test is permissible during employment, even if impermissible pre-offer. By not arguing that the test is "job-related and consistent with business necessity," RAC seeks a clear finding that the MMPI is not a medical examination and thus not regulated at all by the ADA.
 
-The EEOC defines "medical examination" as "a procedure or test that seeks information about an individual's physical or mental impairments or health." _See_ "ADA Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations" (1995). According to the EEOC, factors to consider in determining whether a particular test is a "medical examination" include:
+The EEOC defines "medical examination" as "a procedure or test that seeks information about an individual's physical or mental impairments or health." _See_ "[ADA Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations](https://www.eeoc.gov/laws/guidance/enforcement-guidance-preemployment-disability-related-questions-and-medical)" (1995). According to the EEOC, factors to consider in determining whether a particular test is a "medical examination" include:
 
 > (1\) whether the test is administered by a health care professional;
 > 
@@ -1147,7 +1147,7 @@ The case was tried solely on a theory of defamation per se. At the close of Plai
 
 ##### II. ANALYSIS
 
-Charter renews its Rule 50 motion for judgment as a matter of law on the issue of whether the term "Printer-gate" can constitute defamation per se. It further argues that it is entitled to a new trial on the grounds that it should have been allowed to present the defenses of truth and qualified privilege; that James Eversole's testimony was admitted in error; and that the jury was required to find malice by clear and convincing evidence in order to award punitive damages. 
+Charter renews its motion for judgment as a matter of law on the issue of whether the term "Printer-gate" can constitute defamation per se. It further argues that it is entitled to a new trial on the grounds that it should have been allowed to present the defenses of truth and qualified privilege; that James Eversole's testimony was admitted in error; and that the jury was required to find malice by clear and convincing evidence in order to award punitive damages. 
 
 ###### A. Defamation Per Se
 
@@ -1227,7 +1227,7 @@ In the Motion to Dismiss, Wells Fargo argues (1) it is immune from civil liabili
 
 ###### A. Civil Immunity
 
-Under [N.C. Gen. Stat. § 1-539.12(https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_1/GS_1-539.12.pdf), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
+Under [N.C. Gen. Stat. § 1-539.12](#ncgs-1-539-12), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
 
 > An employer who discloses information about a current or former employee’s job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure.
 
@@ -1254,6 +1254,32 @@ Accepting all the well-pleaded facts as true, the Complaint states facts suffici
 Moreover, the Complaint meets the heightened pleading standard under Rule 9(b) because it states the “who, what, when, where, and how” of the alleged mistake. For example, in the Complaint, the “who” is identified as Wells Fargo, who allegedly committed negligent misrepresentation; the “what” is identified as Wells Fargo’s failure to remove the overpayment notice; the “when” is 2018 to 2020, the time period when the alleged breach occurred; the “where” is on Plaintiff’s credit report; and the “how” is that Wells Fargo failed to remove the notice after Plaintiff repaid the overpayment, in contravention of the agreement between the parties. Plaintiff’s failure to specifically identify the employee(s) she communicated with at Wells Fargo is not fatal to her claim at this time as the Complaint meets the heightened pleading standard.
 
 Moreover, “there is no requirement that any precise formula be followed or that any certain language be used,” and “it is sufficient if, upon a liberal construction of the whole pleading, the charge of fraud might be supported by proof of the alleged constitutive facts.” “Significantly, a court should not dismiss a complaint pursuant to Rule 9(b) if the court is satisfied that the defendant has been made aware of the particular circumstances for which he will have to prepare a defense at trial.” In this respect, Wells Fargo has been made aware of the negligent misrepresentation claim against it that stems from its failure to remove the notice after Plaintiff repaid the overpayment, resulting in lost employment opportunities for Plaintiff. Accordingly, Defendant’s motion to dismiss the negligent misrepresentation claim is denied.
+
+#### NCGS § 1-539.12 {#ncgs-1-539-12}
+
+<div class="legal-code">
+
+##### Immunity from civil liability for employers disclosing information.
+
+(a\) An employer who discloses information about a current or former employee's job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure. This immunity shall not apply when a claimant shows by a preponderance of the evidence both of the following:
+> 
+> (1\) The information disclosed by the current or former employer was false.
+> 
+> (2\) The employer providing the information knew or reasonably should have known that the information was false.
+
+(b\) For purposes of this section, "job performance" includes:
+
+> (1\) The suitability of the employee for re-employment;
+> 
+> (2\) The employee's skills, abilities, and traits as they may relate to suitability for future employment; and
+> 
+> (3\) In the case of a former employee, the reason for the employee's separation.
+
+(c\) The provisions of this section apply to any employee, agent, or other representative of the current or former employer who is authorized to provide and who provides information in accordance with the provisions of this section. For the purposes of this section, "employer" also includes a job placement service but does not include a private personnel service as defined in G.S. 95-47.1 except as provided hereinafter. The provisions of this section apply to a private personnel service as defined in G.S. 95-47.1 only to the extent that the service conveys information derived from credit reports, court records, educational records, and information furnished to it by the employee or prior employers and the service identifies the source of the information.
+
+(d\) This section does not affect any privileges or immunities from civil liability established by another section of the General Statutes or available at common law. 
+
+</div>
 
 #### Friel v. Angell Care, Inc., 440 S.E.2d 111 (N.C. App. 1994) {#friel-v-angell-care}
 

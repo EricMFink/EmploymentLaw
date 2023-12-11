@@ -1073,7 +1073,7 @@ On October 7, 2022, Administrative Law Judge Geoffrey Carter issued the attached
 
 The National Labor Relations Board has delegated its authority in this proceeding to a three-member panel.
 
-The Board has considered the decision and record in light of the exceptions and briefs and has decided to affirm the judge’s rulings, findings, and conclusions, to amend the remedy,^[starbucks1] and to adopt the recommended Order as modified and set forth in full below.
+The Board has considered the decision and record in light of the exceptions and briefs and has decided to affirm the judge’s rulings, findings, and conclusions, to amend the remedy,[^starbucks1] and to adopt the recommended Order as modified and set forth in full below.
 
 The judge found, among other things, that the Respondent violated Section 8(a)(3) and 8(a)(4) by discharging employee Hannah Whitbeck. As explained below, we adopt the judge’s finding that the discharge violated the Act as alleged.
 
@@ -1111,11 +1111,11 @@ Based on the foregoing, we find, in agreement with the judge, that the General C
 
 Having found, in agreement with the judge, that the General Counsel sustained her initial burden under Wright Line and that the Respondent failed to establish that it would have discharged Whitbeck even absent her protected activities, we adopt the judge’s findings that the Respondent violated Section 8(a)(3) and (4) by discharging Whitbeck on April 11.
 
-^[starbucks1]: (n.3 in opinion) The Respondent excepts to the judge’s ordering of a notice reading to remedy Whitbeck’s unlawful discharge. Contrary to the judge, in the circumstances of this case, we find that the Board’s standard remedies suffice to inform employees of the Respondent’s unlawful conduct. In so doing, we observe that the circumstances of this case are distinguishable from those presented in _Gavilon Grain, LLC_, 371 NLRB No. 79 (2022), and _Absolute Healthcare d/b/a Curaleaf Arizona_, 372 NLRB No. 16 (2022), in which high-level management officials openly participated in a widely disseminated course of unlawful conduct. We have thus amended the judge’s recommended remedy and Order to remove the notice reading. We shall substitute a new notice to conform to the Order as modified.
+[^starbucks1]: (n.3 in opinion) The Respondent excepts to the judge’s ordering of a notice reading to remedy Whitbeck’s unlawful discharge. Contrary to the judge, in the circumstances of this case, we find that the Board’s standard remedies suffice to inform employees of the Respondent’s unlawful conduct. In so doing, we observe that the circumstances of this case are distinguishable from those presented in _Gavilon Grain, LLC_, 371 NLRB No. 79 (2022), and _Absolute Healthcare d/b/a Curaleaf Arizona_, 372 NLRB No. 16 (2022), in which high-level management officials openly participated in a widely disseminated course of unlawful conduct. We have thus amended the judge’s recommended remedy and Order to remove the notice reading. We shall substitute a new notice to conform to the Order as modified.
 
-The General Counsel excepts to the judge’s refusal to order a nationwide notice posting and the additional expansions in scope, content and duration of the posting sought by the General Counsel--specifically, an “Explanation of Rights” as well as the Notice posted for 90 days in all Michigan facilities and emailed to all employees at Whitbeck’s store. In agreement with the judge, we find these remedies unwarranted here. 
+	The General Counsel excepts to the judge’s refusal to order a nationwide notice posting and the additional expansions in scope, content and duration of the posting sought by the General Counsel--specifically, an “Explanation of Rights” as well as the Notice posted for 90 days in all Michigan facilities and emailed to all employees at Whitbeck’s store. In agreement with the judge, we find these remedies unwarranted here. 
 
-Contrary to his colleagues, Member Prouty agrees with the judge that a notice reading by District Manager Paige Schmehl, or by a Board agent in Schmehl’s presence, is warranted here. The Respondent, with direct involvement by Schmehl, who was the chief manager for the Respondent overseeing approximately 10 locations, including the discriminatee’s, and corporate officials from the legal and human resources departments, discharged the employee who was viewed by her and her coworkers as the leader of the organizing effort in retaliation for her union activity and participation in the Board’s processes. In Member Prouty’s view, this conduct “struck at the heart of employees’ Section 7 rights” and sent a message that employees who support the union do so at their peril. Although _Absolute Healthcare d/b/a Curaleaf Arizona_ (ordering notice-reading where violations included the discharge of the sole union organizer), and _Gavilon Grain, LLC_ (ordering a notice reading where high-level management officials discharged an employee among the initiators of the union drive and made adverse changes to working conditions shortly after the union demanded recognition), involved unfair labor practices in addition to the discharge of a key union supporter, Member Prouty notes that “the Board has long recognized that ... unlawful terminations are destructive to Sec. 7 rights because they tend to instill fear in the remaining employees that, they will lose their employment if union activity persists.” In Member Prouty’s view, the reading of the notice in a group setting would be far more likely than a notice posting to dissipate the fear that the discharge of this key union supporter likely engendered in this store of approximately 25 employees. Member Prouty would also require the Board agent to distribute the notice to employees at the meeting before the reading. Member Prouty would make a reading of the notice to employees at a group meeting, accompanied by the distribution of the notice at the meeting, a standard remedy for unfair labor practices found by the Board.
+	Contrary to his colleagues, Member Prouty agrees with the judge that a notice reading by District Manager Paige Schmehl, or by a Board agent in Schmehl’s presence, is warranted here. The Respondent, with direct involvement by Schmehl, who was the chief manager for the Respondent overseeing approximately 10 locations, including the discriminatee’s, and corporate officials from the legal and human resources departments, discharged the employee who was viewed by her and her coworkers as the leader of the organizing effort in retaliation for her union activity and participation in the Board’s processes. In Member Prouty’s view, this conduct “struck at the heart of employees’ Section 7 rights” and sent a message that employees who support the union do so at their peril. Although _Absolute Healthcare d/b/a Curaleaf Arizona_ (ordering notice-reading where violations included the discharge of the sole union organizer), and _Gavilon Grain, LLC_ (ordering a notice reading where high-level management officials discharged an employee among the initiators of the union drive and made adverse changes to working conditions shortly after the union demanded recognition), involved unfair labor practices in addition to the discharge of a key union supporter, Member Prouty notes that “the Board has long recognized that ... unlawful terminations are destructive to Sec. 7 rights because they tend to instill fear in the remaining employees that, they will lose their employment if union activity persists.” In Member Prouty’s view, the reading of the notice in a group setting would be far more likely than a notice posting to dissipate the fear that the discharge of this key union supporter likely engendered in this store of approximately 25 employees. Member Prouty would also require the Board agent to distribute the notice to employees at the meeting before the reading. Member Prouty would make a reading of the notice to employees at a group meeting, accompanied by the distribution of the notice at the meeting, a standard remedy for unfair labor practices found by the Board.
 
 
 ##### ORDER
@@ -1124,29 +1124,29 @@ The National Labor Relations Board orders that the Respondent, Starbucks Corpora
 
 1\. Cease and desist from
 
-(a) Discharging or otherwise discriminating against employees for supporting Workers United or any other labor organization.
+(a\) Discharging or otherwise discriminating against employees for supporting Workers United or any other labor organization.
 
-(b) Discharging or otherwise discriminating against employees for participating in National Labor Relations Board processes.
+(b\) Discharging or otherwise discriminating against employees for participating in National Labor Relations Board processes.
 
-(c) In any like or related manner interfering with, restraining, or coercing employees in the exercise of the rights guaranteed them by Section 7 of the Act.
+(c\) In any like or related manner interfering with, restraining, or coercing employees in the exercise of the rights guaranteed them by Section 7 of the Act.
 
 2\. Take the following affirmative action necessary to effectuate the policies of the Act.
 
-(a) Within 14 days from the date of this Order, offer Hannah Whitbeck full reinstatement to her former job or, if that no longer exists, to a substantially equivalent position, without prejudice to her seniority or other rights or privileges previously enjoyed.
+(a\) Within 14 days from the date of this Order, offer Hannah Whitbeck full reinstatement to her former job or, if that no longer exists, to a substantially equivalent position, without prejudice to her seniority or other rights or privileges previously enjoyed.
 
-(b) Make Hannah Whitbeck whole for any loss of earnings and other benefits, and for any other direct or foreseeable pecuniary harms, suffered as a result of the discrimination against her in the manner set forth in the remedy section of the judge’s decision as amended in this decision.
+(b\) Make Hannah Whitbeck whole for any loss of earnings and other benefits, and for any other direct or foreseeable pecuniary harms, suffered as a result of the discrimination against her in the manner set forth in the remedy section of the judge’s decision as amended in this decision.
 
-(c) Within 14 days from the date of this Order, remove from its files any reference to the unlawful discharge and, within 3 days thereafter, notify the employee in writing that this has been done and that the discharge will not be used against her in any way.
+(c\) Within 14 days from the date of this Order, remove from its files any reference to the unlawful discharge and, within 3 days thereafter, notify the employee in writing that this has been done and that the discharge will not be used against her in any way.
 
-(d) Compensate Hannah Whitbeck for the adverse tax consequences, if any, of receiving a lump-sum backpay award, and file with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed, either by agreement or Board order, a report allocating the backpay award to the appropriate calendar years.
+(d\) Compensate Hannah Whitbeck for the adverse tax consequences, if any, of receiving a lump-sum backpay award, and file with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed, either by agreement or Board order, a report allocating the backpay award to the appropriate calendar years.
 
-(e) File with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed by agreement or Board order or such additional time as the Regional Director may allow for good cause shown, a copy of Hannah Whitbeck’s corresponding W-2 forms reflecting the backpay award.
+(e\) File with the Regional Director for Region 7, within 21 days of the date the amount of backpay is fixed by agreement or Board order or such additional time as the Regional Director may allow for good cause shown, a copy of Hannah Whitbeck’s corresponding W-2 forms reflecting the backpay award.
 
-(f) Preserve and, within 14 days of a request, or such additional time as the Regional Director may allow for good cause shown, provide at a reasonable place designated by the Board or its agents, all payroll records, social security payment records, timecards, personnel records and reports, and all other records, including an electronic copy of such records if stored in electronic form, necessary to analyze the amount of backpay due under the terms of this Order.
+(f\) Preserve and, within 14 days of a request, or such additional time as the Regional Director may allow for good cause shown, provide at a reasonable place designated by the Board or its agents, all payroll records, social security payment records, timecards, personnel records and reports, and all other records, including an electronic copy of such records if stored in electronic form, necessary to analyze the amount of backpay due under the terms of this Order.
 
-(g) Within 14 days after service by the Region, post at its Main and Liberty facility in Ann Arbor, Michigan, copies of the attached notice marked “Appendix.” Copies of the notice, on forms provided by the Regional Director for Region 7, after being signed by the Respondent’s authorized representative, shall be posted by the Respondent and maintained for 60 consecutive days in conspicuous places, including all places where notices to employees are customarily posted. In addition to physical posting of paper notices, notices shall be distributed electronically, such as by email, posting on an intranet or an internet site, and/or other electronic means, if the Respondent customarily communicates with its employees by such means. Reasonable steps shall be taken by the Respondent to ensure that the notices are not altered, defaced, or covered by any other material. If the Respondent has gone out of business or closed the facility involved in these proceedings, the Respondent shall duplicate and mail, at its own expense, a copy of the notice to all current employees and former employees employed by the Respondent at the facility at any time since April 11, 2022.
+(g\) Within 14 days after service by the Region, post at its Main and Liberty facility in Ann Arbor, Michigan, copies of the attached notice marked “Appendix.” Copies of the notice, on forms provided by the Regional Director for Region 7, after being signed by the Respondent’s authorized representative, shall be posted by the Respondent and maintained for 60 consecutive days in conspicuous places, including all places where notices to employees are customarily posted. In addition to physical posting of paper notices, notices shall be distributed electronically, such as by email, posting on an intranet or an internet site, and/or other electronic means, if the Respondent customarily communicates with its employees by such means. Reasonable steps shall be taken by the Respondent to ensure that the notices are not altered, defaced, or covered by any other material. If the Respondent has gone out of business or closed the facility involved in these proceedings, the Respondent shall duplicate and mail, at its own expense, a copy of the notice to all current employees and former employees employed by the Respondent at the facility at any time since April 11, 2022.
 
-(h) Within 21 days after service by the Region, file with the Regional Director for Region 7 a sworn certification of a responsible official on a form provided by the Region attesting to the steps that the Respondent has taken to comply.
+(h\) Within 21 days after service by the Region, file with the Regional Director for Region 7 a sworn certification of a responsible official on a form provided by the Region attesting to the steps that the Respondent has taken to comply.
 
 IT IS FURTHER ORDERED that the complaint is dismissed insofar as it alleges violations of the Act not specifically found.
 
@@ -1215,11 +1215,11 @@ The jury found that Summit had fired Driskell and, in doing so, violated REDA an
 
 First, Summit insists that it was entitled to judgment as a matter of law on Driskell’s REDA and wrongful-discharge claims because it never fired him; rather, he quit. We must affirm the district court unless no reasonable jury could have ruled for Driskell.
 
-As relevant here, REDA^[ncreda1] provides that:
+As relevant here, REDA[^ncreda1] provides that:
 
 > No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to ... [f]ile a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to [the Occupational Safety and Health Act of North Carolina (“OSHANC”) or the North Carolina Workers’ Compensation Act].
 
-^[ncreda1]:
+[^ncreda1]:
   {-} Additional provisions from the statute appear [below](#nc_reda). 
 
 To prevail on a REDA claim, a plaintiff must show that (1) he exercised his right to engage in protected activity; (2) he suffered an adverse employment action; and (3) a causal connection exists between his exercise of the protected activity and the retaliatory action. And a wrongful-discharge claim requires a plaintiff to “identify a specified North Carolina public policy”—here, the policy against retaliation codified in REDA—“that was violated by an employer in discharging the employee.” 
@@ -1386,6 +1386,8 @@ Nothing in this Article shall be deemed to diminish the rights or remedies of an
 The Commissioner may adopt rules needed to implement this Article pursuant to the provisions of Chapter 150B of the General Statutes.
 
 </div>
+
+<hr>
 
 <div class="comment">
 
@@ -1734,51 +1736,51 @@ Since the Division conceded on appeal that Lennane had good cause to leave work,
 
 All findings of fact by the Division are as follows:
 
-> 1\. The claimant filed an initial claim for unemployment insurance benefits on November 11, 2018.
-> 
-> 2\. The claimant last worked for ADT LLC on November 16, 2018 as a service technician.
-> 
-> 3\. The Adjudicator issued a determination under Issue No. 1669952 holding the claimant disqualified for benefits. The claimant appealed. Pursuant to N.C.G.S. § 96-15(c), this matter came before Appeals Referee Stephen McCracken on August 7, 2019. Present for the hearing: Frank Lennane, claimant; Joseph Chilton, claimant representative; Randall Goodson, employer witness and installation/service manager; Stephanie Morgan, employer witness and administrative team leader; Michael Curtis, employer representative. The employer's representative participated in the hearing via teleconference following a written request to participate by telephone due to a travel distance of more than 40 miles to the hearing location. Neither parties were prejudiced by the hybrid hearing.
-> 
-> 4\. The claimant was employed by the above-captioned employer from February 1, 2012 until November 16, 2018.
-> 
-> 5\. As a service technician for the employer, the claimant conducted service calls to the employer's residential and commercial customers with security or business alarm systems. Generally, service calls only require a part/component replacement and, generally, do not require a significant amount of physical activity. Although, a service call sometimes required some ladder climbing and crawling.
-> 
-> 6\. At times, the claimant had to perform residential and commercial security system and alarm system installations. Installations require more physical work, such as more drilling, climbing, and crawling, than a service call.
-> 
-> 7\. The claimant was aware of his job duties and responsibilities and was trained to perform both service calls and installation jobs.
-> 
-> 8\. In 2014, the claimant injured his left knee while on the job. Said injury caused the claimant to undergo surgery. Following the claimant's surgery, the claimant began to favor his right knee, which resulted in the claimant experiencing regular pain in his right knee. The claimant had a permanent partial disability in his left knee.
-> 
-> 9\. The claimant kept the employer informed of his physical health conditions.
-> 
-> 10\. In 2016, service technicians began to perform installation jobs following a business merger and a merger of the employer's service and installation departments.
-> 
-> 11\. The claimant had difficulty performing installations due to the poor physical conditions of his knees, of which he notified his manager. The claimant asked his manager if there were other jobs, such as administrative or clerical work, that in which sic he could apply for or be placed.
-> 
-> 12\. The employer only had administrative positions in Spartanburg, South Carolina and Knoxville, Tennessee, and the claimant was unwilling to relocate from North Carolina.
-> 
-> 13\. In 2017, the claimant took a five week leave of absence via the Family and Medical Leave Act (FMLA) to rest his knees and seek additional medical intervention.
-> 
-> 14\. On or about September 5, 2017, the claimant returned to work from his medical leave. The claimant's doctor requested that the claimant not stand or walk for prolonged periods.
-> 
-> 15\. The claimant asked his manager, Randall Goodson, if he could only be assigned service calls due to the less strenuous nature of those jobs. The claimant's manager denied the claimant's request because he needed to keep a fair balance of work distribution among all of the service technicians.
-> 
-> 16\. However, the claimant's manager made attempts thereafter to not dispatch the claimant on the most strenuous or large installations.
-> 
-> 17\. If the claimant had to be dispatched on a large installation, then manager Goodson would try to ensure that he (claimant) had another service technician available to assist him.
-> 
-> 18\. In October 2018, the claimant had an appointment with a surgeon to discuss treatment for his knees. At which time, the claimant was told that he could undergo surgery or stem cell therapy. The claimant was unwilling to undergo either options sic.
-> 
-> 19\. As of November 2018, the claimant was continuing to fully perform his service technician job duties and responsibilities.
-> 
-> 20\. On or about November 8, 2018, the claimant notified the employer that he was resigning from employment because he was no longer able to perform his job due to the physical health condition of his knees.
-> 
-> 21\. Prior to the claimant's resignation, he did not make any formal or written requests for workplace accommodations from either the employer's administrative or human resources staff members. During 2018, the claimant did not request intermittent leave via FMLA.
-> 
-> 22\. The claimant left this job due to personal health or medical reasons.
-> 
-> 23\. At the time the claimant left, the employer did have continuing service technician work available for him.
+1. The claimant filed an initial claim for unemployment insurance benefits on November 11, 2018.
+
+2. The claimant last worked for ADT LLC on November 16, 2018 as a service technician.
+
+3. The Adjudicator issued a determination under Issue No. 1669952 holding the claimant disqualified for benefits. The claimant appealed. Pursuant to N.C.G.S. § 96-15(c), this matter came before Appeals Referee Stephen McCracken on August 7, 2019. Present for the hearing: Frank Lennane, claimant; Joseph Chilton, claimant representative; Randall Goodson, employer witness and installation/service manager; Stephanie Morgan, employer witness and administrative team leader; Michael Curtis, employer representative. The employer's representative participated in the hearing via teleconference following a written request to participate by telephone due to a travel distance of more than 40 miles to the hearing location. Neither parties were prejudiced by the hybrid hearing.
+
+4. The claimant was employed by the above-captioned employer from February 1, 2012 until November 16, 2018.
+
+5. As a service technician for the employer, the claimant conducted service calls to the employer's residential and commercial customers with security or business alarm systems. Generally, service calls only require a part/component replacement and, generally, do not require a significant amount of physical activity. Although, a service call sometimes required some ladder climbing and crawling.
+
+6. At times, the claimant had to perform residential and commercial security system and alarm system installations. Installations require more physical work, such as more drilling, climbing, and crawling, than a service call.
+
+7. The claimant was aware of his job duties and responsibilities and was trained to perform both service calls and installation jobs.
+
+8. In 2014, the claimant injured his left knee while on the job. Said injury caused the claimant to undergo surgery. Following the claimant's surgery, the claimant began to favor his right knee, which resulted in the claimant experiencing regular pain in his right knee. The claimant had a permanent partial disability in his left knee.
+
+9. The claimant kept the employer informed of his physical health conditions.
+
+10. In 2016, service technicians began to perform installation jobs following a business merger and a merger of the employer's service and installation departments.
+
+11. The claimant had difficulty performing installations due to the poor physical conditions of his knees, of which he notified his manager. The claimant asked his manager if there were other jobs, such as administrative or clerical work, that in which sic he could apply for or be placed.
+
+12. The employer only had administrative positions in Spartanburg, South Carolina and Knoxville, Tennessee, and the claimant was unwilling to relocate from North Carolina.
+
+13. In 2017, the claimant took a five week leave of absence via the Family and Medical Leave Act (FMLA) to rest his knees and seek additional medical intervention.
+
+14. On or about September 5, 2017, the claimant returned to work from his medical leave. The claimant's doctor requested that the claimant not stand or walk for prolonged periods.
+
+15. The claimant asked his manager, Randall Goodson, if he could only be assigned service calls due to the less strenuous nature of those jobs. The claimant's manager denied the claimant's request because he needed to keep a fair balance of work distribution among all of the service technicians.
+
+16. However, the claimant's manager made attempts thereafter to not dispatch the claimant on the most strenuous or large installations.
+
+17. If the claimant had to be dispatched on a large installation, then manager Goodson would try to ensure that he (claimant) had another service technician available to assist him.
+
+18. In October 2018, the claimant had an appointment with a surgeon to discuss treatment for his knees. At which time, the claimant was told that he could undergo surgery or stem cell therapy. The claimant was unwilling to undergo either options sic.
+
+19. As of November 2018, the claimant was continuing to fully perform his service technician job duties and responsibilities.
+
+20. On or about November 8, 2018, the claimant notified the employer that he was resigning from employment because he was no longer able to perform his job due to the physical health condition of his knees.
+
+21. Prior to the claimant's resignation, he did not make any formal or written requests for workplace accommodations from either the employer's administrative or human resources staff members. During 2018, the claimant did not request intermittent leave via FMLA.
+
+22. The claimant left this job due to personal health or medical reasons.
+
+23. At the time the claimant left, the employer did have continuing service technician work available for him.
 
 Lennane argues that the findings of fact show that the employer's actions and inactions, not those of Lennane, caused him to leave work to protect his health. According to Lennane, the findings of fact show that his employer acted by changing his job duties by increasing the amount of installation work required for his position and failed to act by not implementing his request to only be assigned service calls. Lennane, like the dissent, advances the proposition that "_Ray_ compels a conclusion" that Lennane left work with good cause attributable to the employer. Lennane also contends that his unwillingness to relocate for an administrative position with his employer cannot support the conclusion of law that he left work without good cause attributable to the employer and relies on the Court of Appeals' decision in _Watson v. Employment Security Commission of North Carolina_.
 

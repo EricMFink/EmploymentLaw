@@ -19,7 +19,7 @@ chapter-title: Employee Health & Safety
 
 <div class="legal-code">
 
-#### § 2601 - Definitions
+##### § 2601 - Definitions
 
 **(2\) Eligible employee**
 
@@ -64,7 +64,7 @@ The term “serious health condition” means an illness, injury, impairment, or
 > (B\) continuing treatment by a health care provider.
 
 
-#### § 2602 - Leave requirement
+##### § 2602 - Leave requirement
 
 **(a\) In general**
 
@@ -83,110 +83,111 @@ The term “serious health condition” means an illness, injury, impairment, or
 > > (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
 > > 
 > > (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
+> 
+> **(4\) Combined leave total**
+> 
+> Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
-**(4\) Combined leave total**
 
-Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+##### § 2614 - Employment and benefits protection
 
+(a\) Restoration to position
 
-#### § 2614 - Employment and benefits protection
+> (1\) In general
+> 
+> Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
+> 
+> > (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
+> > 
+> > (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
+> 
+> (2\) Loss of benefits
+> 
+> The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
+> 
+> (3\) Limitations
+> 
+> Nothing in this section shall be construed to entitle any restored employee to—
+> 
+> > (A\) the accrual of any seniority or employment benefits during any period of leave; or
+> > 
+> > (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
+> 
+> (4\) Certification
+> 
+> As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
+> 
+> (5\) Construction
+> 
+> Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
 
-> (a\) Restoration to position
-> 
-> > (1\) In general
-> > 
-> > Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
-> > 
-> > > (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
-> > > 
-> > > (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
-> > 
-> > (2\) Loss of benefits
-> > 
-> > The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
-> > 
-> > (3\) Limitations
-> > 
-> > Nothing in this section shall be construed to entitle any restored employee to—
-> > 
-> > > (A\) the accrual of any seniority or employment benefits during any period of leave; or
-> > > 
-> > > (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
-> > 
-> > (4\) Certification
-> > 
-> > As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
-> > 
-> > (5\) Construction
-> > 
-> > Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
+(b\) Exemption concerning certain highly compensated employees
 
-#### § 2615 - Prohibited acts
+> (1\) Denial of restoration
+> 
+> An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
+> 
+> > (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
+> > 
+> > (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
+> > 
+> > (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
+> 
+> (2\) Affected employees
+> 
+> An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
 
-> (a\) Interference with rights
+(c\) Maintenance of health benefits
+
+> (1\) Coverage
 > 
-> > (1) Exercise of rights
+> Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
+> 
+> (2\) Failure to return from leave
+> 
+> The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
+> 
+> > (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
 > > 
-> > It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
+> > (B\) the employee fails to return to work for a reason other than—
 > > 
-> > (2\) Discrimination
-> > 
-> > It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
-> 
-> (b\) Interference with proceedings or inquiries
-> 
-> It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
-> 
-> > (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
-> > 
-> > (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
-> > 
-> > (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
-> 
-> (b\) Exemption concerning certain highly compensated employees
-> 
-> > (1\) Denial of restoration
+> > > (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
 > > > 
-> > An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
-> > 
-> > > (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
-> > > 
-> > > (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
-> > > 
-> > > (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
-> > 
-> > (2\) Affected employees
-> > 
-> > An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
+> > > (ii\)other circumstances beyond the control of the employee.
 > 
-> (c\) Maintenance of health benefits
+> (3\) Certification
 > 
-> > (1\) Coverage
+> > (A\) Issuance
 > > 
-> > Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
+> > An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
 > > 
-> > (2\) Failure to return from leave
-> > 
-> > The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
-> > 
-> > > (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
+> > > (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
 > > > 
-> > > (B\) the employee fails to return to work for a reason other than—
+> > > (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
 > > > 
-> > > > (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
-> > > > 
-> > > > (ii\)other circumstances beyond the control of the employee.
-> > 
-> > (3\) Certification
-> > 
-> > > (A\) Issuance
-> > > 
-> > > An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
-> > > > (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
-> > > > 
-> > > > (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
-> > > > 
-> > > > (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+> > > (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+
+##### § 2615 - Prohibited acts
+
+(a\) Interference with rights
+
+> (1) Exercise of rights
+> 
+> It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
+> 
+> (2\) Discrimination
+> 
+> It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
+
+(b\) Interference with proceedings or inquiries
+
+It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
+
+> (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
+> 
+> (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
+> 
+> (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
 </div>
 
@@ -353,7 +354,7 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 <div class="legal-code">
 
-#### § 12102 - Definition of disability
+##### § 12102 - Definition of disability
 
 As used in this chapter-number:
 
@@ -413,7 +414,7 @@ The definition of “disability” in paragraph (1) shall be construed in accord
 
 [ ... ] 
 
-#### § 12111 - Definitions
+##### § 12111 - Definitions
 
 As used in this subchapter-number:
 
@@ -459,7 +460,7 @@ The term “reasonable accommodation” may include—
 > > 
 > > (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
-#### § 12112 - Discrimination
+##### § 12112 - Discrimination
 
 **(a\) General rule**
 
@@ -645,7 +646,7 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 
 <div class="legal-code">
 
-#### § 651 - Congressional statement of findings and declaration of purpose and policy
+##### § 651 - Congressional statement of findings and declaration of purpose and policy
 
 (a\) The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
 
@@ -657,7 +658,7 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 > 
 > (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
-#### § 654 - Duties of employers and employees
+##### § 654 - Duties of employers and employees
 
 (a\) Each employer—
 
@@ -667,13 +668,13 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 
 (b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
-#### § 655 - Standards
+##### § 655 - Standards
 
 **(a\) Promulgation by Secretary of national consensus standards and established Federal standards; [ ...]**
 
 [T]he Secretary shall, [ … ], by rule promulgate as an occupational safety or health standard any national consensus standard, and any established Federal standard, unless he determines that the promulgation of such a standard would not result in improved safety or health for specifically designated employees. In the event of conflict among any such standards, the Secretary shall promulgate the standard which assures the greatest protection of the safety or health of the affected employees.
 
-#### § 657 - Inspections, investigations, and recordkeeping
+##### § 657 - Inspections, investigations, and recordkeeping
 
 **(a\) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner**
 
@@ -689,14 +690,13 @@ In order to carry out the purposes of this chapter, the Secretary, upon presenti
 > 
 > (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
 
-#### § 658 - Citations
+##### § 658 - Citations
 
 **(a\) Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations**
 
 If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title, of any standard, rule or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
 
-
-#### § 659 - Enforcement procedures
+##### § 659 - Enforcement procedures
 
 **(a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation; [ … ]**
 
@@ -710,7 +710,7 @@ If the Secretary has reason to believe that an employer has failed to correct a 
 
 If an employer notifies the Secretary that he intends to contest a citation issued under section 658(a) of this title or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under section 658(a) of this title, any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing [ … ]. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
 
-#### § 660 - Judicial review
+##### § 660 - Judicial review
 
 **(c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief**
 
@@ -720,7 +720,7 @@ If an employer notifies the Secretary that he intends to contest a citation issu
 > 
 > (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
-######  § 666 - Civil and criminal penalties
+#####  § 666 - Civil and criminal penalties
 
 **(a\) Willful or repeated violation**
 
@@ -763,7 +763,6 @@ The Commission shall have authority to assess all civil penalties provided in th
 For purposes of this section, a serious violation shall be deemed to exist in a place of employment if there is a substantial probability that death or serious physical harm could result from a condition which exists, or from one or more practices, means, methods, operations, or processes which have been adopted or are in use, in such place of employment unless the employer did not, and could not with the exercise of reasonable diligence, know of the presence of the violation.
 
 </div>
-
 
 #### Seaworld of Florida, LLC v. Perez, 748 F.3d 1202 (D.C. Cir. 2014) {#seaworld_v_perez}
 
@@ -919,29 +918,29 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 
 #### North Carolina Workers' Compensation Act, N.C. Gen. Stat. chap. 97, art. 1 {#nc_workers_compensation_act}
 
-<div class="statute>
+<div class="legal-code>
 
-#### § 97-2. Definitions.
+##### § 97-2. Definitions.
 
 When used in this Article, unless the context otherwise requires:
 
 (6) Injury. - "Injury and personal injury" shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except where it results naturally and unavoidably from the accident. With respect to back injuries, however, where injury to the back arises out of and in the course of the employment and is the direct result of a specific traumatic incident of the work assigned, "injury by accident" shall be construed to include any disabling physical injury to the back arising out of and causally related to such incident. Injury shall include breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for unless injury to them is incidental to a compensable injury.
 
-#### § 97-3. Presumption that all employers and employees have come under provisions of Article.
+##### § 97-3. Presumption that all employers and employees have come under provisions of Article.
 
 From and after January 1, 1975, every employer and employee, as hereinbefore defined and except as herein stated, shall be presumed to have accepted the provisions of this Article respectively to pay and accept compensation for personal injury or death by accident arising out of and in the course of his employment and shall be bound thereby.
 
-#### § 97-5. Presumption as to contract of service.
+##### § 97-5. Presumption as to contract of service.
 
 Every contract of service between any employer and employee covered by this Article, written or implied, now in operation or made or implied prior to July 1, 1929, shall, after that date, be presumed to continue, subject to the provisions of this Article; and every such contract made subsequent to that date shall be presumed to have been made subject to the provisions of this Article.
 
-#### § 97-10.1. Other rights and remedies against employer excluded.
+##### § 97-10.1. Other rights and remedies against employer excluded.
 
 If the employee and the employer are subject to and have complied with the provisions of this Article, then the rights and remedies herein granted to the employee, his dependents, next of kin, or personal representative shall exclude all other rights and remedies of the employee, his dependents, next of kin, or representative as against the employer at common law or otherwise on account of such injury or death. 
 
-#### § 97-10.2.  Rights under Article not affected by liability of third party; rights and remedies against third parties.
+##### § 97-10.2.  Rights under Article not affected by liability of third party; rights and remedies against third parties.
 
-> (a\) The right to compensation and other benefits under this Article for disability, disfigurement, or death shall not be affected by the fact that the injury or death was caused under circumstances creating a liability in some person other than the employer to pay damages therefor, such person hereinafter being referred to as the "third party." The respective rights and interests of the employee-beneficiary under this Article, the employer, and the employer's insurance carrier, if any, in respect of the common-law cause of action against such third party and the damages recovered shall be as set forth in this section.
+(a\) The right to compensation and other benefits under this Article for disability, disfigurement, or death shall not be affected by the fact that the injury or death was caused under circumstances creating a liability in some person other than the employer to pay damages therefor, such person hereinafter being referred to as the "third party." The respective rights and interests of the employee-beneficiary under this Article, the employer, and the employer's insurance carrier, if any, in respect of the common-law cause of action against such third party and the damages recovered shall be as set forth in this section.
 
 </div>
 
