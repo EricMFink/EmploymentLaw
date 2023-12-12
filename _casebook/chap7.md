@@ -918,13 +918,13 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 
 #### North Carolina Workers' Compensation Act, N.C. Gen. Stat. chap. 97, art. 1 {#nc_workers_compensation_act}
 
-<div class="legal-code>
+<div class="legal-code">
 
 ##### § 97-2. Definitions.
 
 When used in this Article, unless the context otherwise requires:
 
-(6) Injury. - "Injury and personal injury" shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except where it results naturally and unavoidably from the accident. With respect to back injuries, however, where injury to the back arises out of and in the course of the employment and is the direct result of a specific traumatic incident of the work assigned, "injury by accident" shall be construed to include any disabling physical injury to the back arising out of and causally related to such incident. Injury shall include breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for unless injury to them is incidental to a compensable injury.
+(6\) Injury. - "Injury and personal injury" shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except where it results naturally and unavoidably from the accident. With respect to back injuries, however, where injury to the back arises out of and in the course of the employment and is the direct result of a specific traumatic incident of the work assigned, "injury by accident" shall be construed to include any disabling physical injury to the back arising out of and causally related to such incident. Injury shall include breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for unless injury to them is incidental to a compensable injury.
 
 ##### § 97-3. Presumption that all employers and employees have come under provisions of Article.
 
