@@ -15,7 +15,7 @@ casebook: true
 
 <div class="chapter">
 
-<h1>Preface</h1>
+# Preface
 
 This book presents judicial opinions, statutes and regulations, and other material pertaining to the law governing employment and labor relations.  Topics covered include establishing an employment relationship; recruitment & hiring; supervisory control and employee autonomy; confidentiality & competition; wages & hours; employee health & workplace injuries; termination of employment; and the enforcement of employee rights.
 

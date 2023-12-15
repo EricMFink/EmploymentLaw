@@ -788,7 +788,7 @@ Starbucks also unlawfully banned Lindbergh employees from wearing Union t-shirts
 
 On August 15, the Lindbergh employees read aloud a letter in the café to assistant manager Brown and store manager Kinder, while wearing Union t-shirts. Employees alternated reading paragraphs, which complained about understaffing and other labor relations issues. On August 17, Barge wore her Union t-shirt again. This prompted this assistant manager Brown to warn her that the Union shirt was barred under the _Dress Code_ policy. On August 19, Barge, Moore, Gamache and Rohlf again wore their Union t-shirts to work. Store Managers Kinder and Tricia Dillon met with each of them and advised them that they were violating the _Dress Code_ policy. On September 24, the Lindbergh employees presented a strike notice to management. The strike protested a unilateral change in work hours and an unfair labor practice charge connected to bad faith bargaining. The strike ended at the close of the workday, with employees tendering their unconditional offer to return to work. 
 
-On September 28, i.e., just 4 days after the strike, Starbucks issued its first round of _Dress_ Code_ policy disciplines; they are summarized below:
+On September 28, i.e., just 4 days after the strike, Starbucks issued its first round of _Dress Code_ policy disciplines; they are summarized below:
 
 | **Employee**  | **Dress Code Violations**  | **Disciplinary Action**  |
 | --- | --- | --- |

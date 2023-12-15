@@ -487,7 +487,7 @@ In sum, we have found that the facts alleged in the Complaint would, if proven, 
 [^JohnsonA11]: (n.11 in opinion) The parties also disagree regarding whether the Complaint plausibly alleges that Plaintiffs are employees of the ASD using the test outlined in DialAmerica. Since we have determined that the Complaint plausibly alleges that Plaintiffs are employees of the ASD for purposes of the FLSA under the Glatt test, we need not address whether the Complaint also alleges that Plaintiffs are employees of the ASD under the DialAmerica test.
 
 
-## 2. Identifying Employers
+## Identifying Employers
 
 #### Ries v. McDonald's USA, LLC, No. 1:20-cv-2 (W.D. Mich. Dec. 6, 2021) {#ries-v-mcdonalds}
 

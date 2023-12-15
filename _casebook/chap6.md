@@ -224,7 +224,7 @@ and if (i\) the employee's average hourly earnings for the workweek exclusive of
 </div>
 --- 
 
-![Federal Minimum Wage, 1938-2021](../assets/materials/Wages_Hours/minimum-wage-inflation-adjusted.gif)
+![Federal Minimum Wage, 1938-2021](../img/minimum-wage-inflation-adjusted.gif)
  
 
 #### North Carolina Wage & Hour Act {#nc-wage-and-hour-act}
