@@ -8,6 +8,10 @@ affiliation: Elon Law School
 term: Winter 2024
 version: 2.0
 
+epigraph: Workin' 9 to 5, what a way to make a livin' \newline Barely gettin' by, it's all takin' and no givin' \newline They just use your mind and they never give you credit \newline It's enough to drive you crazy if you let it \newline 9 to 5, for service and devotion \newline You would think that I would deserve a fair promotion \newline Want to move ahead but the boss won't seem to let me \newline I swear sometimes that man is out to get me
+epigraph-author: Dolly Parton
+epigraph-source: 9 to 5
+
 casebook: true
 ---
 
