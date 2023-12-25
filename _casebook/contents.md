@@ -6,7 +6,7 @@ permalink: /casebook/contents/
 
 ---
 
-<a href='{{ site.baseurl }}/assets/pdf/EmploymentLawBook.pdf'><button class='button syllabus smaller'>PDF</button></a>
+<a href='../EmploymentBook.pdf'><button class='button syllabus smaller'>PDF</button></a>
 
 
 [Preface](../preface) 
