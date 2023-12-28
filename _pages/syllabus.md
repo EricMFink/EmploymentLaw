@@ -47,7 +47,7 @@ Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016). Dig
 
 ### Grading
 
-Your final grade for the term will be based on three problem assinments (25% each; 75% total) and your contributions to in-class discussion (25%). There will be no final exam or paper for this course.
+Your final grade for the term will be based on three problem assignments (25% each; 75% total) and your contributions to in-class discussion (25%). There will be no final exam or paper for this course.
 
 The graded problem assignments (from the _Developing Professional Skills_ workbook) and due dates are indicated in the "Schedule & Assignments" section of the syllabus. I will provide further information about each assignment in class before it is due. 
 
