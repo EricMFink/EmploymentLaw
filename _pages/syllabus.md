@@ -36,11 +36,11 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 [Employment Law: An Open-Source Casebook (Fink 2023)](../casebook) ("Casebook"). The casebook is posted online as part of the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw). A PDF copy is available for download on the [Table of Contents](https://www.emfink.net/EmploymentLaw/casebook/contents/) page. 
 
-Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2016) ("Workbook"). Digital version available at no cost through [West Academic Online Study Aids Collection](https://subscription.westacademic.com/).
+Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2017) ("Workbook"). 
 
 ### Suggested
 
-Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016). Digital version available at no cost through [West Academic Online Study Aids Collection](https://subscription.westacademic.com/).
+Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016). Digital version available at no cost through the [West Academic Online Study Aids Collection](https://subscription.westacademic.com/).
 
 
 ## Policies
