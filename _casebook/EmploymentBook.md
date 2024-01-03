@@ -17,7 +17,7 @@ casebook: true
 
 <!-- PREFACE -->
 
-<div class="chapter">
+<div class="preface">
 
 # Preface
 
