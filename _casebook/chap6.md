@@ -4,8 +4,6 @@ chapter-number: 6
 chapter-title: Wages & Hours
 ---
 
-<p class="chapter-number">Chapter 6</p>
-
 # Wages & Hours
 
 ## Legislative Regulation of Wages and Hours 

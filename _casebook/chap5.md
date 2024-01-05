@@ -4,8 +4,6 @@ chapter-number: 5
 chapter-title: Employee Duties to Employers
 ---
 
-<p class="chapter-number">Chapter 5</p>
-
 # Employee Duties to Employers
 
 ## Confidentiality

@@ -4,8 +4,6 @@ chapter-number: 7
 chapter-title: Employee Health & Safety 
 ---
 
-<p class="chapter-number">Chapter 7</p>
-
 # Employee Health & Safety
 
 ## Family & Medical Leave

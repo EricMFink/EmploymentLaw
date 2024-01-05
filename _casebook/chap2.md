@@ -4,8 +4,6 @@ chapter-number: 2
 chapter-title: Labor Organizing & Collective Bargaining 
 ---
 
-<p class="chapter-number">Chapter 2</p>
-
 # Labor Organizing & Collective Bargaining
 
 ## Collective Action as an Illegal Conspiracy 

@@ -4,8 +4,6 @@ chapter-number: 8
 chapter-title: Terminating Employment
 ---
 
-<p class="chapter-number">Chapter 8</p>
-
 # Terminating Employment
 
 ## Claims for Wrongful Termination {#wrongful-termination}

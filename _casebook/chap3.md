@@ -4,8 +4,6 @@ chapter-number: 3
 chapter-title: Establishing an Employment Relationship
 ---
 
-<p class="chapter-number">Chapter 3</p>
-
 # Establishing an Employment Relationship
 
 ## Identifying Employees
