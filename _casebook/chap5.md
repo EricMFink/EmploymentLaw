@@ -132,7 +132,7 @@ In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confiden
 
 ### Confidential Settlement Agreements  
 
-#### Zorn-Hill v. A2B Taxi, LLC, Nos. 19-CV-1058 & 18-CV-11165 (S.D.N.Y. September 17, 2020)
+#### Zorn-Hill v. A2B Taxi, LLC, Nos. 19-CV-1058 & 18-CV-11165 (S.D.N.Y. September 17, 2020) {#zorn-hill}
 
 ##### KENNETH M. KARAS, United States District Judge
 
@@ -178,7 +178,7 @@ The Court finds that the restriction on use of social media is impermissible. Si
 
 For the foregoing reasons, the Parties' request for approval of their Proposed Settlement is denied without prejudice. The Parties may reapply for approval of a settlement that eliminates or tailors the provision restricting use of social media.
 
-#### Maclaren Macomb, 372 NLRB No. 58 (Feb. 21, 2023)
+#### Maclaren Macomb, 372 NLRB No. 58 (Feb. 21, 2023) {#maclaren-macomb}
 
 The main issue presented is whether the Respondent violated Section 8(a)(1) of the National Labor Relations Act (Act) by offering a severance agreement to 11 bargaining unit employees it permanently furloughed. The agreement broadly prohibited them from making statements that could disparage or harm the image of the Respondent and further prohibited them from disclosing the terms of the agreement. Agreements that contain broad proscriptions on employee exercise of Section 7 rights have long been held unlawful because they purport to create an enforceable legal obligation to forfeit those rights. Proffers of such agreements to employee have also been held to be unlawfully coercive. The Board in _Baylor University Medical Center_ and _IGT d/b/a International Game Technology_ reversed this long-settled precedent and replaced it with a test that fails to recognize that unlawful provisions in a severance agreement proffered to employees have a reasonable tendency to interfere with, restrain, or coerce the exercise of employee rights under Section 7 of the Act. We accordingly overrule _Baylor_ and _IGT_ and, upon careful analysis of the terms of the nondisparagement and confidentiality provisions at issue here, we find them to be unlawful, and thus find the severance agreement proffered to employees unlawful.
 
@@ -246,7 +246,7 @@ The confidentiality provision would also prohibit the subject employee from disc
 
 <div class="comment">
 
-#### Note
+#### Note on Confidential Settlement Agreements {#note-on-confidential-settlements}
 
 Two states, California and Washington, have enacted legislation against provisions in settlement agreements that restrict disclosure of factual information related to sexual assault, sexual harassment, and other workplace discrimination and harassment. [Cal. Code of Civil Procedure, § 1001](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=&title=14.&part=2.&chapter=3.5.&article=); [Wash, Sess. Laws, Chapter 133, Laws of 2022](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1795-S.SL.pdf). The Washington law also applies to settlement agreements related to wage and hour violations. Similar legislation has been introduced in the U.S. Congress. Accountability for [Workplace Misconduct Act](https://www.govinfo.gov/app/details/BILLS-118hr4802ih), H.R. 4802. 
 
