@@ -101,7 +101,7 @@ Whatever illegal purpose can be found in the constitution of the Bootmakers' Soc
 
 ## Labor Injunctions and Yellow Dog Contracts 
 
-<div class-"comment">
+<div class="comment">
 
 In the early 20th century, employers turned to a new weapon against organized labor: the [Sherman Antitrust Act of 1890](https://www.law.cornell.edu/uscode/text/15/1),[^sherman1] which outlaws "conspiracies in restraint of trade or commerce among the several States". The Supreme Court endorsed the application of the Sherman Act against labor union activity in the Danbury Hatters' case, [_Loewe v. Lawlor_](https://scholar.google.com/scholar_case?case=14933135668531662668).[^loewe1] The case arose out of organizing efforts by the United Hatters of North America. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 union members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But the Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. 
 
@@ -160,7 +160,7 @@ Another legal strategy employers used against labor organizing was the "yellow d
 
 ## Legal Protection for Concerted Labor Activity
 
-<div class-"comment">
+<div class="comment">
 
 In the 1930s, the landscape of U.S. labor law changed dramatically with the passage of two federal statutes. 
 
