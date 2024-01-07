@@ -534,27 +534,27 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 (b) For the purposes of this section, an act that exceeds a person's authority to enter the nonpublic areas of another's premises is any of the following:
 
-> (1) An employee who enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization captures or removes the employer's data, paper, records, or any other documents and uses the information to breach the person's duty of loyalty to the employer.
-> 
-> (2) An employee who intentionally enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization records images or sound occurring within an employer's premises and uses the recording to breach the person's duty of loyalty to the employer.
-> 
-> (3) Knowingly or intentionally placing on the employer's premises an unattended camera or electronic surveillance device and using that device to record images or data.
-> 
-> (4) Conspiring in organized retail theft, as defined in Article 16A of Chapter 14 of the General Statutes.
-> 
-> (5) An act that substantially interferes with the ownership or possession of real property.
-> 
+- (1) An employee who enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization captures or removes the employer's data, paper, records, or any other documents and uses the information to breach the person's duty of loyalty to the employer.
+
+- (2) An employee who intentionally enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization records images or sound occurring within an employer's premises and uses the recording to breach the person's duty of loyalty to the employer.
+
+- (3) Knowingly or intentionally placing on the employer's premises an unattended camera or electronic surveillance device and using that device to record images or data.
+
+- (4) Conspiring in organized retail theft, as defined in Article 16A of Chapter 14 of the General Statutes.
+
+- (5) An act that substantially interferes with the ownership or possession of real property.
+
 (c) Any person who intentionally directs, assists, compensates, or induces another person to violate this section shall be jointly liable.
  
 (d) A court may award to a party who prevails in an action brought pursuant to this section one or more of the following remedies:
 
-> (1) Equitable relief.
-> 
-> (2) Compensatory damages as otherwise allowed by State or federal law.
-> 
-> (3) Costs and fees, including reasonable attorneys' fees.
-> 
-> (4) Exemplary damages as otherwise allowed by State or federal law in the amount of five thousand dollars ($5,000) for each day, or portion thereof, that a defendant has acted in violation of subsection (a) of this section.
+- (1) Equitable relief.
+
+- (2) Compensatory damages as otherwise allowed by State or federal law.
+
+- (3) Costs and fees, including reasonable attorneys' fees.
+
+- (4) Exemplary damages as otherwise allowed by State or federal law in the amount of five thousand dollars ($5,000) for each day, or portion thereof, that a defendant has acted in violation of subsection (a) of this section.
 
 (e) Nothing in this section shall be construed to diminish the protections provided to employees under Article 21 of Chapter 95 or Article 14 of Chapter 126 of the General Statutes, nor may any party who is covered by these Articles be liable under this section.
 
@@ -570,17 +570,19 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. [_People for the Ethical Treatment of Animals v. North Carolina Farm Bureau Federation, Inc._](https://scholar.google.com/scholar_case?case=9857645331694642470), 60 F.4th 815 (4th Cir. 2023). In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
 
-2\.Recall that in _Dalton v. Camp_, the North Carolina Supreme Court stated that "the federal district court in _Food Lion_ incorrectly interpreted our state case law" and held that, absent a fiduciary relationship between an employer and employee, "there is no basis for recognizing an independent tort claim for a breach of duty of loyalty". What implications does this have for claims under §§ 99-A-2(b)(1) & (2), which impose liability on employees who use information collected or recordings made without authorization "to breach the person's duty of loyalty to the employer"?
+2\. Recall that in _Dalton v. Camp_, the North Carolina Supreme Court stated that "the federal district court in _Food Lion_ incorrectly interpreted our state case law" and held that, absent a fiduciary relationship between an employer and employee, "there is no basis for recognizing an independent tort claim for a breach of duty of loyalty". What implications does this have for claims under §§ 99-A-2(b)(1) & (2), which impose liability on employees who use information collected or recordings made without authorization "to breach the person's duty of loyalty to the employer"?
 
 3\. § 99-A-2(e) excludes employee conduct that is protected under certain other state statutes from liability under § 99-A-2. N.C.G.S. chap. 95, art. 21 prohibits retaliation or discrimination against employees for filing claims, providing evidence, or other activity under N.C.G.S. chap. 97 (Workers' Compensation Act), N.C.G.S. chap. 95, art. 2A (Wage and Hour Act), N.C.G.S. chap 95, art. 16 (Occupational Safety and Health Act); N.C.G.S. chap. 74, art. 2A (Mine Safety and Health Act), (National Guard Reemployment Rights Act), N.C.G.S. art. 143, chap. 52 (Pesticide Board); N.C.G.S. chap. 90, art. 5F (Control of Potential Drug Paraphernalia Products); and N.C.G.S. §§ 95-28.1 & 95-28.1A (prohibiting discrimination based on certain medical traits and genetic information or testing). N.C.G.S. chap 126, art. 14 prohibits retaliation or discrimination against state employees for reporting illegal, fraudulent, or certain other improper activity by state agencies or employees. 
 
 However, the statute does not exempt employee conduct that is protected under federal law. The National Labor Relations Act protects concerted activity by employees regarding their terms and conditions of employment. This protection may apply to unauthorized recording of workplace conditions and communications, and to sharing the information recorded with co-workers and the public. Other federal laws also sometimes protect the use of unauthorized recordings to document illegal workplace conditions or activity, for example in connection with a complaint to a federal agency with investigatory or enforcement authority, or as evidence in an employee's lawsuit. 
 
-The NLRA generally preempts state law (criminal and civil) regulating or imposing liability for employee or employer conduct that is “arguably subject” to the NLRA. [_San Diego Building Trades Council v. Garmon_](https://scholar.google.com/scholar_case?case=4204950691768143719), 359 U.S. 236 (1959). This means that if an employer sues an employee or labor union for conduct that is arguably protected under Section 7, the court (state or federal) must normally dismiss the claim for lack of subject matter jurisdiction.[^preemption1] It is an unfair labor practice under § 8(a)(1) for an employer to bring such a preempted suit against an employee or union. [_Can-Am Plumbing, Inc._](https://scholar.google.com/scholar_case?case=9226620398790808405), 321 F. 3d 145 (D.C. Cir. 2003). 
+The NLRA generally preempts state law (criminal and civil) regulating or imposing liability for employee or employer conduct that is “arguably subject” to the NLRA.[^preemption1] This means that if an employer sues an employee or labor union for conduct that is arguably protected under Section 7, the court (state or federal) must normally dismiss the claim for lack of subject matter jurisdiction.[^preemption2] It is an unfair labor practice under § 8(a)(1) for an employer to bring such a preempted suit against an employee or union.[^preemption3] 
 
-[^preemption1]: 
+[^preemption1]: [_San Diego Building Trades Council v. Garmon_](https://scholar.google.com/scholar_case?case=4204950691768143719), 359 U.S. 236 (1959)
 
-  {-} There is an exception for claims involving matters of special state interest, such as trespassing or "conduct marked by violence and imminent threats to the public order". _Garmon_, 359 U.S. at 247. 
+[^preemption2]: There is an exception for claims involving matters of special state interest, such as trespassing or "conduct marked by violence and imminent threats to the public order". _Garmon_, 359 U.S. at 247. 
+
+[^preemption3]: [_Can-Am Plumbing, Inc._](https://scholar.google.com/scholar_case?case=9226620398790808405), 321 F. 3d 145 (D.C. Cir. 2003)
 
 </div>
 

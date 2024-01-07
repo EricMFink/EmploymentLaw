@@ -23,15 +23,15 @@ The Purdue position carried a salary of $3,300 per year and required only nine m
 On October 13, 1930, plaintiff, having received a telegram from Purdue University offering him the position and requiring immediate acceptance or rejection thereof, at once called an officer of defendant over the long-distance telephone informing him of the offer and the necessity on his part of making immediate response thereto. Defendant's officer agreed that if plaintiff would reject the Purdue offer and also agree to purchase the home of defendant's power superintendent it would give plaintiff permanent employment at a salary of $600 per month. Relying thereon, plaintiff rejected the Purdue offer and immediately thereafter moved to Grand Rapids and there entered upon the performance of his duties under this arrangement. He later entered into a contract for the purchase of the superintendent's home. Appropriate to note is the fact that these negotiations were entirely oral and over the long-distance telephone, plaintiff being at Minneapolis and defendant's officer at Grand Rapids. The only writing between the parties is a letter written on October 14, 1930, reading thus:
 
 > Blandin Paper Co. "Grand Rapids, Minn. "Attention: Mr. C.K. Andrews "Gentlemen:
-> 
+
 > In accordance with our conversation yesterday when our agreement was settled regarding my position with your company, I have wired Purdue rejecting their offer. Under the circumstances it was impossible for us to get together on a written agreement; I had to wire Purdue at once. However, I am making this move on the assumption that there will be no difficulty in working out our agreement when I get up to Grand Rapids.
-> 
+
 > Propositions like the one Purdue made are very rare and I am turning it down since I feel that the opportunities with you for applying my past experience are very attractive, the essential consideration being, however, that the job will be a permanent one.
-> 
+
 > According to the understanding we have, I am to take over Mr. Kull's duties as Power Superintendent and serve also as Mechanical Engineer for your plant, supervising the mechanical construction and maintenance work and other mechanical technical matters. Mr. Kull is to remain for long enough period, about six months, to permit me to get my work organized and get acquainted with the details of his work. If the proposed new construction work is started within that time it may develop that Mr. Kull may remain until that is completed after which he will leave and I take over his duties. As an accommodation to him when he leaves town I am to purchase his house.
-> 
+
 > My salary is to be six hundred dollars ($600.00) per month and you are to pay my moving expenses to Grand Rapids.
-> 
+
 > Very truly yours, "RS/m R. Skagerberg.
 
 Plaintiff rendered the services for which he was thus engaged "dutifully, faithfully and to the complete satisfaction of the defendant and was paid the agreed salary, except as to a voluntary reduction, up to September 1, 1932," when, so the complaint alleges, he was "wrongfully, unlawfully and wilfully" discharged from further employment, although "ready, willing and able to perform." By reason of the alleged breach of contract he claims to have suffered general damages in the amount of $25,000, and for this he prays judgment.
@@ -97,7 +97,7 @@ Plaintiff's claims in this regard are ably discussed and disposed of in _Minter 
 With regard to purchase of the superintendent's house, note should be made that in plaintiff's letter written the day following the alleged making of the contract he said:
 
 > According to the understanding we have I am to take over Mr. Kull's duties as Power Superintendent and serve also as Mechanical Engineer for your plant, supervising the mechanical construction and maintenance work and other mechanical technical matters. Mr. Kull is to remain for long enough period, about six months, to permit me to get my work organized and get acquainted with the details of his work. If the proposed new construction work is started within that time it may develop that Mr. Kull may remain until that is completed after which he will leave and I take over his duties.
-> 
+
 > As an accommodation to him when he leaves town I am to purchase his house.
 
 It is difficult to find anything in this language indicating a consideration for, going to, or in any way benefiting defendant to induce it to enter into such contract. Plaintiff's own statement is that "as an accommodation to Kull when he leaves town I am to purchase his house." How this could be of any material interest to or concern of defendant in view of plaintiff's own letter and stipulation is not apparent. Nowhere in the complaint is there any allegation that the purchase of the house from the superintendent in any way benefited defendant or damaged plaintiff. A man in plaintiff's position would necessarily be interested in acquiring a place of abode upon leaving Minneapolis for Grand Rapids. In the very nature of his requirements he entered into the purchase for his own use and accommodation rather than for any benefit to or advantage of defendant. Nowhere is there any suggestion that defendant was to furnish him with a place of abode or do anything whatever in respect of finding or providing such.
@@ -180,7 +180,7 @@ Recently one Court of Appeal has had occasion to confront the applicability of t
 > Two factors are of paramount importance in reaching our result. One is the longevity of service by plaintiff — 18 years of apparently satisfactory performance. Termination of employment without legal cause after such a period of time offends the implied-in-law covenant of good faith and fair dealing contained in all contracts, including employment contracts.
 >  
 > The second factor of considerable significance is the expressed policy of the employer set forth in the regulation referred to in the pleadings. This policy involves the adoption of specific procedures for adjudicating employee disputes such as this one. While the contents of the regulation are not before us, its existence compels the conclusion that this employer had recognized its responsibility to engage in good faith and fair dealing rather than in arbitrary conduct with respect to _all_ of its employees.
-> 
+
 > In the case at bench, we hold that the longevity of the employee's service, together with the expressed policy of the employer, operate as a form of estoppel, precluding any discharge of such an employee by the employer without good cause." 
 
 If "termination of employment without legal cause after 18 years of service offends the implied-in-law covenant of good faith and fair dealing contained in all contracts, including employment contracts," as the court said in the above-quoted portion of _Cleary,_ then a fortiori that covenant would provide protection to Pugh, whose employment is nearly twice that duration. Indeed, it seems difficult to defend termination of such a long-time employee arbitrarily, i.e., without _some_ legitimate reason, as compatible with either good faith or fair dealing.
@@ -319,9 +319,9 @@ The at-will rule has come under severe criticism from commentators who argue tha
 This Court has clearly announced its unwillingness to continue to adhere to rules regularly leading to the conclusion that an employer can fire an employee-at-will, with or without cause, for any reason whatsoever. Our holding in _Pierce v. Ortho Pharmaceutical Corp._, while necessarily limited to the specific issue of that case (whether employer can fire employee-at-will when discharge is contrary to a clear mandate of public policy), implied a significant questioning of that rule in general.
 
 > Commentators have questioned the compatibility of the traditional at will doctrine with the realities of modern economics and employment practices. The common law rule has been modified by the enactment of labor relations legislation. The National Labor Relations Act and other labor legislation illustrate the governmental policy of preventing employers from using the right of discharge as a means of oppression. Consistent with this policy, many states have recognized the need to protect employees who are not parties to a collective bargaining agreement or other contract from abusive practices by the employer.
-> 
+
 > This Court has long recognized the capacity of the common law to develop and adapt to current needs. The interests of employees, employers, and the public lead to the conclusion that the common law of New Jersey should limit the right of an employer to fire an employee at will.
-> 
+
 > In recognizing a cause of action to provide a remedy for employees who are wrongfully discharged, we must balance the interests of the employee, the employer, and the public. Employees have an interest in knowing they will not be discharged for exercising their legal rights. Employers have an interest in knowing that they can run their businesses as they see fit as long as their conduct is consistent with public policy. The public has an interest in employment stability and in discouraging frivolous lawsuits by dissatisfied employees.
 
 The spirit of this language foreshadows a different approach to these questions. No longer is there the unquestioned deference to the interests of the employer and the almost invariable dismissal of the contentions of the employee. Instead, as Justice Pollock so effectively demonstrated, this Court was no longer willing to decide these questions without examining the underlying interests involved, both the employer's and the employees', as well as the public interest, and the extent to which our deference to one or the other served or disserved the needs of society as presently understood.
@@ -390,9 +390,9 @@ Plaintiff employee brought an action for breach of employment contract and for w
 The depositions and other materials in the record demonstrate that, in 1985, plaintiff was employed at Burroughs Wellcome Company in Greenville, North Carolina, as a chemist testing pharmaceutical products. She held 11½ years of seniority, earned $22,000 a year, and received many company benefits. An employee of the defendant, Applied Analytical, Inc. ("AAI"), approached plaintiff about taking a chemist's position with AAI at a salary of $17,500-$18,500 per year. She declined the initial offers, but following negotiations, plaintiff accepted a position with defendant. One of the main topics discussed during the negotiations was plaintiff's need for job security. She informed defendant that if the job with AAI turned out to be unsatisfactory for either party, she would be unable to return to her job at Burroughs Wellcome, or any other pharmaceutical company, because she did not hold a four-year degree in chemistry. In response, the general manager at AAI discussed career growth with plaintiff and talked of plaintiff's future with the company in general terms. The letter from AAI's general manager confirming defendant's offer of employment stated:
 
 > This letter is to confirm in writing my verbal offer to you of a Chemist position at Applied Analytical Industries, with an initial annual salary of $17,500.00.
-> 
+
 > All of us at AAI are impressed with your qualifications and believe you can make significant contributions to our company. We hope you will accept our offer and believe you will find the position challenging and rewarding. As I indicated today during our telephone conversation, I believe the position which we are offering you will allow opportunities for your continued career growth in new areas involving method development for pharmaceutical dosage forms and bioanalytical assays for drugs in biological fluids.
-> 
+
 > We would appreciate a response to our offer by April 8, 1985.
 
 Plaintiff accepted defendant's offer and moved to Wilmington, North Carolina, where she began working for defendant in August 1985. In January, 1986, defendant granted plaintiff early tenure in the company, increased her salary by $2,000.00, and made her eligible for profit-sharing and a bonus. Plaintiff received positive evaluations from AAI supervisors after six months of employment, and again after one year with the company. On 14 November 1986, AAI's president, Frederick Sancilio, called plaintiff into his office and presented her with a letter of termination. The letter stated plaintiff was being discharged for low productivity and for bothering other employees. Plaintiff adamantly protested the grounds for termination, reluctantly signed the letter, packed her personal belongings, and left the same day.
@@ -428,15 +428,15 @@ The Court then determined:
 We find the facts below distinguishable from _Sides._ In _Sides,_ the defendant assured the plaintiff "both at her job interview and again when the job was offered to her that nurse anesthetists at the hospital could only be discharged for incompetence." In the case at bar, the plaintiff cannot point to any specific assurances given to her which compare to the assurances given to the plaintiff in _Sides_ that she would not be discharged except for "incompetence." The assurances upon which plaintiff here bases her breach of contract theory do not contain any specific terms or conditions, as in _Sides._ Plaintiff's deposition reveals:
 
 > Q. When you had your discussions with the general manager, did you tell him that you would not take the job unless you understood that you had a permanent position there?
-> 
+
 > A. Not in those particular words, but—
-> 
+
 > Q. What did you tell him?
-> 
+
 > A. —I feel like we established the fact that if I were leaving my job at Burroughs Wellcome then I was going into a job—well, he told me he felt like I could have some career growth there, that there were things that they wanted me to do in the future as far as their microbiology lab and at the time it didn't exist but they wanted me to help them with the microbiology lab.
-> 
+
 > And, we just talked about things that were far into the future that I couldn't just go to work there and just do.
-> 
+
 > And, he felt like I had a chance for some real career growth there and, you know, that it was for a permanent job.
 
 Furthermore, a reading of defendant's letter confirming plaintiff's employment indicates no assurances concerning the duration of plaintiff's employment or relating to the discharge policies of the company. The letter's reference to "continued career growth" does not suffice. Plaintiff can show no more than an offer of employment for an undetermined time. The trial court's entry of summary judgment on plaintiff's breach of contract claim was properly granted.
@@ -464,7 +464,7 @@ The question presented here is whether _Sides, Coman,_ and _McLaughlin,_ read to
 The federal courts sitting in North Carolina and applying North Carolina law to this issue are split on whether to allow bad faith discharge claims independent of public policy violations. One federal court in the Eastern District has specifically rejected the idea of permitting such a claim. In _English v. General Elec. Co._, the court refused to allow a plaintiff to maintain a bad faith discharge claim in the absence of an egregious public policy violation. The court reasoned:
 
 > Despite plaintiff's assertion that North Carolina recognizes a cause of action for bad faith discharge, the court finds that the present position of the North Carolina courts is more limited. Currently, the judicially-created exception to the general rule that employees are terminable at will extends only to cases where the discharge violates some well established public policy.
-> 
+
 > Clearly, the _Coman_ and _McLaughlin_ decisions contain language which could arguably lead to the adoption of a good faith requirement for discharge in future cases. However, _Coman_ and _McLaughlin_ are grounded solely on the premise that North Carolina has created a public policy exception to the employment at-will doctrine, and any suggestion in those cases that there is a broader prohibition against discharges in bad faith is purely dicta. Although plaintiff argues that North Carolina courts would now recognize an exception to the employment at-will doctrine for bad faith discharges, the North Carolina Supreme Court in commenting on the effect of _Coman_ stated that the employment at-will doctrine has "been _narrowly_ eroded by statutory and public policy limitations on its scope."
 
 Courts in the Middle District, however, have held that a bad faith exception to employment at will exists under certain circumstances. In _Iturbe v. Wandel & Goltermann Technologies, Inc._, the court upheld a plaintiff's claim for wrongful discharge based on two theories. First, the court allowed plaintiff's claim that she was wrongfully discharged in violation of the public policy against sex and ethnic discrimination. Second, the court ruled plaintiff had stated a claim of wrongful discharge based on bad faith where the defendant failed to follow personnel manual procedures when it discharged plaintiff.
@@ -529,9 +529,9 @@ The test for determining whether a motion for judgment notwithstanding the verdi
 In this case the jury was presented, and answered, the following crucial questions:
 
 > Before plaintiff, Kurtzman, accepted a position of employment with defendant, AAI, did AAI make specific assurances to him that he would be discharged from employment with AAI only for deficient performance?
-> 
+
 > ANSWER: Yes
-> 
+
 > Did the defendant, AAI, breach the employment contract by terminating the plaintiff, Kurtzman, without just cause?
 >
 > ANSWER: Yes
@@ -598,11 +598,11 @@ The standard of review for motions for directed verdict and for JNOV \[is\] that
 To prevail on a claim for intentional infliction of emotional distress, Texas law requires that the following four elements be established:
 
 > (1) that the defendant acted intentionally or recklessly;
-> 
+
 > (2) that the conduct was 'extreme and outrageous';
-> 
+
 > (3) that the actions of the defendant caused the plaintiff emotional distress; and
-> 
+
 > (4) that the emotional distress suffered by the plaintiff was severe.
 
 The sole issue before us is whether Monarch's conduct was "extreme and outrageous."
@@ -722,25 +722,25 @@ The legislature has exercised its article I, section 6 power to enact numerous s
 During its 2004 annual general session, the legislature enacted a chapter of the Utah Code known as the "Uniform Firearms Laws." Utah Code Ann. §§ 63-98-101, -102 (2004). This statute states:
 
 > (1\) The individual right to keep and bear arms being a constitutionally protected right under Article I, Section 6 of the Utah Constitution, the Legislature finds the need to provide uniform civil and criminal firearm laws throughout the state.
-> 
+
 > (2\) Except as specifically provided by state law, a local authority or state entity may not:
-> 
+
 > > (a\) prohibit an individual from owning, possessing, purchasing, selling, transferring, transporting, or keeping a firearm at the individual's place of residence, property, business, or in any vehicle lawfully in the individual's possession or lawfully under the individual's control; or
-> > 
-> (b\) require an individual to have a permit or license to purchase, own, possess, transport, or keep a firearm.
-> 
+
+> > (b\) require an individual to have a permit or license to purchase, own, possess, transport, or keep a firearm.
+
 > (3\) In conjunction with Title 76, Chapter 10, Part 5, Weapons, this section is uniformly applicable throughout this state and in all its political subdivisions and municipalities.
-> 
+
 > (4\) All authority to regulate firearms is reserved to the state except where the Legislature specifically delegates responsibility to local authorities or state entities.
-> 
+
 > (5\) Unless specifically authorized by the Legislature by statute, a local authority or state entity may not enact, establish, or enforce any ordinance, regulation, rule, or policy pertaining to firearms that in any way inhibits or restricts the possession or use of firearms on either public or private property.
-> 
+
 > (6\) As used in this section:
-> 
+
 > > (a\) "firearm" has the same meaning as defined in Subsection 76-10-501(9); and
-> > 
+
 > > (b\) "local authority or state entity" includes public school districts, public schools, and state institutions of higher education.
-> 
+
 > (7\) Nothing in this section restricts or expands private property rights.
 
 The statute was sponsored by Senator Michael Waddoups. During the floor debate on the bill, Senator Waddoups stated that the bill's sole purpose was to preempt efforts by the University of Utah to restrict the possession of firearms on its campus, in defiance of what Senator Waddoups understood to be a clear legislative mandate to the contrary. 
@@ -1291,39 +1291,39 @@ As Summit recognizes, Driskell’s “wrongful termination claim rises or falls 
 
 The following definitions apply in this Article:
 
-> (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
-> 
-> (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
+- (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
+- 
+- (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
 
 ##### § 95-241. Discrimination Prohibited
 
 (a\) No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to do any of the following:
 
-> (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
-> 
-> > a. Chapter 97 of the General Statutes.
-> > 
-> > b. Article 2A or Article 16 of this Chapter.
-> > 
-> > c. Article 2A of Chapter 74 of the General Statutes.
-> > 
-> > d. G.S. 95-28.1.
-> > 
-> > e. Article 16 of Chapter 127A of the General Statutes.
-> > 
-> > f. G.S. 95-28.1A.
-> > 
-> > g. Article 52 of Chapter 143 of the General Statutes.
-> > 
-> > h. Article 5F of Chapter 90 of the General Statutes.
-> 
-> (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
-> 
-> (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
-> 
-> (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
-> 
-> (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
+- (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
+
+	- a. Chapter 97 of the General Statutes.
+
+	- b. Article 2A or Article 16 of this Chapter.
+
+	- c. Article 2A of Chapter 74 of the General Statutes.
+
+	- d. G.S. 95-28.1.
+
+	- e. Article 16 of Chapter 127A of the General Statutes.
+
+	- f. G.S. 95-28.1A.
+
+	- g. Article 52 of Chapter 143 of the General Statutes.
+
+	- h. Article 5F of Chapter 90 of the General Statutes.
+
+- (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
+
+- (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
+
+- (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
+
+- (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
 
 (b\) It shall not be a violation of this Article for a person to discharge or take any other unfavorable action with respect to an employee who has engaged in protected activity as set forth under this Article if the person proves by the greater weight of the evidence that it would have taken the same unfavorable action in the absence of the protected activity of the employee.
 
@@ -1351,13 +1351,13 @@ The following definitions apply in this Article:
 
 (c\) The employee or the Commissioner may seek and the court may award any or all of the following types of relief:
 
-> (1\) An injunction to enjoin continued violation of this Article.
-> 
-> (2\) Reinstatement of the employee to the same position held before the retaliatory action or discrimination or to an equivalent position.
-> 
-> (3\) Reinstatement of full fringe benefits and seniority rights.
-> 
-> (4\) Compensation for lost wages, lost benefits, and other economic losses that were proximately caused by the retaliatory action or discrimination.
+- (1\) An injunction to enjoin continued violation of this Article.
+
+- (2\) Reinstatement of the employee to the same position held before the retaliatory action or discrimination or to an equivalent position.
+
+- (3\) Reinstatement of full fringe benefits and seniority rights.
+
+- (4\) Compensation for lost wages, lost benefits, and other economic losses that were proximately caused by the retaliatory action or discrimination.
 
 If in an action under this Article the court finds that the employee was injured by a willful violation of G.S. 95-241, the court shall treble the amount awarded under subdivision (4) of this subsection.
 
@@ -1520,33 +1520,33 @@ As a guide to the interpretation and application of this Chapter, the public pol
 
 (b\) Misconduct. - Misconduct connected with the work is either of the following:
 
-> (1\) Conduct evincing a willful or wanton disregard of the employer's interest as is found in deliberate violation or disregard of standards of behavior that the employer has the right to expect of an employee or has explained orally or in writing to an employee.
-> 
-> (2\) Conduct evincing carelessness or negligence of such degree or recurrence as to manifest an intentional and substantial disregard of the employer's interests or of the employee's duties and obligations to the employer.
+- (1\) Conduct evincing a willful or wanton disregard of the employer's interest as is found in deliberate violation or disregard of standards of behavior that the employer has the right to expect of an employee or has explained orally or in writing to an employee.
+
+- (2\) Conduct evincing carelessness or negligence of such degree or recurrence as to manifest an intentional and substantial disregard of the employer's interests or of the employee's duties and obligations to the employer.
 
 (c\) Examples. - The following examples are prima facie evidence of misconduct that may be rebutted by the individual making a claim for benefits:
 
-> (1\) Violation of the employer's written alcohol or illegal drug policy.
-> 
-> (2\) Reporting to work significantly impaired by alcohol or illegal drugs.
-> 
-> (3\) Consumption of alcohol or illegal drugs on the employer's premises.
-> 
-> (4\) Conviction by a court of competent jurisdiction for manufacturing, selling, or distributing a controlled substance punishable under G.S. 90-95(a)(1) or G.S. 90-95(a)(2) if the offense is related to or connected with an employee's work for the employer or is in violation of a reasonable work rule or policy.
-> 
-> (5\) Termination or suspension from employment after arrest or conviction for an offense involving violence, sex crimes, or illegal drugs if the offense is related to or connected with the employee's work for an employer or is in violation of a reasonable work rule or policy.
-> 
-> (6\) Any physical violence whatsoever related to the employee's work for an employer, including physical violence directed at supervisors, subordinates, coworkers, vendors, customers, or the general public.
-> 
-> (7\) Inappropriate comments or behavior toward supervisors, subordinates, coworkers, vendors, customers, or to the general public relating to any federally protected characteristic that creates a hostile work environment.
-> 
-> (8\) Theft in connection with the employment.
-> 
-> (9\) Forging or falsifying any document or data related to employment, including a previously submitted application for employment.
-> 
-> (10\) Violation of an employer's written absenteeism policy.
-> 
-> (11\) Refusal to perform reasonably assigned work tasks or failure to adequately perform employment duties as evidenced by no fewer than three written reprimands in the 12 months immediately preceding the employee's termination.
+- (1\) Violation of the employer's written alcohol or illegal drug policy.
+
+- (2\) Reporting to work significantly impaired by alcohol or illegal drugs.
+
+- (3\) Consumption of alcohol or illegal drugs on the employer's premises.
+
+- (4\) Conviction by a court of competent jurisdiction for manufacturing, selling, or distributing a controlled substance punishable under G.S. 90-95(a)(1) or G.S. 90-95(a)(2) if the offense is related to or connected with an employee's work for the employer or is in violation of a reasonable work rule or policy.
+
+- (5\) Termination or suspension from employment after arrest or conviction for an offense involving violence, sex crimes, or illegal drugs if the offense is related to or connected with the employee's work for an employer or is in violation of a reasonable work rule or policy.
+
+- (6\) Any physical violence whatsoever related to the employee's work for an employer, including physical violence directed at supervisors, subordinates, coworkers, vendors, customers, or the general public.
+
+- (7\) Inappropriate comments or behavior toward supervisors, subordinates, coworkers, vendors, customers, or to the general public relating to any federally protected characteristic that creates a hostile work environment.
+
+- (8\) Theft in connection with the employment.
+
+- (9\) Forging or falsifying any document or data related to employment, including a previously submitted application for employment.
+
+- (10\) Violation of an employer's written absenteeism policy.
+
+- (11\) Refusal to perform reasonably assigned work tasks or failure to adequately perform employment duties as evidenced by no fewer than three written reprimands in the 12 months immediately preceding the employee's termination.
 
 ##### § 96-14.7.  Other reasons to be disqualified from receiving benefits.
 
@@ -1555,7 +1555,6 @@ As a guide to the interpretation and application of this Chapter, the public pol
 (b\) Labor Dispute. - An individual is disqualified for benefits if the Division determines the individual's total or partial unemployment is caused by a labor dispute in active progress at the factory, establishment, or other premises at which the individual is or was last employed or by a labor dispute at another place within this State that is owned or operated by the employer that owns or operates the factory, establishment, or other premises at which the individual is or was last employed and that supplies materials or services necessary to the continued and usual operation of the premises at which the individual is or was last employed. An individual disqualified under the provisions of this subsection continues to be disqualified after the labor dispute has ceased to be in active progress for the period of time that is reasonably necessary and required to physically resume operations in the method of operating in use at the plant, factory, or establishment.
 
 </div>
-
 
 #### Jackson v. N.C. Department of Commerce, 775 S.E.2d 687 (N.C. Ct. App. 2015) {#jackson_v_dept_of_commerce}
 
@@ -1586,7 +1585,7 @@ In cases appealed from administrative tribunals, we review questions of law _de 
 A claimant is presumed to be entitled to unemployment benefits, but this is a rebuttable presumption, with the burden on the employer to show circumstances which would disqualify the claimant. An individual can be disqualified for employment benefits if they are determined to be terminated from employment for "misconduct connected with the work." N.C. Gen.Stat. § 96-14.6(a)(2013). "Misconduct" is defined as follows:
 
 > (1\) Conduct evincing a willful or wanton disregard of the employer's interest as is found in deliberate violation or disregard of standards of behavior that the employer has the right to expect of an employee or has explained orally or in writing to an employee.
-> 
+
 > (2\) Conduct evincing carelessness or negligence of such degree or recurrence as to manifest an intentional and substantial disregard of the employer's interests or of the employee's duties and obligations to the employer.
 
 N.C. Gen.Stat. § 96-14.6(b).[^Jackson4] The employer has the burden of showing the employee's disqualification from unemployment benefits on the basis of misconduct.
@@ -1594,9 +1593,9 @@ N.C. Gen.Stat. § 96-14.6(b).[^Jackson4] The employer has the burden of showing 
 The Board of Review determined that Petitioner was disqualified from receiving unemployment benefits because she was discharged from employment as a nursing assistant for work-related "misconduct," namely that she failed to report to a supervising nurse when a resident under her care fell and suffered a broken ankle. The trial court stated that only hearsay evidence supported the Board of Review's findings of fact concerning the fall and that, without these findings, the Board of Review's conclusion denying Petitioner unemployment benefits could not be sustained:
 
 > 3\. Claimant was discharged from this job for failing to report a fall by a resident.
-> 
+
 > 7\. At approximately 7 p.m., the resident had bruising and swelling on her right ankle and foot. The employer thought the resident had merely bumped her foot on something. However, as the employer began to ask questions of staff, she learned the resident had fallen while in the care of the claimant. Tabitha Hyatt, another certified nursing assistant had assisted the claimant with placing the resident back into her wheelchair. Ms. Hyatt wrote a statement for the employer which stated in pertinent part: that as she was walking up the hall, the claimant approached her and asked her for her help. Ms. Hyatt and the claimant walked to room 200. The resident was in the bathroom and the claimant asked Ms. Hyatt to help her get the resident up. The resident was on the floor when Ms. Hyatt entered the room. A copy of Ms. Hyatt's statement in its entirety is a part of the record and marked Commission exhibit 3H.
-> 
+
 > 10\. The resident's slip, even by claimant's explanation that she required assistant to put the resident back in her chair required reporting to the employer. The claimant was concerned about injury to the resident because she asked the resident if she was ok and noted that the resident did not complain of pain.
 
 Ms. Hyatt's statement says that she observed the resident on the floor. Ms. Dunaway testified for Employer that the resident was in Petitioner's care at the time of the incident and Petitioner never reported the fall to Employer. The unchallenged findings further state that it was Employer's policy that required all residents "to be assessed by a nurse prior to being picked up from the floor after a fall;" that "an employee may be discharged immediately when his presence or conduct constitutes a significant problem or when his conduct is detrimental to the residents;" and that "any physical abuse to residents will result in dismissal on the first offense." Petitioner waived any hearsay objections to Ms. Hyatt's statement and Ms. Hyatt's statement, along with corroborating testimony from Ms. Holloway, support the contested Board of Review's findings. We hold that these findings support the Board of Review's determination that Employer met its burden to show that Petitioner was discharged from her employment for "misconduct" and was properly denied benefits pursuant to N.C. Gen.Stat. § 96-14.6.

@@ -21,171 +21,171 @@ chapter-title: Employee Health & Safety
 
 **(2\) Eligible employee**
 
-> **(A\) In general**
-> 
-> The term “eligible employee” means an employee who has been employed—
-> 
-> > (i\) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
-> > 
-> > (ii\) for at least 1,250 hours of service with such employer during the previous 12-month period.
-> 
-> (B\) Exclusions
-> 
-> The term “eligible employee” does not include—
-> 
-> > (i\)  [ ... ]
-> > 
-> > (ii\) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
+- **(A\) In general**
+
+- The term “eligible employee” means an employee who has been employed—
+
+	- (i\) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
+
+	- (ii\) for at least 1,250 hours of service with such employer during the previous 12-month period.
+
+- (B\) Exclusions
+
+- The term “eligible employee” does not include—
+
+	- (i\)  [ ... ]
+
+	- (ii\) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
 
 **(4\) Employer**
 
-> (A\) In general
-> 
-> The term “employer”—
-> 
-> > (i\) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
-> > 
-> > (ii\) includes—
-> > 
-> > > (I\) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
-> > > 
-> > > (II\) any successor in interest of an employer;
-> > 
-> > [ ... ] 
+- (A\) In general
+
+- The term “employer”—
+
+	- (i\) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
+
+	- (ii\) includes—
+
+	- (I\) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
+
+	- (II\) any successor in interest of an employer;
+
+	- [ ... ] 
 
 **(11\) Serious health condition**
 
 The term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
 
-> (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
-> 
-> (B\) continuing treatment by a health care provider.
+- (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
+
+- (B\) continuing treatment by a health care provider.
 
 
 ##### § 2602 - Leave requirement
 
 **(a\) In general**
 
-> (1\) Entitlement to leave
-> 
-> Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:
-> 
-> > (A\) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
-> > 
-> > (B\) Because of the placement of a son or daughter with the employee for adoption or foster care.
-> > 
-> > (C\) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
-> > 
-> > (D\) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
-> > 
-> > (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
-> > 
-> > (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
-> 
-> **(4\) Combined leave total**
-> 
-> Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+- (1\) Entitlement to leave
+
+- Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:
+
+	- (A\) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
+
+	- (B\) Because of the placement of a son or daughter with the employee for adoption or foster care.
+
+	- (C\) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
+
+	- (D\) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
+
+	- (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
+
+	- (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
+
+- **(4\) Combined leave total**
+
+- Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
 
 ##### § 2614 - Employment and benefits protection
 
 (a\) Restoration to position
 
-> (1\) In general
-> 
-> Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
-> 
-> > (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
-> > 
-> > (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
-> 
-> (2\) Loss of benefits
-> 
-> The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
-> 
-> (3\) Limitations
-> 
-> Nothing in this section shall be construed to entitle any restored employee to—
-> 
-> > (A\) the accrual of any seniority or employment benefits during any period of leave; or
-> > 
-> > (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
-> 
-> (4\) Certification
-> 
-> As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
-> 
-> (5\) Construction
-> 
-> Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
+- (1\) In general
+
+- Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
+
+	- (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
+
+	- (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
+
+- (2\) Loss of benefits
+
+- The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
+
+- (3\) Limitations
+
+- Nothing in this section shall be construed to entitle any restored employee to—
+
+	- (A\) the accrual of any seniority or employment benefits during any period of leave; or
+
+	- (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
+
+- (4\) Certification
+
+- As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
+
+- (5\) Construction
+
+- Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
 
 (b\) Exemption concerning certain highly compensated employees
 
-> (1\) Denial of restoration
-> 
-> An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
-> 
-> > (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
-> > 
-> > (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
-> > 
-> > (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
-> 
-> (2\) Affected employees
-> 
-> An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
+- (1\) Denial of restoration
+
+- An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
+
+	- (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
+
+	- (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
+
+	- (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
+
+- (2\) Affected employees
+
+- An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
 
 (c\) Maintenance of health benefits
 
-> (1\) Coverage
-> 
-> Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
-> 
-> (2\) Failure to return from leave
-> 
-> The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
-> 
-> > (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
-> > 
-> > (B\) the employee fails to return to work for a reason other than—
-> > 
-> > > (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
-> > > 
-> > > (ii\)other circumstances beyond the control of the employee.
-> 
-> (3\) Certification
-> 
-> > (A\) Issuance
-> > 
-> > An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
-> > 
-> > > (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
-> > > 
-> > > (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
-> > > 
-> > > (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+- (1\) Coverage
+
+- Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
+
+- (2\) Failure to return from leave
+
+- The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
+
+	- (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
+
+	- (B\) the employee fails to return to work for a reason other than—
+
+	- (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
+
+	- (ii\)other circumstances beyond the control of the employee.
+
+- (3\) Certification
+
+	- (A\) Issuance
+
+	- An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
+
+	- (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
+
+	- (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
+
+	- (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 ##### § 2615 - Prohibited acts
 
 (a\) Interference with rights
 
-> (1) Exercise of rights
-> 
-> It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
-> 
-> (2\) Discrimination
-> 
-> It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
+- (1) Exercise of rights
+
+- It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
+
+- (2\) Discrimination
+
+- It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
 
 (b\) Interference with proceedings or inquiries
 
 It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
 
-> (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
-> 
-> (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
-> 
-> (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
+- (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
+
+- (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
+
+- (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
 </div>
 
@@ -360,55 +360,55 @@ As used in this chapter-number:
 
 The term “disability” means, with respect to an individual—
 
-> (A\) a physical or mental impairment that substantially limits one or more major life activities of such individual;
-> 
-> (B\) a record of such an impairment; or
-> 
-> (C\) being regarded as having such an impairment (as described in paragraph (3)) .
+- (A\) a physical or mental impairment that substantially limits one or more major life activities of such individual;
+
+- (B\) a record of such an impairment; or
+
+- (C\) being regarded as having such an impairment (as described in paragraph (3)) .
 
 (2\) Major life activities
 
-> (A\) In general
-> 
-> For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
-> 
-> (B\) Major bodily functions
-> 
-> For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
+- (A\) In general
+
+- For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
+
+- (B\) Major bodily functions
+
+- For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
 
 (3\) Regarded as having such an impairment
 
 For purposes of paragraph (1)(C):
 
-> (A\) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
-> 
-> (B\) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
+- (A\) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
+
+- (B\) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
 
 (4\) Rules of construction regarding the definition of disability
 
 The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
 
-> (A\) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
-> 
-> (B\) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
-> 
-> (C\) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
-> 
-> (D\) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
-> 
-> (E\) 
-> 
-> > (i\) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
-> > 
-> > > (I\) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses\) , prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
-> > > 
-> > > (II\) use of assistive technology;
-> > > 
-> > > (III\) reasonable accommodations or auxiliary aids or services; or
-> > > 
-> > > (IV\) learned behavioral or adaptive neurological modifications.
-> > 
-> > (ii\) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
+- (A\) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
+
+- (B\) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
+
+- (C\) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
+
+- (D\) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
+
+- (E\) 
+
+	- (i\) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
+
+		- (I\) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses\) , prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
+
+		- (II\) use of assistive technology;
+
+		- (III\) reasonable accommodations or auxiliary aids or services; or
+
+		- (IV\) learned behavioral or adaptive neurological modifications.
+
+	- (ii\) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
 
 [ ... ] 
 
@@ -436,27 +436,27 @@ The term “qualified individual” means an individual who, with or without rea
 
 The term “reasonable accommodation” may include—
 
-> (A\) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
-> 
-> (B\) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+- (A\) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
+
+- (B\) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
 
 **(10\) Undue hardship**
 
-> (A\) In general
-> 
-> The term “undue hardship” means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).
+- (A\) In general
 
-> (B\) Factors to be considered
-> 
-> In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—
-> 
-> > (i\) the nature and cost of the accommodation needed under this chapter;
-> > 
-> > (ii\) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
-> > 
-> > (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
-> > 
-> > (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
+- The term “undue hardship” means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).
+
+- (B\) Factors to be considered
+
+- In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—
+
+	- (i\) the nature and cost of the accommodation needed under this chapter;
+
+	- (ii\) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
+
+	- (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
+
+	- (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
 ##### § 12112 - Discrimination
 
@@ -650,19 +650,19 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 
 (b\) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
 
-> (1\) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
-> 
-> (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
-> 
-> (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
+- (1\) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
+
+- (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
+
+- (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
 ##### § 654 - Duties of employers and employees
 
 (a\) Each employer—
 
-> (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
-> 
-> (2\) shall comply with occupational safety and health standards promulgated under this chapter.
+- (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
+
+- (2\) shall comply with occupational safety and health standards promulgated under this chapter.
 
 (b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
@@ -678,15 +678,15 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 
 In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
 
-> (1\) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
-> 
-> (2\) to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee.
+- (1\) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
+
+- (2\) to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee.
 
 **(f\) Request for inspection by employees or representative of employees; [ … ]**
 
-> (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
-> 
-> (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
+- (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
+
+- (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
 
 ##### § 658 - Citations
 
@@ -712,11 +712,11 @@ If an employer notifies the Secretary that he intends to contest a citation issu
 
 **(c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief**
 
-> (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
-> 
-> (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
-> 
-> (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
+- (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
+
+- (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
+
+- (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
 #####  § 666 - Civil and criminal penalties
 
@@ -967,15 +967,15 @@ Defendants argue on appeal that the Industrial Commission erred by finding that 
 In the instant case, the Industrial Commission's findings of fact included, in relevant part, the following:
 
 > In August 1994, plaintiff became employed with defendant-employer as an in-home caregiver. As a caregiver, plaintiff had a variety of job duties relating to the care of clients. Plaintiff also was required to make meals for clients for breakfast, lunch and dinner as well as snacks, perform household chores such as cleaning and laundering, as well as transporting the client and grocery shopping if requested.
-> 
+
 > While working for defendant-employer plaintiff was assigned as a caregiver in the home of Ms. Nancy Withers.
-> 
+
 > On July 26, 1999, after assisting Ms. Withers out of bed and preparing her breakfast, plaintiff took Ms. Withers' dog outside and, while outside in the yard, plaintiff decided to pick a pear from the pear tree for herself and Ms. Withers. Plaintiff climbed into the tree to retrieve a pear and, as she was coming down, she fell from the tree.
-> 
+
 > Plaintiff regularly served fruit to Ms. Withers as a part of her job.
-> 
+
 > As an employee for defendant-employer, plaintiff was to provide services pursuant to a plan of care which authorized plaintiff to fix meals for Ms. Withers and to go grocery shopping.
-> 
+
 > Plaintiff's activities in obtaining and preparing food for Ms. Withers were in the course and scope of her employment with defendant-employer. The taking of the pear was thereby consistent with plaintiff's duties to acquire and prepare food for Ms. Withers.
 
 Because defendants do not assign as error any of the Industrial Commission's findings of fact, they are "conclusively established on appeal." 
