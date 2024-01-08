@@ -209,7 +209,7 @@ However, other material facts reveal that there was and still is a genuine dispu
 
 Of the remaining factors, some do not require further factfinding, while others still do. The fifth factor, degree of permanence of the working relationship, has genuine disputes of material fact. On one hand, Uber can take drivers offline, and on the other hand, Plaintiffs can drive whenever they choose to turn on the Driver App, with no minimum amount of driving time required.
 
-Alternatively, the fourth factor, whether the service rendered requires a special skill, is clearer. It is generally accepted that "driving" is not itself a "special skill." Although there may be a distinction between "driving" and "replicating the limousine experience," as noted by the District Court, it is not enough to overcome the presumption that driving is not a special skill. This fourth factor certainly weighs in favor of finding that Plaintiffs are employees.[^Razak12]
+Alternatively, the fourth factor, whether the service rendered requires a special skill, is clearer. It is generally accepted that "driving" is not itself a "special skill." Although there may be a distinction between "driving" and "replicating the limousine experience," as noted by the District Court, it is not enough to overcome the presumption that driving is not a special skill. This fourth factor certainly weighs in favor of finding that Plaintiffs are employees.
 
 ##### VII. Conclusion
 
@@ -222,8 +222,6 @@ In reviewing the District Court decision _de novo,_ we determine summary judgmen
 [^Razak10]: (n.10 in opinion) The District Court also considered "Plaintiffs investments in their own companies" as "relevant to the 'profit and loss' factor," as weighing "heavily in favor of 'independent contractor' status." But, as stated earlier, parties frame this issue differently and assert different facts—again showing that summary judgment was inappropriate. For example, Uber asserts that Plaintiff Razak's ITC Luxe Limousine Services, Inc. invested in up to sixteen vehicles and had as many as fourteen to seventeen drivers. And while Plaintiffs do not deny that they invested in their personal vehicles, which they use to provide UberBLACK rides, as discussed already, there is an inherent dispute regarding whether drivers are allowed to exercise judgment and select the farthest rides for the largest payment, as Uber determines which driver is given which rider.
 
 [^Razak11]: (n.11 in opinion) We also note that the District Court did not interpret whether Plaintiffs could in actuality exercise any managerial skill while being "online" to increase their profits, only that they could potentially choose to perform other jobs to make a greater profit.
-
-[^Razak12]: (n.12 in opinion) Lastly, the District Court found that the work UberBLACK drivers provide is integral to the service Uber renders under the sixth _DialAmerica_ factor. Simply put by the District Court, "it seems beyond dispute that if Uber could not find drivers, Uber would not be able to function." We acknowledge that Uber strenuously disputes this finding, insisting instead that it is a technology company that supports drivers' transportation businesses, and not a transportation company that employs drivers. We also believe this could be a disputed material fact that should be resolved by a fact-finder.
 
 ### Distinguishing Employees from Interns or Students 
 
