@@ -223,6 +223,48 @@ In reviewing the District Court decision _de novo,_ we determine summary judgmen
 
 [^Razak11]: (n.11 in opinion) We also note that the District Court did not interpret whether Plaintiffs could in actuality exercise any managerial skill while being "online" to increase their profits, only that they could potentially choose to perform other jobs to make a greater profit.
 
+#### U.S. Department of Labor, Employee or Independent Contractor Classification Under the Fair Labor Standards Act, 89 FR 1638 (Final Rule Jan. 10, 2024)
+
+<div class="legal-code">
+
+##### 29 CFR Part 795. 
+
+###### Introductory statement.
+
+This part contains the Department of Labor's (the Department) general interpretations for determining whether workers are employees or independent contractors under the Fair Labor Standards Act (FLSA or Act). These interpretations are intended to serve as a "practical guide to employers and employees" as to how the Department will seek to apply the Act. _Skidmore_ v. _Swift & Co.,_ 323 U.S. 134, 138 (1944). The Administrator of the Department's Wage and Hour Division will use these interpretations to guide the performance of their duties under the Act, unless and until the Administrator is otherwise directed by authoritative decisions of the courts or the Administrator concludes upon reexamination of an interpretation that it is incorrect. To the extent that prior administrative rulings, interpretations, practices, or enforcement policies relating to determining who is an employee or independent contractor under the Act are inconsistent or in conflict with the interpretations stated in this part, they are hereby rescinded. [ ... ]
+
+###### Determining employee or independent contractor classification under the FLSA.
+
+(a) _Relevance of independent contractor or employee status under the Act._ The Act's minimum wage, overtime pay, and recordkeeping obligations apply only to workers who are covered employees. Workers who are independent contractors are not covered by these protections. Labeling employees as "independent contractors" does not make these protections inapplicable. A determination of whether a worker is an employee or independent contractor under the Act focuses on the economic realities of the worker's relationship with the worker's potential employer and whether the worker is either economically dependent on the potential employer for work or in business for themself.
+
+(b) _Economic dependence as the ultimate inquiry._ An "employee" under the Act is an individual whom an employer suffers, permits, or otherwise employs to work. [29 U.S.C. § 203(e)(1)(g)](https://www.govinfo.gov/link/uscode/29/203). "Employer" is defined to "include\[ \] any person acting directly or indirectly in the interest of an employer in relation to an employee." [29 U.S.C. § 203(d)](https://www.govinfo.gov/link/uscode/29/203). The Act's definitions are meant to encompass as employees all workers who, as a matter of economic reality, are economically dependent on an employer for work. A worker is an independent contractor, as distinguished from an "employee" under the Act, if the worker is, as a matter of economic reality, in business for themself. Economic dependence does not focus on the amount of income the worker earns, or whether the worker has other sources of income.
+
+###### Economic reality test to determine economic dependence.
+
+(a) _Economic reality test._ 
+
+- (1) In order to determine economic dependence, multiple factors assessing the economic realities of the working relationship are used. These factors are tools or guides to conduct a totality-of-the-circumstances analysis. This means that the outcome of the analysis does not depend on isolated factors but rather upon the circumstances of the whole activity to answer the question of whether the worker is economically dependent on the potential employer for work or is in business for themself.
+
+- (2) The six factors described in paragraphs (b)(1) through (6) of this section should guide an assessment of the economic realities of the working relationship and the question of economic dependence. Consistent with a totality-of-the-circumstances analysis, no one factor or subset of factors is necessarily dispositive, and the weight to give each factor may depend on the facts and circumstances of the particular relationship. Moreover, these six factors are not exhaustive. As explained in paragraph (b)(7) of this section, additional factors may be considered.
+
+(b) _Economic reality factors_ 
+
+- (1) _Opportunity for profit or loss depending on managerial skill._ This factor considers whether the worker has opportunities for profit or loss based on managerial skill (including initiative or business acumen or judgment) that affect the worker's economic success or failure in performing the work. The following facts, among others, can be relevant: whether the worker determines or can meaningfully negotiate the charge or pay for the work provided; whether the worker accepts or declines jobs or chooses the order and/or time in which the jobs are performed; whether the worker engages in marketing, advertising, or other efforts to expand their business or secure more work; and whether the worker makes decisions to hire others, purchase materials and equipment, and/or rent space. If a worker has no opportunity for a profit or loss, then this factor suggests that the worker is an employee. Some decisions by a worker that can affect the amount of pay that a worker receives, such as the decision to work more hours or take more jobs when paid a fixed rate per hour or per job, generally do not reflect the exercise of managerial skill indicating independent contractor status under this factor.
+
+- (2) _Investments by the worker and the potential employer._ This factor considers whether any investments by a worker are capital or entrepreneurial in nature. Costs to a worker of tools and equipment to perform a specific job, costs of workers' labor, and costs that the potential employer imposes unilaterally on the worker, for example, are not evidence of capital or entrepreneurial investment and indicate employee status. Investments that are capital or entrepreneurial in nature and thus indicate independent contractor status generally support an independent business and serve a business-like function, such as increasing the worker's ability to do different types of or more work, reducing costs, or extending market reach. Additionally, the worker's investments should be considered on a relative basis with the potential employer's investments in its overall business. The worker's investments need not be equal to the potential employer's investments and should not be compared only in terms of the dollar values of investments or the sizes of the worker and the potential employer. Instead, the focus should be on comparing the investments to determine whether the worker is making similar types of investments as the potential employer (even if on a smaller scale) to suggest that the worker is operating independently, which would indicate independent contractor status.
+
+- (3) _Degree of permanence of the work relationship._ This factor weighs in favor of the worker being an employee when the work relationship is indefinite in duration, continuous, or exclusive of work for other employers. This factor weighs in favor of the worker being an independent contractor when the work relationship is definite in duration, non-exclusive, project-based, or sporadic based on the worker being in business for themself and marketing their services or labor to multiple entities. This may include regularly occurring fixed periods of work, although the seasonal or temporary nature of work by itself would not necessarily indicate independent contractor classification. Where a lack of permanence is due to operational characteristics that are unique or intrinsic to particular businesses or industries and the workers they employ, this factor is not necessarily indicative of independent contractor status unless the worker is exercising their own independent business initiative.
+
+- (4) _Nature and degree of control._ This factor considers the potential employer's control, including reserved control, over the performance of the work and the economic aspects of the working relationship. Facts relevant to the potential employer's control over the worker include whether the potential employer sets the worker's schedule, supervises the performance of the work, or explicitly limits the worker's ability to work for others. Additionally, facts relevant to the potential employer's control over the worker include whether the potential employer uses technological means to supervise the performance of the work (such as by means of a device or electronically), reserves the right to supervise or discipline workers, or places demands or restrictions on workers that do not allow them to work for others or work when they choose. Whether the potential employer controls economic aspects of the working relationship should also be considered, including control over prices or rates for services and the marketing of the services or products provided by the worker. Actions taken by the potential employer for the sole purpose of complying with a specific, applicable Federal, State, Tribal, or local law or regulation are not indicative of control. Actions taken by the potential employer that go beyond compliance with a specific, applicable Federal, State, Tribal, or local law or regulation and instead serve the potential employer's own compliance methods, safety, quality control, or contractual or customer service standards may be indicative of control. More indicia of control by the potential employer favors employee status; more indicia of control by the worker favors independent contractor status.
+
+- (5) _Extent to which the work performed is an integral part of the potential employer's business._ This factor considers whether the work performed is an integral part of the potential employer's business. This factor does not depend on whether any individual worker in particular is an integral part of the business, but rather whether the function they perform is an integral part of the business. This factor weighs in favor of the worker being an employee when the work they perform is critical, necessary, or central to the potential employer's principal business. This factor weighs in favor of the worker being an independent contractor when the work they perform is not critical, necessary, or central to the potential employer's principal business.
+
+- (6) _Skill and initiative._ This factor considers whether the worker uses specialized skills to perform the work and whether those skills contribute to business-like initiative. This factor indicates employee status where the worker does not use specialized skills in performing the work or where the worker is dependent on training from the potential employer to perform the work. Where the worker brings specialized skills to the work relationship, this fact is not itself indicative of independent contractor status because both employees and independent contractors may be skilled workers. It is the worker's use of those specialized skills in connection with business-like initiative that indicates that the worker is an independent contractor.
+
+- (7) _Additional factors._ Additional factors may be relevant in determining whether the worker is an employee or independent contractor for purposes of the FLSA, if the factors in some way indicate whether the worker is in business for themself, as opposed to being economically dependent on the potential employer for work.
+
+</div>
+
 ### Distinguishing Employees from Interns or Students 
 
 #### Wang v. Hearst Corp., 877 F.3d 69 (2d Cir. 2017) {#wang-v-hearst}
@@ -637,9 +679,11 @@ The district court rejected a similar argument in _Livers v. National Collegiate
 We conclude that the same is true in the case before us. In _North American Soccer League_, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club. In contrast, the Complaint in this case does not allege that the president of the NCAA is selected by and paid by the member schools, that any of the NASD are members of the NCAA D1 Committee on Infractions or the D1 Infractions Appeal Committee, or that any of the NASD are involved in day-to-day decision making in the NCAA D1. We conclude, accordingly, that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs under the "Sports League Joint Employment Theory" described in _North American Soccer League_. Based on this conclusion and our prior analysis under the Enterprise test, we further conclude that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs and, accordingly, that Plaintiffs lack standing to sue the NASD for violations of the FLSA. We thus grant the instant Motion to Dismiss as to Plaintiffs' FLSA claim in Count I of the Complaint as against the NASD.
 
 
-#### NLRB, Standard for Determining Joint-Employer Status, 87 FR 54641 (Oct. 27, 2023) {#nlrb-joint-employer-standard}
+#### NLRB, Standard for Determining Joint-Employer Status, 88 FR 73946 (Final Rule Oct. 27, 2023) {#nlrb-joint-employer-standard}
 
-##### Final Rule
+<div class="legal-code">
+
+##### The Final Rule 
 
 The joint-employer doctrine plays an important role in the administration of the Act. The doctrine determines when an entity that exercises control over particular employees' essential terms and conditions of employment has a duty to bargain with those employees' representative. It also determines such an entity's potential liability for unfair labor practices. The joint-employer analysis set forth in this final rule is based on common-law agency principles as applied in the particular context of the Act. In our considered view, the joint-employer standard that we adopt today removes artificial control-based restrictions with no foundation in the common law that the Board has previously imposed in cases beginning in the mid-1980s discussed above, and in the 2020 rule. By incorporating common-law agency principles, as the Act requires, the final rule appropriately aligns employers' responsibilities with respect to their employees with their authority to control those employees' essential terms and conditions of employment and so promotes the policy of the United States, as articulated in Section 1 of the Act, to encourage the practice and procedure of collective bargaining and to protect the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
@@ -695,11 +739,50 @@ As discussed above, some commenters have requested that the Board provide a conc
 
 On the other hand, the Board has also concluded that it serves a useful clarifying purpose to expressly provide, consistent with extant Board precedent not affected by the final rule, that where two or more entities each control terms and conditions of employment of particular employees, an employer is not required to bargain over any such terms and conditions which are in no way subject to its own control.
 
-###### I. Severability
+##### 29 CFR § 103.40. Joint Employers
 
-Section 103.40(i) provides that the provisions and subprovisions of the final rule are intended to be severable, and that if any part of the rule is held to be unlawful, the remainder of the rule is intended to remain in effect to the fullest extent permitted by law. The Board believes, on careful consideration, that the final rule in its entirety flows from and is consistent with common-law principles as we have received them from judicial authority; reflects a permissible exercise of the Board's congressionally delegated authority to interpret the Act; and best effectuates the Board's statutory responsibility to prevent unfair labor practices and to encourage the practice and procedure of collective bargaining. However, the Board necessarily acknowledges the possibility that a reviewing body might disagree with our conclusion in some respect, and, in that event, the Board desires to preserve so much of the rule as such a body approves. Separately, as noted above, the Board intends the action of rescinding the 2020 Rule in itself to be severable from any of the terms of the final rule, so that if a reviewing body were to disapprove the final rule in its entirety, the Board's action in rescinding the 2020 Rule should still be given effect.
+(a) An employer, as defined by section 2(2) of the National Labor Relations Act (the Act), is an employer of particular employees, as defined by section 2(3) of the Act, if the employer has an employment relationship with those employees under common-law agency principles.
+
+(b) For all purposes under the Act, two or more employers of the same particular employees are joint employers of those employees if the employers share or codetermine those matters governing employees' essential terms and conditions of employment.
+
+(c) To “share or codetermine those matters governing employees' essential terms and conditions of employment” means for an employer to possess the authority to control (whether directly, indirectly, or both), or to exercise the power to control (whether directly, indirectly, or both), one or more of the employees' essential terms and conditions of employment.
+
+(d) “Essential terms and conditions of employment” are
+
+- (1) Wages, benefits, and other compensation;
+
+- (2) Hours of work and scheduling;
+
+- (3) The assignment of duties to be performed;
+
+- (4) The supervision of the performance of duties;
+
+- (5) Work rules and directions governing the manner, means, and methods of the performance of duties and the grounds for discipline;
+
+- (6) The tenure of employment, including hiring and discharge; and 
+
+- (7) Working conditions related to the safety and health of employees.
+
+(e) Whether an employer possesses the authority to control or exercises the power to control one or more of the employees' essential terms and conditions of employment is determined under common-law agency principles. For the purposes of this section:
+
+- (1) Possessing the authority to control one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether control is exercised.
+
+- (2) Exercising the power to control indirectly (including through an intermediary) one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether the power is exercised directly.
+
+(f) Evidence of an entity's control over matters that are immaterial to the existence of an employment relationship under common-law agency principles and that do not bear on the employees' essential terms and conditions of employment is not relevant to the determination of whether the entity is a joint employer.
+
+(g) A party asserting that an employer is a joint employer of particular employees has the burden of establishing, by a preponderance of the evidence, that the entity meets the requirements set forth in paragraphs (a) through (f) of this section.
+
+(h) A joint employer of particular employees
+
+- (1) Must bargain collectively with the representative of those employees with respect to any term and condition of employment that it possesses the authority to control or exercises the power to control, regardless of whether that term or condition is deemed to be an essential term and condition of employment under this section for the purposes of establishing joint-employer status; but
+
+- (2) Is not required to bargain with respect to any term and condition of employment that it does not possess the authority to control or exercise the power to control.
+
+(i) The provisions of this section are intended to be severable. If any paragraph of this section is held to be unlawful, the remaining paragraphs of this section not deemed unlawful are intended to remain in effect to the fullest extent permitted by law.
 
 
+</div>
 
 
 
