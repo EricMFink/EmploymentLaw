@@ -652,11 +652,6 @@ This Court is not persuaded that the First Circuit's understanding of "extended 
 
 In any event, the circuit split on this issue is not dispositive here in light of the separate and independent basis for this Court's decision. Accordingly, because this Court found that Plaintiffs' time spent sleeping is not compensable on a separate basis, this Court need not resolve whether Plaintiffs resided on Defendants' premises for "extended periods of time" as required by 29 C.F.R. § 785.23.
 
-
-[^Clayton4]: (n.4 in opinion) There are two additional regulations pertaining to sleep time, 29 C.F.R. § 785.21 and 29 C.F.R. § 785.22, which the parties do not assert in this case. Under 29 C.F.R. § 785.21, employees on duty for less than 24 hours must be compensated for their time spent sleeping. Under 29 C.F.R. § 785.22, employees who work 24 hours or more may agree with their employers to exclude no more than eight hours of sleep from their hours worked.
-
-
-
 #### Modise v. CareOne Health Services, LLC, 638 F.Supp.3d 159 (D. Conn. Nov. 1, 2022) {#modise-v-careone-health-services}
 
 ##### Sarala V. Nagala, United States District Judge.
@@ -1081,7 +1076,7 @@ As detailed thoroughly herein, Tyler has not supplied the Court with any concret
 This is an action alleging claims under the Fair Labor Standards Act, 29 U.S.C. §§ 201 _et seq._ ("FLSA") and the North Carolina Wage and Hour Act, N.C. Gen. Stat. §§ 95-25.1 _et seq._ ("NCWHA"). Gaxiola is a former employee of defendants who was recruited in Mexico to work as a crab picker at defendants' seafood processing facility in Arapahoe, North Carolina. Gaxiola alleges that she and other individuals employed by defendants on H-2B guestworker visas from 2005 through 2008 were not paid minimum wage for all hours worked in violation of the FLSA. Specifically, Gaxiola alleges: (1) [^Glaxiola2] that she and other employees were paid on a piece-rate basis (by weight of crab picked) even when the weekly pay earned through a piece rate was less than the minimum wage mandated by federal law; and (2) that defendants reduced her wages and the wages of her coworkers below minimum wage by deducting from their paychecks costs incurred for the benefit of defendants, such as visa, transportation and border crossing expenses. Additionally, Gaxiola brings a claim pursuant to NCWHA alleging defendants failed to pay plaintiff and members of the proposed NCWHA class at least he promised wage each week in which they performed work for defendants. Gaxiola alleges that defendants also violated NCWHA by making unauthorized deductions from her pay and the pay of the proposed plaintiff class members for transportation, visa and border crossing expenses.
 
 [^Glaxiola2]:
-  {-} The court's discussion of the piece-rate claim appears in [§ 2: Minimum Wage](#minimum-wage). 
+  {-} The court's discussion of the piece-rate claim appears in § 2: Minimum Wage. 
 
 ##### STATEMENT OF THE FACTS
 

@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /EmploymentLaw
 title: Employment Law
 
-last_updated: 16 January 2024 # leave blank if you don't want to display last updated
+last_updated: 5 Febuary 2024 # leave blank if you don't want to display last updated
 
 author:
   name: Eric M. Fink
@@ -46,9 +46,6 @@ host: localhost
 port: 4000
 
 remote_theme: EricMFink/akademicky
-
-gems:
-  - jekyll-pandoc
 
 markdown: Pandoc
 pandoc:
