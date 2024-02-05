@@ -47,9 +47,6 @@ port: 4000
 
 remote_theme: EricMFink/akademicky
 
-#gems:
-#  - jekyll-pandoc
-
 markdown: Pandoc
 pandoc:
   extensions:
