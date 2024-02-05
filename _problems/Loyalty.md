@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: casebook
 title: "Discussion Problem: Duty of Loyalty"
 
 ---
