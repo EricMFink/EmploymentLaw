@@ -1,10 +1,6 @@
 ---
-layout: page
-date: 2021-02-12T12:53:00
-
-course: Employment Law
-title: Discussion Problem
-subtitle: Workers' Compensation 
+layout: casebook
+title: "Discussion Problem: Workers' Compensation"
 
 ---
 
