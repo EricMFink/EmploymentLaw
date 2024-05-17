@@ -1,7 +1,7 @@
 ---
 layout: casebook
 chapter-number: 9
-chapter-title: Enforcing Employee Rights
+title: Enforcing Employee Rights
 ---
 
 <p class="chapter-number">Chapter 9</p>

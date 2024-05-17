@@ -1,7 +1,6 @@
 ---
 layout: casebook
-chapter-number: 5
-chapter-title: Employee Duties to Employers
+title: Employee Duties to Employers
 ---
 
 # Employee Duties to Employers

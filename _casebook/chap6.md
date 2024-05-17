@@ -1,7 +1,6 @@
 ---
 layout: casebook
-chapter-number: 6
-chapter-title: Wages & Hours
+title: Wages & Hours
 ---
 
 # Wages & Hours
@@ -928,7 +927,7 @@ During her employment, Ms. Greene received a salary of between $45,000 and $48,5
 
 > Employer: Tyler Technologies
 
-> chapter-title: Implementation Consultant
+> title: Implementation Consultant
 
 > Duration: February 2016 — Present Job Duties
 

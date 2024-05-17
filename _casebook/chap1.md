@@ -1,7 +1,6 @@
 ---
 layout: casebook
-chapter-number: 1
-chapter-title: Employment as a Socio-Legal Relationship
+title: Employment as a Socio-Legal Relationship
 ---
 
 # Employment as a Socio-Legal Relationship

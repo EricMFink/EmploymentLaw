@@ -1,7 +1,6 @@
 ---
 layout: casebook
-chapter-number: 7
-chapter-title: Employee Health & Safety 
+title: Employee Health & Safety 
 ---
 
 # Employee Health & Safety

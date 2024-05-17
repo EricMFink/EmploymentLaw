@@ -1,7 +1,6 @@
 ---
 layout: casebook
-chapter-number: 8
-chapter-title: Terminating Employment
+title: Terminating Employment
 ---
 
 # Terminating Employment
