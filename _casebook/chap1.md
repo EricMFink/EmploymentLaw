@@ -11,7 +11,7 @@ title: Employment as a Socio-Legal Relationship
 
 When the United Stated embarked upon full-scale industrialization in the decades following the Civil War, American labor relations were a remnant of the ancient order, in the sense that arrangements established in England in previous centuries were carried forward and enforced in law, often with only slight modification, to form the framework of relations between American employers and their employees. 
 
-##### The order of labor 
+<p class="case-h1">The order of labor</p>
 
 At the most abstract level, "feudal" refers to the fact that the hierarchical relation of master and servant in nineteenth-century America was a remnant of the larger system of hierarchies that historically had extended up and down medieval society.
 
@@ -38,7 +38,7 @@ By the late nineteenth century, employers in the United States could sue workers
 [^Orren3]:
   {-} Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).
 
-##### The judicial governance of master and servant
+<p class="case-h1">The judicial governance of master and servant</p>
 
 The links between past and present may be observed in the line of precedents used by American judges to decide the disputes between masters and servants and third parties that came before the courts. … 
 
@@ -58,7 +58,7 @@ Judicial governance of labor relations in the nineteenth century may best be see
 
 This rule made it possible for employers to goad employees into quitting near the end of a term or pay period, and thereby benefit from their earlier labor without having to pay. But the "entire" contract principle was also basic to the full range of subject matters in dispute between nineteenth-century employers and employees, because very often other issues presented at law involved the question of whether or not a worker was entitled to, or had been unjustifiably denied, payment for his or her services. The principle was most important during the decades prior to the Civil War, when contracts definite as to term were more common than they would be later, but it retained its vitality after then as well, particularly with respect to salaried workers. The principle of hiring "at will," under which either party could terminate the contract for any reason, began to take hold in the 1880s; but in the meantime many courts continued to apply the English rule of an assumed annual hiring, or else held that the pay period (by the week, month, etc.) would determine the point at which back wages could be accrued and recovered. 
 
-##### The province of work 
+<p class="case-h1">The province of work</p>
 
 The principles of hierarchy and obedience imply the existence of jurisdictional boundaries within which authority is organized and enforced. ...
 
@@ -80,7 +80,7 @@ Under the rules of liability, ... employees stood in relation to one another as 
 
 Here the worker may be seen to have had less protection than members of the public at large against identical injuries caused by identical accidents. By virtue of one's status as an employee of the company in the course of whose business the injury occurred, one was unprotected against injuries for which the company would have assumed liability had they been inflicted on an ordinary member of the public. The evident injustice of the fellow-servant rule, which adversely affected the families and other associates of injured workers, as well as the workers themselves, would eventually lead to a major revolution in torts through the institution of workmen's compensation laws. Those laws would bring new inroads into the domain of master and servant. However, at a time when court decisions in other areas of the law were moving in the direction of universal contracts, the effect of workers' compensation laws was to enhance the status-based responsibilities of the employment relation. 
 
-##### The province and the republic 
+<p class="case-h1">The province and the republic</p>
 
 A final barrier against interference in the workplace was constitutional. Labor relations were bounded by the limits of legislative sovereignty. Regular payment of wages, and in money rather than scrip or credit; reasons for discharge, and wages due and service letters upon departure; removal of the fellow-servant defense against liability for injury; shorter hours of employment---these and other changes in the old law were obtained by workers and their political allies in legislation, through the activities of lobbying and elections. However, as is well known, in the majority of instances those statutes were overturned in review by the judiciary. 
 
@@ -92,7 +92,7 @@ The opinions in the labor decisions indicate that the judges believed that what 
 
 #### Haskins v. Royster, 70 N.C. 600 (1874) {#haskins-v-royster}
 
-##### Rodman, J. 
+<p class="case-h1">Rodman, J.</p>
 
 We take it to be a settled principle of law, that if one contracts upon a consideration to render personal services for another any third person who maliciously, that is, without a lawful justification, induces the party who contracted to render the service to refuse to do so, is liable to the injured party in an action for damages. It need scarcely be said that there is nothing in this principle inconsistent with personal freedom, else we would not find it in the laws of the freest and most enlightened States in the world. It extends impartially to every grade of service, from the most brilliant and best paid to the most homely, and it shelters our nearest and tenderest domestic relations from the interference of malicious intermeddlers. It is not derived from any idea of property by the one party in the other, but is an inference from the obligation of a contract freely made by competent persons.
 
@@ -143,7 +143,7 @@ We are of opinion that the complaint sets forth a sufficient cause of action.
 
 #### Pollock v. Williams, 322 U.S. 4 (1944) {#pollock-v-williams}
 
-##### MR. JUSTICE JACKSON delivered the opinion of the Court.
+<p class="case-h1">MR. JUSTICE JACKSON delivered the opinion of the Court.</p>
 
 Appellant Pollock questions the validity of a statute of the State of Florida making it a misdemeanor to induce advances with intent to defraud by a promise to perform labor and further making failure to perform labor for which money has been obtained _prima facie_ evidence of intent to defraud. It conflicts, he says, with the Thirteenth Amendment to the Federal Constitution and with the antipeonage statute enacted by Congress thereunder. Claims also are made under the due process and equal protection clauses of the Fourteenth Amendment which we find it unnecessary to consider.
 
@@ -155,7 +155,7 @@ The Circuit Court held the statutes under which the case was prosecuted to be un
 
 Florida advances no argument that the presumption section of this statute is constitutional, nor could it plausibly do so in view of our decisions. It contends, however, (1) that we can give no consideration to the presumption section because it was not in fact brought into play in the case, by reason of the plea of guilty; (2) that so severed the section denouncing the crime is constitutional.
 
-##### I.
+<p class="case-h1">I.</p>
 
 These issues emerge from an historical background against which the Florida legislation in question must be appraised.
 
@@ -173,7 +173,7 @@ These cases decided by this Court under the Act of 1867 came either from Florida
 
 In 1891, the Legislature created an offense of two elements: obtaining money or property upon a false promise to perform service, and abandonment of service without just cause and without restitution of what had been obtained. In 1905, this Court decided _Clyatt v. United States,_ indicating that any person, including public officers, even if acting under state law, might be guilty of violating the Federal Act. In 1907, the Florida Legislature enacted a new statute, nearly identical in terms with that of Alabama. In 1911, in _Bailey v. Alabama,_ this Court held such an act unconstitutional. In 1913, the Florida Legislature repealed the 1907 act, but re-enacted in substance the section denouncing the crime, omitting the presumption of intent from the failure to perform the service or make restitution. In 1919, the Florida Supreme Court held this act, standing alone, void under the authority of _Bailey v. Alabama._ Whereupon, at the session of 1919, the present statute was enacted, including the _prima facie_ evidence provisions, notwithstanding these decisions by the Supreme Court of Florida and by this Court. The Supreme Court of Florida later upheld a conviction under this statute on a plea of guilty, but declined to pass on the presumption section, because, as in the present case, the plea of guilty was thought to make its consideration unnecessary. The statute was re-enacted without substantial change in 1941. Again in 1943 it was re-enacted despite the fact that the year before we held a very similar Georgia statute unconstitutional in its entirety.
 
-##### II.
+<p class="case-h1">II.</p>
 
 The State contends that we must exclude the _prima facie_ evidence provision from consideration because in fact it played no part in producing this conviction. Such was the holding of the State Supreme Court. We are not concluded by that holding, however, but under the circumstances are authorized to make an independent determination.
 
@@ -189,7 +189,7 @@ As we have seen, Florida persisted in putting upon its statute books a provision
 
 In the view we take of the purpose and effect of this _prima facie_ evidence provision it is not material whether as matter of state law it is regarded as an independent and severable provision.
 
-##### III.
+<p class="case-h1">III.</p>
 
 We are induced by the evident misunderstanding of our decisions by the Florida Supreme Court, in what we are convinced was a conscientious and painstaking study of them, to make more explicit the basis of constitutional invalidity of this type of statute.
 
@@ -311,7 +311,7 @@ It is not my intention in this lecture to defend any particular model of worker 
 
 #### Workman v. United Parcel Service, Inc., 234 F.3d 998 (7th Cir. 2000) {#workman-v-ups}
 
-##### Posner, Circuit Judge
+<p class="case-h1">Posner, Circuit Judge</p>
 
 This is a diversity suit, governed by Indiana law and resolved in favor of the defendant on summary judgment, for breach of contract and promissory estoppel. The plaintiff is an employee of UPS who claims that the company made a binding promise not to demote him without just cause and broke its promise. 
 

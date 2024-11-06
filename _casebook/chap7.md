@@ -204,7 +204,7 @@ But the FMLA does not set up a clash of Titans between itself and workers' compe
 
 ##### I.
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 For nearly eleven years, Ramji worked as a housekeeper, cleaning patient-examination rooms, hallways, and bathrooms at Eastside Medical Center in Snellville, Georgia. Her daily tasks included mopping, sweeping, dusting, cleaning walls, removing trash, and making beds.
 
@@ -264,7 +264,7 @@ Under the FMLA, a covered employer may not interfere with, restrain, or deny the
 
 To establish an FMLA interference claim, an employee must show she was entitled to a benefit under the FMLA and her employer denied her that benefit. But a technical FMLA violation alone is not enough. Rather, the employee must also "demonstrate some harm" from the alleged interference, and that harm must be "remediable by either "damages' or 'equitable relief.'" Below, we address each of these requirements as they relate to Ramji's claim.
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 We begin by considering whether Ramji showed she was entitled to an FMLA benefit. To satisfy this requirement, an eligible employee must demonstrate that she sought leave for a qualifying reason and that she provided notice meeting certain criteria. 
 
@@ -288,7 +288,7 @@ Ramji contends that Hospital Housekeeping had real-time, sufficient notice of bo
 
 So taking the evidence in the light most favorable to Ramji, Ramji has established that she was entitled to an FMLA benefit. For that reason, Ramji meets the first element of an FMLA-interference claim.
 
-###### B.
+<p class="case-h1">"case-h2">B.</p>
 
 That brings us to the second element of an FMLA interference claim—whether Ramji demonstrated that Hospital Housekeeping denied her a leave benefit under the FMLA. 
 
@@ -308,7 +308,7 @@ So once Dr. Harkins cleared Ramji for a light-duty position instead of the same 
 
 And even assuming Hospital Housekeeping had the best of intentions in adopting a wait-and-see approach after Ramji's September 23 follow-up appointment, an "employer's motives are irrelevant" under the FMLA. We also find no basis to conclude that this reason for Hospital Housekeeping's delay qualifies as an extenuating circumstance justifying its failure to provide Ramji with notice within the five-day period. 29 C.F.R. § 825.300(b)(1). Because Hospital Housekeeping did not give Ramji any FMLA notice whatsoever, it did not satisfy its FMLA notice obligations under 29 C.F.R. § 825.300(b)(1) and (c)(1). It therefore denied her a leave benefit under the FMLA, so Ramji established the second element of the FMLA interference claim.
 
-###### C.
+<p class="case-h1">"case-h2">C.</p>
 
 Finally, we must determine whether Ramji can demonstrate harm, or prejudice, resulting from the employer's interference with her exercise (or attempted exercise) of an FMLA benefit to which she is entitled. An employee may obtain relief for interference with an FMLA right only if she "has been prejudiced by the violation." So an employee must show that the FMLA violation caused her to suffer injury that could be remedied in a way that the FMLA allows: damages or equitable relief.
 
@@ -533,7 +533,7 @@ Mr. Frilando also has not proven that Defendants' preemployment exams do not int
 
 The Court's review of the evidence related to the exams — including a review of one of the current examinations — convinces the Court that the tests not only purport to measure English comprehension and expression, but also do in fact function as English comprehension and expression tests. For instance, certain exam questions test only whether applicants can read signs to write accurate reports. Because the exams plainly purport to and do measure comprehension of written English and Mr. Frilando's proposed accommodation would eliminate that very skill, Mr. Frilando cannot prove that Defendants discriminated against him in test selection or administration within the meaning of 42 U.S.C. § 12112(a).
 
-###### Good-Faith Interactive Process
+<p class="case-h1">"case-h2">Good-Faith Interactive Process</p>
 
 Separate from the above, Mr. Frilando claims that Defendants can be held independently liable for failure to engage in an interactive process to assess his needs. Although federal, city, and state laws envision that employers will "engage in a good faith interactive process that assesses the needs of the disabled individual and the reasonableness of the accommodation requested," the precedents are clear that failure to engage in a good-faith interactive process is evidence tending to show disability discrimination, not an independent cause of action. 
 
@@ -789,7 +789,7 @@ SeaWorld contests only the second and fourth elements regarding recognized hazar
 
 The court must uphold the Commission's decision unless it is "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law." The factual findings of the Commission, "if supported by substantial evidence on the record considered as a whole, shall be conclusive." 29 U.S.C. § 660(a). Under this standard, the court must "uphold Commission findings so long as there is 'such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.'" Likewise, the court "must accept the ALJ's credibility determinations unless they are patently unsupportable." The court will "defer to the Secretary's interpretation of the Act and regulations, upholding such interpretations so long as they are consistent with the statutory language and otherwise reasonable." 
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 Whether a work condition poses a recognized hazard is a question of fact. Substantial evidence supports the finding that "drywork" and "waterwork" with killer whales were recognized hazards. Tilikum is a 32-year-old male killer whale with known aggressive tendencies who in 1991 killed a whale trainer at a marine park in Vancouver, British Columbia. SeaWorld had established special protocols for Tilikum, which prohibited "waterwork" and, among other things, required non-killer whale personnel and guests to stay five feet behind pool walls or three feet from Tilikum's head, indicating that SeaWorld recognized the possibility of harm to people standing outside of the pool on land. Although "drywork" with Tilikum continued, SeaWorld limited it to a team of experienced trainers who used extra caution. The caution with which SeaWorld treated Tilikum even when trainers were poolside or on "slideouts" in the pool indicates that it recognized the hazard the killer whale posed, not that it considered its protocols rendered Tilikum safe.
 
@@ -809,7 +809,7 @@ SeaWorld's suggestion that because trainers "formally accepted and controlled th
 
 The Secretary and the Commission could also reasonably determine that the remedy does not go to the essence of SeaWorld's productions. SeaWorld has had no "waterwork" performances since Ms. Brancheau's death in 2010, and it temporarily suspended "waterwork" after other incidents, such as the killing of a trainer by a killer whale in 2009 at a nonSeaWorld park in Spain. With distance and physical barriers between Tilikum and trainers during drywork, Tilikum can still perform almost the same behaviors performed when no barriers were present. The nature of SeaWorld's workplace and the unusual nature of the hazard to its employees performing in close physical contact with killer whales do not remove SeaWorld from its obligation under the General Duty Clause to protect its employees from recognized hazards.
 
-###### C.
+<p class="case-h1">"case-h2">C.</p>
 
 Substantial evidence supports the ALJ's findings that it was feasible for SeaWorld to abate the hazard to its employees by using barriers or minimum distance between trainers and killer whales, most notably because SeaWorld has implemented many of these measures on its own. When an employer has existing safety procedures, the burden is on the Secretary to show that those procedures are inadequate. The record evidence showed that SeaWorld's training and protocols did not prevent continued incidents, including the submerging and biting of one trainer in 2006, the killing of a trainer by a SeaWorld-trained and — owned killer whale in 2009 at an amusement park in Spain, and Ms. Brancheau's death in 2010. SeaWorld employees repeatedly acknowledged the unpredictability of its killer whales. This record evidence supports the ALJ's finding that existing protocols were inadequate to eliminate or materially reduce the hazard to SeaWorld's trainer employees performing with killer whales.
 
@@ -817,7 +817,7 @@ Abatement is "feasible" when it is "economically and technologically capable of 
 
 To the extent SeaWorld suggests that veterinary care would be less effective and dangers to trainers from killer whales might increase absent close contact during performances, this issue is not properly before the court. SeaWorld's petition to the Commission for review did not include this issue, and SeaWorld presents no extraordinary circumstances to excuse its failure to do so. The court, therefore, lacks jurisdiction to consider it. 
 
-###### D.
+<p class="case-h1">"case-h2">D.</p>
 
 Facial challenges to the general duty clause have been rejected, and although an as-applied challenge would be possible, courts have long accommodated possible constitutional problems with fair notice in this context by interpreting "recognized hazard" only to include preventable hazards, or applying the clause only "when a reasonably prudent employer in the industry would have known that the proposed method of abatement was required," 
 
@@ -864,7 +864,7 @@ Nothing in the Act suggests that those few employees who have to face this dilem
 
 The question before us is whether this interpretative regulation constitutes a permissible gloss on the Act by the Secretary, in light of the Act's language, structure, and legislative history. Our inquiry is informed by an awareness that the regulation is entitled to deference unless it can be said not to be a reasoned and supportable interpretation of the Act. 
 
-###### A
+<p class="case-h1">"case-h2">A</p>
 
 The regulation clearly conforms to the fundamental objective of the Act—to prevent occupational deaths and serious injuries. The Act, in its preamble, declares that its purpose and policy is "to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to _preserve_ our human resources.." 29 U.S.C. § 651(b). 
 
@@ -874,7 +874,7 @@ Moreover, the Secretary's regulation can be viewed as an appropriate aid to the 
 
 The regulation thus on its face appears to further the over-riding purpose of the Act, and rationally to complement its remedial scheme. In the absence of some contrary indication in the legislative history, the Secretary's regulation must, therefore, be upheld, particularly when it is remembered that safety legislation is to be liberally construed to effectuate the congressional purpose.
 
-###### B
+<p class="case-h1">"case-h2">B</p>
 
 In urging reversal of the judgment before us, the petitioner relies primarily on two aspects of the Act's legislative history.
 
@@ -906,7 +906,7 @@ As we read the pertinent legislative history, however, the petitioner misconceiv
 
 Neither of these congressional concerns is implicated by the regulation before us. The regulation accords no authority to Government officials. It simply permits private employees of a private employer to avoid workplace conditions that they believe pose grave dangers to their own safety. The employees have no power under the regulation to order their employer to correct the hazardous condition or to clear the dangerous workplace of others. Moreover, any employee who acts in reliance on the regulation runs the risk of discharge or reprimand in the event a court subsequently finds that he acted unreasonably or in bad faith. The regulation, therefore, does not remotely resemble the legislation that Congress rejected.
 
-###### C
+<p class="case-h1">"case-h2">C</p>
 
 For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by the Secretary in the valid exercise of his authority under the Act. Accordingly, the judgment of the Court of Appeals is affirmed.
 

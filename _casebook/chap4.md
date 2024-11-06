@@ -11,7 +11,7 @@ title: Scope & Limits of Employer Control
 
 #### K-Mart Corp. Store No. 7441 v. Trotti, 677 S.W.2d 632 (Tex. App. 1984) {#kmart-v-trotti}
 
-##### BULLOCK, Justice.
+<p class="case-h1">BULLOCK, Justice.</p>
 
 K-Mart Corporation appeals from a judgment awarding the appellee, Trotti, $8,000.00 in actual damages and $100,000.00 in exemplary damages for invasion of privacy.
 
@@ -68,7 +68,7 @@ The record indicates, particularly through the appellants' subsequent denial of 
 
 #### Stengart v. Loving Care Agency, Inc., 990 A.2d 650 (N.J. 2010) {#stengart-v-loving-care-agency}
 
-##### Chief Justice RABNER delivered of the opinion of the Court.
+<p class="case-h1">Chief Justice RABNER delivered of the opinion of the Court.</p>
 
 In the past twenty years, businesses and private citizens alike have embraced the use of computers, electronic communication devices, the Internet, and e-mail. As those and other forms of technology evolve, the line separating business from personal activities can easily blur.
 
@@ -82,7 +82,7 @@ The trial court ruled that, in light of the company's written policy on electron
 
 We hold that, under the circumstances, Stengart could reasonably expect that e-mail communications with her lawyer through her personal account would remain private, and that sending and receiving them via a company laptop did not eliminate the attorney-client privilege that protected them. By reading e-mails that were at least arguably privileged and failing to notify Stengart promptly about them, Loving Care's counsel breached _RPC_ 4.4(b). We therefore modify and affirm the judgment of the Appellate Division and remand to the trial court to determine what, if any, sanctions should be imposed on counsel for Loving Care.
 
-##### I.
+<p class="case-h1">I.</p>
 
 This appeal arises out of a lawsuit that plaintiff-respondent Marina Stengart filed against her former employer, defendant-appellant Loving Care, its owner, and certain board members and officers of the company. She alleges, among other things, constructive discharge because of a hostile work environment, retaliation, and harassment based on gender, religion, and national origin, in violation of the New Jersey Law Against Discrimination. Loving Care denies the allegations and suggests they are an attempt to escape certain restrictive covenants that are the subject of a separate lawsuit.
 
@@ -122,17 +122,17 @@ The Appellate Division also concluded that the Firm breached its obligations und
 
 We granted Loving Care's motion for leave to appeal and ordered a stay pending the outcome of this appeal.
 
-##### II.
+<p class="case-h1">II.</p>
 
 Loving Care argues that its employees have no expectation of privacy in their use of company computers based on the company's Policy. In its briefs before this Court, the company also asserts that by accessing e-mails on a personal account through Loving Care's computer and server, Stengart either prevented any attorney-client privilege from attaching or waived the privilege by voluntarily subjecting her e-mails to company scrutiny. Finally, Loving Care maintains that its counsel did not violate _RPC_ 4.4(b) because the e-mails were left behind on Stengart's company computer—not "inadvertently sent," as per the _Rule_—and the Firm acted in the good faith belief that any privilege had been waived.
 
 Stengart argues that she intended the e-mails with her lawyer to be confidential and that the Policy, even if it applied to her, failed to provide adequate warning that Loving Care would save on a hard drive, or monitor the contents of, e-mails sent from a personal account. Stengart also maintains that the communications with her lawyer were privileged. When the Firm encountered the arguably protected e-mails, Stengart contends it should have immediately returned them or sought judicial review as to whether the attorney-client privilege applied.
 
-##### III.
+<p class="case-h1">III.</p>
 
 Our analysis draws on two principal areas: the adequacy of the notice provided by the Policy and the important public policy concerns raised by the attorney-client privilege. Both inform the reasonableness of an employee's expectation of privacy in this matter. We address each area in turn.
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 We start by examining the meaning and scope of the Policy itself. The Policy specifically reserves to Loving Care the right to review and access "all matters on the company's media systems and services at any time." In addition, e-mail messages are plainly "considered part of the company's business records."
 
@@ -144,7 +144,7 @@ The Policy goes on to declare that e-mails "are not to be considered private or 
 
 The scope of the written Policy, therefore, is not entirely clear.
 
-###### B.
+<p class="case-h1">"case-h2">B.</p>
 
 The policies underlying the attorney-client privilege further animate this discussion. The venerable privilege is enshrined in history and practice. Its primary rationale is to encourage "free and full disclosure of information from the client to the attorney." That, in turn, benefits the public, which "is well served by sound legal counsel" based on full, candid, and confidential exchanges.
 
@@ -154,11 +154,11 @@ E-mail exchanges are covered by the privilege like any other form of communicati
 
 The e-mail communications between Stengart and her lawyers contain a standard warning that their contents are personal and confidential and may constitute attorney-client communications. The subject matter of those messages appears to relate to Stengart's working conditions and anticipated lawsuit against Loving Care.
 
-##### IV.
+<p class="case-h1">IV.</p>
 
 Under the particular circumstances presented, how should a court evaluate whether Stengart had a reasonable expectation of privacy in the e-mails she exchanged with her attorney?
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 Preliminarily, we note that the reasonable-expectation-of-privacy standard used by the parties derives from the common law and the Search and Seizure Clauses of both the Fourth Amendment and Article I, paragraph 7 of the New Jersey Constitution. The latter sources do not apply in this case, which involves conduct by private parties only.
 
@@ -166,7 +166,7 @@ The common law source is the tort of "intrusion on seclusion," which can be foun
 
 As is true in Fourth Amendment cases, the reasonableness of a claim for intrusion on seclusion has both a subjective and objective component. Moreover, whether an employee has a reasonable expectation of privacy in her particular work setting "must be addressed on a case-by-case basis." 
 
-###### B.
+<p class="case-h1">"case-h2">B.</p>
 
 A number of courts have tested an employee's claim of privacy in files stored on company computers by evaluating the reasonableness of the employee's expectation. No reported decisions in New Jersey offer direct guidance for the facts of this case. In one matter, the Appellate Division found that the defendant had no reasonable expectation of privacy in personal information he stored on a workplace computer under a separate password. The defendant had been advised that all computers were company property. His former employer consented to a search by the State Police, who, in turn, retrieved information tied to the theft of company funds. The court reviewed the search in the context of the Fourth Amendment and found no basis for the defendant's privacy claim in the contents of a company computer that he used to commit a crime.
 
@@ -198,9 +198,9 @@ The location of the company's computer may also be a relevant consideration. In 
 
 We realize that different concerns are implicated in cases that address the reasonableness of a privacy claim under the Fourth Amendment. This case, however, involves no governmental action. Stengart's relationship with her private employer does not raise the specter of any government official unreasonably invading her rights.
 
-##### V.
+<p class="case-h1">V.</p>
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 Applying the above considerations to the facts before us, we find that Stengart had a reasonable expectation of privacy in the e-mails she exchanged with her attorney on Loving Care's laptop.
 
@@ -226,11 +226,11 @@ As discussed previously, Stengart took reasonable steps to keep discussions with
 
 As to whether Stengart knowingly disclosed the e-mails, she certified that she is unsophisticated in the use of computers and did not know that Loving Care could read communications sent on her Yahoo account. Use of a company laptop alone does not establish that knowledge. Nor does the Policy fill in that gap. Under the circumstances, we do not find either a knowing or reckless waiver.
 
-###### B.
+<p class="case-h1">"case-h2">B.</p>
 
 Our conclusion that Stengart had an expectation of privacy in e-mails with her lawyer does not mean that employers cannot monitor or regulate the use of workplace computers. Companies can adopt lawful policies relating to computer use to protect the assets, reputation, and productivity of a business and to ensure compliance with legitimate corporate policies. And employers can enforce such policies. They may discipline employees and, when appropriate, terminate them, for violating proper workplace rules that are not inconsistent with a clear mandate of public policy. For example, an employee who spends long stretches of the workday getting personal, confidential legal advice from a private lawyer may be disciplined for violating a policy permitting only occasional personal use of the Internet. But employers have no need or basis to read the specific _contents_ of personal, privileged, attorney-client communications in order to enforce corporate policy. Because of the important public policy concerns underlying the attorney-client privilege, even a more clearly written company manual—that is, a policy that banned all personal computer use and provided unambiguous notice that an employer could retrieve and read an employee's attorney-client communications, if accessed on a personal, password-protected e-mail account using the company's computer system—would not be enforceable.
 
-##### VI.
+<p class="case-h1">VI.</p>
 
 We next examine whether the Firm's review and use of the privileged e-mails violated _RPC_ 4.4(b). The _Rule_ provides that "a lawyer who receives a document and has reasonable cause to believe that the document was inadvertently sent shall not read the document or, if he or she has begun to do so, shall stop reading the document, promptly notify the sender, and return the document to the sender." According to the ABA Model Rules on which _RPC_ 4.4(b) is patterned, the term "'document' includes e-mail or other electronic modes of transmission subject to being read or put into readable form." _Model Rules of Prof'l Conduct R._ 4.4 cmt. 2 (2004).
 
@@ -241,7 +241,7 @@ To be clear, the Firm did not hack into plaintiff's personal account or maliciou
 
 #### Jesperson v. Harrah's Operating Company, Inc., 444 F.3d 1104 (9th Cir. 2006) {#jesperson-v-harrahs}
 
-##### SCHROEDER, Chief Judge.
+<p class="case-h1">SCHROEDER, Chief Judge.</p>
 
 We took this sex discrimination case en banc in order to reaffirm our circuit law concerning appearance and grooming standards, and to clarify our evolving law of sex stereotyping claims.
 
@@ -253,7 +253,7 @@ The three-judge panel affirmed, but on somewhat different grounds. The panel maj
 
 We agree with the district court and the panel majority that on this record, Jespersen has failed to present evidence sufficient to survive summary judgment on her claim that the policy imposes an unequal burden on women. With respect to sex stereotyping, we hold that appearance standards, including makeup requirements, may well be the subject of a Title VII claim for sexual stereotyping, but that on this record Jespersen has failed to create any triable issue of fact that the challenged policy was part of a policy motivated by sex stereotyping. We therefore affirm.
 
-##### I. BACKGROUND
+<p class="case-h1">I. BACKGROUND</p>
 
 Plaintiff Darlene Jespersen worked successfully as a bartender at Harrah's for twenty years and compiled what by all accounts was an exemplary record. During Jespersen's entire tenure with Harrah's, the company maintained a policy encouraging female beverage servers to wear makeup. The parties agree, however, that the policy was not enforced until 2000. In February 2000, Harrah's implemented a "Beverage Department Image Transformation" program at twenty Harrah's locations, including its casino in Reno. Part of the program consisted of new grooming and appearance standards, called the "Personal Best" program. The program contained certain appearance standards that applied equally to both sexes, including a standard uniform of black pants, white shirt, black vest, and black bow tie. Jespersen has never objected to any of these policies. The program also contained some sex-differentiated appearance requirements as to hair, nails, and makeup.
 
@@ -307,7 +307,7 @@ The record therefore does not contain any affidavit or other evidence to establi
 
 The district court granted Harrah's motion for summary judgment on all of Jespersen's claims. In this appeal, Jespersen maintains that the record before the district court was sufficient to create triable issues of material fact as to her unlawful discrimination claims of unequal burdens and sex stereotyping. We deal with each in turn.
 
-##### II. UNEQUAL BURDENS
+<p class="case-h1">II. UNEQUAL BURDENS</p>
 
 In order to assert a valid Title VII claim for sex discrimination, a plaintiff must make out a prima facie case establishing that the challenged employment action was either intentionally discriminatory or that it had a discriminatory effect on the basis of gender. Once a plaintiff establishes such a prima facie case, "the burden then must shift to the employer to articulate some legitimate, nondiscriminatory reason for the employee's rejection." 
 
@@ -329,7 +329,7 @@ Jespersen asks us to take judicial notice of the fact that it costs more money a
 
 Having failed to create a record establishing that the "Personal Best" policies are more burdensome for women than for men, Jespersen did not present any triable issue of fact. The district court correctly granted summary judgment on the record before it with respect to Jespersen's claim that the makeup policy created an unequal burden for women.
 
-##### III. SEX STEREOTYPING
+<p class="case-h1">III. SEX STEREOTYPING</p>
 
 In _Price Waterhouse,_ the Supreme Court considered a mixed-motive discrimination case. There, the plaintiff, Ann Hopkins, was denied partnership in the national accounting firm of Price Waterhouse because some of the partners found her to be too aggressive. While some partners praised Hopkins's "'strong character, independence and integrity,'" others commented that she needed to take "'a course at charm school.'" The Supreme Court determined that once a plaintiff has established that gender played "a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken the plaintiff's gender into account."
 
@@ -351,7 +351,7 @@ Nor is there evidence in this record that Harrah's treated Jespersen any differe
 
 We emphasize that we do not preclude, as a matter of law, a claim of sex-stereotyping on the basis of dress or appearance codes. Others may well be filed, and any bases for such claims refined as law in this area evolves. This record, however, is devoid of any basis for permitting this particular claim to go forward, as it is limited to the subjective reaction of a single employee, and there is no evidence of a stereotypical motivation on the part of the employer. This case is essentially a challenge to one small part of what is an overall apparel, appearance, and grooming policy that applies largely the same requirements to both men and women. As we said in _Nichols,_ in commenting on grooming standards, the touch-stone is reasonableness. A makeup requirement must be seen in the context of the overall standards imposed on employees in a given workplace.
 
-##### PREGERSON, Circuit Judge, with whom Judges KOZINSKI, GRABER, and W. FLETCHER join, dissenting:
+<p class="case-h1">PREGERSON, Circuit Judge, with whom Judges KOZINSKI, GRABER, and W. FLETCHER join, dissenting:</p>
 
 I agree with the majority that appearance standards and grooming policies may be subject to Title VII claims. I also agree with the majority that a Title VII plaintiff challenging appearance standards or grooming policies may "make out a prima facie case by establishing that the challenged employment action was _either_ intentionally discriminatory _or_ that it had a discriminatory effect on the basis of gender." Maj. Op. at 1108 (emphasis added). In other words, I agree with the majority that a Title VII plaintiff may make out a prima facie case by showing that the challenged policy either was motivated in part "because of a sex stereotype," Maj. Op. at 1111, or "creates an 'unequal burden' for the plaintiff's gender," Maj. Op. at 1110. Finally, I agree with the majority that Jespersen failed to introduce sufficient evidence to establish that Harrah's "Personal Best" program created an undue burden on Harrah's female bartenders. I part ways with the majority, however, inasmuch as I believe that the "Personal Best" program was part of a policy motivated by sex stereotyping and that Jespersen's termination for failing to comply with the program's requirements was "because of" her sex. Accordingly, I dissent from Part III of the majority opinion and from the judgment of the court.
 
@@ -377,7 +377,7 @@ Just as the bank in _Carroll_ deemed female employees incapable of achieving a p
 
 I believe that Jespersen articulated a classic case of _Price Waterhouse_ discrimination and presented undisputed, material facts sufficient to avoid summary judgment. Accordingly, Jespersen should be allowed to present her case to a jury. Therefore, I respectfully dissent.
 
-##### KOZINSKI, Circuit Judge, with whom Judges GRABER and W. FLETCHER join, dissenting:
+<p class="case-h1">KOZINSKI, Circuit Judge, with whom Judges GRABER and W. FLETCHER join, dissenting:</p>
 
 I agree with Judge Pregerson and join his dissent—subject to one caveat: I believe that Jespersen also presented a triable issue of fact on the question of disparate burden.
 
@@ -401,11 +401,11 @@ Finally, I note with dismay the employer's decision to let go a valued, experien
 
 #### Cloutier v. Costco Wholesale Corp., 390 F.3d 126 (1st Cir. 2004) {#cloutier-v-costco}
 
-##### LIPEZ, Circuit Judge.
+<p class="case-h1">LIPEZ, Circuit Judge.</p>
 
 Kimberly Cloutier alleges that her employer, Costco Wholesale Corp. (Costco), failed to offer her a reasonable accommodation after she alerted it to a conflict between the "no facial jewelry" provision of its dress code and her religious practice as a member of the Church of Body Modification. She argues that this failure amounts to religious discrimination in violation of Title VII, 42 U.S.C. § 2000e-2(a), and the corresponding Massachusetts statute. The district court granted summary judgment for Costco, concluding that Costco reasonably accommodated Cloutier by offering to reinstate her if she either covered her facial piercing with a band-aid or replaced it with a clear retainer. We affirm the grant of summary judgment, but on a different basis. We hold that Costco had no duty to accommodate Cloutier because it could not do so without undue hardship.
 
-##### I.
+<p class="case-h1">I.</p>
 
 Kimberly Cloutier began working at Costco's West Springfield, Massachusetts store in July 1997. Before her first day of work, Cloutier received a copy of the Costco employment agreement, which included the employee dress code. When she was hired, Cloutier had multiple earrings and four tattoos, but no facial piercings.
 
@@ -449,13 +449,13 @@ Under the foregoing framework, the district court concluded that summary judgmen
 
 Cloutier now appeals, arguing that the court erred in finding no violation of Title VII or state law and that disputed material facts made summary judgment inappropriate. 
 
-##### II.
+<p class="case-h1">II.</p>
 
 On appeal, Cloutier vigorously asserts that her insistence on displaying all her facial jewelry at all times is the result of a sincerely held religious belief. Determining whether a belief is religious is "more often than not a difficult and delicate task," one to which the courts are ill-suited. Fortunately, as the district court noted, there is no need for us to delve into this thorny question in the present case. Even assuming, _arguendo,_ that Cloutier established her _prima facie_ case, the facts here do not support a finding of impermissible religious discrimination.
 
 We find dispositive that the only accommodation Cloutier considers reasonable, a blanket exemption from the no-facial-jewelry policy, would impose an undue hardship on Costco. In such a situation, an employer has no obligation to offer an accommodation before taking an adverse employment action. 
 
-###### A. Title VII
+<p class="case-h1">"case-h2">A. Title VII</p>
 
 Title VII of the Civil Rights Act of 1964 prohibits employers from discriminating against employees on the basis of, among other things, religion. Under Title VII, an employer must offer a reasonable accommodation to resolve a conflict between an employee's sincerely held religious belief and a condition of employment, unless such an accommodation would create an undue hardship for the employer's business.
 
@@ -501,11 +501,11 @@ Cloutier appears to reason that because other employees have violated the no-fac
 
 #### Hogan v. Forsyth Country Club Co., 340 S.E.2d 116 (N.C. App. 1986) {#hogan-v-forsyth-country-club}
 
-##### MARTIN, Judge.
+<p class="case-h1">MARTIN, Judge.</p>
 
 Plaintiffs assert error with respect to the entry of summary judgment dismissing each of their multiple claims. For the reasons which follow, we conclude that April Cornatzer is entitled to a trial upon two of the three claims which she asserts. However, with respect to her claim for wrongful discharge from employment and to each of the claims of Marlene Hogan and Sonya Mitchell, we affirm the judgment of the trial court.
 
-##### II
+<p class="case-h1">II</p>
 
 The first issue raised by each of the plaintiffs involves the entry of summary judgment dismissing her claim for intentional infliction of emotional distress. Each plaintiff contends that her forecast of evidence is sufficient to raise genuine issues of material fact with respect to her claim sufficient to survive summary judgment.
 
@@ -513,9 +513,9 @@ The tort of intentional infliction of mental or emotional distress was formally 
 
 > The tort may also exist where defendant's actions indicate a reckless indifference to the likelihood that they will cause severe emotional distress. Recovery may be had for the emotional distress so caused and for any other bodily harm which proximately results from the distress itself.
 
-##### III
+<p class="case-h1">III</p>
 
-###### A
+<p class="case-h1">"case-h2">A</p>
 
 The evidence with respect to April Cornatzer's claim for intentional infliction of emotional distress, taken in the light most favorable to her, tends to show that in September 1982, Hans Pfeiffer began making sexual advances toward her. At her deposition, and in an affidavit, Cornatzer maintained that Pfeiffer made sexually suggestive remarks to her while she was working, coaxing her to have sex with him and telling her that he wanted to "take" her. He would brush up against her, rub his penis against her buttocks and touch her buttocks with his hands. When she refused his advances, he screamed profane names at her, threatened her with bodily injury, and on one occasion, advanced toward her with a knife and slammed it down on a table in front of her. As a result of Pfeiffer's actions toward her, Cornatzer maintains that she became very nervous, anxious, humiliated and depressed, to the extent that she was required to seek medical treatment for ulcers.
 
@@ -533,7 +533,7 @@ Although Pfeiffer's acts against Cornatzer were committed while both were at the
 
 However, we are constrained to hold that Cornatzer has presented a sufficient showing of ratification of Pfeiffer's conduct by defendant to warrant submission of the question to the jury. Cornatzer's evidence, considered in the light most favorable to her, indicates that she complained to Richard Brennan, defendant's general manager, several times concerning Pfeiffer's conduct and that Brennan did nothing to prevent further sexual harassment by Pfeiffer. "The designation 'manager' implies general power and permits a reasonable inference that he was vested with the general conduct and control of defendant's business, and his acts are, when committed in the line of his duty and in the scope of his employment, those of the company." Thus, Brennan, whose responsibilities as manager included his duty to oversee all aspects of defendant's business and to supervise defendant's employees, was vested with authority to act on behalf of defendant and if, by his actions, he ratified Pfeiffer's wrongful conduct, such ratification would be imputed to defendant. In order to show that the wrongful act of an employee has been ratified by his employer, it must be shown that the employer had knowledge of all material facts and circumstances relative to the wrongful act, and that the employer, by words or conduct, shows an intention to ratify the act. Whether Brennan's actions, consisting of retaining Pfeiffer in defendant's employ, declining to intervene to prevent his further offensive behavior toward Cornatzer, and ultimately terminating Cornatzer from employment, amount to a course of conduct signifying an intention to acquiesce in, approve and ratify Pfeiffer's acts is a question for the jury. For the foregoing reasons, we hold that summary judgment dismissing Cornatzer's claim for intentional infliction of mental distress was improvidently granted.
 
-###### B
+<p class="case-h1">"case-h2">B</p>
 
 We do not reach the same result, however, with respect to the claims of Marlene Hogan and Sonya Mitchell for intentional infliction of mental distress. Hogan's evidence tends to show that Pfeiffer screamed and shouted at her, called her names, interfered with her supervision of waitresses under her charge, and on one occasion threw menus at her. She also testified that she shouted back at Pfeiffer. This conduct lasted during the period from 22 June 1983 until her termination on 24 July 1983. The general manager, Clifford Smith, received complaints from both Hogan and Pfeiffer concerning the temper of the other. His attempt to discuss the situation with both employees was unsuccessful because Pfeiffer walked out.
 
@@ -554,7 +554,7 @@ We find that Brennan's alleged conduct, though unjustified under the circumstanc
 
 #### Stericycle, Inc., 372 NLRB No. 113 (N.L.R.B. Aug. 2, 2023)
 
-##### BY CHAIRMAN MCFERRAN AND MEMBERS KAPLAN, WILCOX, AND PROUTY
+<p class="case-h1">BY CHAIRMAN MCFERRAN AND MEMBERS KAPLAN, WILCOX, AND PROUTY</p>
 
 Today, after previously issuing a notice and invitation for briefing, we adopt a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act. Here, an administrative law judge found that the Respondent violated Section 8(a)(1) by maintaining certain rules for its employees that addressed personal conduct, conflicts of interest, and confidentiality of harassment complaints. In making those findings, the judge applied the standard established by a divided Board in _Boeing Co._, 365 NLRB No. 154 (2017), which sua sponte reversed the standard announced in _Lutheran Heritage Village-Livonia_, 343 NLRB 646 (2004).
 
@@ -580,7 +580,7 @@ The standard we adopt today remedies these fundamental defects. We adopt a modif
 
 As under _Lutheran Heritage_, our standard requires the General Counsel to prove that a challenged rule has a reasonable tendency to chill employees from exercising their Section 7 rights. We clarify that the Board will interpret the rule from the perspective of an employee who is subject to the rule and economically dependent on the employer, and who also contemplates engaging in protected concerted activity. Consistent with this perspective, the employer’s intent in maintaining a rule is immaterial. Rather, if an employee could reasonably interpret the rule to have a coercive meaning, the General Counsel will carry her burden, even if a contrary, noncoercive interpretation of the rule is also reasonable. If the General Counsel carries her burden, the rule is presumptively unlawful, but the employer may rebut that presumption by proving that the rule advances a legitimate and substantial business interest and that the employer is unable to advance that interest with a more narrowly tailored rule. If the employer proves its defense, then the work rule will be found lawful to maintain.
 
-##### I.
+<p class="case-h1">I.</p>
 
 Applying Section 8(a)(1) of the Act, the Board has long and consistently recognized that an employer’s mere maintenance of a work rule may unlawfully interfere with, restrain, or coerce employees in the exercise of their Section 7 rights. The Supreme Court long ago confirmed the Board’s authority to regulate employer work rules, as part of the flexibility the Board requires “to accomplish the dominant purpose” of the Act: to protect “the right of employees to organize for mutual aid without employer interference.” Because overbroad and ambiguous work rules may have a coercive effect on employees, the Board and courts have long acknowledged that the regulation of work rules “serves an important prophylactic function: it allows the Board to block rules that might chill the exercise of employees’ rights by cowing the employees into inaction, rather than forcing the Board to ‘wait until that chill is manifest,’ and then try to ‘undertake the difficult task of dispelling it.”’
 
@@ -588,7 +588,7 @@ In its decisions carrying out this important function, the Board has grappled wi
 
 Over the past nearly 25 years, the Board has attempted to articulate and consistently apply a generally applicable test under Section 8(a)(1) for assessing facial challenges to work rules. For almost half that time, the _Lutheran Heritage_ standard provided the interpretive principles relevant to assessing the impact of a given rule on employees’ rights. We detail the Board’s recent history below with an eye toward explaining why a modified version of the _Lutheran Heritage_ standard is the best approach to evaluating facial challenges to work rules in light of the Board’s experience and long-established statutory principles. Our decision today does not disturb the Board’s long-established doctrines covering work rules that address union (or other protected) solicitation, distribution, or insignia. Consistent with the Board’s decisions in both _Lutheran Heritage_ and _Boeing_, we preserve Board precedent in those areas.
 
-###### A. Lafayette Park
+<p class="case-h1">"case-h2">A. Lafayette Park</p>
 
 The recent history of the Board’s approach to work rules begins with _Lafayette Park Hotel_ (1998). There, a full Board considered facial challenges to rules defining various types of “unacceptable conduct.” The Board identified “the appropriate inquiry” as “whether the rules would reasonably tend to chill employees in the exercise of their Section 7 rights” and that, where there is a likely chilling effect, “the Board may conclude that their maintenance is an unfair labor practice, even absent evidence of enforcement.” For that standard, the Board referred to the Supreme Court’s decision in _Republic Aviation_, quoting its admonition that assessing the challenged rules involves “working out an adjustment between the undisputed right of self-organization assured to employees under the Act and the equally undisputed right of employers to maintain discipline in their establishments.” Member Hurtgen, disagreeing with the majority, expressed his view that “if a rule reasonably chills the exercise of Sec. 7 rights, it can nonetheless be lawful if it is justified by significant employer interests.”
 
@@ -596,7 +596,7 @@ In analyzing the challenged rules’ impact on employees under its announced sta
 
 The _Lafayette Park_ Board was divided, too, in how to correctly apply the announced standard to particular rules. In a partial dissent, Members Fox and Liebman thought the majority merely paid “lip service” to the applicable interpretive principles in upholding rules that, in their view, had “the likely effect of chilling Section 7 activity.” In response, Chairman Gould characterized their dissenting approach as one that improperly “parsed out certain words and createed theoretical definitions” for rules “that differ from the obvious ones.” He asserted that the Board should not “focus on whether any language in the rules could theoretically encompass Section 7 activity” but, instead, should focus on “whether a reasonable employee could believe that the rule prohibits protected activity.” 
 
-###### B. Lutheran Heritage
+<p class="case-h1">"case-h2">B. Lutheran Heritage</p>
 
 A few years later, in another full-Board decision, _Lutheran Heritage_ (2004), the majority construed Lafayette Park to mean that the relevant inquiry “begins with the issue of whether the rule explicitly restricts activities protected by Section 7.” If it does not, a violation “is dependent upon a showing of one of the following: (1) employees would reasonably construe the language to prohibit Section 7 activity; (2) the rule was promulgated in response to union activity; or (3) the rule has been applied to restrict the exercise of Section 7 rights.” Under the first of these prongs, the majority instructed that the Board “must refrain from reading particular phrases in isolation,” “must not presume” that a rule will cause “improper interference with employee rights,” and should not conclude “that a reasonable employee would read a rule to apply to Section 7 activity simply because the rule could be interpreted that way.” 
 
@@ -606,7 +606,7 @@ In dissent, Members Liebman and Walsh raised the issue of balancing. They argued
 
 _Lutheran Heritage_, then, again demonstrated the Board’s ongoing efforts to develop a standard that grappled with the two key questions posed in work rules cases: (1) how to interpret a rule and (2) whether and how employer interests factor into the analysis.
 
-###### C. Aftermath of Lutheran Heritage
+<p class="case-h1">"case-h2">C. Aftermath of Lutheran Heritage</p>
 
 Following _Lutheran Heritage_, the Board decided many work rules cases, and reviewing courts consistently applied and upheld the standard.8 However, there was some degree of confusion and disagreement about some aspects of its proper application, in particular whether, and if so, how, to consider an employer’s reasons for maintaining a challenged rule.
 
@@ -614,7 +614,7 @@ For instance, in _Flagstaff Medical Center_ (2011), a panel majority found a hos
 
 But in a separate decision issued on the same day, a different panel majority assessed an employer’s maintenance of certain work rules and made no mention of the employer’s interests. Instead, the majority determined that the “only question” relevant was whether the employees “would reasonably construe the . . . rules to prohibit Section 7 activity” and did not mention the employer’s interests for maintaining the rules as part of its analysis resolving that question. Courts occasionally regarded the Board’s implicit approach to addressing employer interests under _Lutheran Heritage_ as placing a rebuttal burden on the employer, once it was established that a rule had a reasonable tendency to chill employees’ exercise of Section 7 rights.9
 
-###### D. William Beaumont
+<p class="case-h1">"case-h2">D. William Beaumont</p>
 
 In _William Beaumont Hospital_ (2016), a majority consisting of then-Member McFerran and Member Hirozawa struck down a hospital employer’s rule prohibiting conduct that “impedes harmonious interactions and relationships” because employees would reasonably understand that it could encompass interactions protected by Section 7. The majority also found a rule prohibiting “negative or disparaging comments” unlawful because it would reasonably be construed to prohibit protected expressions of concern about working conditions. 
 
@@ -622,7 +622,7 @@ In dissent, Member Miscimarra contended that the _Lutheran Heritage_ standard fo
 
 In response, the _William Beaumont_ majority acknowledged that assessing work rules was a “difficult area of labor law,” particularly because of “the remarkable number, variety, and detail of employer work rules.” But the majority also noted that, in the years since the Board had decided _Lutheran Heritage_, no court of appeals had rejected the standard that the Board regularly applied in work-rules cases. The majority further explained that the _Lutheran Heritage_ standard did, in fact, “take into account employer interests.” It did so by leaving employers free to protect their legitimate business interests by adopting more narrowly tailored rules while not infringing on Section 7 rights. The majority noted that when the Board found that a rule was not unlawfully overbroad, “it was typically because the rule was tailored such that the employer’s legitimate business interest in maintaining the rule was sufficiently apparent to a reasonable employee.” 
 
-###### E. Boeing and LA Specialty Produce
+<p class="case-h1">"case-h2">E. Boeing and LA Specialty Produce</p>
 
 Less than 2 years later, without being asked and without seeking any public input, a newly constituted Board effectively incorporated the William Beaumont dissent into the majority opinion in _Boeing Co._ (2017). The _Boeing_ majority held that, when deciding the lawfulness of maintaining a ““facially neutral” work rule, the Board “will evaluate two things: (i) the nature and extent of the potential impact on NLRA rights, and (ii) legitimate justifications associated with the rule.” Those two factors would be balanced against each other. According to the majority, the _Lutheran Heritage_ standard did not permit the Board to consider an employer’s legitimate business reasons for maintaining a rule; to distinguish between more and less important Section 7 interests; to differentiate among industries, work settings, or specific circumstances reflected in a given rule; or to produce consistent rulings in work-rules cases. And the majority claimed that past Board decisions specifying criteria for assessing the lawfulness of specific types of rules--like rules concerning workplace solicitation and distribution of literature--comport with its standard, which permitted accommodating employer interests, but not under _Lutheran Heritage_, which it asserted did not.
 
@@ -642,11 +642,11 @@ Member McFerran dissented. As a threshold matter, she summarized what she deemed
 
 Member McFerran also disagreed with the clarifications that _LA Specialty Produce_ purported to make to _Boeing_. Specifically, she argued that the majority’s description of a reasonable employee ignored employees’ economic dependence on the employer and the resulting reasonable tendency to interpret work rules as coercive, even where a disinterested person would not. She also faulted the majority’s requirement that the General Counsel must prove that a work rule “would in context be interpreted . . . to potentially interfere with the exercise of Section 7 rights” as effectively (but not explicitly) requiring a showing that the coercive interpretation of a rule is the only reasonable interpretation. As for the balancing test, Member McFerran noted that the majority failed to explain which party has the burden of proof with respect to the balancing, and that its endorsement of a “general” balancing approach eliminated consideration of the language of a particular rule or the requirement of narrow tailoring. 
 
-###### F. Aftermath of Boeing and LA Specialty Produce
+<p class="case-h1">"case-h2">F. Aftermath of Boeing and LA Specialty Produce</p>
 
 Since _Boeing_ was decided, both before and after the Board’s attempted clarification of it in _LA Specialty Produce_, the Board has applied its new standard in a number of cases. The Board has usually found work rules lawful to maintain and, generally, has categorically deemed all similar rules to be lawful to maintain, no matter the specific wording of any particular rule or the specific workplace context in which they are maintained.
 
-##### II.
+<p class="case-h1">II.</p>
 
 Having considered the valuable perspectives of the parties and amici, as well as the Board’s past experience and the views of our dissenting colleague, we have decided the better approach is a modified version of the framework set forth in _Lutheran Heritage_ for evaluating facial challenges to employer work rules that do not explicitly restrict Section 7 activity by employees and were not promulgated in response to such activity, as clarified herein. As explained, the key issues presented are: (1) defining the interpretive principles to apply to discern when work rules have a reasonable tendency to chill employees’ exercise of their statutory rights and (2) working out the proper adjustment between protecting employee rights and accommodating employers’ legitimate and substantial business interests in maintaining their rules. Although Lafayette Park and _Lutheran Heritage_ established the Board’s proper interpretive focus--the perspective of a reasonable employee subject to the rule--they did not sufficiently (or clearly) articulate how employers’ interests fit into the analysis. While _Boeing_ and _LA Specialty Produce_, in turn, appropriately recognized that employer interests should factor into the Board’s analysis, they adopted interpretive principles that failed to reflect the true coercive potential of work rules. In addition, those decisions gave too little weight to employees’ Section 7 rights and too much weight to employer interests, in particular by failing to require employers to narrowly tailor their work rules to minimize as much as reasonably possible, if not altogether eliminate, any infringement of employee rights.
 
@@ -656,7 +656,7 @@ Our approach is focused on furthering what the Supreme Court many decades ago de
 
 But “equally undisputed,” as the Supreme Court has also observed, is the “right of employers to maintain discipline in their establishments” and otherwise protect their legitimate and substantial business interests by regulating employees’ workplace conduct. Accordingly, in the work-rules context, as in other situations governed by Section 8(a)(1) of the Act, the Board must fulfill its duty to protect employees’ Section 7 rights while also considering employers’ legitimate and substantial business interests. As we will explain, our new standard gives employers the necessary leeway to maintain rules of their own choosing to advance legitimate and substantial business interests. They simply need to narrowly tailor those rules to significantly minimize, if not altogether eliminate, their coercive potential. If employers do so, their rules will be lawful to maintain.
 
-###### A.
+<p class="case-h1">"case-h2">A.</p>
 
 It has long been established that the test for evaluating whether an employer’s conduct or statements violate Section 8(a)(1) of the Act is whether they have a reasonable tendency to interfere with, restrain, or coerce employees who may engage in activities protected by Section 7. The General Counsel, of course, has the burden of establishing a violation of the Act. As we now explain, our initial focus in the work-rules context is on whether the General Counsel has proven that a rule has a reasonable tendency to interfere with, restrain, or coerce employees who contemplate engaging in protected activity. To discern that tendency, the Board--as in all other Section 8(a)(1) contexts-- appropriately “views employer statements ‘from the standpoint of employees over whom the employer has a measure of economic power.”’ 
 
@@ -670,7 +670,7 @@ In interpreting rules from the perspective of a reasonable employee, we believe 
 
 In sum, going forward, the Board will begin its analysis by assessing whether the General Counsel has established that a challenged work rule has a reasonable tendency to chill employees from exercising their Section 7 rights. In doing so, the Board will interpret the rule from the perspective of the reasonable employee who is economically dependent on her employer and thus inclined to interpret an ambiguous rule to prohibit protected activity she would otherwise engage in. The reasonable employee interprets rules as a layperson, not as a lawyer. If an employee could reasonably interpret a rule to restrict or prohibit Section 7 activity, the General Counsel has satisfied her burden and demonstrated that the rule is presumptively unlawful. That is so even if the rule could also reasonably be interpreted not to restrict Section 7 rights and even if the employer did not intend for its rule to restrict Section 7 rights.
 
-###### B.
+<p class="case-h1">"case-h2">B.</p>
 
 For reasons already explained, in some circumstances a violation of Section 8(a)(1) may require more than a showing that an employee could reasonably interpret a work rule to restrict or prohibit Section 7 activity. In such cases, the Board must still evaluate the lawfulness of a work rule in the context of the legitimate and substantial business interests of the employer in maintaining a specific work rule under the particular circumstances. Accordingly, if the General Counsel carries her burden of demonstrating that a rule is presumptively unlawful, an employer may rebut the presumption by proving that the rule advances a legitimate and substantial business interest and that the employer is unable to advance that interest with a more narrowly tailored rule.
 
@@ -688,7 +688,7 @@ We believe that a narrow-tailoring requirement is exactly the sort of reasonable
 
 Under _Boeing_, even after attempting to provide clarifications in _LA Specialty Produce_, the Board never explained which party has the burden of proof with respect to the balancing test. We make clear here that, when a rule is presumptively unlawful, it is the employer’s burden to prove that its legitimate and substantial business interests cannot be accomplished with a more narrowly tailored rule and that, as a result, the rule should be deemed lawful to maintain. Placing the burden on the employer is consistent with the Supreme Court’s decisions in comparable circumstances. This burden allocation is no different than under our more generally applicable Section 8(a)(1) framework. See, e.g., _ANG Newspapers_, 343 NLRB 564, 565 (2004) (“Under the 8(a)(1) standard, the Board first examines whether the employer’s conduct reasonably tended to interfere with Section 7 rights. If so, the burden is on the employer to demonstrate a legitimate and substantial business justification for its conduct.”). This approach also does not change the General Counsel’s burden of proving the unfair labor practice, but rather extends to the employer something akin to an affirmative defense that it has the burden of sustaining to overcome the presumption that a given work rule is unlawful.And allocating this burden to the employer is sensible given that the employer is in the best position to explain its legitimate and substantial business interest, how its rule advances that interest, and why a more narrowly tailored rule would fail to advance that interest.
 
-###### C.
+<p class="case-h1">"case-h2">C.</p>
 
 Having rescinded the standard adopted in _Boeing_ and revised in _LA Specialty Produce_, we necessarily reject those decisions and their progeny, including the categorical holding that the Board has made to find certain types of work rules always lawful to maintain. Instead of that rigid-- indeed, arbitrary--categorical approach, we return to a case-by-case approach, which examines the specific language of particular rules and the employer interests actually invoked to justify them.
 
@@ -706,7 +706,7 @@ _Boeing_’s categorical approach is also hamstrung by its elimination of any co
 
 Our return to a case-specific approach is intended to remedy the obvious problems with _Boeing_’s categorical approach. In order to consider all important aspects of the problem posed by potentially overbroad work rules, the Board should examine the specific wording of the rule, the specific industry and workplace context in which it is maintained, the specific employer interests it may advance, and the specific statutory rights it may infringe. The case-by-case approach will not sacrifice clarity and predictability for regulated parties. As is always the norm, the Board will aim to ensure that like cases will be decided alike. The nearer the wording of a specific rule is to a rule assessed in a prior case, or the nearer the workplace context or employer interests are to those factors previously considered, the more likely the Board’s determination of the rule’s legality will be the same. As a consequence, more predictable outcomes will emerge over time. For instance, many of the Board’s core pre-_Lafayette Park_ work-rules holdings--such as those concerning maintenance of a “no solicitation” rule--that _Boeing_ did not overrule and that we maintain, describe generally applicable parameters for assessing certain types of rules. But that process should not be short-circuited, as the Board plainly did in applying _Boeing_. Put somewhat differently, consistent with the Act, predictability and certainty cannot be achieved simply by giving employers broad authority to adopt work rules and by correspondingly shrinking the scope of Section 7.
 
-##### III.
+<p class="case-h1">III.</p>
 
 The Board’s usual practice is to apply new policies and standards retroactively to all pending cases in whatever stage, unless doing so would amount to a manifest injustice. To determine whether retroactive application amounts to a manifest injustice, the Board considers the reliance of the parties on preexisting law, the effect of retroactivity on accomplishment of the purposes of the Act, and any particular injustice arising from retroactive application. 
 
@@ -716,11 +716,11 @@ In this case, the General Counsel alleges that the Respondent unlawfully maintai
 
 #### Starbucks Corporation, Case 14--CA--29581 (N.L.R.B. Div. of Judges Sept. 21, 2023)
 
-##### Robert A. Ringler, Administrative Law Judge.
+<p class="case-h1">Robert A. Ringler, Administrative Law Judge.</p>
 
 This case concerns Starbucks' response to the Union's organizing campaigns at five St. Louis cafés.
 
-###### Lindbergh Store--ULP Allegations
+<p class="case-h1">"case-h2">Lindbergh Store--ULP Allegations</p>
 
 Lindbergh was led by assistant store manager David Brown and store manager Corinne Kinder. On March 30, the Union petitioned to represent the café's baristas and shift supervisors. It won the election and a _Certification of Representative_ issued on June 28.
 
@@ -821,7 +821,7 @@ Starbucks failed to demonstrate that it would have taken the same disciplinary a
 
 Mexican Radio Corporation ("Company") petitions for review, and the Board cross-petitions for enforcement, of the Board's decision and order entered on April 20, 2018 determining that the Company violated Section 8(a)(1) of the National Labor Relations Act ("NLRA") by reprimanding and discharging four employees based on their protected concerted activity. We assume the parties' familiarity with the facts and record of prior proceedings, which we reference only as necessary to explain our decision to affirm.
 
-##### I.
+<p class="case-h1">I.</p>
 
 The following facts are undisputed. At all relevant times, the Company operated a restaurant in New York City, where Tangni Fagoth, Stephanie Garcia, Nadgie Santana, and Juliana Palomino (collectively, "Employees") were employed as waitresses. In August 2015, the Company hired Theodora Alfredou as the new general manager of the restaurant. The Employees and other servers immediately expressed concerns about Alfredou's disrespectful and demeaning treatment of employees. The Employees repeatedly lodged complaints about Alfredou's conduct and unsanitary conditions at the restaurant with Steve Morgan, the Company's director of operations, as well as the restaurant's owners. Perceiving no improvement in the conditions, the Employees contacted the New York City Department of Health & Mental Hygiene, which angered management.
 
@@ -835,15 +835,15 @@ Over the course of the next two days, all four of the Employees were fired. The 
 
 Following that statement, each of Morgan's reprimands contained several sentences detailing the particular employee's conduct. Morgan's reprimands for Garcia and Palomino stated that the "outcome" was job abandonment, while his reprimands for Fagoth and Santana stated that they were "terminated for insubordination."
 
-##### II.
+<p class="case-h1">II.</p>
 
 Following a seven-day trial, the administrative law judge ("ALJ") determined that the Employees had engaged in protected concerted activity and that their email replies were not so opprobrious as to lose the protection of the NLRA. The ALJ found that the discharges were motivated by the Employees' supportive replies to Polanco's email, rejecting the Company's assertion that the Employees were fired because they afterwards refused to meet with management or abandoned their jobs. The Board adopted the ALJ's findings and recommended order, as modified by the Board's identification of an additional violation of Section 8 by the Company that is not at issue here.
 
-##### III.
+<p class="case-h1">III.</p>
 
 "We uphold the NLRB's findings of fact if supported by substantial evidence and the NLRB's legal determinations if not arbitrary and capricious." "Substantial evidence means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion."
 
-##### IV.
+<p class="case-h1">IV.</p>
 
 The Company principally argues that the Employees forfeited the protection of the NLRA due to the opprobrious contents of Polanco's email. The Company contends that _Atlantic Steel Co.,_ 245 NLRB 814 (1979), governs our analysis of this issue. The Board has typically applied the _Atlantic Steel_ factors to "direct communications, face-to-face in the workplace, between an employee and a manger or supervisor," finding _Atlantic Steel_'s "place of the discussion" factor to be inapplicable to "employees' off-duty, offsite use of social media. In recent cases involving employee comments made in a nonwork forum, such as on social media, the Board has applied a totality of the circumstances test instead of the _Atlantic Steel_ factors. The Board argues that regardless of which analytical framework applies, the Employees' conduct was not so opprobrious as to lose the protection of the NLRA.
 
@@ -867,7 +867,7 @@ The Company further argues, as a factual matter, that the Employees were not fir
 
 Three D, LLC, d/b/a Triple Play Sports Bar and Grille (“Triple Play”) appeals a decision of the National Labor Relations Board (“NLRB” or “Board”) finding that Triple Play violated Section 8(a)(1) of the National Labor Relations Act (“NLRA” or “Act”) by taking certain actions against its employees, including discharge, for their Facebook activity. 
 
-##### Employee Discharges and Other Violations of Section 8(a)(1)
+<p class="case-h1">Employee Discharges and Other Violations of Section 8(a)(1)</p>
 
 Section 7 of the Act guarantees that “employees shall have the right to self-organization, to form, join, or assist labor organizations and to engage in other concerted activities for the purpose of mutual aid or protection.” Section 8(a)(1) of the Act protects employees’ Section 7 rights by prohibiting an employer from “interfering with, restraining, or coercing employees in the exercise of the rights guaranteed in Section 7.” 
 
@@ -897,11 +897,11 @@ In addition to finding that the discharges of Sanzone and Spinella violated the 
 
 #### Ehling v. Monmouth-Ocean Hospital Service, Inc., 872 F.Supp.2d 369 (D.N.J. 2012) {#ehling-v-monmouth-ocean-hospital-service}
 
-##### WILLIAM J. MARTINI, District Judge.
+<p class="case-h1">WILLIAM J. MARTINI, District Judge.</p>
 
 Plaintiff Deborah Ehling brings this action against Monmouth-Ocean Hospital Service Corp. ("MONOC"), Vincent Robbins, and Stacy Quagliana (collectively "Defendants"), alleging violations of the Electronic Communications Privacy Act, the Family Medical Leave Act, and various state laws. This matter comes before the Court on Defendants' motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim upon which relief may be granted. For the reasons set forth below, Defendants' Rule 12(b)(6) motion is GRANTED in part, and DENIED in part.
 
-##### I. Background
+<p class="case-h1">I. Background</p>
 
 Plaintiff Deborah Ehling is a registered nurse and paramedic. Defendant Monmouth-Ocean Hospital Service Corporation ("MONOC") is a non-profit hospital service corporation dedicated to providing emergency medical services to the citizens of the State of New Jersey. Defendant Vincent Robbins is the President and CEO of MONOC. Defendant Stacy Quagliana is the Executive Director of Administration at MONOC.
 
@@ -915,11 +915,11 @@ Plaintiff alleges that MONOC "subsequently gained access to Ms. Ehling's Faceboo
 
 On June 17, 2009, MONOC sent letters regarding Plaintiff's Facebook posting to the New Jersey Board of Nursing and the New Jersey Department of Health, Office of Emergency Medical Services. The letters state that MONOC was concerned that Plaintiff's Facebook posting showed a disregard for patient safety. Plaintiff alleges that these letters were sent in a "malicious" attempt to attack Plaintiff, damage her reputation and employment opportunities, and potentially risk losing her nursing license and paramedic certification status.
 
-##### III. Discussion
+<p class="case-h1">III. Discussion</p>
 
 Defendants move to dismiss two of the nine counts in the Amended Complaint: (1) Count II, alleging a violation of the New Jersey Wiretapping and Electronic Surveillance Control Act; and (2) Count IV, alleging common law invasion of privacy. Each issue will be addressed in turn.
 
-###### b. Common Law Invasion of Privacy 
+<p class="case-h1">"case-h2">b. Common Law Invasion of Privacy </p>
 
 Plaintiff asserts a claim for common law invasion of privacy. Plaintiff's claim is premised on Defendants' alleged unauthorized "accessing of her private Facebook postings" regarding the Holocaust Museum shooter. Defendants move to dismiss, arguing that Plaintiff did not have a reasonable expectation of privacy in her Facebook posting. The Court finds that the motion to dismiss should be denied.
 
@@ -938,7 +938,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 <div class="legal-code">
 
-##### Employer Use of Social Media 
+<p class="case-h1">Employer Use of Social Media </p>
 
 (a) As used in this chapter, “social media” means an electronic service or account, or electronic content, including, but not limited to, videos, still photographs, blogs, video blogs, podcasts, instant and text messages, email, online services or accounts, or Internet Web site profiles or locations.
 
@@ -962,7 +962,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 #### Truitt v. Salisbury Bank & Trust Co., 52 F.4th 80 (2d Cir. 2022) {#truitt-v-salisbury-bank}
 
-##### Chin, Circuit Judge:
+<p class="case-h1">Chin, Circuit Judge:</p>
 
 In this case, plaintiff-appellant William Gunnar Truitt, an employee of defendant-appellee Salisbury Bank and Trust Company (the "Bank"), announced his candidacy for a New York State Assembly seat. The Bank thereafter advised Truitt that he had to choose between running for office and continuing his employment with the Bank. Truitt decided not to discontinue his campaign, and his employment with the Bank ended.
 
@@ -970,9 +970,9 @@ Truitt brought this action below, contending that the Bank violated New York Lab
 
 For the reasons discussed below, we vacate the judgment and remand.
 
-##### Background
+<p class="case-h1">Background</p>
 
-###### A. The Facts
+<p class="case-h1">"case-h2">A. The Facts</p>
 
 On February 26, 2018, Truitt, a part-time Dutchess County legislator, began working for the Bank as a full-time mortgage lending officer trainee. As a trainee, Truitt began a six-month training program, to be followed by a four-month secondary training program. Upon successful completion of both programs, Truitt would be promoted to a full-time mortgage loan officer position in January 2019. Truitt's employment with the Bank was at-will, and both he and the Bank could "terminate the employment relationship at any time, for any _legal_ reason, with or without cause, with or without notice."
 
@@ -1004,7 +1004,7 @@ Less than an hour later, Truitt sent another email, with the subject heading "Up
 
 The Bank recorded Truitt's last date of employment as April 30, 2018. Truitt did not win the election.
 
-###### B. Proceedings Below
+<p class="case-h1">"case-h2">B. Proceedings Below</p>
 
 On August 24, 2018, Truitt filed this action in state court against the Bank and its parent company, defendant-appellee Salisbury Bancorp, Inc., alleging that he had been discharged by the Bank in violation of New York Labor Law § 201-d. The Bank then removed the action to federal court on diversity jurisdiction grounds.
 
@@ -1012,9 +1012,9 @@ On January 28, 2020, following discovery, the Bank moved for summary judgment. T
 
 Two weeks later, on August 4, 2020, Truitt timely moved for reconsideration of the district court's July 21, 2020, order. The court denied the motion on March 22, 2021. The district court did not reach the issue of whether Truitt was discharged for his political activity because it concluded that he voluntarily resigned and thus was not subjected to an adverse employment action and, in any event, he was "at the beginning stages of his campaign."
 
-##### Discussion
+<p class="case-h1">Discussion</p>
 
-###### B. Applicable Law
+<p class="case-h1">"case-h2">B. Applicable Law</p>
 
 Under [New York Labor Law § 201-d](#ny-labor-code-201d), an employer may generally not refuse to hire, discharge, or otherwise discriminate "in compensation, promotion or terms, conditions or privileges of employment" against an employee for, among other things, engaging in "political" or "recreational" activity if such activity is legal and occurs outside of working hours. N.Y. Lab. Law § 201-d(2). The statute expressly provides that an employee may sue an employer who violates the statute for "equitable relief and damages."
 
@@ -1022,7 +1022,7 @@ Section 201-d was enacted in 1992 to "prohibit employers from discriminating aga
 
 This case involves "political activities," which the statute defines as "(i) running for public office, (ii) campaigning for a candidate for public office, or (iii) participating in fund-raising activities for the benefit of a candidate, political party or political advocacy group." 
 
-###### C. Application
+<p class="case-h1">"case-h2">C. Application</p>
 
 On appeal, Truitt makes two principal arguments. First, he contends that the Bank unlawfully "forced" him to decide between "termination or his protected political activity" and that, as a result, his departure from the Bank was involuntary. Second, he argues that the Bank has only proffered as a reason for its actions his statutorily "protected political activities." The Bank responds that Truitt "_chose_ to resign" and "therefore did not suffer an adverse employment action." The Bank also argues that, even assuming Truitt had suffered such an adverse action, its reason for denying his request was legitimate, non-discriminatory, and not pretextual. 
 
@@ -1060,7 +1060,7 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 
 <div class="legal-code">
 
-##### Discrimination against the engagement in certain activities.
+<p class="case-h1">Discrimination against the engagement in certain activities.</p>
 
 1\. Definitions. As used in this section:
 
@@ -1130,7 +1130,7 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 
 #### Brunner v. Al Attar, 786 S.W.2d 784 (Tex. App. 1990) {#brunner-v-al-attar}
 
-##### SAM BASS, Justice.
+<p class="case-h1">SAM BASS, Justice.</p>
 
 Farouk Al Attar and Rima Al Attar are husband and wife, and partners in a general partnership, known as Apollo Paint & Body. Brunner states that Farouk's actions are the basis of this suit, and that Rima and Apollo are vicariously liable. Brunner alleged that Farouk terminated her, because he feared that she would catch and spread the Acquired Immune Deficiency Syndrome (AIDS) to employees. Appellees urged that Brunner was terminated because of her refusal to work during the hours required, her request to be terminated, and her failure, inability and/or refusal to perform the work expected of her.
 
@@ -1151,11 +1151,11 @@ Brunner alleges that she was fired because she refused to quit her volunteer wor
 
 #### Rulon-Miller v. International Business Machines Corp., 162 Cal.App.3d 241 (1984) {#rulon-miller-v-ibm}
 
-##### RUSHING, J.
+<p class="case-h1">RUSHING, J.</p>
 
 International Business Machines (IBM) appeals from the judgment entered against it after a jury awarded $100,000 compensatory and $200,000 punitive damages to respondent (Virginia Rulon-Miller) on claims of wrongful discharge and intentional infliction of emotional distress. Rulon-Miller was a low-level marketing manager at IBM in its office products division in San Francisco. Her termination as a marketing manager at IBM came about as a result of an accusation made by her immediate supervisor, defendant Callahan, of a romantic relationship with the manager of a rival office products firm, QYX.
 
-##### Factual Background
+<p class="case-h1">Factual Background</p>
 
 IBM is an international manufacturer of computers, office equipment and telecommunications systems. As well, it offers broad general services in the data processing field. It is reputed to be the single most successful high technology firm in the world. It is also a major force in the low technology field of typewriters and office equipment.
 
@@ -1175,7 +1175,7 @@ When she walked into Callahan's office he confronted her with the question of wh
 
 The next day Callahan called her in again, told her "he had made up her mind for her," and when she protested, dismissed her. IBM and Callahan claim that he merely "transferred" respondent to another division.
 
-##### Discussion
+<p class="case-h1">Discussion</p>
 
 Respondent's claims of wrongful discharge and intentional infliction of emotional distress were both submitted to the jury. Appellant argues that the jury should not have been permitted to consider the issue of wrongful discharge because as a matter of law the offer of reassignment cannot be considered a wrongful discharge. In developing this argument, IBM attempts to change the nature of this case from one of wrongful termination into a debate about constructive discharge through an alleged administrative reassignment.
 
@@ -1228,7 +1228,7 @@ Moreover, the record shows that the evidence of rumor was not a basis for any de
 
 #### State v. Wal-Mart Stores, Inc., 621 N.Y.S.2d 158 (N.Y. App. Div. 1995) {#state-v-wal-mart}
 
-##### MERCURE, J.
+<p class="case-h1">MERCURE, J.</p>
 
 In February 1993, defendant discharged two of its employees for violating its "fraternization" policy, which is codified in defendant's 1989 Associates Handbook and prohibits a "dating relationship" between a married employee and another employee, other than his or her own spouse. In this action, plaintiff seeks reinstatement of the two employees with back pay upon the ground that their discharge violated [Labor Law § 201-d(2)(c)](https://www.nysenate.gov/legislation/laws/LAB/201-D), which forbids employer discrimination against employees because of their participation in "legal recreational activities" pursued outside of work hours. Defendant moved to dismiss the complaint. The trial court denied the motion with regard to the first cause of action, concluding that "dating" while one is married "may well be 'recreational activities' within the meaning of Labor Law § 201-d(2)(c)", but granted the motion with regard to the second cause of action, predicated upon Executive Law § 63(12), which prohibits repeated or persistent illegality in the transaction of business. The parties cross-appeal.
 
@@ -1238,7 +1238,7 @@ Moreover, even if Labor Law § 201-d(1)(b) was found to contain some ambiguity, 
 
 Nor is there any realistic danger that this construction will permit employers to infringe upon the right of employees to engage in protected off-hours pursuits by wrongly characterizing dispassionate recreational activity as dating. To the contrary, recognition of the distinction between "dating" and "recreational activity" imposes upon the employer the enhanced burden of establishing not only joint activity of a recreational nature, but the employees' mutual romantic interest as well. Similarly, this construction in no way diminishes the statutory protection afforded social relationships between unmarried employees or married employees having no romantic interest or involvement with one another.
 
-##### YESAWICH JR., J. (dissenting).
+<p class="case-h1">YESAWICH JR., J. (dissenting).</p>
 
 I respectfully dissent, for I find defendant's central thesis, apparently accepted by the majority, that the employment policy at issue only prohibits romantic entanglements and not other types of social interaction, to be wholly without merit. While the majority encumbers the word "dating" with an "amorous interest" component, there is nothing in defendant's fraternization policy, its application — defendant does not allege that its two former employees manifested an intimate or amatory attitude toward each other — or even in defendant's own definition of a "date", "a social engagement between persons of opposite sex" (Webster's Ninth New Collegiate Dictionary 325 1988), that leads to such a conclusion.
 
@@ -1252,9 +1252,9 @@ And while it is true that, as a general rule of statutory construction, the brea
 
 #### Smith v. Manheim Remarketing, Inc., No. 5:19-CV-00086-KDB-DSC (M.D.N.C. Nov. 26, 2019) {#smith-v-manheim-remarketing}
 
-##### David S. Cayer, United States Magistrate Judge
+<p class="case-h1">David S. Cayer, United States Magistrate Judge</p>
 
-##### I. Factual and Procedural Background
+<p class="case-h1">I. Factual and Procedural Background</p>
 
 Taking the facts of the Second Amended Complaint as true, Plaintiff is a fifty-four year old woman who worked for Defendants in their motor vehicle auction business for over fourteen years. She was terminated in February 2019. At the time of her termination, Plaintiff was a Total Resource Auction supervisor and managed seven employees. She was a loyal, reliable and respected employee.
 
@@ -1270,9 +1270,9 @@ On May 22, 2019, Plaintiff filed a wrongful discharge claim in Iredell County Su
 
 Defendants removed the case to this Court on July 1, 2019 and moved to dismiss Plaintiff’s Complaint.
 
-##### III. Discussion
+<p class="case-h1">III. Discussion</p>
 
-###### A. Wrongful Termination for Use of Lawful Product Claim
+<p class="case-h1">"case-h2">A. Wrongful Termination for Use of Lawful Product Claim</p>
 
 Plaintiff alleges that Defendants terminated her employment for using a lawful product, CBD oil, outside of work in violation of the public policy of North Carolina set forth in N.C. Gen. Stat. §95-28.2. Defendants move to dismiss this claim by arguing that the THC in CBD oil remains illegal. Defendants further argue that Plaintiff was not meeting the reasonable expectations of her employer by having “high levels” of THC at work and failing to comply with their valid workplace drug policy.
 
@@ -1306,7 +1306,7 @@ Accordingly, the undersigned respectfully recommends that Defendants’ Motion t
 
 <div class="legal-code">
 
-##### Discrimination against persons for lawful use of lawful products during nonworking hours prohibited.
+<p class="case-h1">Discrimination against persons for lawful use of lawful products during nonworking hours prohibited.</p>
 
 (a\) As used in this section, "employer" means the State and all political subdivisions of the State, public and quasi-public corporations, boards, bureaus, commissions, councils, and private employers with three or more regularly employed employees.
 

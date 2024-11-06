@@ -11,11 +11,11 @@ title: Employee Duties to Employers
 
 #### Lowe’s Home Centers, LLC v. NLRB, 850 Fed.Appx. 886 (5th Cir. March 15, 2021) {#lowes-home-centers-v-nlrb}
 
-##### Per Curiam
+<p class="case-h1">Per Curiam</p>
 
 Lowe’s workplace policy prohibits disclosure of confidential information, and an employee challenged the policy under Section 8(a)(1) of the National Labor Relations Act, which prevents employers from limiting employees’ discussions of their wages. The administrative law judge (“ALJ”) concluded that Lowe’s policy violated the Act. Lowe’s appealed to the National Labor Relations Board, and the Board affirmed. We AFFIRM.
 
-##### I. FACTUAL AND PROCEDURAL HISTORY
+<p class="case-h1">I. FACTUAL AND PROCEDURAL HISTORY</p>
 
 Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She alleged that a section of Lowe’s employee code violated 29 U.S.C. § 158(a)(1) by interfering with employees’ right to discuss wages. The relevant part of the Lowe’s policy reads as follows:
 
@@ -27,9 +27,9 @@ Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She 
 > 
 > • proprietary information relating to Lowe’s business such as customer, budget, financial, credit, marketing, pricing, supply cost, personnel, medical records or salary information, and future plans and strategy.
 
-##### III. DISCUSSION
+<p class="case-h1">III. DISCUSSION</p>
 
-###### 1. “Reasonably construe” standard
+<p class="case-h1">"case-h2">1. “Reasonably construe” standard</p>
 
 In _Boeing_, the Board adopted a more flexible standard for assessing whether a facially neutral employment rule violates Secion 8(a)(1).
 
@@ -39,7 +39,7 @@ In other words, when a facially neutral rule cannot reasonably be interpreted to
 
 Here, the Board concluded that Lowe’s policy was facially neutral and could be reasonably construed to restrict employees’ wage discussions. The policy prohibits employees from discussing confidential information which explicitly includes “salary information.” We thus agree with the Board’s conclusion that the policy can be reasonably construed to limit employees’ rights under the NLRA. We now turn to Lowe’s legitimate justifications for the policy.
 
-###### 2. Lowe’s Legitimate Justifications
+<p class="case-h1">"case-h2">2. Lowe’s Legitimate Justifications</p>
 
 Under _Boeing_, the Board created three categories of rules. Category 1 rules are per se lawful, either because they cannot be reasonably interpreted to interfere with employees’ rights or because the adverse impacts on rights is outweighed by justifications for the rule. Category 2 rules warrant individualized scrutiny in each case, and the Board must weigh the adverse impacts on NLRA rights with employer’s legitimate justifications. 
 
@@ -51,13 +51,13 @@ We find no error in the Board’s analysis. Lowe’s policy falls within the Cat
 
 #### Tesla, Inc., 370 NLRB No. 101 (March 25, 2021) {#tesla-nlrb-i}
 
-##### By CHAIRMAN MCFERRAN and MEMBERS EMANUEL and RING
+<p class="case-h1">By CHAIRMAN MCFERRAN and MEMBERS EMANUEL and RING</p>
 
 For the reasons discussed below, we find that the Respondent violated Section 8(a)(1) by maintaining a media-contact provision in its Confidentiality Agreement.
 
-##### I. Media-Contact Provision 
+<p class="case-h1">I. Media-Contact Provision </p>
 
-###### A. Relevant Facts
+<p class="case-h1">"case-h2">A. Relevant Facts</p>
 
 In October and November 2016, the Respondent required its employees to sign the following Confidentiality Agreement:
 
@@ -75,7 +75,7 @@ The Respondent created the Confidentiality Agreement in response to leaks of its
 
 The Respondent initially tried to have every employee physically sign a copy of the Confidentiality Agreement in the presence of a human resources (HR) partner. When that method proved to be logistically difficult, the Respondent, through a November 2, 2016 email sent by Vice President of Human Resources Mark Lipscomb, instructed all employees to electronically sign the Confidentiality Agreement in Workday. Lipscomb’s email stated that “it’s absolutely critical that we maintain strict confidentiality on all internal matters as any leak can have a negative impact on our company,” and that “in order to reinforce the importance of confidentiality, we are asking everyone to sign an updated confidentiality agreement.”
 
-###### B. Legal Standard
+<p class="case-h1">"case-h2">B. Legal Standard</p>
 
 In _Boeing Co._, the Board set out a new standard for determining whether a facially neutral work rule or policy, reasonably interpreted, would unlawfully interfere with, restrain, or coerce employees in the exercise of their Section 7 rights. The Board in _Boeing_ held:
 
@@ -93,7 +93,7 @@ However, these categories “will represent a classification of results from the
 
 The General Counsel has the initial burden to prove that a facially neutral rule or policy would, when read in context, be interpreted by a reasonable employee as potentially interfering with the exercise of Section 7 rights. If the General Counsel fails to meet this initial burden, the Board does not need to address the employer’s legitimate justifications for the rule. Instead, the rule is lawful and fits within _Boeing_ Category 1(a). Conversely, if the General Counsel does meet the initial burden of proving that a reasonable employee would interpret a rule as potentially interfering with the exercise of Section 7 rights, the Board will then balance that potential interference against the employer’s legitimate justifications for the rule. When the balance favors general employer interests, the rule at issue will be lawful and will fit within _Boeing_ Category 1(b). When the potential interference with Section 7 rights generally outweighs any possible employer justification, the rule at issue will be unlawful and will fit within _Boeing_ Category 3. Finally, “in some instances, it will not be possible to draw any broad conclusions about the legality of a particular rule because the context of the rule and the competing rights and interests involved are specific to that rule and that employer”; such rules will fit within _Boeing_ Category 2. 
 
-###### C. Discussion
+<p class="case-h1">"case-h2">C. Discussion</p>
 
 The Board has applied _Boeing_ to analyze media-contact rules in two recent cases. In _LA Specialty_, the Board found the following media-contact rule to be lawful:
 
@@ -133,7 +133,7 @@ In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confiden
 
 #### Zorn-Hill v. A2B Taxi, LLC, Nos. 19-CV-1058 & 18-CV-11165 (S.D.N.Y. September 17, 2020) {#zorn-hill}
 
-##### KENNETH M. KARAS, United States District Judge
+<p class="case-h1">KENNETH M. KARAS, United States District Judge</p>
 
 Plaintiff Kenneth Zorn-Hill ("Zorn-Hill") filed a Complaint against A2B Taxi LLC ("A2B"), Everald Gilliard, and Trevonne Gilliard (collectively, "Defendants"), pursuant to the Fair Labor Standards Act of 1938 ("FLSA") and New York Labor Law Article 6 § 190 _et seq_ ("NYLL"). 
 
@@ -141,11 +141,11 @@ Similarly, on November 30, 2018, Plaintiff Christopher Hunlock ("Hunlock") filed
 
 The Parties now seek approval of their proposed settlement. For the reasons that follow, the Parties' application is denied without prejudice.
 
-##### I. Background
+<p class="case-h1">I. Background</p>
 
 According to the Complaints, A2B provides non-emergency medical transportation services. Plaintiffs allege that they were not (1) informed of their right to overtime pay, (2) paid overtime for work in excess of 40 hours per week, or (3) provided with an appropriate wage notice. Plaintiffs seek damages, liquidated damages, pre- and post-judgment interest, further relief available under the FLSA and NYLL, and attorney fees.
 
-##### II. Discussion
+<p class="case-h1">II. Discussion</p>
 
 Under Fed. R. Civ. P. 41(a)(1)(A), a plaintiff's ability to dismiss an action without a court order is made "subject to ... any applicable federal statute." "Except as provided in Rule 41(a)(1), an action may be dismissed at the plaintiff's request only by court order, on terms that the court considers proper." The Second Circuit has confirmed that the FLSA is an "applicable federal statute," such that "Rule 41(a)(1)(A)(ii) stipulated dismissals settling FLSA claims with prejudice require the approval of the district court or the Department of Labor to take effect." Consequently, "the Parties must satisfy the Court that their agreement is 'fair and reasonable.'"
 
@@ -157,11 +157,11 @@ Conversely, factors which weigh against finding a settlement fair and reasonable
 
 > \(1) the presence of other employees situated similarly to the claimant; (2) a likelihood that the claimant's circumstance will recur; (3) a history of FLSA non-compliance by the same employer or others in the same industry or geographic region; and (4) the desirability of a mature record and a pointed determination of the governing factual or legal issue to further the development of the law either in general or in an industry or in a workplace.
 
-###### C. Non-Disparagement Clause
+<p class="case-h1">"case-h2">C. Non-Disparagement Clause</p>
 
 The Court finds that the Proposed Settlement's non-disparagement clause is reasonable. In this clause, the Parties mutually "agree not to say or publicize things that are insulting or disparaging about the other Party." The clause also contains a carve-out: "each of the parties are free to make truthful statements about their experience litigating their case (except as to statements made at the confidential mediation held on July 9, 2020)." Non-disparagement clauses are valid, so long as they contain such a carve-out. Thus, the Court approves the non-disparagement clause.
 
-###### D. Non-Publicity Clause
+<p class="case-h1">"case-h2">D. Non-Publicity Clause</p>
 
 The Court finds that the Proposed Settlement's non-publicity cause imposes reasonable restrictions on affirmative contact with media, but unreasonable restrictions on use of social media. This clause states that "Plaintiffs, on behalf of themselves and their counsel, agree not to take affirmative steps to contact the media or utilize social media to publicize the Proposed Settlement or its terms." The clause contains two specific carve-outs. First, "if contacted by the media regarding the Proposed Settlement, Plaintiffs and Plaintiffs' Counsel are free to make truthful statements about their experience litigating their case." Second, Plaintiffs' Counsel is permitted to post a brief description of the lawsuit and settlement to its website, including a hyperlink to the case dockets.
 
@@ -173,7 +173,7 @@ Here, the restriction on affirmative steps to communicate with the media is perm
 
 The Court finds that the restriction on use of social media is impermissible. Since individuals regularly use the internet to communicate with friends, colleagues, and family, restricting Plaintiffs ability to use it "places a substantial burden on their ability to openly discuss their experience litigating the lawsuit and entering into the Proposed Settlement." This is incompatible with the statutory purpose to "ensure that workers are aware of their rights." It is true that the Proposed Settlement restricts only efforts "to publicize" the agreement. However, this provides little comfort "given the broad range of meanings which can be imputed to the word 'publicize.'"
 
-##### III. Conclusion
+<p class="case-h1">III. Conclusion</p>
 
 For the foregoing reasons, the Parties' request for approval of their Proposed Settlement is denied without prejudice. The Parties may reapply for approval of a settlement that eliminates or tailors the provision restricting use of social media.
 
@@ -181,7 +181,7 @@ For the foregoing reasons, the Parties' request for approval of their Proposed S
 
 The main issue presented is whether the Respondent violated Section 8(a)(1) of the National Labor Relations Act (Act) by offering a severance agreement to 11 bargaining unit employees it permanently furloughed. The agreement broadly prohibited them from making statements that could disparage or harm the image of the Respondent and further prohibited them from disclosing the terms of the agreement. Agreements that contain broad proscriptions on employee exercise of Section 7 rights have long been held unlawful because they purport to create an enforceable legal obligation to forfeit those rights. Proffers of such agreements to employee have also been held to be unlawfully coercive. The Board in _Baylor University Medical Center_ and _IGT d/b/a International Game Technology_ reversed this long-settled precedent and replaced it with a test that fails to recognize that unlawful provisions in a severance agreement proffered to employees have a reasonable tendency to interfere with, restrain, or coerce the exercise of employee rights under Section 7 of the Act. We accordingly overrule _Baylor_ and _IGT_ and, upon careful analysis of the terms of the nondisparagement and confidentiality provisions at issue here, we find them to be unlawful, and thus find the severance agreement proffered to employees unlawful.
 
-##### I.
+<p class="case-h1">I.</p>
 
 The Respondent operates a hospital in Mt. Clemens, Michigan, where it employs approximately 2300 employees. After an election on August 28, 2019, the Board certified Local 40 RN Staff Council, Office of Professional Employees International Union (OPEIU), AFL-CIO (Union) as the exclusive collective-bargaining representative of a unit of approximately 350 of the Respondent's service employees. Following the onset of the Coronavirus Disease 2019 (Covid-19) pandemic in March 2020, the government issued regulations prohibiting the Respondent from performing elective and outpatient procedures and from allowing nonessential employees to work inside the hospital. The Respondent then terminated its outpatient services, admitted only trauma, emergency, and Covid-19 patients, and temporarily furloughed 11 bargaining unit employees because they were deemed nonessential employees. In June, the Respondent permanently furloughed those 11 employees and contemporaneously presented each of them with a "Severance Agreement, Waiver and Release" that offered to pay differing severance amounts to each furloughed employee if they signed the agreement. All 11 employees signed the agreement. The agreement required the subject employee to release the Respondent from any claims arising out of their employment or termination of employment. The agreement further contained the following provisions broadly prohibiting disparagement of the Respondent and requiring confidentiality about the terms of the agreement:
 
@@ -195,7 +195,7 @@ The agreement provided for substantial monetary and injunctive sanctions against
 
 The Respondent neither gave the Union notice that it was permanently furloughing the 11 employees nor an opportunity to bargain regarding that decision and its effects. The Respondent also did not give the Union notice that it presented the severance agreement to the employees, nor did it include the Union in its discussions with the employees regarding their permanent furloughs and the severance agreement. Thus, the Respondent entirely bypassed and excluded the Union from the significant workplace events here: employees' permanent job loss and eligibility for severance benefits.
 
-##### III. 
+<p class="case-h1">III. </p>
 
 The gravamen of the General Counsel's amended complaint is that the nondisparagement and confidentiality provisions of the severance agreement unlawfully restrain and coerce the furloughed employees in the exercise of their Section 7 rights. Applying _Baylor_ and _IGT_, the judge found these provisions to be lawful, and thus concluded that the severance agreement was lawful and that the proffer of the agreement to the furloughed employees was lawful. The General Counsel excepts to the dismissal and argues, among other things, that the Board should overrule _Baylor_ and _IGT._ We agree.
 
@@ -219,7 +219,7 @@ But whether an employer harbors animus against Section 7 activity is irrelevant 
 
 Indeed, neither _Baylor_ nor the _IGT_ majority attempted to articulate any policy considerations that would justify its severely constricted view of Section 7 rights. The _IGT_ majority reasons that because _some_ employee waivers of Section 7 rights are permissible, _no_ waivers can be facially unlawful, but this is a non sequitur. Whether or not employees view employer documents through the prism of Section 7 rights (a proposition questioned by the _IGT_ majority), the Board must do so when the General Counsel issues a complaint alleging that a severance agreement violates employee Section 7 rights. Because both _Baylor_ and the _IGT_ majority fail this test, we overrule them.
 
-##### IV. 
+<p class="case-h1">IV. </p>
 
 _Baylor_ and the _IGT_ majority ignore well-established precedent concerning waiver of employee rights. The Board does not write on a clean slate regarding employee waiver of Section 7 rights via a severance agreement. There is a backdrop of nearly a century of settled law that employees may not broadly waive their rights under the NLRA. Agreements between employers and employees that restrict employees from engaging in activity protected by the Act, or from filing unfair labor practice charges with the Board, assisting other employees in doing so, or assisting the Board's investigative process, have been consistently deemed unlawful. The "future rights of employees as well as the rights of the public may not be traded away" in a manner which requires "forebearance from future charges and concerted activities." This broad proscription underscores that the Board acts in a public capacity to protect public rights to give effect to the declared public policy of the Act. 
 
@@ -231,7 +231,7 @@ It is through the lens of this broad grant of rights and the Board's duty to pro
 
 Certainly such surrounding circumstances may enhance the reasonable tendency of the severance agreement to coerce employees, but that tendency does not depend on them. Where an agreement unlawfully conditions receipt of severance benefits on the forfeiture of statutory rights, the mere proffer of the agreement itself violates the Act, because it has a reasonable tendency to interfere with or restrain the prospective exercise of Section 7 rights, both by the separating employee and those who remain employed. Whether the employee accepts the agreement is immaterial. As the Board explained in _Metro Networks_, the employer's "proffer of the severance agreement . . . constitutes an attempt to deter the employee from assisting the Board" and the employee's "conduct in _not_ signing the agreement did not render the employer's conduct lawful." If the law were to the contrary, it would create an incentive for employers to proffer severance agreements with unlawful provisions to employees. Only if the employee signed the agreement, subjected herself to its unlawful requirements, and then came to the Board would the Board be able to address the situation, belatedly. No policy of the Act is served by creating this obstacle to the effective protection of Section 7 rights. In fact, under established standards, no showing of actual coercion is required to prove a violation of Section 8(a)(1) of the Act. Rather, it is the high potential that coercive terms in separation agreements may chill the exercise of Section 7 rights that dictates the Board's traditional approach of viewing severance agreements requiring the forfeiture of Section 7 rights-- whether accepted or merely proffered--as unlawful unless narrowly tailored.
 
-##### V. 
+<p class="case-h1">V. </p>
 
 Examining the language of the severance agreement here, we conclude that the nondisparagement and confidentiality provisions interfere with, restrain, or coerce employees' exercise of Section 7 rights. Because the agreement conditioned the receipt of severance benefits on the employees' acceptance of those unlawful provisions, we find that the Respondent's proffer of the agreement to employees violated Section 8(a)(1) of the Act.
 
@@ -255,13 +255,13 @@ Two states, California and Washington, have enacted legislation against provisio
 
 #### TSG Finishing, LLC v. Bollinger (I), 767 S.E.2d 870 (N.C. App. 2014) {#tsg-finishing-v-bollinger-i}
 
-##### ROBERT C. HUNTER, Judge.
+<p class="case-h1">ROBERT C. HUNTER, Judge.</p>
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
 After careful review, we reverse the trial court's order and remand with instructions to issue the preliminary injunction.
 
-##### Background
+<p class="case-h1">Background</p>
 
 TSG is in the business of fabric finishing. It has three plants in Catawba County, North Carolina. Rather than manufacturing fabrics, TSG applies chemical coatings to achieve whichever result is desired by the customer, such as coloring, stiffening, deodorizing, and abrasion resistance.
 
@@ -285,9 +285,9 @@ We must first address the interlocutory nature of plaintiff's appeal. Orders gra
 
 Accordingly, because both a non-compete and the potential misappropriation of trade secrets are implicated by this case, we conclude that plaintiff has succeeded in demonstrating how a substantial right may be lost without immediate appellate review; thus, we will reach the merits of the appeal.
 
-##### Discussion
+<p class="case-h1">Discussion</p>
 
-##### I. Misappropriation of Trade Secrets
+<p class="case-h1">I. Misappropriation of Trade Secrets</p>
 
 Plaintiff first argues that the trial court erred by concluding that it has not demonstrated a likelihood of success on the merits of its claim for trade secret misappropriation. After careful review, we agree.
 
@@ -353,13 +353,13 @@ Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of 
 
 #### MikLin Enterprises, Inc. v. NLRB, 861 F.3d 812 (8th Cir. 2017) {#mik-lin-enterprises-v-nlrb}
 
-##### LOKEN, Circuit Judge, with whom SMITH, Chief Judge, WOLLMAN, RILEY, GRUENDER, and SHEPHERD, Circuit Judges, join.
+<p class="case-h1">LOKEN, Circuit Judge, with whom SMITH, Chief Judge, WOLLMAN, RILEY, GRUENDER, and SHEPHERD, Circuit Judges, join.</p>
 
 MikLin Enterprises, Inc. ("MikLin") petitions for review of a National Labor Relations Board ("Board") Order holding that MikLin violated Sections 8(a)(1) and 8(a)(3) of the National Labor Relations Act ("NLRA" or "the Act") when it (i) discharged and disciplined employees who publicly distributed posters suggesting that MikLin's "Jimmy John's" sandwiches posed a health risk to consumers; (ii) solicited employees to aid in removing the posters; (iii) encouraged employees to disparage a union supporter; and (iv) removed union literature from in-store bulletin boards. MikLin argues that the Board misapplied governing law and its decision is not supported by substantial evidence. The Board cross-petitions for enforcement of its Order. A divided panel enforced the Order in its entirety. We granted rehearing en banc and vacated the panel decision. We now conclude that the means the disciplined employees used in their poster attack were so disloyal as to exceed their right to engage in concerted activities protected by the NLRA, as construed in a controlling Supreme Court precedent, _NLRB v. Local Union No. 1229, IBEW_, 346 U.S. 464 (1953) ("Jefferson Standard"). We therefore decline to enforce the determination that MikLin violated the Act by disciplining and discharging those employees and by soliciting removal of the unprotected posters. We enforce the remainder of the Order, as so modified.
 
-##### I. Background.
+<p class="case-h1">I. Background.</p>
 
-###### A. The "Sick Day Posters" Campaign.
+<p class="case-h1">"case-h2">A. The "Sick Day Posters" Campaign.</p>
 
 MikLin is a family enterprise that owns and operates ten Jimmy John's sandwich-shop franchises in the Minneapolis-St. Paul area. Michael Mulligan is president and co-owner; Robert Mulligan, his son, is vice-president. In 2007, several MikLin workers began an organizing campaign seeking representation by the Industrial Workers of the World ("IWW") union. The IWW lost a Board-conducted election in October 2010, filed unfair labor practice charges and objections to the election with the Board, and continued its organizing campaign by urging MikLin to provide employees holiday pay in late 2010. On January 10, 2011, MikLin and the IWW settled the IWW's objections. MikLin admitted no wrongdoing but agreed to a Board-conducted rerun election if the IWW filed for the election after sixty days but not later than after eighteen months.
 
@@ -379,7 +379,7 @@ On March 20, IWW supporters implemented their threat to plaster the city with a 
 
 The IWW continued its sick leave attack. In a press release issued a day after the terminations, a discharged employee stated: "It just isn't safe — customers are getting their sandwiches made by people with the flu, and they have no idea. Rather than safeguard public health and do the right thing for their employees and their customers, Jimmy John's owners Mike and Rob Mulligan are trying to silence us." On March 30, the IWW issued another press release stating that "customers have a right to know that their sandwich could be filled with germs," that IWW members have a duty to speak out on this "public health issue," and that employees "blew the whistle by posting 3000 copies of a poster advising the public of health risks at the sandwich chain." The release quoted one employee as stating: "The unfettered greed of franchise owner Mike Mulligan and Jimmy John Liautaud himself jeopardizes the health of thousands of customers and workers almost every day. We will speak out until they realize that no one wants to eat a sandwich filled with cold and flu germs."
 
-###### B. The NLRB Proceedings.
+<p class="case-h1">"case-h2">B. The NLRB Proceedings.</p>
 
 Following a two-day evidentiary hearing, the Board's Administrative Law Judge ("ALJ") concluded that MikLin violated Sections 8(a)(1) and 8(a)(3) of the Act. Citing prior Board decisions, the ALJ ruled that "Section 7 29 U.S.C. § 157 protects employee communications to the public that are part of and related to an ongoing labor dispute," such as the Sick Day posters and related press releases, unless they are "so disloyal, reckless, or maliciously untrue as to lose the Act's protections." To lose Section 7 protection, "an employee's public criticism must evidence 'a malicious motive'" or be made with knowledge of the statements' falsity or with reckless disregard for their truth or falsity.
 
@@ -389,7 +389,7 @@ A divided panel of the Board affirmed the ALJ's findings and conclusions. The ma
 
 Turning to the question of disloyalty, the majority noted that "Board law has developed considerably in its approach to the question of employee disloyalty." "To lose the Act's protection as an act of disloyalty, an employee's public criticism of an employer must evidence a malicious motive," even if the public communication "raises highly sensitive issues such as public safety." Accepting the majority's summary of prior Board decisions, the dissenting Member would nonetheless have held the Sick Day posters and press release unprotected, because "it is well established that employees lose the Act's protection if their means of protest are 'flagrantly disloyal, wholly incommensurate with any grievances which they may have, and manifested by public disparagement of the employer's product or undermining of its reputation,'".
 
-##### II. "Sick Day" Poster Issues.
+<p class="case-h1">II. "Sick Day" Poster Issues.</p>
 
 It is well established that an employer commits an unfair labor practice if it discharges employees for engaging in concerted activities that are protected by Section 7 of the NLRA, including communications to third parties or to the public that seek to "improve their lot as employees through channels outside the immediate employee-employer relationship." Section 10(c) of the Act, however, expressly limits the Board's broad authority to remedy unlawful employee discharges: "No order of the Board shall require the reinstatement of any individual as an employee if such individual was suspended or discharged for cause." The interplay between Section 7 and Section 10(c) was the critical question the Supreme Court addressed in Jefferson Standard.
 
@@ -435,19 +435,19 @@ The ALJ concluded this post violated Section 8(a)(1) because its target, the san
 
 #### Food Lion, Inc. v. Capital Cities/ABC, Inc., 951 F.Supp. 1224 (M.D.N.C. 1996) {#food-lion-v-capital-cities-abc}
 
-##### TILLEY, District Judge.
+<p class="case-h1">TILLEY, District Judge.</p>
 
 This matter is before the Court on Defendants' Renewed Motion to Dismiss Plaintiff's Claims of Breach of Fiduciary Duty/Constructive Fraud and Unfair or Deceptive Trade Practices, or in the Alternative, for Summary Judgment For the reasons stated below, Defendants' Motion is DENIED.
 
-##### I.
+<p class="case-h1">I.</p>
 
 Defendants Lynne Litt and Susan Barnett are both employed by the ABC news program _Prime Time Live._ The television show at some point determined that it would prepare and broadcast a story on Food Lion stores. In an attempt to gain access to parts of Food Lion stores not generally open to the public, Litt and Barnett applied for positions of employment with Food Lion. Both provided false information to Food Lion in order to obtain a position. Barnett was eventually employed as a deli clerk in a store in South Carolina. Litt was employed as a meat wrapper in North Carolina. During the brief period of their employment, each wore a hidden camera, secreted in a wig, into work areas and recorded video footage. Some of this footage was ultimately used in a _Prime Time Live_ broadcast which was highly critical of Food Lion. This lawsuit arises as a result of these actions.
 
 Two of Food Lion's claims are at issue here. Food Lion claims that Litt and Barnett, as Food Lion employees, owed Food Lion a duty of loyalty and that they violated that duty by serving another, undisclosed, master while "working" for Food Lion. In addition, Food Lion claims that the actions of Defendants were unfair and deceptive acts which violated the North Carolina Unfair Trade Practices Act.
 
-##### III.
+<p class="case-h1">III.</p>
 
-###### A. Fiduciary Duty
+<p class="case-h1">"case-h2">A. Fiduciary Duty</p>
 
 Defendants maintain that there can be no violation of fiduciary duty because there never was a fiduciary relationship for Litt and Barnett to violate. For a fiduciary relationship to exist, according to Defendants, there must be a relationship of special confidence or access to confidential information. In some contexts, Defendants' contentions might be correct. To the contrary, however, it appears both the North Carolina and South Carolina Supreme Courts likely would recognize a broader claim.
 
@@ -467,7 +467,7 @@ In addition to the claims that Litt and Barnett were substandard employees becau
 
 #### Dalton v. Camp, 548 S.E.2d 704 (N.C. 2001) {#dalton-v-camp}
 
-##### ORR, Justice.
+<p class="case-h1">ORR, Justice.</p>
 
 This case arises out of an employer's allegations of unfair competitive activity by former employees and a new corporation formed by them. Plaintiff Robert Earl Dalton d/b/a B. Dalton & Company ("Dalton") produced, under a thirty-six month contract, an employee newspaper for Klaussner Furniture Industries ("KFI"). Dalton hired defendant David Camp ("Camp") to produce the publication and subsequently hired Nancy Menius ("Menius") to assist in the production of the employee newspaper. Near the conclusion of the contract period, Dalton began negotiations with KFI to continue publication. After the contract had expired, Dalton continued to publish the employee newspaper without benefit of a contract while talks between the parties continued. During this period, Camp, who was contemplating leaving Dalton's employ, established a competing publications entity, Millennium Communication Concepts, Inc. ("MCC"), and discussed with KFI officials the possibility of replacing Dalton as publisher of KFI's employee newspaper. Soon thereafter, Camp entered into a contract with KFI to produce the newspaper. He resigned from Dalton's employment approximately two weeks later.
 
@@ -475,7 +475,7 @@ In the wake of Camp's resignation, Dalton sued Camp, Menius, and MCC for breach 
 
 For the reasons set forth below, we hold that the trial court properly granted summary judgment for all applicable claims, and we reverse those portions of the Court of Appeals opinion that hold otherwise. Thus, in sum, none of plaintiff Dalton's claims survive.
 
-##### I.
+<p class="case-h1">I.</p>
 
 We begin our analysis with an examination of Dalton's first claim against Camp which, as described in Dalton's complaint, constituted a breach of fiduciary duty, including a duty of loyalty. From the outset, we note that Dalton argues this claim from two distinct vantage points. First, he alleges that Camp breached his fiduciary duty by being disloyal. Second, he argues that a separate and distinct action for breach of duty of loyalty exists and that Camp's conduct constituted a breach of that duty. We disagree with both contentions, holding that Dalton has failed to establish: (1) facts supporting a breach of fiduciary duty, and (2) that any independent tort for breach of duty of loyalty exists under state law.
 
@@ -493,7 +493,7 @@ To the extent that the holding in _Food Lion, Inc. v. Capital Cities/ABC, Inc.,_
 
 As for the holding in _Long v. Vertical Technologies, Inc.,_, 439 S.E.2d 797 (N.C. App. 1994) we note that the corporate employer in that case was awarded damages for "a material breach of fiduciary duty of good faith, fair dealing and loyalty" by its employees. Essentially, the _Long_ court determined that the employees, who originally founded the company in question and served respectively as its president and senior vice president, owed a fiduciary duty to the parent firm and that they breached that duty by taking actions contrary to the parent firm's best interests. Thus, the claim and damages awarded in _Long_ resulted from: (1) a showing of a fiduciary relationship, (2) thereby establishing a fiduciary duty, and (3) a breach of that duty. No such fiduciary relationship or duty is evidenced by the circumstances of the instant case.
 
-##### II.
+<p class="case-h1">II.</p>
 
 As for Dalton's claim against Camp and MCC for tortious interference with prospective advantage, this Court has held that "interference with a man's business, trade or occupation by maliciously inducing a person not to enter a contract with a third person, which he would have entered into but for the interference, is actionable if damage proximately ensues." 
 
@@ -505,7 +505,7 @@ Second, while Dalton may have had an expectation of a continuing business relati
 
 The absence of evidence supporting two essential elements of a party's allegation of interference with prospective advantage—intervenor's inducement of a third party and a showing that a contract would have ensued—exposes a fatal weakness in that claim. As a result, we hold that the trial court properly granted summary judgment for both Camp and his company, MCC, and thus reverse the Court of Appeals on this issue.
 
-##### III.
+<p class="case-h1">III.</p>
 
 Dalton additionally argues that he has presented a genuine question of material fact as to alleged unfair and deceptive trade practices of Camp and MCC. Again, we disagree.
 
@@ -585,20 +585,17 @@ The NLRA generally preempts state law (criminal and civil) regulating or imposin
 
 </div>
 
-
-
-
 ### Non-Compete Agreements 
 
 #### TSG Finishing, LLC v. Bollinger (II), 767 S.E.2d 870 (N.C. App. 2014) {#tsg-finishing-v-bollinger-ii}
 
-##### ROBERT C. HUNTER, Judge.
+<p class="case-h1">ROBERT C. HUNTER, Judge.</p>
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
 After careful review, we reverse the trial court's order and remand with instructions to issue the preliminary injunction.
 
-##### Background
+<p class="case-h1">Background</p>
 
 TSG is in the business of fabric finishing. It has three plants in Catawba County, North Carolina. Rather than manufacturing fabrics, TSG applies chemical coatings to achieve whichever result is desired by the customer, such as coloring, stiffening, deodorizing, and abrasion resistance.
 
@@ -622,9 +619,9 @@ We must first address the interlocutory nature of plaintiff's appeal. Orders gra
 
 Accordingly, because both a non-compete and the potential misappropriation of trade secrets are implicated by this case, we conclude that plaintiff has succeeded in demonstrating how a substantial right may be lost without immediate appellate review; thus, we will reach the merits of the appeal.
 
-##### Discussion
+<p class="case-h1">Discussion</p>
 
-##### II. Breach of Contract
+<p class="case-h1">II. Breach of Contract</p>
 
 Plaintiff next argues that the trial court erred by concluding that it failed to present a likelihood of success on the merits of its claim for breach of the non-compete. We agree.
 
@@ -652,64 +649,165 @@ We also find TSG's policy arguments in this case persuasive. TSG employs around 
 
 In sum, we hold that the non-compete was validly assigned to plaintiff through bankruptcy reorganization, the non-compete itself is reasonable to protect TSG's legitimate business interests, and the equities weigh in favor of enforcement under these facts. Therefore, because it is undisputed that defendant is in breach of the non-compete by working for ACF, a direct competitor of TSG, we hold that TSG has demonstrated a likelihood of success on the merits of its claim for breach of contract.
 
+#### Cal. Bus. & Prof. Code §§ 16600 et seq.
 
-#### Edwards v. Arthur Andersen, LLP, 189 P.3d 285 (Cal. 2008) {#edwards-v-arthur-andersen}
+<div class="legal-code">
 
-##### CHIN, J.
+<p class="case-h1">§ 16600</p>
 
-##### FACTS
+(a) Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.
 
-In January 1997, Raymond Edwards II (Edwards), a certified public accountant, was hired as a tax manager by the Los Angeles office of the accounting firm Arthur Andersen LLP (Andersen). Andersen's employment offer was made contingent upon Edwards's signing a noncompetition agreement, which prohibited him from working for or soliciting certain Andersen clients for limited periods following his termination. The agreement was required of all managers, and read in relevant part: "If you leave the Firm, for eighteen months after release or resignation, you agree not to perform professional services of the type you provided for any client on which you worked during the eighteen months prior to release or resignation. This does not prohibit you from accepting employment with a client. ¶ For twelve months after you leave the Firm, you agree not to solicit (to perform professional services of the type you provided) any client of the office(s) to which you were assigned during the eighteen months preceding release or resignation. ¶ You agree not to solicit away from the Firm any of its professional personnel for eighteen months after release or resignation." Edwards signed the agreement.
+(b) (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937,[^CalB&P16600] to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
 
-Between 1997 and 2002, Edwards continued to work for Andersen, moving into the firm's private client services practice group, where he handled income, gift, and estate tax planning for individuals and entities with large incomes and net worth. Over this period he was promoted to senior manager and was on track to become a partner. In March 2002, the United States government indicted Andersen in connection with the investigation into Enron Corporation, and in June 2002, Andersen announced that it would cease its accounting practices in the United States. In April 2002, Andersen began selling off its practice groups to various entities. In May 2002, Andersen internally announced that HSBC USA, Inc. (a New York-based banking corporation), through a new subsidiary, Wealth and Tax Advisory Services (WTAS), would purchase a portion of Andersen's tax practice, including Edwards's group.
+[^CalB&P16600]:
 
-In July 2002, HSBC offered Edwards employment. Before hiring any of Andersen's employees, HSBC required them to execute a "Termination of Non-compete Agreement" (TONC) in order to obtain employment with HSBC. Among other things, the TONC required employees to, inter alia, (1) voluntarily resign from Andersen; (2) release Andersen from "any and all" claims, including "claims that in any way arise from or out of, are based upon or relate to Employee's employment by, association with or compensation from" defendant; (3) continue indefinitely to preserve confidential information and trade secrets except as otherwise required by a court or governmental agency; (4) refrain from disparaging Andersen or its related entities or partners; and (5) cooperate with Andersen in connection with any investigation of, or litigation against, Andersen. In exchange, Andersen would agree to accept Edwards's resignation, agree to Edwards's employment by HSBC, and release Edwards from the 1997 noncompetition agreement.
+  {-} In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncompetition agreements are invalid under section 16600 in California, even if narrowly drawn, unless they fall within the applicable statutory exceptions of section 16601, 16602, or 16602.5," "leav[ing] it to the Legislature, if it chooses, either to relax the statutory restrictions or adopt additional exceptions to the prohibition-against-restraint rule under section 16600."
+ 
+> (2) This subdivision does not constitute a change in, but is declaratory of, existing law.
+ 
+(c) This section shall not be limited to contracts where the person being restrained from engaging in a lawful profession, trade, or business is a party to the contract.
 
-HSBC required that Andersen provide it with a completed TONC signed by every employee on the "Restricted Employees" list before the deal went through. At least one draft of the Restricted Employees list contained Edwards's name. Andersen would not release Edwards, or any other employee, from the noncompetition agreement unless that employee signed the TONC.
+<p class="case-h1">§ 16600.1</p>
 
-Edwards signed the HSBC offer letter, but he did not sign the TONC. In response, Andersen terminated Edwards's employment and withheld severance benefits. HSBC withdrew its offer of employment to Edwards.
+(a) It shall be unlawful to include a noncompete clause in an employment contract, or to require an employee to enter a noncompete agreement, that does not satisfy an exception in this chapter.
 
-##### Procedural History
+(b) (1) For current employees, and for former employees who were employed after January 1, 2022, whose contracts include a noncompete clause, or who were required to enter a noncompete agreement, that does not satisfy an exception to this chapter, the employer shall, by February 14, 2024, notify the employee that the noncompete clause or noncompete agreement is void.
 
-On April 30, 2003, Edwards filed a complaint against Andersen, HSBC and WTAS for intentional interference with prospective economic advantage and anticompetitive business practices under California law. Edwards alleged that the Andersen noncompetition agreement violated California Business \& Professions Code section 16600, which states "except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void." 
+> (2) Notice made under this subdivision shall be in the form of a written individualized communication to the employee or former employee, and shall be delivered to the last known address and the email address of the employee or former employee.
 
-[The trial court held that the noncompetition agreement did not violate Cal. Bus. \& Prof. Code § 16600, because it was narrowly tailored and did not deprive Edwards of his right to pursue his profession. The California Court of Appeals reversed on that issue.]
+(c) A violation of this section constitutes an act of unfair competition within the meaning of [Chapter 5](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=2.&chapter=5.&article=) (commencing with Section 17200).
 
-##### Discussion 
+<p class="case-h1">§ 16600.5</p>
 
-###### A. Section 16600
+(a) Any contract that is void under this chapter is unenforceable regardless of where and when the contract was signed.
 
-Under the common law, as is still true in many states today, contractual restraints on the practice of a profession, business, or trade, were considered valid, as long as they were reasonably imposed. This was true even in California. However, in 1872 California settled public policy in favor of open competition, and rejected the common law "rule of reasonableness," when the Legislature enacted the Civil Code. Today in California, covenants not to compete are void, subject to several exceptions discussed briefly below.
+(b) An employer or former employer shall not attempt to enforce a contract that is void under this chapter regardless of whether the contract was signed and the employment was maintained outside of California.
 
-Section 16600 states: "Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void." The chapter excepts noncompetition agreements in the sale or dissolution of corporations (§ 16601), partnerships, and limited liability corporations. In the years since its original enactment as Civil Code section 1673, our courts have consistently affirmed that section 16600 evinces a settled legislative policy in favor of open competition and employee mobility. The law protects Californians and ensures "that every citizen shall retain the right to pursue any lawful employment and enterprise of their choice." It protects "the important legal right of persons to engage in businesses and occupations of their choosing." 
+(c) An employer shall not enter into a contract with an employee or prospective employee that includes a provision that is void under this chapter.
 
-This court has invalidated an otherwise narrowly tailored agreement as an improper restraint under section 16600 because it required a former employee to forfeit his pension rights on commencing work for a competitor. In _Muggill v. Reuben H. Donnelley Corp._, the court reviewed an adverse judgment against a company's retired employee whose pension plan rights were terminated after the former employee commenced work for a competitor. The retired employee had sued the former employer, seeking declaratory relief on the ground that the provision in the pension plan that terminated the retirement payments because the retiree went to work for a competitor was "against public policy and unenforceable." _Muggill_ held that, with exceptions not applicable here, section 16600 invalidates provisions in employment contracts and retirement pension plans that prohibit "an employee from working for a competitor after completion of his employment or imposing a penalty if he does so unless they are necessary to protect the employer's trade secrets." In sum, following the Legislature, this court generally condemns noncompetition agreements. 
+(d) An employer that enters into a contract that is void under this chapter or attempts to enforce a contract that is void under this chapter commits a civil violation.
 
-Under the statute's plain meaning, therefore, an employer cannot by contract restrain a former employee from engaging in his or her profession, trade, or business unless the agreement falls within one of the exceptions to the rule. Andersen, however, asserts that we should interpret the term "restrain" under section 16600 to mean simply to "prohibit," so that only contracts that totally prohibit an employee from engaging in his or her profession, trade, or business are illegal. It would then follow that a mere limitation on an employee's ability to practice his or her vocation would be permissible under section 16600, as long as it was reasonably based.
+(e) (1) An employee, former employee, or prospective employee may bring a private action to enforce this chapter for injunctive relief or the recovery of actual damages, or both.
 
-Andersen contends that some California courts have held that section 16600 is the statutory embodiment of prior common law, and embraces the rule of reasonableness in evaluating competitive restraints. Andersen claims that these cases show that section 16600 "prohibits only broad agreements that prevent a person from engaging entirely in his chosen business, trade or profession. Agreements that do not have this broad effect—but merely regulate some aspect of post-employment conduct, e.g., to prevent raiding employer's personnel—are not within the scope of section 16600."
+> (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
 
-As Edwards observes, however, the cases Andersen cites to support a relaxation of the statutory rule simply recognize that the statutory exceptions to section 16600 reflect the same exceptions to the rule against noncompetition agreements that were implied in the common law. For example, _South Bay Radiology_ acknowledged the general prohibition against restraints on trade while applying the specific partnership dissolution exception of section 16602 to the facts of its case. In that case, the covenant not to compete was set forth in a partnership agreement to which the appellant doctor was a party. When the appellant's partnership with several other doctors dissolved due to his inability to work following an accident, he challenged the noncompete clause. The court found the partnership exception to section 16600 applicable.
+</div>
 
-_Vacco_ involved the sale of shares in a business, an exception to section 16600 found in section 16601. The Court of Appeal upheld an agreement not to compete made by a terminated employee who had sold all of his stock in the business for $500,000 prior to his termination. In applying the exception to section 16600, the court held that section 16601 "permits agreements not to compete made by a party selling the goodwill of a business or _all_ of the shares of stock in a corporation." As the present Court of Appeal recognized, "Fairly read, the foregoing authorities suggest section 16600 embodies the original, strict common law antipathy toward restraints of trade, while the section 16601 and 16602 exceptions incorporated the later common law 'rule of reasonableness' in instances where those exceptions apply."
+#### Massachusetts Noncompetition Agreement Act, Mass. Gen. Laws ch. 149, § 24L
 
-We conclude that Andersen's noncompetition agreement was invalid. As the Court of Appeal observed, "The first challenged clause prohibited Edwards, for an 18-month period, from performing professional services of the type he had provided while at Andersen, for any client on whose account he had worked during 18 months prior to his termination. The second challenged clause prohibited Edwards, for a year after termination, from 'soliciting,' defined by the agreement as providing professional services to any client of Andersen's Los Angeles office." The agreement restricted Edwards from performing work for Andersen's Los Angeles clients and therefore restricted his ability to practice his accounting profession. The noncompetition agreement that Edwards was required to sign before commencing employment with Andersen was therefore invalid because it restrained his ability to practice his profession. 
+<div class="legal-code">
 
-##### Disposition
+(a) As used in this section, the following words shall have the following meanings:-
 
-We hold that the noncompetition agreement here is invalid under section 16600, and we reject the narrow-restraint exception urged by Andersen. Noncompetition agreements are invalid under section 16600 in California, even if narrowly drawn, unless they fall within the applicable statutory exceptions of section 16601, 16602, or 16602.5. 
+"Business entity", any person or group of persons performing or engaging in any activity, enterprise, profession or occupation for gain, benefit, advantage or livelihood, whether for profit or not for profit, including but not limited to corporations, limited liability companies, limited partnerships or limited liability partnerships.
+
+"Employee", an individual who is considered an employee under section 148B of this chapter; provided, however, that the term "employee", as used in this section, shall also include independent contractors under section 148B.
+
+"Forfeiture agreement", an agreement that imposes adverse financial consequences on a former employee as a result of the termination of an employment relationship, regardless of whether the employee engages in competitive activities following cessation of the employment relationship. Forfeiture agreements do not include forfeiture for competition agreements.
+
+"Forfeiture for competition agreement", an agreement that by its terms or through the manner in which it is enforced imposes adverse financial consequences on a former employee as a result of the termination of an employment relationship if the employee engages in competitive activities.
+
+"Garden leave clause", a provision within a noncompetition agreement by which an employer agrees to pay the employee during the restricted period, provided that such provision shall become effective upon termination of employment unless the restriction upon post-employment activities are waived by the employer or ineffective under subsection (c)(iii).
+
+"Noncompetition agreement", an agreement between an employer and an employee, or otherwise arising out of an existing or anticipated employment relationship, under which the employee or expected employee agrees that he or she will not engage in certain specified activities competitive with his or her employer after the employment relationship has ended. Noncompetition agreements include forfeiture for competition agreements, but do not include: (i) covenants not to solicit or hire employees of the employer; (ii) covenants not to solicit or transact business with customers, clients, or vendors of the employer; (iii) noncompetition agreements made in connection with the sale of a business entity or substantially all of the operating assets of a business entity or partnership, or otherwise disposing of the ownership interest of a business entity or partnership, or division or subsidiary thereof, when the party restricted by the noncompetition agreement is a significant owner of, or member or partner in, the business entity who will receive significant consideration or benefit from the sale or disposal; (iv) noncompetition agreements outside of an employment relationship; (v) forfeiture agreements; (vi) nondisclosure or confidentiality agreements; (vii) invention assignment agreements; (viii) garden leave clauses; (ix) noncompetition agreements made in connection with the cessation of or separation from employment if the employee is expressly given seven business days to rescind acceptance; or (x) agreements by which an employee agrees to not reapply for employment to the same employer after termination of the employee.
+
+"Restricted period", the period of time after the date of cessation of employment during which an employee is restricted by a noncompetition agreement from engaging in activities competitive with his or her employer.
+
+(b) To be valid and enforceable, a noncompetition agreement must meet the minimum requirements of paragraphs (i) through (viii).
+
+> (i) If the agreement is entered into in connection with the commencement of employment, it must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing. The agreement must be provided to the employee by the earlier of a formal offer of employment or 10 business days before the commencement of the employee's employment.
+
+> (ii) If the agreement is entered into after commencement of employment but not in connection with the separation from employment, it must be supported by fair and reasonable consideration independent from the continuation of employment, and notice of the agreement must be provided at least 10 business days before the agreement is to be effective. Moreover, the agreement must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing.
+
+> (iii) The agreement must be no broader than necessary to protect one or more of the following legitimate business interests of the employer: (A) the employer's trade secrets; (B) the employer's confidential information that otherwise would not qualify as a trade secret; or (C) the employer's goodwill. A noncompetition agreement may be presumed necessary where the legitimate business interest cannot be adequately protected through an alternative restrictive covenant, including but not limited to a non-solicitation agreement or a non-disclosure or confidentiality agreement.
+
+> (iv) In no event may the stated restricted period exceed 12 months from the date of cessation of employment, unless the employee has breached his or her fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, in which case the duration may not exceed 2 years from the date of cessation of employment.
+
+> (v) The agreement must be reasonable in geographic reach in relation to the interests protected. A geographic reach that is limited to only the geographic areas in which the employee, during any time within the last 2 years of employment, provided services or had a material presence or influence is presumptively reasonable.
+
+> (vi) The agreement must be reasonable in the scope of proscribed activities in relation to the interests protected. A restriction on activities that protects a legitimate business interest and is limited to only the specific types of services provided by the employee at any time during the last 2 years of employment is presumptively reasonable.
+
+> (vii) The noncompetition agreement shall be supported by a garden leave clause or other mutually-agreed upon consideration between the employer and the employee, provided that such consideration is specified in the noncompetition agreement. To constitute a garden leave clause within the meaning of this section, the agreement must (i) provide for the payment, consistent with the requirements for the payment of wages under section 148 of chapter 149 of the general laws, on a pro-rata basis during the entirety of the restricted period, of at least 50 percent of the employee's highest annualized base salary paid by the employer within the 2 years preceding the employee's termination; and (ii) except in the event of a breach by the employee, not permit an employer to unilaterally discontinue or otherwise fail or refuse to make the payments; provided, however, if the restricted period has been increased beyond 12 months as a result of the employee's breach of a fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, the employer shall not be required to provide payments to the employee during the extension of the restricted period.
+
+> (viii) The agreement must be consonant with public policy.
+
+(c) A noncompetition agreement shall not be enforceable against the following types of workers: (i) an employee who is classified as nonexempt under the Fair Labor Standards Act, 29 U.S.C. 201-219; (ii) undergraduate or graduate students that partake in an internship or otherwise enter a short-term employment relationship with an employer, whether paid or unpaid, while enrolled in a full-time or part-time undergraduate or graduate educational institution; (iii) employees that have been terminated without cause or laid off; or (iv) employees age 18 or younger. This section does not render void or unenforceable the remainder of the contract or agreement containing the unenforceable noncompetition agreement, nor does it preclude the imposition of a noncompetition restriction by a court, whether through preliminary or permanent injunctive relief or otherwise, as a remedy for a breach of another agreement or a statutory or common law duty.
+
+(d) A court may, in its discretion, reform or otherwise revise a noncompetition agreement so as to render it valid and enforceable to the extent necessary to protect the applicable legitimate business interests.
+
+(e) No choice of law provision that would have the effect of avoiding the requirements of this section will be enforceable if the employee is, and has been for at least 30 days immediately preceding his or her cessation of employment, a resident of or employed in Massachusetts at the time of his or her termination of employment.
+
+(f) All civil actions relating to employee noncompetition agreements subject to this section shall be brought in the county where the employee resides or, if mutually agreed upon by the employer and employee, in Suffolk county; provided that, in any such action brought in Suffolk county, the superior court or the business litigation session of the superior court shall have exclusive jurisdiction.
+
+</div>
 
 
-#### DraftKings, Inc. v. Hermalyn, 118 F.4th 416 (1st Cir. 2024)
+#### Draftkings, Inc. v. Hermalyn, No. 24-1443 (1st Cir. Sept. 26, 2024)
 
-INSERT CASE TEXT
+<p class="case-h1">Thompson, Circuit Judge.</p>
+
+<p class="case-h1">Stage-Setting</p>
+
+Massachusetts and California aren't exactly on the same page when it comes to noncompete agreements.
+
+Massachusetts generally _allows_ noncompetes if they comply with certain restrictions (for example, employers can't require all employees to sign them (excluded employees include persons aged 18 or younger) and the noncompete period can't last more than a year (except if the employee breached a fiduciary duty to the employer or stole the employer's property, in which case a 2-year cap applies)). _See, e.g._, Mass. Gen. Laws ch. 149, § 24L(b)(iv), (c). California generally _bans_ noncompetes unless they squeeze within one of the few narrow exceptions (like for noncompetes in a business sale or a partnership breakup). _See, e.g._, Cal. Bus. & Prof. Code §§ 16600(a), 16601, 16602. And that's true "regardless of where and when the contract was signed" and "whether . . . the employment was maintained outside of California." See id. § 16600.5(a), (b).
+
+Today's case plays out against the backdrop of these different policy choices. We streamline the facts and procedural history (rather aggressively) to lay bare the nature of the disputes before us, adding more details later as needed for specific issues (an example of streamlining is our ignoring a California state-court lawsuit involving some of the same parties as here, because that suit doesn't affect our analysis).
+
+As recently as the beginning of this year, then-New Jersey resident Michael Hermalyn had a plum job with Massachusetts-headquartered DraftKings. But he quit to take a similar job with rival Fanatics's California-based subsidiary, a position (he says) that requires him to live and work in Los Angeles. DraftKings and Fanatics (for anyone who hasn't seen their ads) are sports betting and online gaming companies (a description that simplifies things a bit but is enough for now).
+
+DraftKings thought (among other concerns) that Hermalyn's new post violated a noncompete he had signed before quitting — an agreement that had a Massachusetts choice-of-law proviso and a one-year noncompete clause. So DraftKings sued him in Massachusetts federal court for breach of the noncompete (along with other claims not relevant here).
+
+Everyone seems to agree (at least for present purposes) that if the noncompete is enforceable, Hermalyn breached it by joining Fanatics. Not surprisingly then, DraftKings asked the district judge to use Massachusetts law and Hermalyn asked her to use California law. Siding with DraftKings, the judge — after using Massachusetts law — ruled the noncompete enforceable and preliminarily enjoined Hermalyn from competing against DraftKings in the United States for one year (she did reject DraftKings's request for a worldwide injunction, however).
+
+Hermalyn then filed this interlocutory appeal, making two alternative arguments. The first is that the judge wrongly held that Massachusetts law governed the enforceability of the noncompete. The second is that if Massachusetts law does govern, then the judge should've excluded California from the preliminary injunction's scope.
+
+<p class="case-h1">Choice of Law</p>
+
+<p class="case-h2">Massachusetts Law</p>
+
+Because — as the parties agree — diversity jurisdiction exists over the breach-of-noncompete claim, the "forum" of Massachusetts (where DraftKings sued Hermalyn) sets the rules for which state's law decides the noncompete's enforceability (even though the noncompete itself picked Massachusetts). So on to Bay State law then.
+
+Massachusetts usually respects the parties' choice of law. But exceptions exist, each driven by public-policy concerns (the term "usually" in the last sentence was a tipoff about exceptions). And the exception Hermalyn invokes requires him to show that (i) "application of" Massachusetts law "would be contrary to a fundamental policy of" California; (ii) California "has a materially greater interest than" Massachusetts "in the determination of the . . . issue"; and (iii) California is the state whose law would control "in the absence of an effective choice of law by the parties" — _i.e.,_ that California has "the most significant relationship to the transaction and the parties."
+
+The word linking the above-listed requisites is "and," _not_ "or." Which means Hermalyn must satisfy _all_ of them to get anywhere. But he can't satisfy the materially-greater-interest requisite (as we explain next), thus dashing his hopes of winning the issue (even assuming _without deciding_ that he could satisfy the others). 
+
+<p class="case-h2">Arguments and Analysis</p>
+
+The centerpiece of Hermalyn's argument is that Oxford — an opinion by the Massachusetts Supreme Judicial Court ("SJC") — makes the materially-greater-interest issue open-and-shut in _his_ favor. That's because, he continues, Oxford held that a Massachusetts choice-of-law clause there couldn't "survive" since California's interest in not enforcing the contract — a "Confidentiality, Non-Solicitation and Non-Competition Agreement," — _was_ "materially greater" than Massachusetts's interest in enforcing it. And applying Oxford evenhandedly, he submits, entitles him to a victory here.
+
+Unfortunately for Hermalyn, Oxford can't do the work that he asks of it.
+
+In pressing his Oxford-centric arguments, Hermalyn mentions how "California" is "where he currently resides, works, and allegedly breached the non-compete covenant." But Oxford held that "California had a materially greater interest than Massachusetts" there "_because_" the employee Hernandez had "executed" _and_ "performed" the contract with his Massachusetts-based former employer Oxford "in California," _and_ had "allegedly committed a breach of the agreement in California" after he quit and joined a California competitor — Hernandez (you see) lived and worked in California before and after he "allegedly violated" the agreement's "nonsolicitation and confidentiality provisions." Plus Oxford also noted that the "subject matter of the contract — _Hernandez's employment with Oxford_ — had been located _exclusively_ in California." Hermalyn's facts are not like Hernandez's. According to what the judge here found — and we see no convincingly developed argument contesting her findings as reversible error — (i) while "Hermalyn primarily worked for Massachusetts-headquartered DraftKings from New Jersey and New York, he traveled to Massachusetts for work at least 25 times" during a 2½-year stretch before leaving for Fanatics — which roughly comes to "once every 6 weeks"; (ii) "Hermalyn does not contend, nor is there evidence, that he performed any of his work responsibilities for DraftKings from California"; and (iii) "any harms flowing from Hermalyn's likely" noncompete breach "will be felt by DraftKings in Massachusetts, not California." Given the dissimilarities between Oxford and our case, Hermalyn's Oxford-based arguments sputter out.
+
+Hermalyn is right about one thing, however. Oxford did say that California's "legislatively" declared "policy" interest "in favor of open competition and employee mobility" was "materially greater" than Massachusetts's — a state, Oxford added, that lacked a "statute akin" to California's. But "a paradigm shift" occurred when Massachusetts passed a law — the Massachusetts Noncompetition Agreement Act ("MNAA") — that "dramatically reduced the number of Massachusetts employees who can be subjected to ... enforceable" noncompetes, while giving those exposed to them "stronger substantive and procedural protections than in the past" and also "limiting" employers "to substantially reduced post-employment restrictions."
+
+The MNAA was no off-the-cuff, spur-of-the-moment bit of legislating either. Far from it. The law "gestated" during a _decade's_ worth of legislative study and debate. See id. Interestingly — and we think tellingly — a Massachusetts legislator actually "proposed a bill to _completely ban_" noncompetes back "in 2009," a bill "modeled" after "_California_" law. Concerned Bay State business leaders then stressed how "essential" noncompetes are "for protecting the ideas that they had developed through great effort." And they "promised to leave the state if his legislation passed." That bill ultimately went nowhere, however. But after years and _years_ of legislative give-and-take, "a _hard fought compromise_" emerged that "banned" noncompetes "for lower level workers, limited them for higher level workers, and provided procedural protections to assure that workers know what they are getting into when they sign them."
+
+The MNAA became law in August 2018, just days before the SJC's September 2018 Oxford ruling. But the MNAA applies only to noncompetes "entered into on or after _October 1, 2018._" Which explains why Oxford never even hinted that the MNAA played _any_ role there. And which also shows that Oxford had in mind the state of law _before_ the MNAA when it talked about California's interest being "materially greater" than Massachusetts's — _not_ the state of the law _after_ the MNAA.
+
+Perhaps anticipating some of these points, Hermalyn notes that Oxford "predates" California's 2024 passage of laws reinforcing its deep-rooted policy against restraint of trade. But the fact still remains that Oxford — which (as we said) acknowledged California's "_settled_ legislative policy" of promoting "open competition and employee mobility" — ran the materially-greater-interest analysis _without_ having to factor in the MNAA (because (again) the MNAA wasn't in play there).
+
+Still looking for a winning argument, Hermalyn writes that "the MNAA did not purport to abrogate Massachusetts law as discussed and understood in Oxford," quoting for support this snippet from the Massachusetts Law Review article mentioned above: the MNAA "codified aspects of the common law that will continue to require case-by-case exposition." Hermalyn's point seems to be that the MNAA didn't change Bay State "law or policy of limited tolerance towards non-compete covenants." But the article's animating thesis — revealed in the following excerpts (we quoted some of them a few paragraphs back) — couldn't be any clearer: the MNAA "represents a _paradigm shift_ in _favor_ of _employees_" that "dramatically reduced the number of Massachusetts employees who can be subjected to ... enforceable" noncompetes, while offering those covered by them "stronger substantive and procedural protections than in the past" and likewise "limiting" employers "to substantially reduced post-employment restrictions." Which scotches Hermalyn's attempt to downplay the MNAA's significance.
+
+Given this tableau — involving (among other features) two states passing laws reflecting different but careful balances of conflicting forces in the noncompete area (after the usual push-and-pull of politics), with Massachusetts opting _not_ to mimic California's ban and instead generally allowing noncompetes for higher-level employees like Hermalyn (who unlike lower-level employees often have business-sensitive info and deep ties with company customers) — we can't say that Hermalyn has shown (as he was required to do) that California's "interest" in pursuing its policy is not just "greater" than Massachusetts's, but is "materially" so. Or to put it differently but with the same result, he hasn't shown that "California's public policy" eclipses "the parties' clear and unambiguous agreement to apply Massachusetts law."
+
+<p class="case-h2">Wrap-Up</p>
+
+The short of it is that the judge didn't err by ruling that Massachusetts law governs Hermalyn's noncompete with DraftKings.
 
 <div class="comment">
 
 #### Note on FTC Non-Compete Rule {#note-on-ftc-noncompete-rule}
 
-SUMMARY OF FTC RULE 16 CFR Part 910 (May 7, 2024) 
+In 2024, the Federal Trade Commission published a [final rule](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule) under Section 5 of the FTC Act, 15 U.S.C. § 45(a), which outlaws "unfair methods of competition":
 
-In [Ryan, LLC v. FTC](https://scholar.google.com/scholar_case?case=7255993935182189521), Civil Action No. 3:24-CV-00986-E (N.D. Tex. Aug. 20, 2024), the court blocked enforcement of the FTC Non-Compete Rule. An appeal of that decision by the FTC is currently pending. 
+> - Under the final [Noncompete Rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule), the FTC adopts a comprehensive ban on new noncompetes with all workers, including senior executives.
+> 
+>	- The final rule provides that it is an unfair method of competition—and therefore a violation of Section 5—for employers to enter into noncompetes with workers.
+> 
+> - For existing noncompetes, the final rule adopts a different approach for senior executives than for other workers. For senior executives, existing noncompetes can remain in force. Existing noncompetes with workers other than senior executives are not enforceable after the effective date.
+
+In [Ryan, LLC v. FTC](https://scholar.google.com/scholar_case?case=7255993935182189521), Civil Action No. 3:24-CV-00986-E (N.D. Tex. Aug. 20, 2024), the court blocked enforcement of the FTC Noncompete Rule. An appeal of that decision by the FTC is currently pending. 
 
 </div>

@@ -26,7 +26,8 @@ Counsel for the prosecution were Jared Ingersol and Joseph Hopkinson. Counsel fo
 
 
 
-##### Recorder Levy, in his charge to the jury, made the following statements, among others:
+<p class="case-h1">Recorder Levy, in his charge to the jury, made the following statements, among others:</p>
+
 
 It is proper to consider, is such a combination consistent with the principles of our law, and injurious to the public welfare? The usual means by which the prices of work are regulated, are the demand for the article and the excellence of its fabric. Where the work is well done, and the demand is considerable, the prices will necessarily be high. Where the work is ill done, and the demand is inconsiderable, they will unquestionably be low. If there are many to consume, and few to work, the price of the article will be high; but if there are few to consume, and many to work, the article must be low.
 
@@ -52,7 +53,7 @@ The defendants were found guilty and were fined eight dollars each plus costs.
 
 #### Commonwealth v Hunt, 45 Mass. 111 (1842) {#commonwealth-v-hunt}
 
-##### Shaw, C.J.
+<p class="case-h1">Shaw, C.J.</p>
  
 The general rule of the common law is, that it is a criminal and indictable offence, for two or more to confederate and combine together, by concerted means, to do that which is unlawful or criminal, to the injury of the public, or portions or classes of the community, or even to the rights of an individual. This rule of law may be equally in force as a rule of the common law, in England and in this Commonwealth; and yet it must depend upon the local laws of each country to determine, whether the purpose to be accomplished by the combination, or the concerted means of accomplishing it, be unlawful or criminal in the respective countries. 
 
@@ -182,7 +183,7 @@ Even where employees are not represented by a union, NLRA § 7 protects their ri
 
 <div class="legal-code">
 
-##### Section 1---Declaration of Policy 
+<p class="case-h1">Section 1---Declaration of Policy </p>
 
 The denial by some employers of the right of employees to organize and the refusal by some employers to accept the procedure of collective bargaining lead to strikes and other forms of industrial strife or unrest, which have the intent or the necessary effect of burdening or obstructing commerce by (a) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (b) occurring in the current of commerce; (c) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods from or into the channels of commerce, or the prices of such materials or goods in commerce; or (d) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing from or into the channels of commerce.
 
@@ -194,7 +195,7 @@ Experience has further demonstrated that certain practices by some labor organiz
 
 It is hereby declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
-##### Section 2---Definitions 
+<p class="case-h1">Section 2---Definitions </p>
 
 (2) The term “employer” includes any person acting as an agent of an employer, directly or indirectly, but shall not include the United States or any wholly owned Government corporation, or any Federal Reserve Bank, or any State or political subdivision thereof, or any person subject to the Railway Labor Act, as amended from time to time, or any labor organization (other than when acting as an employer), or anyone acting in the capacity of officer or agent of such labor organization.
 
@@ -204,11 +205,11 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 (9) The term “labor dispute” includes any controversy concerning terms, tenure or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
 
-##### Section 7---Right of employees as to organization, collective bargaining, etc.
+<p class="case-h1">Section 7---Right of employees as to organization, collective bargaining, etc.</p>
 
 Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158(a)(3) of this title.
 
-##### Section 8---Unfair labor practices 
+<p class="case-h1">Section 8---Unfair labor practices </p>
 
 (a) Unfair labor practices by employer
 
@@ -240,7 +241,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 For the purposes of this section, to bargain collectively is the performance of the mutual obligation of the employer and the representative of the employees to meet at reasonable times and confer in good faith with respect to wages, hours, and other terms and conditions of employment, or the negotiation of an agreement, or any question arising thereunder, and the execution of a written contract incorporating any agreement reached if requested by either party, but such obligation does not compel either party to agree to a proposal or require the making of a concession 
 
-##### Section 9---Representatives and elections
+<p class="case-h1">Section 9---Representatives and elections</p>
 
 (a) Exclusive representatives; employees’ adjustment of grievances directly with employer
 
@@ -250,7 +251,7 @@ Representatives designated or selected for the purposes of collective bargaining
 
 The Board shall decide in each case whether, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this subchapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, craft unit, plant unit, or subdivision thereof.
 
-##### Section 13---Right to strike preserved
+<p class="case-h1">Section 13---Right to strike preserved</p>
 
 Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
 
@@ -259,7 +260,7 @@ Nothing in this subchapter, except as specifically provided for herein, shall be
 
 #### NLRB v. Washington Aluminum, 370 U.S. 9 (1962) {#washington-aluminum}
 
-##### MR. JUSTICE BLACK delivered the opinion of the Court.
+<p class="case-h1">MR. JUSTICE BLACK delivered the opinion of the Court.</p>
 
 The Court of Appeals for the Fourth Circuit, with Chief Judge Sobeloff dissenting, refused to enforce an order of the National Labor Relations Board directing the respondent Washington Aluminum Company to reinstate and make whole seven employees whom the company had discharged for leaving their work in the machine shop without permission on claims that the shop was too cold to work in. Because that decision raises important questions affecting the proper administration of the National Labor Relations Act, we granted certiorari. 
 
@@ -286,7 +287,7 @@ We hold therefore that the Board correctly interpreted and applied the Act to th
 
 #### NLRB v. City Disposal Systems, 465 U.S. 822 (1984) {#city-disposal-systems}
 
-##### JUSTICE BRENNAN delivered the opinion of the Court.
+<p class="case-h1">JUSTICE BRENNAN delivered the opinion of the Court.</p>
 
 James Brown, a truck driver employed by respondent, was discharged when he refused to drive a truck that he honestly and reasonably believed to be unsafe because of faulty brakes. Article XXI of the collective-bargaining agreement between respondent and Local 247 of the International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America, which covered Brown, provides:
 
@@ -294,7 +295,7 @@ James Brown, a truck driver employed by respondent, was discharged when he refus
 
 The question to be decided is whether Brown's honest and reasonable assertion of his right to be free of the obligation to drive unsafe trucks constituted "concerted activity" within the meaning of § 7 of the National Labor Relations Act (NLRA or Act). The National Labor Relations Board (NLRB or Board) held that Brown's refusal was concerted activity within § 7, and that his discharge was, therefore, an unfair labor practice under § 8(a)(1) of the Act. The Court of Appeals disagreed and declined enforcement. At least three other Courts of Appeals, however, have accepted the Board's interpretation of "concerted activities" as including the assertion by an individual employee of a right grounded in a collective-bargaining agreement. We granted certiorari to resolve the conflict, and now reverse.
 
-##### I
+<p class="case-h1">I</p>
 
 The facts are not in dispute in the current posture of this case. Respondent, City Disposal Systems, Inc. (City Disposal), hauls garbage for the city of Detroit. Under the collective-bargaining agreement with Local Union No. 247, respondent's truckdrivers haul garbage from Detroit to a landfill about 37 miles away. Each driver is assigned to operate a particular truck, which he or she operates each day of work, unless that truck is in disrepair.
 
@@ -312,13 +313,13 @@ The NLRB adopted the findings and conclusions of the ALJ and ordered that Brown 
 
 On a petition for enforcement of the Board's order, the Court of Appeals disagreed with the ALJ and the Board. Finding that Brown's refusal to drive truck No. 244 was an action taken solely on his own behalf, the Court of Appeals concluded that the refusal was not a concerted activity within the meaning of § 7. 
 
-##### II
+<p class="case-h1">II</p>
 
 Section 7 of the NLRA provides that "employees shall have the right to join or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection." 29 U. S. C. § 157. The NLRB's decision in this case applied the Board's longstanding "_Interboro_ doctrine," under which an individual's assertion of a right grounded in a collective-bargaining agreement is recognized as "concerted activity" and therefore accorded the protection of § 7. The Board has relied on two justifications for the doctrine: First, the assertion of a right contained in a collective-bargaining agreement is an extension of the concerted action that produced the agreement; and second, the assertion of such a right affects the rights of all employees covered by the collective-bargaining agreement.
 
 We have often reaffirmed that the task of defining the scope of § 7 "is for the Board to perform in the first instance as it considers the wide variety of cases that come before it," and, on an issue that implicates its expertise in labor relations, a reasonable construction by the Board is entitled to considerable deference. The question for decision today is thus narrowed to whether the Board's application of § 7 to Brown's refusal to drive truck No. 244 is reasonable. Several reasons persuade us that it is.
 
-######  A
+<p class="case-h1">"case-h2"> A</p>
 
 Neither the Court of Appeals nor respondent appears to question that an employee's invocation of a right derived from a collective-bargaining agreement meets § 7's requirement that an employee's action be taken "for purposes of collective bargaining or other mutual aid or protection." As the Board first explained in the _Interboro_ case, a single employee's invocation of such rights affects all the employees that are covered by the collective-bargaining agreement. This type of generalized effect, as our cases have demonstrated, is sufficient to bring the actions of an individual employee within the "mutual aid or protection" standard, regardless of whether the employee has his own interests most immediately in mind. 
 
@@ -344,7 +345,7 @@ In practice, however, there is unlikely to be a bright-line distinction between 
 
 The fact that an activity is concerted, however, does not necessarily mean that an employee can engage in the activity with impunity. An employee may engage in concerted activity in such an abusive manner that he loses the protection of § 7. Furthermore, if an employer does not wish to tolerate certain methods by which employees invoke their collectively bargained rights, he is free to negotiate a provision in his collective-bargaining agreement that limits the availability of such methods. No-strike provisions, for instance, are a common mechanism by which employers and employees agree that the latter will not invoke their rights by refusing to work. In general, if an employee violates such a provision, his activity is unprotected even though it may be concerted. Whether Brown's action in this case was unprotected, however, is not before us.
 
-######  B
+<p class="case-h1">"case-h2"> B</p>
 
 Respondent argues that the _Interboro_ doctrine undermines the arbitration process by providing employees with the possibility of provoking a discharge and then filing an unfair labor practice claim. This argument, however, misses the mark for several reasons. First, an employee who purposefully follows this route would run the risk that the Board would find his actions concerted but nonetheless unprotected, as discussed above.
 
@@ -352,7 +353,7 @@ Second, the _Interboro_ doctrine does not shift dispute resolution from the grie
 
 Finally, and most importantly, to the extent that the factual issues raised in an unfair labor practice action have been, or can be, addressed through the grievance process, the Board may defer to that process. There is no reason, therefore, for the Board's interpretation of "concerted activity" in § 7 to be constrained by a concern for maintaining the integrity of the grievance and arbitration process.
 
-##### III
+<p class="case-h1">III</p>
 
 In this case, the Board found that James Brown's refusal to drive truck No. 244 was based on an honest and reasonable belief that the brakes on the truck were faulty. Brown explained to each of his supervisors his reason for refusing to drive the truck. Although he did not refer to his collective-bargaining agreement in either of these confrontations, the agreement provided not only that "the Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition," but also that "it shall not be a violation of this Agreement where employees refuse to operate such equipment, unless such refusal is unjustified." There is no doubt, therefore, nor could there have been any doubt during Brown's confrontations with his supervisors, that by refusing to drive truck No. 244, Brown was invoking the right granted him in his collective-bargaining agreement to be free of the obligation to drive unsafe trucks. Moreover, there can be no question but that Brown's refusal to drive the truck was reasonably well directed toward the enforcement of that right. Indeed, it would appear that there were no other means available by which Brown could have enforced the right. If he had gone ahead and driven truck No. 244, the issue may have been moot.
 

@@ -11,7 +11,7 @@ title: Establishing an Employment Relationship
 
 #### Lemmerman v. A.T. Williams Oil Co., 350 S.E.2d 83 (N.C. 1986) {#lemmerman-v-williams}
 
-##### FRYE, Justice.
+<p class="case-h1">FRYE, Justice.</p>
 
 The sole issue on this appeal is whether the Court of Appeals correctly affirmed the trial court's conclusion that plaintiff Shane Tucker was an employee of the defendant, A.T. Williams Oil Company. For the reasons set forth in this opinion, we conclude that the Court of Appeals was correct in so affirming.
 
@@ -84,7 +84,7 @@ Finally, plaintiffs contend that if Shane was an employee, he was Schneiderman's
 
 For all of the foregoing reasons, the decision of the Court of Appeals is affirmed.
 
-##### MARTIN, Justice, dissenting.
+<p class="case-h1">MARTIN, Justice, dissenting.</p>
 
 I must respectfully dissent. First, the majority opinion allows the defendant corporation to profit from its own illegal act. Here, defendant corporation claims that it hired plaintiff Shane, an eight-year-old child, as an employee. Defendant's act would be a direct violation of N.C.G.S. § 95-25.5(d), punishable by imposition of civil penalties. This statute establishes the public policy of this state that it is unlawful for employers to employ children thirteen years of age or less.
 
@@ -118,11 +118,11 @@ For the above reasons I vote to allow the infant plaintiff to pursue his common 
 
 #### Razak v. Uber Technologies, Inc., 951 F.3d 137 (3d Cir. 2020) {#razak-v-uber}
 
-##### GREENAWAY, JR., Circuit Judge.
+<p class="case-h1">GREENAWAY, JR., Circuit Judge.</p>
 
 This case is an appeal from a grant of summary judgment on the question of whether drivers for UberBLACK are employees or independent contractors within the meaning of the Fair Labor Standards Act ("FLSA"), 29 U.S.C. §§ 201-219, and similar Pennsylvania state laws. For the following reasons, we will vacate the District Court's grant of summary judgment and remand for further proceedings.
 
-##### I. Facts
+<p class="case-h1">I. Facts</p>
 
 Plaintiffs Ali Razak, Kenan Sabani, and Khaldoun Cherdoud are Pennsylvania drivers who utilize Defendant Uber Technologies' ride-sharing mobile phone application ("Driver App"). Plaintiffs bring this action on behalf of a putative class of all persons who provide limousine services, now known as UberBLACK, through Defendant's Driver App in Philadelphia, Pennsylvania.Plaintiffs bring individual and representative claims against Uber Technologies, Inc. and its wholly-owned subsidiary, Gegen, LLC, ("Gegen," and collectively, "Uber") for violations of the federal minimum wage and overtime requirements under the FLSA, the Pennsylvania Minimum Wage Act ("PMWA"), and the Pennsylvania Wage Payment and Collection Law ("WPCL").
 
@@ -146,7 +146,7 @@ Uber asserts that it places no restrictions on drivers' ability to engage in per
 
 Alternatively, Plaintiffs claim that they are "employees" under the FLSA because they are controlled by Uber when they are online and perform an integral role for Uber's business. The District Court agreed with Uber's position, and granted Uber's Motion for Summary Judgment on the question of whether Plaintiffs qualify as "employees" of Uber under the FLSA and PMWA. Plaintiffs now appeal from the summary judgment order.
 
-##### III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._
+<p class="case-h1">III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._</p>
 
 The minimum wage and overtime wage provisions at issue all require that Plaintiffs prove that they are "employees." Although Plaintiffs' case includes claims under the PMWA, Pennsylvania state courts have looked to federal law regarding the FLSA for guidance in applying the PMWA. The FLSA defines "employer" as "including any person acting directly or indirectly in the interest of an employer in relation to an employee," and "employee" as "any individual employed by an employer." 29 U.S.C. §§ 203(d), (e)(1). Given the circularity of the definitions, federal courts, with guidance from the Department of Labor, have established standards to determine how to define employee and employer.
 
@@ -156,7 +156,7 @@ The Third Circuit utilizes the test out-lined in _Donovan v. DialAmerica Marketi
 
 Our decision in _DialAmerica_ is consistent with the Supreme Court's general guidance in _Rutherford Food Corp. v. McComb,_ 331 U.S. 722 (1947). In _Rutherford,_ the Supreme Court first determined "employee" status under the FLSA. And in _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
 
-##### IV. The District Court Opinion
+<p class="case-h1">IV. The District Court Opinion</p>
 
 The District Court granted summary judgment to Uber ruling that drivers for UberBLACK are independent contractors within the meaning of the FLSA and similar Pennsylvania laws. The District Court, in applying the six factors, relied heavily on the analysis in _DialAmerica_ and other cases that had examined the use of internet or app-based programs for acquiring work.
 
@@ -164,9 +164,9 @@ The District Court applied all six factors in _DialAmerica,_ and on balance, fou
 
 The District Court determined that only two factors militated in Plaintiffs' favor. As limousine drivers, the service they render does not really require a special skill. Second, the limousine driving service rendered to Uber by UberBLACK drivers is an essential part of Uber's business as a transportation company. The District Court held that the movant demonstrated that there was no genuine dispute as to any material fact, and that a majority of the _DialAmerica_ factors leaned against employment status. The District Court granted Uber's motion for summary judgment and determined that Plaintiffs were independent contractors.
 
-##### VI. Analysis
+<p class="case-h1">VI. Analysis</p>
 
-###### A. Genuine Disputes of Material Fact Exist
+<p class="case-h1">"case-h2">A. Genuine Disputes of Material Fact Exist</p>
 
 For summary judgment to have been appropriate, there must have been no genuine disputes as to any material facts on the record, entitling Uber to judgment as a matter of law. As such, if there is a genuine dispute of material fact, the question of which _DialAmerica_ factors favor employee status is a question of fact that should go to a fact-finder. Here, the ultimate question of law is whether Plaintiffs are employees or independent contractors, which is for a judge to decide. But, if a court finds that there are any issues of material fact that remain in genuine dispute, it must resolve those disputes prior to granting summary judgment. In _DialAmerica,_ the parties stipulated to some facts and reserved the right to present testimony on any remaining disputed issues. Then, the district court held an evidentiary hearing on the remaining disputed issues of fact:
 
@@ -184,7 +184,7 @@ These factual issues refer directly to the factors which determine whether someo
 
 _DialAmerica_ teaches that where there are genuine questions of material fact that need resolution, these questions must go to a fact-finder. This case presents such genuine disputes of material facts. Uber submitted a Statement of Undisputed Material Facts to which Plaintiffs responded with almost a hundred pages of disputes. For example, disputed facts include whether Plaintiffs are operating within Uber's system and under Uber's rules, and whether Plaintiffs or their corporations contracted directly with Uber. Although the District Court states that its decision derived from undisputed facts, the disputes presented by the parties go to the core of the _DialAmerica_ factors and present a genuine dispute of material facts. Accordingly, we will remand to the District Court as summary judgment was inappropriate.
 
-###### B. The "Right to Control" Factor
+<p class="case-h1">"case-h2">B. The "Right to Control" Factor</p>
 
 To illustrate that there are genuine disputes remaining, we look to the first _DialAmerica_ factor: "the degree of the alleged employer's right to control the manner in which the work is to be performed." While not dispositive, this factor is highly relevant to the FLSA analysis. The District Court in this case held that the first factor supported a finding of independent contractor status. Actual control of the manner of work is not essential; rather, it is the right to control which is determinative. 
 
@@ -198,19 +198,19 @@ Further, these and other disputed facts regarding control demonstrate why this c
 
 Although both parties argue that there are no genuine disputes regarding control, the facts adduced show otherwise. While Uber determines what drivers are paid and directs drivers where to drop off passengers, it lacks the right to control when drivers must drive. UberBLACK drivers exercise a high level of control, as they can drive as little or as much as they desire, without losing their ability to drive for UberBLACK. However, Uber deactivates drivers who fall short of the 4.7-star Uber-BLACK driver rating and limits the number of consecutive hours that a driver may work.
 
-###### C. Opportunity for Profit or Loss Depending on Managerial Skill
+<p class="case-h1">"case-h2">C. Opportunity for Profit or Loss Depending on Managerial Skill</p>
 
 As with the right to control, the District Court held that there was no genuine dispute as to another factor—the opportunity for profit or loss depending on managerial skill. Again, we disagree with the District Court's conclusion. The District Court, in this case, ruled that this factor strongly favored independent contractor status because drivers could be strategic in determining when, where, and how to utilize the Driver App to obtain more lucrative trip requests and to generate more profits. Plaintiffs could also work for competitors and transport private clients.[^Razak9]
 
 However, other material facts reveal that there was and still is a genuine dispute. For example, Uber decides (1) the fare; (2) which driver receives a trip request; (3) whether to refund or cancel a passenger's fare; and (4) a driver's territory, which is subject to change without notice. Moreover, Plaintiffs can drive for competitors, but Uber may attempt to frustrate those who try, and most of the factors that determine an UberBLACK driver's Uber-profit, like advertising and price setting, are also controlled by Uber.[^Razak10] Under the circumstances, we believe that a reasonable fact-finder could rule in favor of Plaintiffs.[^Razak11] Thus, summary judgment was inappropriate.
 
-###### D. Remaining _DialAmerica_ Factor Analysis
+<p class="case-h1">"case-h2">D. Remaining _DialAmerica_ Factor Analysis</p>
 
 Of the remaining factors, some do not require further factfinding, while others still do. The fifth factor, degree of permanence of the working relationship, has genuine disputes of material fact. On one hand, Uber can take drivers offline, and on the other hand, Plaintiffs can drive whenever they choose to turn on the Driver App, with no minimum amount of driving time required.
 
 Alternatively, the fourth factor, whether the service rendered requires a special skill, is clearer. It is generally accepted that "driving" is not itself a "special skill." Although there may be a distinction between "driving" and "replicating the limousine experience," as noted by the District Court, it is not enough to overcome the presumption that driving is not a special skill. This fourth factor certainly weighs in favor of finding that Plaintiffs are employees.
 
-##### VII. Conclusion
+<p class="case-h1">VII. Conclusion</p>
 
 In reviewing the District Court decision _de novo,_ we determine summary judgment was inappropriate because genuine disputes of material facts remained. For the foregoing reasons, we will remand the matter for further proceedings.
 
@@ -226,19 +226,19 @@ In reviewing the District Court decision _de novo,_ we determine summary judgmen
 
 <div class="legal-code">
 
-##### 29 CFR Part 795. 
+<p class="case-h1">29 CFR Part 795. </p>
 
-###### Introductory statement.
+<p class="case-h1">"case-h2">Introductory statement.</p>
 
 This part contains the Department of Labor's (the Department) general interpretations for determining whether workers are employees or independent contractors under the Fair Labor Standards Act (FLSA or Act). These interpretations are intended to serve as a "practical guide to employers and employees" as to how the Department will seek to apply the Act. _Skidmore_ v. _Swift & Co.,_ 323 U.S. 134, 138 (1944). The Administrator of the Department's Wage and Hour Division will use these interpretations to guide the performance of their duties under the Act, unless and until the Administrator is otherwise directed by authoritative decisions of the courts or the Administrator concludes upon reexamination of an interpretation that it is incorrect. To the extent that prior administrative rulings, interpretations, practices, or enforcement policies relating to determining who is an employee or independent contractor under the Act are inconsistent or in conflict with the interpretations stated in this part, they are hereby rescinded. [ ... ]
 
-###### Determining employee or independent contractor classification under the FLSA.
+<p class="case-h1">"case-h2">Determining employee or independent contractor classification under the FLSA.</p>
 
 (a\) _Relevance of independent contractor or employee status under the Act._ The Act's minimum wage, overtime pay, and recordkeeping obligations apply only to workers who are covered employees. Workers who are independent contractors are not covered by these protections. Labeling employees as "independent contractors" does not make these protections inapplicable. A determination of whether a worker is an employee or independent contractor under the Act focuses on the economic realities of the worker's relationship with the worker's potential employer and whether the worker is either economically dependent on the potential employer for work or in business for themself.
 
 (b\) _Economic dependence as the ultimate inquiry._ An "employee" under the Act is an individual whom an employer suffers, permits, or otherwise employs to work. [29 U.S.C. § 203(e)(1)(g)](https://www.govinfo.gov/link/uscode/29/203). "Employer" is defined to "include\[ \] any person acting directly or indirectly in the interest of an employer in relation to an employee." [29 U.S.C. § 203(d)](https://www.govinfo.gov/link/uscode/29/203). The Act's definitions are meant to encompass as employees all workers who, as a matter of economic reality, are economically dependent on an employer for work. A worker is an independent contractor, as distinguished from an "employee" under the Act, if the worker is, as a matter of economic reality, in business for themself. Economic dependence does not focus on the amount of income the worker earns, or whether the worker has other sources of income.
 
-###### Economic reality test to determine economic dependence.
+<p class="case-h1">"case-h2">Economic reality test to determine economic dependence.</p>
 
 (a\) _Economic reality test._ 
 
@@ -268,11 +268,11 @@ This part contains the Department of Labor's (the Department) general interpreta
 
 #### Wang v. Hearst Corp., 877 F.3d 69 (2d Cir. 2017) {#wang-v-hearst}
 
-##### DENNIS JACOBS, Circuit Judge.
+<p class="case-h1">DENNIS JACOBS, Circuit Judge.</p>
 
 Five participants in internship programs offered by defendant Hearst Corporation ("Hearst") sue for minimum wage under the Fair Labor Standards Act ("FLSA") and the New York Labor Law ("NYLL"). At issue is whether the unpaid interns were "employees" of Hearst for the purposes of the FLSA under [Glatt v. Fox Searchlight Pictures, Inc.](https://scholar.google.com/scholar_case?case=8101135012881799928), 811 F.3d 528 (2d Cir. 2016). We affirm the judgment of the United States District Court for the Southern District of New York, for the reasons stated in Judge Oetken's thorough opinion.
 
-##### I
+<p class="case-h1">I</p>
 
 The question is whether Hearst furnishes bona fide for-credit internships or whether it exploits student-interns to avoid hiring and compensating entry-level employees. The factual record is voluminous and advances multiple narratives, some of them contradictory; but the following essentials are undisputed.
 
@@ -288,7 +288,7 @@ In February 2012, lead plaintiff Xuedan Wang filed suit alleging that she and a 
 
 Hearst moved for summary judgment against the six remaining plaintiffs under the Glatt test. The district court granted the motion, and five plaintiffs filed a timely appeal. 
 
-##### II
+<p class="case-h1">II</p>
 
 The FLSA defines "employee" by tautology: an "individual employed by an employer." 29 U.S.C. § 203(e)(1). The standard for "employee" is broad, but the Supreme Court has long recognized that not every individual who performs a service for an employer qualifies as an "employee" under the FLSA. "Employee" status depends upon the "economic reality" of the relationship between the putative employer and employee. 
 
@@ -314,13 +314,13 @@ The totality of the circumstances should be considered in view of the "purpose o
 
 Judge Oetken analyzed each Glatt factor and determined that all of them except the sixth (displacement of paid employees) either favored Hearst to some degree or were neutral. In assessing the totality of the circumstances, the court concluded that the "Plaintiffs were interns rather than employees as a matter of law."
 
-##### III
+<p class="case-h1">III</p>
 
-###### A. Factors One and Seven
+<p class="case-h1">"case-h2">A. Factors One and Seven</p>
 
 The appellants concede that factors one and seven (expectation of payment and entitlement to a job, respectively) favor Hearst. They argue, however, that these factors bear little weight because FLSA rights cannot be waived. The interns' reading of these factors defies the clear mandate of Glatt, which explained that "any promise of compensation, express or implied, suggests that the intern is an employee—_and vice versa._". These factors are crucial to understanding the "economic reality" of the internship relationship; where, as here, the programs were described specifically as unpaid internships for students—and students applied to the internships with that unambiguous understanding—the relationship is far less likely to take on an abusive quality.
 
-###### B. Factors Two and Five
+<p class="case-h1">"case-h2">B. Factors Two and Five</p>
 
 The second factor (training) is at the heart of the dispute on appeal. The interns argue forcefully that Judge Oetken misconstrued this factor by broadening the ambit of "training" to include "practical skills." Wagster contends that the experience of having "sat in on marketing meetings" should have been discounted by his assignment to "take meeting minutes." Similarly, appellants argue that we should disregard Spencer's experience "learning about photo shoots" because she already knew how to use a camera. The interns would thus limit the discussion of beneficial training under the second factor to education that resembles university pedagogy to the exclusion of tasks that apply specific skills to the professional environment.
 
@@ -328,7 +328,7 @@ Appellants' interpretation ignores our instruction in Glatt that a key element o
 
 The interns argue that the district court "ignored" evidence that Hearst's internships were a poor substitute for classroom learning. In fact, the court accepted the complaints as true, and for that reason, concluded that the factor weighed only "slightly" in favor of Hearst. At the same time, it recognized that those complaints do not wholly offset the undisputed fact that the internships _did_ provide beneficial training. For this reason, the appellants also misread the closely related fifth Glatt factor (valuable duration) in arguing that the interns were not receiving "beneficial learning" when they performed repetitive or similar tasks they had already "learned." As exemplified by the meeting minutes and photoshoots, practical skill may entail practice, and an intern gains familiarity with an industry by day to day professional experience. 
 
-##### C. Factors Three and Four
+<p class="case-h1">C. Factors Three and Four</p>
 
 The third and fourth Glatt factors relate to the integration of the internship to the student-intern's academic program and academic calendar, respectively. Both parties and the district court acknowledge that the interns' experiences diverge with respect to these factors. In general, however, the internships were arranged to fit the academic calendar and required academic credit as a prerequisite.
 
@@ -338,13 +338,13 @@ It is argued that "there was no connection between a formal education program an
 
 For the majority of the interns here, the undisputed evidence also favors Hearst with respect to the fourth factor (academic calendar). Rappaport, Spencer, and Wheels interned during their college summer breaks in accordance with the school calendar. Wang had deferred her studies to intern between school years, and Wagster was not an active student during his internship. Hearst did not fail to accommodate their academic schedules when they had no schedules to accommodate.
 
-###### D. Factor Six
+<p class="case-h1">"case-h2">D. Factor Six</p>
 
 The sixth factor (displacement) considers the extent to which an intern's work complements the work of paid employees or displaces it. An intern's work is complementary if it requires some level of oversight or involvement by an employee, who may still bear primary responsibility. The district court considered that the sixth factor favored the interns because the interns completed some work regularly performed by paid employees.
 
 This factor alone is not dispositive. An intern may perform complementary tasks and in doing so confer tangible benefits on supervisors. The Glatt factors intentionally omitted a criteria that had been advanced by the Department of Labor that the alleged employer derive no immediate advantage from the activities of the intern. It is no longer a problem that an intern was useful or productive.
 
-##### IV
+<p class="case-h1">IV</p>
 
 The facts of this case permit inferences that support Hearst with respect to certain Glatt factors, and inferences that support particular interns with respect to other factors. The interns and amici urge that such mixed inferences foreclose a ruling on summary judgment. We disagree, for the reasons explained by the district court, which weighed all factors under the totality of the circumstances, and concluded that the interns are not "employees" for the purposes of the FLSA.
 
@@ -356,11 +356,11 @@ There are contested issues that bear on the quality of each intern's experience.
 
 #### Dawson v. NCAA, 932 F.3d 905 (9th Cir. 2019) {#dawson-v-ncaa}
 
-##### THOMAS, Judge:
+<p class="case-h1">THOMAS, Judge:</p>
 
 We consider whether Lamar Dawson and Division I Football Bowl Subdivision ("FBS") Football Players are employees of the National Collegiate Athletic Association ("NCAA") and PAC-12 Conference ("PAC-12") within the meaning of the Fair Labor Standards Act ("FLSA") and California labor law. Because the claims fail as a matter of law, we affirm the judgment of the district court.
 
-##### I
+<p class="case-h1">I</p>
 
 Dawson played football for the University of Southern California ("USC"), a Division I FBS member of the NCAA's PAC-12 Conference. In this putative class action case, Dawson does not allege that he was an employee of USC, so the pure question of employment is not before us, and we need not consider whether he had employment status as a football player, nor whether USC was an employer. That question is left, if at all, for another day. Rather, the only issue before us is whether the NCAA and PAC-12 were his employers under federal and state law.
 
@@ -376,11 +376,11 @@ In his complaint, Dawson alleged that the NCAA and the PAC-12 acted as an employ
 
 The NCAA and the PAC-12 moved to dismiss Dawson's complaint for failure to state a claim upon which relief can be granted. The district court granted the motion, and dismissed the complaint without leave to amend.
 
-##### II
+<p class="case-h1">II</p>
 
 The district court properly concluded that Division I FBS Football Players are not employees of the NCAA or PAC-12 as a matter of federal law.
 
-###### A
+<p class="case-h1">"case-h2">A</p>
 
 The FLSA provides that "employers" must pay their "employees" a minimum wage and overtime pay for hours worked in excess of the statutory workweek. The statute defines an "employee" as "any individual employed by an employer." To "employ" means "to suffer or permit to work." 
 
@@ -416,7 +416,7 @@ The Supreme Court has also considered more specific factors when helpful to prob
 
 However, precedent demonstrates that revenue does not automatically engender or foreclose the existence of an employment relationship under the FLSA. The Supreme Court has held self-proclaimed volunteers to be employees of a nonprofit religious organization. Conversely, we recently held that cosmetology students were not employees entitled to minimum wage despite the fact that they performed services for paying customers at salons run by their schools. Therefore, in the context of our preceding analysis, the revenue generated by college sports does not unilaterally convert the relationship between student-athletes and the NCAA into an employment relationship.
 
-###### B
+<p class="case-h1">"case-h2">B</p>
 
 _Bonnette v. California Health and Welfare Agency,_ 704 F.2d 1465 (9th Cir. 1983), does not compel a contrary conclusion, as Dawson contends. In _Bonnette,_ we applied a four-factor test to probe the economic reality of the relationship between state agencies and chore workers hired to perform in-home care for disabled public service recipients. 
 
@@ -426,17 +426,17 @@ Similarly, _Benjamin_ does not alter our conclusion. In _Benjamin,_ we applied a
 
 _Benjamin_ is not useful in determining whether an employment relationship exists between Dawson and the defendants. _Benjamin_ involved vocational students earning academic credit necessary to take a state licensing exam.In contrast, student-athletes are participating in highly regulated extra-curricular activities. Thus, _Benjamin's_ "primary beneficiary test" fails to "capture the true nature" of the relationship at issue here. 
 
-###### C
+<p class="case-h1">"case-h2">C</p>
 
 In sum, the district court correctly held that the NCAA and the PAC-12 were not Dawson's employers. Within the analytical framework established by the Supreme Court, the NCAA and PAC-12 are regulatory bodies, not employers of student-athletes under the FLSA. The district court properly dismissed the FLSA claims.
 
 #### Johnson v. NCAA (I), 556 F.Supp.3d 491 (E.D. Pa. 2021) {#johnson-v-ncaa-i}
 
-##### Padova, District Judge.
+<p class="case-h1">Padova, District Judge.</p>
 
 Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants," or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named universities that are members of the NCAA Division I ("D1"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA and state law. The ASD have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(6) on the ground that they do not employ Plaintiffs.[^JohnsonA1] For the reasons that follow, the Motion is denied.
 
-##### I. Factual Background
+<p class="case-h1">I. Factual Background</p>
 
 The Complaint alleges the following facts. The NCAA is an association that regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and nearly 500,000 student athletes. The NCAA has entered into multi-year, multi-billion-dollar contracts with broadcasters ESPN, CBS, and Turner Sports to show athletic competitions between NCAA D1 member schools, and it distributes shares of those broadcasting fees to its member schools. In addition to shares of broadcasting fees, NCAA D1 member schools also receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered into, either individually or as part of an NCAA conference, to broadcast athletic competitions between NCAA D1 member schools. 
 
@@ -456,11 +456,11 @@ Based upon these factual allegations, the Complaint asserts that Plaintiffs are 
 
 The Attended Schools Defendants have moved to dismiss all claims against them pursuant to Federal Rule of Civil Procedure 12(b)(6) on the ground that it does not plausibly allege that Plaintiffs are their employees.
 
-##### III. Discussion
+<p class="case-h1">III. Discussion</p>
 
 The ASD argue that the Complaint fails to state any claims against them because it does not allege facts that would establish that Plaintiffs are their employees, which is a requirement for bringing a claim under the FLSA. The FLSA defines the term "employee" as "any individual employed by an employer." The United States Court of Appeals for the Third Circuit has explained that "this statutory definition is 'necessarily broad to effectuate the remedial purposes of the Act.'" "In accordance with this 'expansive definition,' courts must 'look to the economic realities of the relationship in determining employee status under the FLSA.'" The ASD assert three reasons why Plaintiffs cannot be their employees: (1) student athletes such as Plaintiffs are amateurs; (2) the Department of Labor has determined that interscholastic athletes are not employees for purposes of the FLSA; and (3) the Complaint does not plausibly allege that Plaintiffs are employees pursuant to a multi-factor test used to determine whether individuals are employees.
 
-###### A. Amateurism
+<p class="case-h1">"case-h2">A. Amateurism</p>
 
 The ASD maintain that Plaintiffs are not employees of the schools they attend, and for which they compete in interscholastic athletics, because they are amateurs and the Supreme Court has recognized that "college athletics in the United States is defined by its century-old 'revered tradition of amateurism.'" The ASD rely both on the Supreme Court's decision in National Collegiate Athletic Association v. Board of Regents and on Berger v. National Collegiate Athletic Association, in which the United States Court of Appeals for the Seventh Circuit rejected a lawsuit brought pursuant to the FLSA by former student athletes against the NCAA and more than 120 of its D1 member schools. The Berger Court relied on the Supreme Court's recognition of the tradition of amateurism in college sports in Board of Regents to find that this "long-standing tradition defines the economic reality of the relationship between student athletes and their schools." The ASD maintain that the NCAA member schools' history of "'not paying student-athletes is _precisely what makes them amateurs._'" Thus, the ASD engage in the circular reasoning that they should not be required to pay Plaintiffs a minimum wage under the FLSA because Plaintiffs are amateurs, and that Plaintiffs are amateurs because the ASD and the other NCAA member schools have a long history of not paying student athletes like Plaintiffs.
 
@@ -470,7 +470,7 @@ The Supreme Court did, indeed, note in Board of Regents that "the NCAA plays a c
 
 As Justice Kavanaugh noted in his concurring opinion in Alston, the argument "that colleges may decline to pay student athletes because the defining feature of college sports is that the student athletes are not paid. is circular and unpersuasive." Accordingly, we reject the ASD's argument that Plaintiffs are not employees entitled to minimum wages pursuant to the FLSA because there is a long-standing tradition of amateurism in NCAA interscholastic athletics that defines the economic reality of the relationship between Plaintiffs and the ASD.[^JohnsonA7]
 
-###### C. The Economic Reality of the Relationship Between Plaintiffs and the ASD
+<p class="case-h1">"case-h2">C. The Economic Reality of the Relationship Between Plaintiffs and the ASD</p>
 
 _1. Expectation of compensation_
 
@@ -528,13 +528,13 @@ In sum, we have found that the facts alleged in the Complaint would, if proven, 
 
 #### Ries v. McDonald's USA, LLC, No. 1:20-cv-2 (W.D. Mich. Dec. 6, 2021) {#ries-v-mcdonalds}
 
-##### HALA Y. JARBOU, District Judge.
+<p class="case-h1">HALA Y. JARBOU, District Judge.</p>
 
 Plaintiffs bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
-##### II. ANALYSIS
+<p class="case-h1">II. ANALYSIS</p>
 
-###### A. Title VII
+<p class="case-h1">"case-h2">A. Title VII</p>
 
 Title VII prohibits an "employer" from engaging in certain "unlawful employment practices." The term "employer" means "a person engaged in an industry affecting commerce who has fifteen or more employees and any agent of such a person."
 
@@ -579,11 +579,11 @@ Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismis
 
 #### Johnson v. NCAA (II), 561 F.Supp.3d 490 (E.D. Pa. Sept. 21, 2021) {#johnson-v-ncaa-ii}
 
-##### PADOVA, District Judge.
+<p class="case-h1">PADOVA, District Judge.</p>
 
 Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in NCAA Division 1 ("D1") interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants" or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named D1 universities (the "Non Attended School Defendants" or "NASD"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA; the Pennsylvania Minimum Wage Act (the "PMWA"); the New York Labor Law ("NYLL"); and the Connecticut Minimum Wage Act ("CMWA"). The Complaint also asserts three common law unjust enrichment claims. The NCAA and NASD (together the "Moving Defendants") have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) on the ground that Plaintiffs lack standing to sue them under Article III because they are not joint employers of Plaintiffs. For the reasons that follow, the Motion is granted in part and denied in part.
 
-##### I. Factual Background
+<p class="case-h1">I. Factual Background</p>
 
 The Complaint alleges the following facts. The NCAA is an association that regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and nearly 500,000 student athletes. The NCAA has entered into multi-year, multi-billion-dollar contracts with broadcasters ESPN, CBS, and Turner Sports to show athletic competitions between NCAA D1 member schools, and it distributes shares of those broadcasting fees to its member schools. In addition to shares of those broadcasting fees, NCAA D1 member schools also receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered into, either individually or as part of an NCAA conference, to broadcast athletic competitions between NCAA D1 member schools.
 
@@ -599,7 +599,7 @@ Based upon these factual allegations, the Complaint asserts that Plaintiffs are 
 
 The Attended Schools Defendants brought a Motion to Dismiss the Complaint as against them on the ground that it did not plausibly allege that they employed Plaintiffs, a requirement for liability under the FLSA. We denied that Motion on August 25, 2021, concluding that the Complaint plausibly alleges that Plaintiffs are employees of the ASD for purposes of the FLSA. The NCAA and the Non-Attended Schools Defendants have moved to dismiss all claims against them for lack of Article III standing on the ground that the Complaint does not plausibly allege that they are also employers of Plaintiffs, specifically that the Complaint does not plausibly allege that they are joint employers of Plaintiffs with the ASD.
 
-##### III. Discussion
+<p class="case-h1">III. Discussion</p>
 
 In Count I of the Complaint, Plaintiffs seek the payment of minimum wages from Defendants, including the NCAA and the NASD, for the hours they spent in connection with NCAA D1 intercollegiate athletics pursuant to Section 206 of the FLSA. "The minimum wage provision at issue requires that Plaintiffs prove that they are 'employees.'" The Moving Defendants argue in their Motion to Dismiss that Plaintiffs have failed to meet their burden of establishing "'the irreducible constitutional minimum' of Article III standing" because they are not employees of the Moving Defendants. To establish standing under Article 3, the Plaintiffs must establish the following three elements:
 
@@ -613,7 +613,7 @@ The FLSA defines the term "employee" as "any individual employed by an employer.
 
 Thus, we can grant the Moving Defendants' Motion to Dismiss for lack of subject matter jurisdiction only if the Complaint does not plausibly allege that the Moving Defendants are Plaintiffs' joint employers.
 
-###### A. The NCAA as a Regulatory Body
+<p class="case-h1">"case-h2">A. The NCAA as a Regulatory Body</p>
 
 The Moving Defendants argue that the NCAA cannot be a joint employer of Plaintiffs because it merely regulates Plaintiffs' participation in intercollegiate athletics. The Moving Defendants rely on _Dawson v. National Collegiate Athletic Association_, 932 F.3d 905 (9th Cir. 2019), in which the United States Court of Appeals for the Ninth Circuit affirmed a lower court decision holding that college student athletes who play football for schools in the NCAA D1 Football Bowl Subdivision are not employees of the NCAA and the PAC-12 Conference for purposes of the FLSA and California labor law. In _Dawson_, the Ninth Circuit considered three factors: (1) whether the plaintiff expected to be paid by the NCAA or the PAC-12 Conference, (2) whether the NCAA and the PAC-12 Conference had the power to hire or fire the plaintiff; and (3) whether there was "evidence that an arrangement was conceived or carried out to evade the law." The _Dawson_ court found that the plaintiff had no expectation of a scholarship or other compensation from the NCAA or the PAC-12 Conference and that "there was no evidence that the NCAA rules were 'conceived or carried out' to evade the law." The _Dawson_ court also determined that the complaint in that case alleged that the NCAA functioned solely as a regulator and not as an employer because, while the complaint alleged that "the NCAA Bylaws pervasively regulate college athletics," it did not allege that the NCAA hired or fired "or exercised any other analogous control, over student-athletes," or that the NCAA "chose the players on any Division I football team," or "engaged in the actual supervision of the players' performance." Rather, the complaint merely alleged that "the NCAA functions as a regulator, and that the NCAA member schools, for whom the student-athletes allegedly render services, enforce regulations." While the Moving Defendants urge us to simply adopt and apply _Dawson_'s analysis and conclusion in the instant case, the complaint in _Dawson_ is not identical to the Complaint in this case and, accordingly, we must engage in our own independent analysis of the instant Complaint.
 
@@ -623,7 +623,7 @@ The Moving Defendants also rely on _Callahan v. City of Chicago_, 813 F.3d 658 (
 
 However, as the Moving Defendants recognize, the NCAA, unlike the City of Chicago, is not a governmental entity. Moreover, _Callahan_, as a Seventh Circuit case, is not controlling authority in this district and, in any event, concerns a different set of factual allegations than are at issue in the instant case. Accordingly, instead of relying on either _Dawson_ or _Callahan_, we will analyze the Complaint using the factors developed by the Third Circuit to determine whether an entity is a joint employer.
 
-###### B. The Joint Employer Test
+<p class="case-h1">"case-h2">B. The Joint Employer Test</p>
 
 The Moving Defendants argue that the Complaint fails to plausibly allege that the NCAA and the NASD are joint employers of Plaintiffs under the four-factor test originally developed by the Ninth Circuit in _Bonnette v. California Health and Welfare Agency_, 704 F.2d 1465 (9th Cir. 1983), and subsequently adopted in part by the Third Circuit in _In re Enterprise Rent-A-Car_, 683 F.3d 462 (3d Cir. 2012). The Third Circuit announced in Enterprise Rent-A-Car that courts should use the following four factors, referred to as the _Enterprise_ test, when determining whether two entities are joint employers of the same individual or individuals:
 
@@ -667,7 +667,7 @@ As we have concluded that the facts alleged in the Complaint satisfy all four fa
 
 In contrast, we have concluded that the facts alleged in the Complaint do not satisfy any of the four factors of the Enterprise test as to the NASD. Accordingly, application of that test does not support a conclusion that the NASD are joint employers of Plaintiffs. Plaintiffs also argue, however, that the Complaint plausibly alleges that the NASD are joint employers of Plaintiffs under a "Sports League Joint Employment" theory that was developed and applied by the United States Court of Appeals for the Fifth Circuit in _North American Soccer League v. NLRB_, 613 F.2d 1379 (5th Cir. 1980). We will therefore consider whether the NASD can be considered joint employers under this alternative theory.
 
-###### C. The Sports League Joint Employment Theory
+<p class="case-h1">"case-h2">C. The Sports League Joint Employment Theory</p>
 
 In _North American Soccer League_, the Fifth Circuit examined whether the _North American Soccer League_ (the "League") and all of its member clubs were joint employers of all of the soccer players who played for clubs in the League in order to determine the "correct collective bargaining unit for the players in the League." The National Labor Relations Board ("NLRB") had concluded that the League and its member clubs were joint employers of the players and the Fifth Circuit determined that the record contained sufficient evidence to support that conclusion. The Fifth Circuit began its analysis with the proposition that "the existence of a joint employer relationship depends on the control which one employer exercises, or potentially exercises, over the labor relations policy of the other." The Fifth Circuit based its determination that the NLRB had properly deemed the League and the clubs to be joint employers on the following facts: (1) the League exercised "a significant degree of control over essential aspects of the clubs' labor relations, including but not limited to the selection, retention, and termination of the players, the terms of individual player contracts, dispute resolution and player discipline;" (2) "each club granted the League authority over not only its own labor relations but also, on its behalf, authority over the labor relations of the other member clubs;" (3) the clubs' activities were governed by the League's constitution and regulations, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club; (4) the League's regulations governed interclub trades and allowed the commissioner "to void trades not deemed to be in the best interest of the League;" (5) the League's regulations governed the termination of player contracts; (6) all player contracts were submitted to the League and the commissioner could "disapprove a contract deemed not in the best interest of the League;" (7) "disputes between a club and a player were required to be submitted to the commissioner for final and binding arbitration;" and (8) "control over player discipline was divided between the League and the clubs." 
 
@@ -682,11 +682,11 @@ We conclude that the same is true in the case before us. In _North American Socc
 
 <div class="legal-code">
 
-##### The Final Rule 
+<p class="case-h1">The Final Rule </p>
 
 The joint-employer doctrine plays an important role in the administration of the Act. The doctrine determines when an entity that exercises control over particular employees' essential terms and conditions of employment has a duty to bargain with those employees' representative. It also determines such an entity's potential liability for unfair labor practices. The joint-employer analysis set forth in this final rule is based on common-law agency principles as applied in the particular context of the Act. In our considered view, the joint-employer standard that we adopt today removes artificial control-based restrictions with no foundation in the common law that the Board has previously imposed in cases beginning in the mid-1980s discussed above, and in the 2020 rule. By incorporating common-law agency principles, as the Act requires, the final rule appropriately aligns employers' responsibilities with respect to their employees with their authority to control those employees' essential terms and conditions of employment and so promotes the policy of the United States, as articulated in Section 1 of the Act, to encourage the practice and procedure of collective bargaining and to protect the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
-###### A. Definition of an Employer of Particular Employees
+<p class="case-h1">"case-h2">A. Definition of an Employer of Particular Employees</p>
 
 Section 103.40(a) of the final rule provides that an employer, as defined by Section 2(2) of the Act, is an employer of particular employees, as defined by Section 2(3) of the Act, if the employer has an employment relationship with those employees under common-law agency principles. This provision expressly recognizes the Supreme Court's conclusion that Congress's use of the terms “employer” and “employee” in the NLRA was intended to describe the conventional employer-employee relationship under the common law.
 
@@ -694,7 +694,7 @@ Because “Congress has tasked the courts, and not the Board, with defining the 
 
 By explicitly grounding the Board's joint-employer analysis in common-law agency principles, this provision recognizes that the existence of a common-law employment relationship is a necessary prerequisite to a finding that an entity is a joint employer of particular employees.
 
-###### B. Definition of Joint Employers
+<p class="case-h1">"case-h2">B. Definition of Joint Employers</p>
 
 Section 103.40(b) provides that, for all purposes under the Act, two or more employers of the same particular employees are joint employers of those employees if the employers share or codetermine those matters governing employees' essential terms and conditions of employment. The provision thus first recognizes, as did the 2020 rule, that joint-employer issues may arise (and the same test will apply) in various contexts under the Act, including both representation and unfair labor practice case contexts.
 
@@ -702,23 +702,23 @@ The provision goes on to codify the longstanding core of the joint-employer test
 
 By providing that a common-law employer of particular employees must also share or codetermine those matters governing the employees' essential terms and conditions of employment in order to be considered a joint employer, the provision recognizes and incorporates the principle from BFI that “the existence of a common-law employment relationship is necessary, but not sufficient, to find joint-employer status.”  
 
-###### C. Definition of “share or codetermine”
+<p class="case-h1">"case-h2">C. Definition of “share or codetermine”</p>
 
 Section 103.40(c) of the final rule provides that to “share or codetermine those matters governing employees' essential terms and conditions of employment” means for an employer to possess the authority to control (whether directly, indirectly, or both) or to exercise the power to control (whether directly, indirectly, or both) one or more of the employees' essential terms and conditions of employment. This provision incorporates the view of the Board and the District of Columbia Circuit in BFI that evidence of the authority or reserved right to control, as well as evidence of the exercise of control (whether direct or indirect, including control through an intermediary, as discussed further below) is probative evidence of the type of control over employees' essential terms and conditions of employment that is necessary to establish joint-employer status. After careful consideration of comments, as reflected above, the Board has concluded that this definition of “share or codetermine” is consistent with common-law agency principles and best serves the policy of the United States, embodied in the Act, to encourage the practice and procedure of collective bargaining by ensuring that employees have the ability to negotiate the terms and conditions of their employment, through representatives of their own choosing, with all of their employers that possess the authority to control or exercise the power to control those terms and conditions.
 
-###### D. Definition of “essential terms and conditions of employment”
+<p class="case-h1">"case-h2">D. Definition of “essential terms and conditions of employment”</p>
 
 Section 103.40(d) defines “essential terms and conditions of employment” as (1) wages, benefits, and other compensation; (2) hours of work and scheduling; (3) the assignment of duties to be performed; (4) the supervision of the performance of duties; (5) work rules and directions governing the manner, means, and methods of the performance of duties and the grounds for discipline; (6) the tenure of employment, including hiring and discharge; and (7) working conditions related to the safety and health of employees. The Board has decided, after careful consideration of comments as reflected above, to modify the proposed rule's definition of “essential terms and conditions of employment” by setting forth an exclusive, closed list of terms and conditions of employment that may serve as the objects of control necessary to establish joint-employer status.
 
 Terms and conditions of employment falling in these seven categories are not simply common across employment relationships, they represent the core subjects of collective bargaining contemplated by the Act, as illuminated by the Board's administrative experience. Thus, Section 8(d) of the Act expressly provides that the collective-bargaining obligation encompasses a duty to confer with respect to wages and hours, subjects falling within categories (1) and (2). Categories (3), (4), and (5) similarly include terms involving the assignment, supervision, and detailed control of employees' performance of work duties—and the grounds for discipline of employees who fail to perform as required—all common across employment relationships and subjects of central concern to employees seeking to improve their terms and conditions of employment through collective bargaining. Terms and conditions in Category (6), addressing the conditions for the formation and dissolution of the employment relationship itself, are clearly essential conditions of employment. Finally, as many commenters have observed, terms setting working conditions related to the safety and health of employees—encompassed in category (7)—are basic to the employment relationship and lie at or near the core of issues about which employees would reasonably seek to bargain. By providing that a common-law employer of particular employees will be considered a joint employer of those employees only if it possesses the authority to control or exercises the power to control one or more terms and conditions of employment falling into one of these seven categories, this provision ensures that such an employer will be in a position to engage in meaningful bargaining over an issue of core concern to the employees involved. This provision thus effectively incorporates the second step of the Board's joint-employer test set forth in BFI, above, as described by the District of Columbia Circuit in BFI v. NLRB, and addresses that court's concern that the Board had failed, in BFI, adequately to delineate what terms and conditions are “essential” to make collective bargaining “meaningful.”  
 
-###### E. Control Sufficient To Establish Joint-Employer Status
+<p class="case-h1">"case-h2">E. Control Sufficient To Establish Joint-Employer Status</p>
 
 Section 103.40(e) provides, consistent with § 103.40(a) and (c), that whether an employer possesses the authority to control or exercises the power to control one or more of the employees' essential terms and conditions of employment is determined under common law-agency principles. Thus, this provision explains that, subject to the terms of the preceding provisions, (1) possessing the authority to control one or more essential terms and conditions of employment is sufficient to establish status as a joint employer regardless of whether the control is exercised; and (2) exercising the power to control indirectly (including through an intermediary) one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether the control is exercised directly.
 
 As discussed above, the Board has modified this provision from the version set forth in the NPRM by clarifying that, in every case, the object of a common-law employer's control that is relevant to the question of whether it is also a joint employer under the Act must be an essential term and condition of employment as defined in § 103.40(d). In combination with the Board's limitation of “essential” terms and conditions of employment to matters that lie near the core of the collective-bargaining process, this change is intended to address the concerns of commenters (discussed above) that the standard should not require the Board to find a joint-employer relationship based on an entity's attenuated, insubstantial, or unexercised control over matters that—while they may be mandatory subjects of bargaining—are actually peripheral to the employment relationship or to employees' terms and conditions of employment. The version of § 103.40(e) that appears in the final rule is reformatted to include two subsections and has been streamlined to avoid surplusage.
 
-###### F. Control Immaterial to Joint-Employer Status
+<p class="case-h1">"case-h2">F. Control Immaterial to Joint-Employer Status</p>
 
 Section 103.40(f) provides that evidence of an entity's control over matters that are immaterial to the existence of an employment relationship under common-law agency principles and that do not bear on the employees essential terms and conditions of employment is not relevant to the determination of whether the employer is a joint employer.
 
@@ -726,11 +726,11 @@ As discussed above, many commenters have expressed a concern that the proposed r
 
 This provision addresses these concerns by expressly recognizing that some kinds of control, including some of those commonly embodied in a contract for the provision of goods or services by a true independent contractor, are not relevant to the determination of whether the entity possessing such control is a common-law employer of the workers producing or delivering the goods or services, and that an entity's control over matters that do not bear on workers' essential terms and conditions of employment are not relevant to the determination of whether that entity is a joint employer.
 
-###### G. Burden of Proof
+<p class="case-h1">"case-h2">G. Burden of Proof</p>
 
 Section 103.40(g) provides that a party asserting that an employer is a joint employer of particular employees has the burden of establishing, by a preponderance of the evidence, that the entity meets the requirements set forth above. This allocation of the burden of proof is consistent with the 2020 Rule, BFI, and pre-BFI precedent. 
 
-###### H. Bargaining Obligations of a Joint Employer
+<p class="case-h1">"case-h2">H. Bargaining Obligations of a Joint Employer</p>
 
 Section 103.40(h) provides that a joint employer of particular employees must bargain collectively with the representative of those employees with respect to any term and condition of employment that it possesses the authority to control or exercises the power to control, regardless of whether that term and condition is deemed to be an essential term and condition of employment under the definition above, but is not required to bargain with respect to any term and condition of employment that it does not possess the authority to control or exercise the power to control.
 
@@ -738,7 +738,7 @@ As discussed above, some commenters have requested that the Board provide a conc
 
 On the other hand, the Board has also concluded that it serves a useful clarifying purpose to expressly provide, consistent with extant Board precedent not affected by the final rule, that where two or more entities each control terms and conditions of employment of particular employees, an employer is not required to bargain over any such terms and conditions which are in no way subject to its own control.
 
-##### 29 CFR § 103.40. Joint Employers
+<p class="case-h1">29 CFR § 103.40. Joint Employers</p>
 
 (a\) An employer, as defined by section 2(2) of the National Labor Relations Act (the Act), is an employer of particular employees, as defined by section 2(3) of the Act, if the employer has an employment relationship with those employees under common-law agency principles.
 
@@ -791,11 +791,11 @@ On the other hand, the Board has also concluded that it serves a useful clarifyi
 
 #### Pham v. Aeva Specialty Pharmacy, No. 21-cv-00703-NYW-STV (D. Colo. Dec. 8, 2022) {#pham-v-aeva}
 
-##### NINA Y. WANG, District Judge.
+<p class="case-h1">NINA Y. WANG, District Judge.</p>
 
 This matter is before the Court on Aeva Specialty Pharmacy's Motion for Summary Judgment. For the reasons set forth below, the Motion for Summary Judgment is respectfully DENIED.
 
-##### Background
+<p class="case-h1">Background</p>
 
 Plaintiff Khanh Pham ("Plaintiff" or "Mr. Pham") alleges that in 2020, he applied for an open pharmacist employment position at Aeva Specialty Pharmacy ("Defendant" or "Aeva"), and received a conditional offer of employment. According to Plaintiff, Aeva submitted Plaintiff's information to Clear Screening Technologies LLC ("Clear Screening"), a former defendant in this case, for a routine background check. Mr. Pham asserts that the background screening report erroneously reported that he had been charged with a federal crime in 2018, though he had never been charged with a federal crime. He also alleges that as a result of the incorrect Clear Screening report, Aeva revoked its conditional offer of employment. 
 
@@ -803,7 +803,7 @@ Mr. Pham initiated this civil action on March 9, 2021, raising three claims unde
 
 Aeva filed the instant Motion for Summary Judgment on February 10, 2022, seeking judgment in its favor on Plaintiff's FCRA claim. 
 
-##### Undisputed Material Facts
+<p class="case-h1">Undisputed Material Facts</p>
 
 The below material facts are drawn from the Parties' briefing and are undisputed unless otherwise noted.
 
@@ -821,13 +821,13 @@ The below material facts are drawn from the Parties' briefing and are undisputed
 
 7\. At some point after Mr. Pham submitted to a background check, Aeva decided not to hire Mr. Pham.
 
-##### Analysis
+<p class="case-h1">Analysis</p>
 
 The Fair Credit Reporting Act was enacted "to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information." 15 U.S.C. § 1681(b). The FCRA "enables consumers to protect their reputations, and to protect themselves against the dissemination of false or misleading credit information." "The FCRA places distinct obligations on three types of entities: (1) consumer reporting agencies; (2) users of consumer reports; and (3) furnishers of information." 
 
 Under the FCRA, users of consumer reports—like Aeva—must, "in using a consumer report for employment purposes," and "before taking any adverse action based in whole or in part on the report, provide to the consumer to whom the report relates (i) a copy of the report; and (ii) a description in writing of the rights of the consumer under this subchapter." "Congress intended applicants to have a real opportunity to contest an adverse employment decision based on a consumer report," and an applicant "must have enough time between the notice and the final decision to meaningfully contest or explain the contents of the report." 
 
-##### I. The Applicability of the FCRA
+<p class="case-h1">I. The Applicability of the FCRA</p>
 
 In its Motion for Summary Judgment, Aeva first argues that the FCRA is not applicable to this case because its decision to not hire Plaintiff was unrelated to and did not rely upon Plaintiff's background check. Aeva states that it is undisputed that "at no time was Mr. Pham told he was not hired based on the background report's improper red flag regarding a felony criminal case on an interim background check." Instead, Aeva asserts, Mr. Pham testified that he has "no evidence" that Aeva made its hiring decision based on the background report. Aeva supports its position by citing evidence to Ms. Deinet's deposition testimony, wherein Ms. Deinet testified that the decision to not hire Plaintiff was unrelated to the background report and that Ms. Deinet, "who made the hiring decision," never saw the background report until this lawsuit was filed. 
 
@@ -835,7 +835,7 @@ But Mr. Pham _has_ submitted evidence, in the form of his own testimony, that Ms
 
 The fact that Mr. Pham testified that he has "no evidence" that the hiring decision was based on his background check does not change the Court's conclusion. Mr. Pham, a non-lawyer, simply could have meant that he has no tangible evidence of the reasoning for the decision, i.e., a recording of the telephone call with Ms. Pendergrass. But Mr. Pham's testimony is evidence, and the Court must draw all reasonable inferences from that evidence in Mr. Pham's favor. Because a reasonable jury could conclude, based on Mr. Pham's testimony, that Aeva's decision to not hire Mr. Pham was based on the results of the background check, genuine issues of material fact preclude summary judgment on this basis.
 
-##### II. Actual Damages
+<p class="case-h1">II. Actual Damages</p>
 
 In the alternative, Aeva argues that Plaintiff cannot establish that he was actually damaged by Aeva's actions, which necessitates summary judgment in its favor. The FCRA establishes separate categories of damages for willful and negligent violations of the FCRA. A company that willfully fails to comply with FCRA requirements may be held liable for "any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000," as well as punitive damages and attorney's fees and costs. Therefore, a "consumer need not prove actual damages if the FCRA violation is willful, but may recover punitive damages and statutory damages ranging from $100 to $1,000." Meanwhile, an employer who negligently fails to comply with the FCRA may be liable for "any actual damages sustained by the consumer as a result of the failure" and fees and costs. Mr. Pham seeks "actual damages, statutory damages, costs, and attorney's fees," as well as punitive damages, pursuant to 15 U.S.C. § 1681n. 
 
@@ -847,7 +847,7 @@ Second, Aeva has not cited any legal authority suggesting that a settlement with
 
 Third, while Defendant suggests that Mr. Pham cannot demonstrate actual damages because he obtained alternative employment within 20 days of his interview with Aeva, the Court respectfully disagrees. Mr. Pham argues in his Response that he can establish actual damages because he "was unable to earn wages that he otherwise would have earned had he been permitted to begin working at Aeva." Indeed, Mr. Pham confirmed at his deposition that he "did not receive wages that he otherwise would have earned had he been offered employment with Aeva and begun working for Aeva." Although Plaintiff testified that he "had not been harmed" by Aeva's actions, which may contradict his statement, credibility determinations and resolution of conflicts in the evidence are issues reserved for the jury. Lost income is one type of actual damages available under the FCRA, and because Mr. Pham has produced evidence that of potentially lost income, the jury must assess its strength. But as Mr. Pham has already adduced evidence of actual damages, the Court is unpersuaded by Defendant's argument that Mr. Pham can produce no such evidence.
 
-##### III. Willful Violation of the FCRA
+<p class="case-h1">III. Willful Violation of the FCRA</p>
 
 Finally, Aeva argues that Plaintiff's request for statutory or punitive damages fails as a matter of law because he has presented no evidence that Aeva acted willfully or with reckless disregard in its purported FCRA violations. For this reason, it asserts that it is entitled to judgment in its favor on Plaintiff's FCRA claim. 
 
@@ -865,13 +865,13 @@ In sum, Mr. Pham has established genuine disputes of material fact concerning (1
 
 #### Franklin v. Vertex Global Solutions, Inc., No. 20 Civ. 10495 (KPF) (S.D.N.Y. Feb. 9, 2022) {#franklin-v-vertex-global-solutions}
 
-##### KATHERINE POLK FAILLA, District Judge.
+<p class="case-h1">KATHERINE POLK FAILLA, District Judge.</p>
 
 Plaintiff Henry Franklin, on behalf of himself and a putative class of similarly situated job applicants, has sued Defendants Vertex Global Solutions, Inc. ("Vertex") and Fresh Direct, LLC ("Fresh Direct," and collectively, "Defendants") for their alleged use of a pre-employment screening policy that discriminates against job applicants with criminal histories in violation of the New York City Human Rights Law (the "NYCHRL"), N.Y.C. Admin. Code §§ 8-101 to 8-131, as amended by the Fair Chance Act (the "FCA"), N.Y.C. Local Law 63 (2015). Vertex and Fresh Direct have each moved to dismiss Plaintiff's claims, contending that their hiring practices comply with New York City law and do not discriminate against individuals with criminal histories. Fresh Direct additionally argues that Plaintiff's claims should fail because he has not alleged Fresh Direct's participation in any facet of Plaintiff's employment application with Vertex. For the reasons outlined in the remainder of this Opinion, the Court denies Defendants' motions in full.
 
-##### Background
+<p class="case-h1">Background</p>
 
-##### A. Factual Background
+<p class="case-h1">A. Factual Background</p>
 
 _1. The Parties_
 
@@ -891,9 +891,9 @@ Plaintiff alleges that his employment application was for a job with both Vertex
 
 As further evidence of the symbiotic relationship between Defendants, Plaintiff contends that Vertex touts that it offers customized services tailored to the specific requirements of individual employers like Fresh Direct. According to its website, Vertex advertises to prospective employer-clients that it "strives to understand your business, culture, and needs, to ensure we deliver candidates that fit your unique requirements." Vertex describes the value it adds to its clients' hiring process by characterizing itself as "a partner and an extension of your Human Resources Department." Notably, Vertex regularly conducted interviews for prospective Fresh Direct employees on-site at a Fresh Direct facility, as evidenced by an online job posting and Plaintiff's personal experience.
 
-##### Discussion
+<p class="case-h1">Discussion</p>
 
-###### A. Applicable Law
+<p class="case-h1">"case-h2">A. Applicable Law</p>
 
 _2. New York City's Fair Chance Act_[^Franklin5]
 
@@ -912,7 +912,7 @@ NYCCHR regulations interpreting the NYCHRL, as amended by the FCA, outline six h
 
 The NYCHRL affords a private right of action to "any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined by the NYCHRL." The NYCHRL defines a "person aggrieved" to include one whose "only injury is the deprivation of a right granted or protected by this chapter." In light of this statutory directive, courts are to assess NYCHRL claims "broadly in favor of discrimination plaintiffs to the extent that such a construction is reasonably possible." 
 
-###### B. Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA
+<p class="case-h1">"case-h2">B. Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA</p>
 
 Plaintiff asserts that Defendants' hiring practices violated his rights under the NYCHRL, as amended by the FCA, because Defendants (i) conducted a background check prior to extending a conditional offer of employment; (ii) declared that a background check would be conducted without first making a conditional offer of employment; and (iii) denied him employment without adhering to the Fair Chance Process. Plaintiff's central allegation is that the document that Defendants labeled a "conditional offer of employment" was a contrivance designed to circumvent the FCA and permit Defendants to scrutinize applicants' criminal histories prematurely in the hiring process. Defendants maintain the legitimacy of their conditional offer of employment and insist that their hiring practices accorded with the FCA. Defendants further argue that Franklin lost his right to an Article 23-A analysis before they rescinded their conditional offer because Franklin misrepresented his criminal history in executing the Background Check Release. The Court finds that Plaintiff has plausibly alleged that Defendants feigned a conditional offer of employment before inquiring into his criminal background. Accordingly, Plaintiff has stated a claim pursuant to the NYCHRL, as amended by the FCA.
 
@@ -930,7 +930,7 @@ In the enforcement guidance that was in effect at the time of Plaintiff's job ap
 
 Accordingly, the Court concludes that Plaintiff has plausibly alleged that Defendants failed to make him a genuine conditional offer of employment prior to inquiring into his criminal background, which constitutes an actionable violation of the NYCHRL, as amended by the FCA.
 
-###### C. Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer
+<p class="case-h1">"case-h2">C. Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer</p>
 
 Independent of whether Plaintiff has plausibly alleged a primary violation of the FCA, Fresh Direct asserts that Plaintiff has failed to allege a basis to hold Fresh Direct liable for the hiring practices instituted by Vertex. Fresh Direct argues that Plaintiff's theory of Fresh Direct's liability is premised entirely on speculation and that the Amended Complaint is bereft of factual allegations tying Fresh Direct to Plaintiff's application for employment with Vertex. Plaintiff rejoins that his allegations suggest that Fresh Direct facilitated Vertex's hiring of employees in an illegal manner and that Vertex employees were subject to Fresh Direct's control. Thus, Plaintiff contends, Fresh Direct may be held liable as either a joint employer or as an aider and abettor of Vertex's discriminatory conduct. The Court concludes that, at the pleading stage, Plaintiff has plausibly alleged that Fresh Direct both acted as Plaintiff's prospective joint employer and aided and abetted Vertex's discriminatory conduct.
 
@@ -958,7 +958,7 @@ The Court finds there to be a critical distinction between the putative joint em
 
 #### Karraker v. Rent-A-Center, Inc., 411 F.3d 831 (7th Cir. 2005) {#karraker-v-rent-a-center}
 
-##### TERENCE T. EVANS, Circuit Judge.
+<p class="case-h1">TERENCE T. EVANS, Circuit Judge.</p>
 
 To prove their worth prior to the annual college draft, NFL teams test aspiring professional football players' ability to run, catch, and throw. But that's not all. In addition to the physical tests, a draft prospect also takes up to 15 personality and knowledge tests, answering questions such as:
 
@@ -1033,11 +1033,11 @@ Dr. Koransky claims, for example, that the Pa scale "does not diagnose or detect
 
 #### Keith v. Health-Pro Home Care Services, Inc., 873 S.E.2d 567 (N.C. 2022) {#keith-v-health-pro-home-care-services}
 
-##### BARRINGER, Justice.
+<p class="case-h1">BARRINGER, Justice.</p>
 
 Employers are in no way general insurers of acts committed by their employees, but as recognized by our precedent, an employer may owe a duty of care to a victim of an employee's intentional tort when there is a nexus between the employment relationship and the injury. Here, when the evidence is viewed in the light most favorable to the plaintiffs, plaintiffs, who are an elderly infirm couple that contracted with a company to provide them a personal care aide in their home, have shown a nexus between their injury and the employment relationship. The employee was inadequately screened and supervised, being placed in a position of opportunity to commit crimes against vulnerable plaintiffs after her employer suspected her of stealing from plaintiffs. Therefore, we conclude that the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding for entry of a judgment notwithstanding the verdict in favor of defendant. Further, the Court of Appeals misinterpreted North Carolina precedent, and thus erred by holding the trial court erred by denying defendant's requested instructions.
 
-##### I. Background
+<p class="case-h1">I. Background</p>
 
 On 29 September 2016, plaintiffs Thomas and Teresa Keith (Mr. and Mrs. Keith), an elderly married couple with health and mobility issues, were the victims of a home invasion and armed robbery orchestrated by a personal care aide working for defendant Health-Pro Home Care Services, Inc. (Health-Pro). The aide, Deitra Clark, was assigned to assist the Keiths in their home. Clark subsequently pleaded guilty to first-degree burglary and second-degree kidnapping for her conduct.
 
@@ -1082,9 +1082,9 @@ The dissent acknowledged that reasonable minds may reach different conclusions c
 
 The Keiths appealed based on the dissent . 
 
-##### III. Analysis
+<p class="case-h1">III. Analysis</p>
 
-###### A. Health-Pro's Rule 50 Motions
+<p class="case-h1">"case-h2">A. Health-Pro's Rule 50 Motions</p>
 
 To address the issues before us, we must summarize the relevant aspects of the law of this State concerning negligence and negligent hiring. The common law claim of negligence has three elements: (1) a legal duty owed by the defendant to the plaintiff, (2) a breach of that legal duty, and (3) injury proximately caused by the breach. Precedent decided by this Court further defines the contours of these three elements. For instance, this Court has recognized that "no legal duty exists unless the injury to the plaintiff was foreseeable and avoidable through due care." 
 
@@ -1198,7 +1198,7 @@ In this matter, Health-Pro acknowledged that it must discipline employees when H
 
 Thus, in this case, the jury, not the court, must decide the outcome of the Keiths' claim. The Court of Appeals in this matter erred by not considering the evidence in the light most favorable to the Keiths, just as Health-Pro's arguments urge us to do. Health-Pro contends that Clark's actions bore no relationship to her employment and no action or inaction by Health-Pro proximately caused the Keiths' injuries because "any information Clark learned about the Keiths' home on the job could have been ascertained just as easily by others watching the home from the street." The jury could have agreed with Health-Pro and weighed the evidence in its favor but given the testimony and evidence before the trial court supporting a contrary interpretation of the facts, this argument cannot justify judgment in Health-Pro's favor as a matter of law. We must view all of the evidence which supports the Keith's claim as true and consider the evidence in the light most favorable to the Keiths, giving them the benefit of every reasonable inference that may legitimately be drawn therefrom and resolving contradictions, conflicts, and inconsistencies in their favor. Therefore, we conclude that the Court of Appeals erred by reversing the trial court and remanding for entry of judgment in favor of Health-Pro.
 
-##### IV. Conclusion
+<p class="case-h1">IV. Conclusion</p>
 
 We agree with the Court of Appeals that plaintiffs' negligence claim was dependent on a theory of negligent hiring, which is commonly plead as a negligent hiring claim. However, the evidence, taken in the light most favorable to plaintiffs, was sufficient as a matter of law to be presented to the jury. There was evidence to support each element of the claim, the _Medlin_ elements, and the _Little_ nexus requirement. Therefore, the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding to the trial court for entry of an order granting defendant's motion for judgment notwithstanding the verdict. Further, the Court of Appeals misinterpreted precedent from _Little,_ and under a proper reading of that case and other precedent, the jury instruction requested by defendant was not an accurate statement of the law. Therefore, the Court of Appeals also erred by holding that the trial court erred by denying defendant's requested instruction. Accordingly, we reverse the Court of Appeals' decision.
 
@@ -1206,11 +1206,11 @@ We agree with the Court of Appeals that plaintiffs' negligence claim was depende
 
 #### Desai v. Charter Communications, LLC, 381 F.Supp.3d 774 (W.D. Ky. 2019) {#desai-v-charter-communications}
 
-##### David J. Hale, Judge.
+<p class="case-h1">David J. Hale, Judge.</p>
 
 Plaintiffs alleged that their former employer, Charter Communications, LLC, falsely accused them of theft after their employment was terminated. Following a weeklong trial, a jury agreed, finding Charter liable for defamation per se. Charter has moved for judgment as a matter of law or a new trial. In the alternative, it seeks reduction of the damage award. For the reasons explained below, the Court will reduce the punitive damages and deny Charter's motion in all other respects.
 
-##### I. BACKGROUND
+<p class="case-h1">I. BACKGROUND</p>
 
 The Court previously summarized the facts of this case as follows:
 
@@ -1222,11 +1222,11 @@ The Court previously summarized the facts of this case as follows:
 
 The case was tried solely on a theory of defamation per se. At the close of Plaintiffs' case, Charter moved for judgment as a matter of law, arguing that "Printer-gate" could not constitute defamation per se because it had no "objectively understood definition" and was not defamatory on its face; that Plaintiffs had no proof of damages to support a claim of defamation per quod; and that any inference arising from "Printer-gate" was true because the term referred to "an incident involving the unauthorized removal of company printers from Charter's premises." The Court denied that motion and later granted Plaintiffs' motion for judgment as a matter of law on Charter's truth defense, concluding that there was insufficient evidence from which a reasonable jury could find that Plaintiffs' actions constituted criminal theft. The jury ultimately found Charter liable, awarding each plaintiff $350,000 in compensatory damages and $1 million in punitive damages. The Court entered judgment for Plaintiffs in accordance with the jury's verdict, and Charter timely sought relief under Rules 50 and 59 of the Federal Rules of Civil Procedure.
 
-##### II. ANALYSIS
+<p class="case-h1">II. ANALYSIS</p>
 
 Charter renews its motion for judgment as a matter of law on the issue of whether the term "Printer-gate" can constitute defamation per se. It further argues that it is entitled to a new trial on the grounds that it should have been allowed to present the defenses of truth and qualified privilege; that James Eversole's testimony was admitted in error; and that the jury was required to find malice by clear and convincing evidence in order to award punitive damages. 
 
-###### A. Defamation Per Se
+<p class="case-h1">"case-h2">A. Defamation Per Se</p>
 
 As it has on numerous prior occasions, Charter argues that the term "Printer-gate" cannot constitute defamation per se. Charter first asserts that there was no evidence to support a finding that Simms's presentation imputed criminal conduct to Plaintiffs. It further contends that the Court, not the jury, should have determined whether defamation per se occurred. Neither argument is persuasive.
 
@@ -1264,7 +1264,7 @@ Clearly, the words "there was more to it than that" are not, on their face, defa
 
 At bottom, the dispute over the characterization of "Printer-gate" is whether it is _actionable_ per se or per quod—i.e., whether Plaintiffs should have been required to prove damages. As explained in _Stringer,_ no proof of damages is required where the statement amounts to an accusation of theft, whether direct or indirect. Charter is thus not entitled to judgment as a matter of law on this ground.
 
-###### B. Truth Defense
+<p class="case-h1">"case-h2">B. Truth Defense</p>
 
 Charter seeks a new trial on the ground that the Court "erred by granting judgment foreclosing the defense of truth." It contends that this "defense should have gone to the jury as long as there was evidence in the record—from any source—sufficient to permit a reasonable jury to conclude that Plaintiffs' actions met the definition of theft." The two cases it cites in support of this contention state no such rule. Charter next cites the Kentucky model jury instruction for theft by unlawful taking, asserting that "proving the defense of truth simply required evidence from which a jury could conclude" that the three statutory elements of theft were met. Those elements, as set out in the criminal pattern instruction, are (1) that Plaintiffs took property that belonged to Charter; (2) that in so doing, they knew the property was not their own and were not acting under a claim of right to it; and (3) that in taking the property, Plaintiffs intended to deprive Charter of it.
 
@@ -1278,7 +1278,7 @@ Charter's final assertion, that "there was evidence that Plaintiffs knew their c
 
 In sum, there was insufficient evidence for the jury to reasonably find that Plaintiffs intended to steal the printers, and the Court thus did not err in granting judgment as a matter of law on the issue of truth. Charter is not entitled to a new trial on this ground.
 
-###### C. Qualified Privilege
+<p class="case-h1">"case-h2">C. Qualified Privilege</p>
 
 Charter next argues that it should have been permitted to assert the defense of qualified privilege. Charter sought leave to amend its answer to assert qualified privilege after the deadline for amendment of pleadings had passed. Magistrate Judge Dave Whalin denied the motion, and the Court overruled Charter's objection to that ruling. In its post-trial motion, Charter argues for the first time that amendment was not required, and it again challenges the denial of its request to amend. 
 
@@ -1288,21 +1288,21 @@ The Court recognizes that availability of the qualified-privilege defense could 
 
 #### Arku v. Wells Fargo Bank, No. 3:22-cv-00225-RJC-DCK (W.D.N.C. Aug. 15, 2022) {#arku-v-wells-fargo-bank}
 
-##### Robert J. Conrad, Jr., United States District Judge
+<p class="case-h1">Robert J. Conrad, Jr., United States District Judge</p>
 
-##### I. BACKGROUND
+<p class="case-h1">I. BACKGROUND</p>
 
-###### A. Factual Background
+<p class="case-h1">"case-h2">A. Factual Background</p>
 
 Plaintiff Josephine Arku filed this action against Defendant Wells Fargo Bank, National Association (“Wells Fargo”) seeking compensatory damages for allegedly informing Plaintiff’s prospective employers that she owed Wells Fargo an overpayment which caused her to lose several job opportunities. 
 
 Accepting the well-pleaded factual allegations of the Complaint as true, Plaintiff worked for Wells Fargo for more than twenty years when she needed to take paid leave from work. Thereafter, in February 2016, she was subject to a corporate layoff and received a severance package which included continuation of her salary for eleven months. Wells Fargo calculated the number of benefits that Plaintiff received. In August 2016, Plaintiff accepted short-term employment for five months through Wells Fargo and then started to apply for other job opportunities. Potential employers notified Plaintiff that Wells Fargo reported her as owing an overpayment to Wells Fargo. Once Plaintiff became aware of the overpayment, she contacted Wells Fargo and paid back the overpayment with the understanding that Wells Fargo would remove the overpayment information from her record. After receiving payment, Wells Fargo failed to remove the overpayment information from Plaintiff’s record, despite numerous requests to do so. Between 2018 and 2020, Plaintiff applied to employers and believes, due to the overpayment listing on her record, that she lost various job opportunities. Plaintiff alleges that Wells Fargo’s failure to correct the adverse employment information caused her to lose $135,000 in income and resulted in a $100,000 increase in interest payments regarding her home and vehicle loans. 
 
-##### III. DISCUSSION
+<p class="case-h1">III. DISCUSSION</p>
 
 In the Motion to Dismiss, Wells Fargo argues (1) it is immune from civil liability; and (4) Plaintiff did not meet the heightened pleading standard for a negligent misrepresentation claim.
 
-###### A. Civil Immunity
+<p class="case-h1">"case-h2">A. Civil Immunity</p>
 
 Under [N.C. Gen. Stat. § 1-539.12](#ncgs-1-539-12), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
 
@@ -1318,7 +1318,7 @@ Moreover, the facts do not show that Wells Fargo disclosed the overpayment infor
 
 Regardless, even if the statute does apply to information about an employee’s failure to pay back an overpayment, it does not provide immunity when the information is false. Here, Plaintiff alleges that Wells Fargo failed to remove the overpayment information even after she repaid it, and that she lost potential employment because of this. Plaintiff thus alleges that she lost employment opportunities because of false information that Wells Fargo provided. This precludes civil immunity.
 
-###### D. Negligent Misrepresentation
+<p class="case-h1">"case-h2">D. Negligent Misrepresentation</p>
 
 Wells Fargo asserts that Plaintiff failed to meet the heightened pleading standard for a negligent misrepresentation claim. North Carolina has adopted the definition of negligent misrepresentation set forth in the Restatement (Second) of Torts under which:
 
@@ -1336,7 +1336,7 @@ Moreover, “there is no requirement that any precise formula be followed or tha
 
 <div class="legal-code">
 
-##### Immunity from civil liability for employers disclosing information.
+<p class="case-h1">Immunity from civil liability for employers disclosing information.</p>
 
 (a\) An employer who discloses information about a current or former employee's job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure. This immunity shall not apply when a claimant shows by a preponderance of the evidence both of the following:
 
@@ -1360,7 +1360,7 @@ Moreover, “there is no requirement that any precise formula be followed or tha
 
 #### Friel v. Angell Care, Inc., 440 S.E.2d 111 (N.C. App. 1994) {#friel-v-angell-care}
 
-##### WYNN, Judge.
+<p class="case-h1">WYNN, Judge.</p>
 
 Plaintiff Patricia W. Friel was employed as a secretary by defendant company Angell Care Incorporated ("Angell Care") from July 1982 until 17 April 1987. She held several positions within the company before being assigned to be the personal secretary to Bruce Smith, a new vice-president of the company. On or about 18 March 1987, plaintiff alleged that Smith had sexually harassed her. On 17 April 1987, plaintiff entered into a settlement agreement signed by Angell Care's president, Dennis Young, on behalf of Angell Care. Under the terms of the agreement, plaintiff would leave the company and would not discuss the terms and contents of the agreement. Angell Care would pay plaintiff $9566.63; would not discuss the terms or contents of the agreement with plaintiff's prospective employers; and would provide her prospective employers with neutral employment references.
 
@@ -1378,7 +1378,7 @@ Defendants moved for summary judgment on all the claims. The motion was heard on
 
 Plaintiff appealed the claims of slander _per se,_ malicious interference with contractual rights, and blacklisting, as to both defendants.
 
-##### I.
+<p class="case-h1">I.</p>
 
 Plaintiff contends that Angell's statements to Parker and Horton were slander _per se_ because they impeached her in her profession.
 
@@ -1392,11 +1392,11 @@ We find that plaintiff has not met the second element of this cause of action. P
 
 We note that defendant's statements to Parker and Horton may well have been in breach of the settlement agreement between plaintiff and defendant Angell Care, Inc. However, because plaintiff voluntarily dismissed her claim for breach of contract, issues relating to performance of that contract are not before us today.
 
-##### II.
+<p class="case-h1">II.</p>
 
 Plaintiff next contends that defendant maliciously interfered with her right to enter into an employment contract with Meyressa Schoonmaker and the North Carolina Center for Laws Affecting Women. In order to state a claim for malicious interference with contract, plaintiff must establish that the defendant's actions were malicious in the legal sense. To establish legal malice, a plaintiff must show that defendant interfered "with design of injury to plaintiff or gaining some advantage at his expense." Plaintiff never established that defendant intended to injure her or gain some advantage at her expense. The only evidence of malice plaintiff put forth is her belief that Angell felt ill will toward her because after she testified adversely to defendants in the _Bowling Green Health Care_ case, Angell raised his voice and exhibited anger toward the other party (not toward her). Plaintiff's speculation, without any facts to support it, is clearly insufficient to meet her burden of proof. A party cannot prevail against a motion for summary judgment by relying on "conclusory allegations, unsupported by facts." We affirm summary judgment for defendant on the malicious interference with contract claim.
 
-##### III.
+<p class="case-h1">III.</p>
 
 Plaintiff's third claim is that defendant Angell's conversations with Parker and Horton violated [N.C.Gen.Stat. § 14-355](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_14/GS_14-355.pdf), which prohibits blacklisting employees. Under this statute, an employer may be liable if, after discharging someone from employment, it prevents or attempts to prevent that person from obtaining employment:
 
@@ -1406,13 +1406,13 @@ However, statements made about a former employee in response to a request from a
 
 #### Kadlec Medical Center v. Lakeview Anesthesia Assocs., 527 F.3d 412 (5th Cir. 2008) {#kadlec-medical-center-v-lakeview-anesthesia-assocs}
 
-##### REAVLEY, Circuit Judge:
+<p class="case-h1">REAVLEY, Circuit Judge:</p>
 
 Kadlec Medical Center and its insurer, Western Professional Insurance Company, filed this diversity action in Louisiana district court against Louisiana Anesthesia Associates (LAA), its shareholders, and Lakeview Regional Medical Center (Lakeview Medical). The LAA shareholders worked with Dr. Robert Berry — an anesthesiologist and former LAA shareholder — at Lakeview Medical, where the defendants discovered his on-duty use of narcotics. In referral letters written by the defendants and relied on by Kadlec, his future employer, the defendants did not disclose Dr. Berry's drug use.
 
 While under the influence of Demerol at Kadlec, Dr. Berry's negligent performance led to the near-death of a patient, resulting in a lawsuit against Kadlec. Plaintiffs claim here that the defendants' misleading referral letters were a legal cause of plaintiffs' financial injury, i.e., having to pay over $8 million to defend and settle the lawsuit. The jury found in favor of the plaintiffs and judgment followed. We reverse the judgment against Lakeview Medical, vacate the remainder of the judgment, and remand.
 
-##### I. Factual Background
+<p class="case-h1">I. Factual Background</p>
 
 Dr. Berry was a licensed anesthesiologist in Louisiana and practiced with Drs. William Preau, Mark Dennis, David Baldone, and Allan Parr at LAA. From November 2000 until his termination on March 13, 2001, Dr. Berry was a shareholder of LAA, the exclusive provider of anesthesia services to Lakeview Medical (a Louisiana hospital).
 
@@ -1456,15 +1456,15 @@ Dr. Berry's nurse went directly to her supervisor the next morning and expressed
 
 Jones's family sued Dr. Berry and Kadlec in Washington. Dr. Berry's insurer settled the claim against him. After the Washington court ruled that Kadlec would be responsible for Dr. Berry's conduct under _respondeat superior,_ Western, Kadlec's insurer, settled the claim against Kadlec.
 
-##### II. Procedural History
+<p class="case-h1">II. Procedural History</p>
 
 Kadlec and Western filed this suit in Louisiana district court against LAA, Dr. Dennis, Dr. Preau, Dr. Baldone, Dr. Parr, and Lakeview Medical, asserting Louisiana state law claims for intentional misrepresentation, negligent misrepresentation, strict responsibility misrepresentation, and general negligence. Plaintiffs alleged that defendants' tortious activity led to Kadlec's hiring of Dr. Berry and the resulting millions of dollars it had to expend settling the Jones lawsuit. Plaintiffs' claim against LAA for negligence, based on a negligent monitoring and investigation theory, was dismissed before trial.
 
 Plaintiffs' surviving claims for intentional and negligent misrepresentation arise out of the alleged misrepresentations in, and omissions from, the defendants' referral letters for Dr. Berry. These claims were tried to a jury, which returned a verdict in favor of the plaintiffs on both claims. The jury awarded plaintiffs $8.24 million, which is approximately equivalent to the amount Western spent settling the Jones lawsuit ($7.5 million) plus the amount it spent on attorneys fees, costs, and expenses (approximately $744,000) associated with the Jones lawsuit. The jury also found Kadlec and Dr. Berry negligent. The jury apportioned fault as follows: Dr. Dennis 20%; Dr. Preau 5%; Lakeview Medical 25%; Kadlec 17%; and Dr. Berry 33%. The judgments against Dr. Dennis and Dr. Preau were _in solido_ with LAA. Because defendants were found liable for intentional misrepresentation, plaintiffs' recovery was not reduced by the percentage of fault ascribed to Kadlec. But the amount was reduced to $5.52 million to account for Dr. Berry's 33% of the fault. The district court entered judgment against Lakeview Medical and LAA.
 
-##### III. Discussion
+<p class="case-h1">III. Discussion</p>
 
-###### A. The Intentional and Negligent Misrepresentation Claims
+<p class="case-h1">"case-h2">A. The Intentional and Negligent Misrepresentation Claims</p>
 
 The plaintiffs allege that the defendants committed two torts: intentional misrepresentation and negligent misrepresentation. The elements of a claim for _intentional_ misrepresentation in Louisiana are: (1) a misrepresentation of a material fact; (2) made with intent to deceive; and (3) causing justifiable reliance with resultant injury. To establish a claim for intentional misrepresentation when it is by silence or inaction, plaintiffs also must show that the defendant owed a duty to the plaintiff to disclose the information. To make out a _negligent_ misrepresentation claim in Louisiana: (1) there must be a legal duty on the part of the defendant to supply correct information; (2) there must be a breach of that duty, which can occur by omission as well as by affirmative misrepresentation; and (3) the breach must have caused damages to the plaintiff based on the plaintiff's reasonable reliance on the misrepresentation.
 
