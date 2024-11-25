@@ -815,39 +815,39 @@ _Non-compete clause_ means:
 
 _Senior executive_ means a worker who:
 
-(1) Was in a policy-making position; and
+(1) Was in a policy-making position; and
 
-(2) Received from a person for the employment:
+(2) Received from a person for the employment:
 
-> (i) Total annual compensation of at least $151,164 in the preceding year; or
+> (i) Total annual compensation of at least $151,164 in the preceding year; or
  
-> (ii) Total compensation of at least $151,164 when annualized if the worker was employed during only part of the preceding year; or
+> (ii) Total compensation of at least $151,164 when annualized if the worker was employed during only part of the preceding year; or
  
-> (iii) Total compensation of at least $151,164 when annualized in the preceding year prior to the worker's departure if the worker departed from employment prior to the preceding year and the worker is subject to a non-compete clause.
+> (iii) Total compensation of at least $151,164 when annualized in the preceding year prior to the worker's departure if the worker departed from employment prior to the preceding year and the worker is subject to a non-compete clause.
 
 **§ 910.2 Unfair methods of competition.**
 
-(a) _Unfair methods of competition_ —
+(a) _Unfair methods of competition_ —
 
-> (1) _Workers other than senior executives._ With respect to a worker other than a senior executive, it is an unfair method of competition for a person:
+> (1) _Workers other than senior executives._ With respect to a worker other than a senior executive, it is an unfair method of competition for a person:
 
-> > (i) To enter into or attempt to enter into a non-compete clause;
+> > (i) To enter into or attempt to enter into a non-compete clause;
 
-> > (ii) To enforce or attempt to enforce a non-compete clause; or
+> > (ii) To enforce or attempt to enforce a non-compete clause; or
 
-> > (iii) To represent that the worker is subject to a non-compete clause.
+> > (iii) To represent that the worker is subject to a non-compete clause.
 
-> (2) _Senior executives._ With respect to a senior executive, it is an unfair method of competition for a person:
+> (2) _Senior executives._ With respect to a senior executive, it is an unfair method of competition for a person:
 
-> > (i) To enter into or attempt to enter into a non-compete clause;
+> > (i) To enter into or attempt to enter into a non-compete clause;
 
-> > (ii) To enforce or attempt to enforce a non-compete clause entered into after the effective date; or
+> > (ii) To enforce or attempt to enforce a non-compete clause entered into after the effective date; or
 
-> > (iii) To represent that the senior executive is subject to a non-compete clause, where the non-compete clause was entered into after the effective date.
+> > (iii) To represent that the senior executive is subject to a non-compete clause, where the non-compete clause was entered into after the effective date.
 
-(b) _Notice requirement for existing non-compete clauses_ —
+(b) _Notice requirement for existing non-compete clauses_ —
 
-> (1) _Notice required._ For each existing non-compete clause that it is an unfair method of competition to enforce or attempt to enforce under paragraph (a)(1)(ii) of this section, the person who entered into the non-compete clause with the worker must provide clear and conspicuous notice to the worker by the effective date that the worker's non-compete clause will not be, and cannot legally be, enforced against the worker.
+> (1) _Notice required._ For each existing non-compete clause that it is an unfair method of competition to enforce or attempt to enforce under paragraph (a)(1)(ii) of this section, the person who entered into the non-compete clause with the worker must provide clear and conspicuous notice to the worker by the effective date that the worker's non-compete clause will not be, and cannot legally be, enforced against the worker.
 
 </div>
 
