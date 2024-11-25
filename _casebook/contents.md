@@ -2,7 +2,7 @@
 layout: page
 title: Employment Law
 subtitle: An Open-Source Casebook
-permalink: /casebook/contents/
+permalink: /casebook/index.html
 
 ---
 
