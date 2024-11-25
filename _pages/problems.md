@@ -8,3 +8,4 @@ title: Problems
 
 - [Confidentiality Policy](../problems/Confidentiality)
 - [Duty of Loyalty](../problems/Loyalty)
+- [Workers Compensation](../problems/WorkersComp)

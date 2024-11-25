@@ -10,8 +10,8 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-term: 'Winter 2024'
-days: 'Monday & Wednesday, 10:30 am–12:30 pm'
+term: 'Winter 2025'
+days: 'Monday & Wednesday, 10:30 am–12:15 pm'
 room: 'Room 105'
 
 syllabus: true
@@ -34,7 +34,7 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 ### Required
 
-[Employment Law: An Open-Source Casebook (Fink 2023)](../casebook) ("Casebook"). The casebook is posted online as part of the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw). A PDF copy is available for download on the [Table of Contents](https://www.emfink.net/EmploymentLaw/casebook/contents/) page. 
+[Employment Law: An Open-Source Casebook (Fink 2024)](../casebook) ("Casebook"). The casebook is posted online as part of the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw). A PDF copy is available for download on the [Table of Contents](https://www.emfink.net/EmploymentLaw/casebook/contents/) page. 
 
 Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2017) ("Workbook"). 
 
@@ -75,39 +75,36 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 --|---|--
  &nbsp; | &nbsp; | &nbsp;
  &nbsp; | **Foundations of Employment Law** | &nbsp;
- January 3 | Employment as a Socio-Legal Relationship | Casebook, Chap. 1
+ January 6 | Employment as a Socio-Legal Relationship | Casebook, Chap. 1
  January 8 | Labor Organizing & Collective Bargaining | Casebook, Chap. 2
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Establishing an Employment Relationship** | &nbsp;
- January 10 | Identifying Employees | Casebook, Chap. 3, § 1 
- January 17 | Identifying Employers | Casebook, Chap. 3, § 2 
+ January 13 | Identifying Employees | Casebook, Chap. 3, § 1 
+ January 15 | Identifying Employers | Casebook, Chap. 3, § 2 
  January 22  | Recruitment & Hiring |  Casebook, Chap. 3, § 3
- January 24 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
+ January 27 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Scope & Limits of Employer Control** | &nbsp;
- January 24 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
- January 29 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
- January 31 | Control Outside Work | Casebook, Chap. 4, § 2
+ January 29 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
+ February 3 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
+ February 5 | Control Outside Work | Casebook, Chap. 4, § 2
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Duties to Employers** | &nbsp;
- February 5 | Confidentiality | Casebook, Chap. 5, § 1
- February 7 | Loyalty | Casebook, Chap. 5, § 2
- February 12 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
+ February 10 | Confidentiality | Casebook, Chap. 5, § 1
+ February 12 | Loyalty | Casebook, Chap. 5, § 2
+ February 17 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Wages & Hours** | &nbsp;
- February 12 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
+ February 19 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Health & Safety** | &nbsp;
- February 14 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
- February 19 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
+ February 24 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
+ February 26 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Terminating Employment** | &nbsp;
- February 21 | Employment-at-Will | Casebook, Chap. 8, § 1.1
- February 26 | Contractual Claims | Casebook, Chap. 8, § 1.2
- February 28 | Tort Claims | Casebook, Chap. 8, § 1.3
- March 4 | Statutory Claims | Casebook, Chap. 8, § 1.4
- March 6  | Unemployment Compensation | Casebook, Chap. 8, § 2
- March 11 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Wrapping Up** | &nbsp;
- March 11 | Recent Developments | TBA
+ March 3 | Employment-at-Will | Casebook, Chap. 8, § 1.1
+ March 5 | Contractual Claims | Casebook, Chap. 8, § 1.2
+ March 10 | Tort Claims | Casebook, Chap. 8, § 1.3
+ March 12 | Statutory Claims | Casebook, Chap. 8, § 1.4
+ March 17  | Unemployment Compensation | Casebook, Chap. 8, § 2
+ March 17 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)

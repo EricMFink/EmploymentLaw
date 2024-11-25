@@ -800,13 +800,58 @@ The short of it is that the judge didn't err by ruling that Massachusetts law go
 
 #### Note on FTC Non-Compete Rule {#note-on-ftc-noncompete-rule}
 
-In 2024, the Federal Trade Commission published a [final rule](https://www.ftc.gov/legal-library/browse/rules/noncompete-rule) under Section 5 of the FTC Act, 15 U.S.C. § 45(a), which outlaws "unfair methods of competition":
+In 2024, the Federal Trade Commission published a [final rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) under Section 5 of the FTC Act, 15 U.S.C. § 45(a), which outlaws "unfair methods of competition".
 
-> - Under the final [Noncompete Rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule), the FTC adopts a comprehensive ban on new noncompetes with all workers, including senior executives.
+<div class="legal-code">
+
+**16 C.F.R. § 910.1 Definitions**
+
+_Non-compete clause_ means:
+
+> (1) A term or condition of employment that prohibits a worker from, penalizes a worker for, or functions to prevent a worker from:
 > 
->	- The final rule provides that it is an unfair method of competition—and therefore a violation of Section 5—for employers to enter into noncompetes with workers.
+> > (i) Seeking or accepting work in the United States with a different person where such work would begin after the conclusion of the employment that includes the term or condition; or
+> > 
+> > (ii) Operating a business in the United States after the conclusion of the employment that includes the term or condition.
+
+
+_Senior executive_ means a worker who:
+
+> (1) Was in a policy-making position; and
 > 
-> - For existing noncompetes, the final rule adopts a different approach for senior executives than for other workers. For senior executives, existing noncompetes can remain in force. Existing noncompetes with workers other than senior executives are not enforceable after the effective date.
+> (2) Received from a person for the employment:
+> 
+> > (i) Total annual compensation of at least $151,164 in the preceding year; or
+> > 
+> > (ii) Total compensation of at least $151,164 when annualized if the worker was employed during only part of the preceding year; or
+> > 
+> > (iii) Total compensation of at least $151,164 when annualized in the preceding year prior to the worker's departure if the worker departed from employment prior to the preceding year and the worker is subject to a non-compete clause.
+
+**16 C.F.R. § 910.2 Unfair methods of competition.**
+
+> (a) _Unfair methods of competition_ —
+> 
+> > (1) _Workers other than senior executives._ With respect to a worker other than a senior executive, it is an unfair method of competition for a person:
+> > 
+> > > (i) To enter into or attempt to enter into a non-compete clause;
+> > > 
+> > > (ii) To enforce or attempt to enforce a non-compete clause; or
+> > > 
+> > > (iii) To represent that the worker is subject to a non-compete clause.
+> > 
+> > (2) _Senior executives._ With respect to a senior executive, it is an unfair method of competition for a person:
+> > 
+> > > (i) To enter into or attempt to enter into a non-compete clause;
+> > > 
+> > > (ii) To enforce or attempt to enforce a non-compete clause entered into after the effective date; or
+> > > 
+> > > (iii) To represent that the senior executive is subject to a non-compete clause, where the non-compete clause was entered into after the effective date.
+> 
+> (b) _Notice requirement for existing non-compete clauses_ —
+> 
+> > (1) _Notice required._ For each existing non-compete clause that it is an unfair method of competition to enforce or attempt to enforce under paragraph (a)(1)(ii) of this section, the person who entered into the non-compete clause with the worker must provide clear and conspicuous notice to the worker by the effective date that the worker's non-compete clause will not be, and cannot legally be, enforced against the worker.
+
+</div>
 
 In [Ryan, LLC v. FTC](https://scholar.google.com/scholar_case?case=7255993935182189521), Civil Action No. 3:24-CV-00986-E (N.D. Tex. Aug. 20, 2024), the court blocked enforcement of the FTC Noncompete Rule. An appeal of that decision by the FTC is currently pending. 
 

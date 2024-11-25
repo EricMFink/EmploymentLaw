@@ -24,10 +24,7 @@ The indictment charged in substance:
 
 Counsel for the prosecution were Jared Ingersol and Joseph Hopkinson. Counsel for the defendants were Caesar A. Rodney and Walter Franklin. During his address to the jury, Joseph Hopkinson, for the prosecution, stated, among other things, the following:
 
-
-
 <p class="case-h1">Recorder Levy, in his charge to the jury, made the following statements, among others:</p>
-
 
 It is proper to consider, is such a combination consistent with the principles of our law, and injurious to the public welfare? The usual means by which the prices of work are regulated, are the demand for the article and the excellence of its fabric. Where the work is well done, and the demand is considerable, the prices will necessarily be high. Where the work is ill done, and the demand is inconsiderable, they will unquestionably be low. If there are many to consume, and few to work, the price of the article will be high; but if there are few to consume, and many to work, the article must be low.
 
