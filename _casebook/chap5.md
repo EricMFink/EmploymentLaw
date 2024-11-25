@@ -525,7 +525,7 @@ We also find no evidence of attendant circumstances to indicate that Camp's cond
 
 As a consequence of concluding that employee Camp was without fiduciary duty, that his position was not one "in or affecting commerce," and that his business actions were neither aggravating nor egregious, we conclude that the trial court properly granted summary judgment as to employer Dalton's claim under N.C.G.S. § 75-1.1. Therefore, with regard to both appellants Camp and MCC, we reverse the Court of Appeals on this issue.
 
-#### N.C.G.S. § 99-A-2 -- Recovery of Damages for Exceeding the Scope of Authorized Access to Property. {#ncgs-exceeding-scope-of-authorized-access-to-property}
+####  -- Recovery of Damages for Exceeding the Scope of Authorized Access to Property. {#ncgs-exceeding-scope-of-authorized-access-to-property}
 
 <div class="legal-code">
 
@@ -740,7 +740,6 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 (f) All civil actions relating to employee noncompetition agreements subject to this section shall be brought in the county where the employee resides or, if mutually agreed upon by the employer and employee, in Suffolk county; provided that, in any such action brought in Suffolk county, the superior court or the business litigation session of the superior court shall have exclusive jurisdiction.
 
 </div>
-
 
 #### Draftkings, Inc. v. Hermalyn, No. 24-1443 (1st Cir. Sept. 26, 2024)
 
