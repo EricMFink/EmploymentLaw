@@ -798,7 +798,7 @@ The short of it is that the judge didn't err by ruling that Massachusetts law go
 
 #### FTC Non-Compete Rule, 16 C.F.R. § 910 et seq. {#note-on-ftc-noncompete-rule}
 
-In 2024, the Federal Trade Commission published a [final rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) under Section 5 of the FTC Act, 15 U.S.C. § 45(a), which outlaws "unfair methods of competition".
+In 2024, the Federal Trade Commission published a [final rule](https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule) under Section 5 of the FTC Act, 15 U.S.C. § 45(a), which outlaws "unfair methods of competition":
 
 <div class="legal-code">
 
