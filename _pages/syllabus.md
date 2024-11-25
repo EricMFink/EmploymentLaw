@@ -34,7 +34,7 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 ### Required
 
-[Employment Law: An Open-Source Casebook (Fink 2024)](../casebook) ("Casebook"). The casebook is available on the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw).  
+[Employment Law: An Open-Source Casebook (Fink 2024)]({{ site.baseurl }}/casebook) ("Casebook"). The casebook is available on the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw).  
 
 Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2017) ("Workbook"). 
 
