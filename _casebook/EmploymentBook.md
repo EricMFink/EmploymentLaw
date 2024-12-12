@@ -5,8 +5,8 @@ title: Employment Law
 subtitle: An Open-Source Casebook
 author: Eric M. Fink
 affiliation: Elon Law School
-term: Winter 2024
-version: 2.0
+term: Winter 2025
+version: 3.0
 
 epigraph: Workin' 9 to 5, what a way to make a livin'. Barely gettin' by, it's all takin' and no givin'. They just use your mind and they never give you credit. It's enough to drive you crazy if you let it.
 epigraph-author: Dolly Parton

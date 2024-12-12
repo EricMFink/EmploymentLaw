@@ -3,7 +3,7 @@ url: https://www.emfink.net
 baseurl: /EmploymentLaw
 title: Employment Law
 
-last_updated: 25 November 2025
+last_updated: 12 December 2025
 
 author:
   name: Eric M. Fink
@@ -27,7 +27,7 @@ course:
 coursebook:
   title: Employment Law
   subtitle: An Open-Source Casebook
-  version: '2.1'
+  version: '3.0'
   date: December 2024
 
 collections:
