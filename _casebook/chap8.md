@@ -220,7 +220,7 @@ Sometimes although very rarely, a union-management agreement contains a provisio
 
 ##### The Questions
 
-<p class="case-h1">"case-h2">1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct? 
+<p class="case-h2">1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct? 
 </p>
 
 Note 1: Said forewarning or foreknowledge may properly have been given orally by management or in writing through the medium of typed or printed sheets or books of shop rules and of penalties for violation thereof. 
@@ -231,13 +231,13 @@ Note 3: A finding of lack of such communication does not in all cases require a 
 
 Note 4: Absent any contractual prohibition or restriction, the company has the right unilaterally to promulgate reasonable rules and give reasonable orders; and same need not have been negotiated with the union.
 
-<p class="case-h1">"case-h2">2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?
+<p class="case-h2">2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?
 </p>
 
 Note: If an employee believes that said rule or order is unreasonable, he must nevertheless obey same (in which case he may file a grievance thereover) unless he sincerely feels that to obey the rule or order would seriously and immediately jeopardize his personal safety and/or integrity. Given a firm finding to the latter effect, the employee may properly be 
 said to have had justification for his disobedience.
 
-<p class="case-h1">"case-h2">3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?
+<p class="case-h2">3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?
 </p>
 
 Note 1: This is the employee’s “day in court” principle. An employee has the right to know with reasonable precision the offense with which he is being charged and to defend his behavior. 
@@ -248,7 +248,7 @@ Note 3: There may of course be circumstances under which management must react i
 
 Note 4: The company’s investigation should include an inquiry into possible justification for the employee’s alleged rule violation.
 
-<p class="case-h1">"case-h2">4. Was the company’s investigation conducted fairly and objectively?
+<p class="case-h2">4. Was the company’s investigation conducted fairly and objectively?
 </p>
 
 Note 1: At said investigation the management official may be both “prosecutor” and “judge,” but he may not also be a witness against the employee. 
@@ -257,7 +257,7 @@ Note 2: It is essential for some higher, detached management official to assume 
 
 Note 3: In some disputes between an employee and a management person there are not witnesses to an incident other than the two immediate participants. In such cases it is particularly important that the management “judge” question the management participant rigorously and thoroughly, just as an actual third party would.
 
-<p class="case-h1">"case-h2">5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?
+<p class="case-h2">5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?
 </p>
 
 Note 1: It is not required that the evidence be conclusive or “beyond all reasonable doubt.” But the evidence must be truly substantial and not flimsy. 
@@ -267,7 +267,7 @@ Note 2: The management “judge” should actively search out witnesses and evid
 Note 3: When the testimony of opposing witnesses at the arbitration hearing is irreconcilably in conflict, an arbitrator seldom has any means for resolving the contradictions. His task is then to determine whether the management “judge” originally had reasonable grounds for believing the evidence presented to him by his own people.
 
 
-<p class="case-h1">"case-h2">6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?
+<p class="case-h2">6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?
 </p>
 
 Note 1: A “no” answer to this question requires a finding of discrimination and warrants negation or modification of the discipline imposed. 
@@ -275,7 +275,7 @@ Note 1: A “no” answer to this question requires a finding of discrimination 
 Note 2: If the company has been lax in enforcing its rules and order, and decides henceforth to apply them rigorously, the company may avoid a finding of discrimination by telling all employees beforehand of its intent to enforce hereafter all rules as written.
 
 
-<p class="case-h1">"case-h2">7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?
+<p class="case-h2">7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?
 </p>
 
 Note 1: A trivial proven offense does not merit harsh discipline unless the employee has properly been found guilty of the same or other offenses a number of times in the past. (There is no rule as to what number of previous offenses constitutes a “good,” a “fair,” or a “bad” record. Reasonable judgment thereon must be used.) 
@@ -599,7 +599,7 @@ The standard of review for motions for directed verdict and for JNOV \[is\] that
 
 > the Court should consider all of the evidence — not just that evidence which supports the non-mover's case — but in the light and with all reasonable inferences most favorable to the party opposed to the motion. If the facts and inferences point so strongly and overwhelmingly in favor of one party that the Court believes that reasonable men could not arrive at a contrary verdict, granting of the motions is proper. On the other hand, if there is substantial evidence opposed to the motions, that is, evidence of such quality and weight that reasonable and fair-minded men in the exercise of impartial judgment might reach different conclusions, the motions should be denied, and the case submitted to the jury.
 
-<p class="case-h1">"case-h2">A
+<p class="case-h2">A
 </p>
 
 To prevail on a claim for intentional infliction of emotional distress, Texas law requires that the following four elements be established:
@@ -943,7 +943,7 @@ For the reasons set forth below, we conclude that an employee's refusal to follo
 
 ##### I.
 
-<p class="case-h1">"case-h2">A
+<p class="case-h2">A
 </p>
 
 Yanowitz began her employment with the predecessor of L'Oreal as a sales representative in 1981 and was promoted to regional sales manager for Northern California and the Pacific Northwest in 1986. As regional sales manager, Yanowitz was responsible for managing L'Oreal's sales team and dealing with the department and specialty stores that sold L'Oreal's fragrances. From 1986 to 1996, Yanowitz's performance as a regional sales manager consistently was judged as "Above Expectation" and in some instances fell close to "Outstanding," the highest possible rating, although her reviews over this period also consistently contained some criticism of her "listening" and "communication" skills.
@@ -972,7 +972,7 @@ Yanowitz viewed the memorandum as an expression of intent to develop pretextual 
 
 Carol Giustino, Sears's replacement as human resources director, set up a meeting for July 22 and rejected Yanowitz's request that the meeting be postponed. Giustino also denied Yanowitz's request to have Yanowitz's attorney-husband present at the meeting, citing company policy. During the July 22 meeting, Roderick and Giustino questioned Yanowitz about the accusations in the July 16 memorandum without reading her written response. Yanowitz, who was being treated for nervous anxiety allegedly brought on by the situation at work, broke down in tears. During the meeting, Roderick imposed a new travel schedule on Yanowitz, a schedule that regulated precisely how often she should visit each market in her territory. Two days after the meeting, Yanowitz departed on disability leave due to stress. She did not return, and L'Oreal replaced her in November 1998.
 
-<p class="case-h1">"case-h2">B
+<p class="case-h2">B
 </p>
 
 Yanowitz filed a discrimination charge with the Department of Fair Employment and Housing (DFEH) on June 25, 1999. She alleged that L'Oreal had discriminated against her on the basis of sex, age (Yanowitz was 53), and religion (Yanowitz is Jewish). She also alleged that L'Oreal had retaliated against her for refusing to terminate the female employee whom Wiswall considered unattractive.
@@ -989,7 +989,7 @@ In light of the importance of a number of these issues, particularly the proper 
 
 Past California cases hold that in order to establish a prima facie case of retaliation under the FEHA, a plaintiff must show (1) he or she engaged in a "protected activity," (2) the employer subjected the employee to an adverse employment action, and (3) a causal link existed between the protected activity and the employer's action. Once an employee establishes a prima facie case, the employer is required to offer a legitimate, nonretaliatory reason for the adverse employment action. If the employer produces a legitimate reason for the adverse employment action, the presumption of retaliation "drops out of the picture," and the burden shifts back to the employee to prove intentional retaliation.
 
-<p class="case-h1">"case-h2">A
+<p class="case-h2">A
 </p>
 
 We first must determine whether Yanowitz's refusal to follow Wiswall's order to terminate the sales associate because he found the associate sexually unattractive was protected activity for which she could not be subjected to retaliation. The statutory language of section 12940(h) indicates that protected conduct can take many forms. Specifically, section 12940(h) makes it an unlawful employment practice "for any employer to discharge, expel, or otherwise discriminate against any person because the person has _opposed any practices forbidden under this part or because the person has filed a complaint, testified, or assisted in any proceeding under this part._" The question here is whether Yanowitz's refusal to follow Wiswall's directive qualifies under the first category — that is, whether by refusing the directive, Yanowitz "opposed any practices forbidden under this part."
@@ -1022,7 +1022,7 @@ We conclude that, on this record, a trier of fact properly could find that Wiswa
 
 In sum, we conclude that the evidence presented by Yanowitz would permit — although it certainly would not compel — a reasonable trier of fact to find that, in view of the nature of Wiswall's order, Yanowitz's refusal to implement the order, coupled with her multiple requests for "adequate justification," sufficiently communicated to Wiswall that she believed that his order was discriminatory. Thus, we conclude that Yanowitz presented sufficient evidence to satisfy the protected activity element of her prima facie case. 
 
-<p class="case-h1">"case-h2">B
+<p class="case-h2">B
 </p>
 
 We turn next to an issue that generally is referred to in the employment discrimination cases and literature under the rubric of "adverse employment action." This term does not appear in the language of the FEHA or in title VII, but has become a familiar shorthand expression referring to the kind, nature, or degree of adverse action against an employee that will support a cause of action under a relevant provision of an employment discrimination statute. In the present case, the issue before us is the appropriate standard for determining whether an employee has been subjected to an adverse employment action for purposes of a retaliation claim under the FEHA.
@@ -1162,7 +1162,7 @@ IT IS FURTHER ORDERED that the complaint is dismissed insofar as it alleges viol
 
 ##### I.
 
-<p class="case-h1">"case-h2">A.
+<p class="case-h2">A.
 </p>
 
 Summit is a general contractor that manages construction projects. On June 4, 2015, Summit hired Driskell as an Assistant Superintendent and promptly assigned him to a project in Charlotte, North Carolina. He reported to Superintendent Daniel Rhyner, who in turn reported to the Project Manager, Steve Fudge. Driskell’s father, Tom Driskell, had been a senior Summit employee for years.
@@ -1203,7 +1203,7 @@ The next afternoon (July 23), Driskell turned in his company-issued devices at t
 
 About a month later, Driskell applied for a new job at another company. On the application, he checked a box indicating that he had never been “fired from a job.” At trial, Driskell explained that this was a lie to improve his chances of getting the new job.
 
-<p class="case-h1">"case-h2">B.
+<p class="case-h2">B.
 </p>
 
 In January 2016, Driskell filed a complaint with the North Carolina Department of Labor. He alleged that he was fired because of his complaints about Rhyner and his refusal (for safety reasons) to follow Rhyner’s instructions to increase his team’s production, and because he “became a threat, risk or liability to the Company after Mr. Rhyner attacked him.” After the Labor Department declined to investigate his complaint, Driskell asked for and received a right-to-sue letter.
@@ -1214,7 +1214,7 @@ The jury found that Summit had fired Driskell and, in doing so, violated REDA an
 
 ##### II.
 
-<p class="case-h1">"case-h2">A.
+<p class="case-h2">A.
 </p>
 
 First, Summit insists that it was entitled to judgment as a matter of law on Driskell’s REDA and wrongful-discharge claims because it never fired him; rather, he quit. We must affirm the district court unless no reasonable jury could have ruled for Driskell.
@@ -1236,7 +1236,7 @@ At no point did Driskell quit his job. While he did tell Mr. Padgett on July 20 
 
 Nor does Driskell’s statement on a job application that he had never been fired doom his claims. To the contrary, a reasonable jury could credit his explanation that he lied to help his chances of getting a new job. Statements on job applications aren’t binding admissions, contrary to what Summit argues. The case Summit points to, _Warch v. Ohio Cas. Ins. Co._, 435 F.3d 510 (4th Cir. 2006), doesn’t support that proposition. There, in ruling against a plaintiff, we relied on the plaintiff’s “failure to present any evidence genuinely disputing” the fact that he had admitted in a job application. Here, Driskell did present such evidence.
 
-<p class="case-h1">"case-h2">B.
+<p class="case-h2">B.
 </p>
 
 Next, Summit contends that REDA doesn’t protect internal complaints to one’s own employer. So, Summit argues that it is entitled to judgment as a matter of law because, even if Summit did fire Driskell for his complaints to Mr. Padgett, that couldn’t support a REDA claim.
@@ -1262,7 +1262,7 @@ We deduce from these authorities the following principles. Internal complaints a
 
 Driskell’s complaints about Rhyner meet these criteria. Driskell alleged OSHANC violations: namely, Rhyner’s presence at the work site while intoxicated and his assault on Driskell. See N.C. Gen. Stat. § 95–129(1) (requiring employees to furnish “a place of employment free from recognized hazards that are causing or are likely to cause death or serious injury or serious physical harm to employees”). These allegations led to Born’s investigation into Rhyner’s drinking. Driskell complained frequently to Mr. Padgett, who is Summit’s president and chief executive officer, not a mere supervisor or manager. And workplace safety was the focus of Driskell’s complaints. Thus, REDA protects Driskell’s complaints to Mr. Padgett.
 
-<p class="case-h1">"case-h2">C.
+<p class="case-h2">C.
 </p>
 
 Summit also makes two arguments that are specific to Driskell’s second theory of retaliation: namely, that Summit expected Driskell to file a workers’ compensation claim. While Driskell’s first theory suffices to support the jury’s verdict on the merits (and its compensatory-damages award), we address the second theory as well because it’s relevant to evaluating Summit’s challenge to the punitive-damages award.
@@ -1283,7 +1283,7 @@ Additionally, Summit asserts that Driskell failed to exhaust his administrative 
 
 Before bringing a REDA claim, a plaintiff must: “file a written complaint with the Commissioner of Labor alleging [a REDA] violation,” N.C. Gen. Stat. § 95-242(a); obtain a right-to-sue letter, id. §§ 95-242(a), 95-243(a); and commence a civil action within ninety days of the letter’s issuance, id. § 95-243(b). Driskell did that, so he exhausted his administrative remedies. Since North Carolina law doesn’t require that a REDA suit be based on the same theory of retaliation that supported the plaintiff’s administrative complaint, Summit’s argument misses the mark.
 
-<p class="case-h1">"case-h2">D.
+<p class="case-h2">D.
 </p>
 
 Next, Summit maintains that no reasonable jury could have found causation, i.e., that Summit fired Driskell because of his complaints or because it believed that he would file a worker’s compensation claim. Instead, Summit posits, it fired Driskell for a legitimate reason: his violations of company policy, including insubordination, cursing and fighting his supervisor, and taking two days off when he had no leave available.
@@ -1294,7 +1294,7 @@ Indeed, the evidence of causation here is stronger than in Abels, where the Supr
 
 There’s also no contemporaneous evidence corroborating Summit’s explanation for why it fired Driskell. Thus, a reasonable jury could infer from the late appearance of Summit’s current justification that it is a post-hoc rationale, not a legitimate explanation for its adverse employment decision.
 
-<p class="case-h1">"case-h2">E.
+<p class="case-h2">E.
 </p>
 
 Next, Summit asserts that it was entitled to judgment on Driskell’s wrongful-discharge claim because Driskell never filed or threatened to file an OSHA or workers’ compensation claim. Summit is mistaken.
@@ -1457,7 +1457,7 @@ In May, 2014—seven months before expiration of Myers's contractual obligations
 
 Myers brings a wrongful discharge claim under Montana's Wrongful Discharge from Employment Act ("WDEA"). Mont. Code Ann. §§ 39-2-901 to 39-2-915 (2015). The parties agree that Myers was not a probationary employee. Under the WDEA, an employer's discharge of a non-probationary employee is lawful if: (1) the employer did not retaliate against the employee for protected activities; (2) the employer had good cause to terminate the employee; and (3) the employer did not violate his own personnel policies. § 39-2-904. Myers does not claim that his discharge was retaliatory. Rather, he raises three alternative theories for wrongful discharge. First, he asserts that Stryker lacked good cause for his termination. Second, he argues that Stryker's purported good cause reason is a pretext and that the true reason for his discharge is unlawful. And third, he claims that even if Stryker can show good cause, Stryker violated the provisions of its own personnel policies when it terminated him.
 
-<p class="case-h1">"case-h2">B. Good Cause
+<p class="case-h2">B. Good Cause
 </p>
 
 Myers argues that Stryker did not have good cause to terminate him because Stryker did not adequately ground its decision in the facts, making his discharge unreasonable. The Court disagrees. The undisputed facts clearly establish that Stryker discharged Myers for acting unethically, unprofessionally, and in a manner likely to harm the company.
@@ -1482,7 +1482,7 @@ In response to Myers's citation to _Marcy,_ Stryker relies principally on _Sulli
 
 The controversy here is analogous to that presented in _Sullivan._ Myers's mere assertion that Stryker is mistaken does not create a factual dispute. To overcome summary judgment, Myers would need to offer evidence that Stryker's investigation was inadequate or specific positive evidence showing the presence of mistake. Myers has not met that burden. Summary judgment is appropriate for Stryker because the undisputed facts show that Stryker had good cause to terminate Myers for its good faith belief that Myers harassed coworkers and threatened valuable relationships with customers.
 
-<p class="case-h1">"case-h2">C. Pretext
+<p class="case-h2">C. Pretext
 </p>
 
 Myers argues that even if Stryker can show good cause, a factual dispute exists regarding whether Stryker's purported reason for the termination is a mere pretext. Myers asserts that Stryker terminated Myers as a scapegoat for the company's decision to terminate Auch. In response, Stryker raises two arguments: (1) that, even if Myers were correct in arguing pretext, Stryker would still have good cause to terminate Myers for suggesting Auch's termination; and (2) that Myers has presented only speculation in support of his claim of pretext. No genuine dispute of material fact exists on the question of pretext, and Stryker is entitled to judgment as a matter of law.
@@ -1497,7 +1497,7 @@ Additionally, Myers has not adequately supported his argument that a pretextual 
 
 Thus, even if Stryker did terminate Myers for advocating for Auch's termination, Myers's claim of pretext would nonetheless fail because Stryker had a "legitimate business reason" to discharge Myers for precisely that reason. Myers's actions threatened customer relationships and made Myers's coworkers uncomfortable. As a result of Myers's conduct, Stryker lost trust in him, and the company had the discretion to terminate Myers as a result. 
 
-<p class="case-h1">"case-h2">D. Compliance with Company Policy
+<p class="case-h2">D. Compliance with Company Policy
 </p>
 
 Myers claims that, even if Stryker had good cause to terminate him, the discharge was wrongful because it was in violation of Stryker's own personnel policies. Stryker moved for summary judgment on this theory of wrongful discharge, and Myers did not respond to defend his claim. Summary judgment is appropriate for Stryker on this theory.

@@ -329,7 +329,7 @@ During the time period relevant to the instant matter, defendants relied on retu
 
 <p class="case-h1">I. Summary Judgment</p>
 
-<p class="case-h1">"case-h2">B. Parties' Contentions</p>
+<p class="case-h2">B. Parties' Contentions</p>
 
 Plaintiffs seek an order granting summary judgment as to liability, contending that:
 
@@ -337,11 +337,11 @@ Plaintiffs seek an order granting summary judgment as to liability, contending t
 
 <p class="case-h1">II. FLSA Claims</p>
 
-<p class="case-h1">"case-h2">A. Coverage by the FLSA</p>
+<p class="case-h2">A. Coverage by the FLSA</p>
 
 The FLSA is a remedial statute designed to "eliminate substandard labor conditions" in the United States. It was enacted to protect workers who lack sufficient bargaining power to secure a subsistence wage. Under the FLSA, an employer is required to pay each employee wages at or above the minimum wage rate for the hours worked during each workweek. The FLSA applies to all employees for whom there is not a specific exemption. H-2B workers are not specifically exempt; therefore, they are protected by the provisions of the FLSA.
 
-<p class="case-h1">"case-h2">B. Failure to Pay Minimum Wage when Piece-Rate Compensation was Less than Minimum Wage</p>
+<p class="case-h2">B. Failure to Pay Minimum Wage when Piece-Rate Compensation was Less than Minimum Wage</p>
 
 Employers must pay minimum wage for all hours worked. Thus, workers paid on a piece-rate basis are entitled to the minimum wage rate when the piece-rate compensation does not reach the minimum wage. 
 
@@ -353,7 +353,7 @@ When questioned about defendants' practices, Ms. Midyette admitted that defendan
 
 Based on the pay stubs presented to the court as well as Midyette's own deposition testimony, the court finds that defendants violated the FLSA at times by failing to pay workers minimum wage when their piece-rate compensation was less than minimum wage. The court therefore grants plaintiffs' motion for summary judgment as to defendants' liability on this issue. The court makes no findings as to plaintiffs' damages at this time.
 
-<p class="case-h1">"case-h2">D. Willfulness</p>
+<p class="case-h2">D. Willfulness</p>
 
 Defendants move for summary judgment as to plaintiffs' FLSA claims arising prior to August 1, 2006. Defendants contend there is no genuine issue of material fact that any alleged violations were not willful and these claims are therefore barred by the statute of limitations.
 
@@ -364,7 +364,7 @@ _1. Piece-rate violations_
 Defendants knew about their obligation to pay the minimum wage to all of their employees. Defendants additionally knew that when they paid their employees on a piece-rate basis they would be required to pay them additional wages if their piece-rate compensation was not at least equal to minimum wage. Plaintiff argues that despite knowledge of their obligations under the FLSA, defendants knowingly and intentionally failed to pay plaintiff and members of the FLSA class who were compensated on a piece-rate basis at least minimum wage on several occasions. This court agrees. In her deposition, defendant Midyette admits that she understood that she was required to pay at least minimum wage for the hours worked, even if she was in the practice of paying on a piece-rate. She also admits that she did not always follow what she knew to be the law. Therefore, as to plaintiffs' claim that defendants violated the FLSA by paying a straight piece-rate wage, this court finds those violations to be willful under the FLSA.
 
 
-<p class="case-h1">"case-h2">E. Good Faith Defense</p>
+<p class="case-h2">E. Good Faith Defense</p>
 
 The Portal-to-Portal Act of 1947, 29 U.S.C. §§ 251 _et seq.,_ includes three employer defenses that may apply even if the employer is found to be in violation of the FLSA: Section 9, which provides a defense based on employer acts or omissions that occurred before the effective date of the Portal-to-Portal Act; Section 10, which provides a bar to liability if the employer can prove good faith as defined therein; and, Section 11, which allows the court, in its discretion, to refuse to award liquidated damages to a prevailing plaintiff under certain circumstances.
 
@@ -396,7 +396,7 @@ East Penn requires that all employees at the Lyon Station campus wear personal p
 
 At the end of their shifts, uniformed employees remove their uniforms and change back into their street clothes prior to leaving the facility. Some of them also shower as part of their end-of-shift activities. The parties dispute whether all uniformed employees are required to shower as part of the end of shift activities. East Penn maintains that only uniformed employees who work in defined lead exposure areas must shower. But it is undisputed that employees face disciplinary action for failing to wear their uniforms and for failing to shower, if showering is required.
 
-<p class="case-h1">"case-h2">A. Tracking East Penn Employees' Time</p>
+<p class="case-h2">A. Tracking East Penn Employees' Time</p>
 
 East Penn maintains two sets of time records for each of their employees. The first is what East Penn deems "actual" time (or "Actl" as appears on some time sheets). Per East Penn policy, all employees are required to swipe in and out using a card-scanning system located in the plant to which they are assigned. Employees are required to swipe in no more than 14 minutes before the start of their shift and 14 minutes after the end of their paid shift. The time clock system records these swipe times to the minute, which are then preserved in East Penn's "mainframe."
 
@@ -404,7 +404,7 @@ The second set of time records is for "adjusted" time. Adjusted time corresponds
 
 The parties dispute the import of time clocks and East Penn's requirement that employees clock in and out no more than 14 minutes from the start and end of their shifts. East Penn maintains that the time clock policy is used only as an attendance tool to ensure that employees are in the plant for their full shift, not to mark the official beginning or ending of the continuous workday as a means to calculate pay. The Secretary contends that the "14-minute rule" is probative of East Penn's knowledge that its employees required more than the time East Penn has allotted to complete pre- and post-shift activities.
 
-<p class="case-h1">"case-h2">B. East Penn's Pay Policies for Donning and Doffing</p>
+<p class="case-h2">B. East Penn's Pay Policies for Donning and Doffing</p>
 
 There are two pertinent East Penn policies governing beginning and end-of-day activities. East Penn's Time Clock and Pay Procedures, effective as of 1998, require that each employee be at her or his workstation at shift starting time. In 2003, East Penn formalized a five-minute "grace period" for compensable start-of-shift clothes changing (the 2003 Company Uniform Policy). Under this policy, "for pay purposes," employees have five minutes after the start of their shift to report to their workstation. 
 
@@ -415,7 +415,7 @@ In 2016, in response to an employee complaint, East Penn increased its paid show
 > 2. Employees will be granted a _10-minute shower time_ which includes walking distance to the locker room, doffing the uniform and showering.
 
 
-<p class="case-h1">"case-h2">C. Time Spent by Uniformed Employees on Pre and Post Shift Activities</p>
+<p class="case-h2">C. Time Spent by Uniformed Employees on Pre and Post Shift Activities</p>
 
 The time that East Penn employees spend donning, doffing, and showering is compensable. The parties dispute whether the employees performed this compensable work outside of their eight-hour shift times.
 
@@ -447,11 +447,11 @@ In some respects, the _Alvarez_ decision announced some clear markers. The Depar
 
 The Secretary requests that the Court rule in his favor on 11 separate issues that go both to East Penn's liability and available damages. The Secretary seeks summary judgment in his favor as to the substantive FLSA claims as to liability and to foreclose East Penn from contesting damages, including by presenting a de minimis defense. The Court, having carefully reviewed the disputes of fact that prevent resolution of certain issues on summary judgment, grants the Secretary's motion in part and denies it in part.
 
-<p class="case-h1">"case-h2">A. Uncontested Issues</p>
+<p class="case-h2">A. Uncontested Issues</p>
 
 Of the 11 grounds raised by the Secretary, East Penn does not dispute two of them: it admits (1) that it is a covered enterprise engaged in commerce or in the production of goods for commerce under the FLSA, and (2) that the donning and doffing activities at issue are considered "integral and indispensable" within the meaning of _Steiner v. Mitchell_. Accordingly, the Court grants summary judgment in the Secretary's favor as to these two undisputed issues.
 
-<p class="case-h1">"case-h2">B. Correct Measurement of Compensable Time</p>
+<p class="case-h2">B. Correct Measurement of Compensable Time</p>
 
 The Secretary moves for summary judgment as to the activities that start and stop the "continuous workday." The "continuous workday rule" defines the "workday" as "the period between the commencement and completion on the same workday of an employee's principal activity or activities." The Supreme Court held that "principal activity or activities embraces all activities which are an integral and indispensable part of the principal activities." Although East Penn admits that donning, doffing, and showering are integral and indispensable activities, it does not agree that it is obligated to pay for all time between the start and stop of the continuous workday (excluding meal breaks or off-duty breaks).
 
@@ -493,7 +493,7 @@ Finally, the Supreme Court has consistently held that the FLSA should be liberal
 Accordingly, the Court grants summary judgment in the Secretary's favor on this point. It is improper as a matter of law for East Penn to pay an estimated amount of time for compensable pre- and post-shift activities, as they are properly part of the continuous workday. To the extent that the concept of "reasonableness" permeates this case, it is limited to the calculation of damages once liability is established.
 
 
-<p class="case-h1">"case-h2">D. Whether East Penn Violated the FLSA Overtime Requirements</p>
+<p class="case-h2">D. Whether East Penn Violated the FLSA Overtime Requirements</p>
 
 The Secretary also moves for a finding that East Penn violated the FLSA's overtime provision by failing to compensate its uniformed employees for the actual time spent donning, doffing, and showering. In other words, the Court must find that no reasonable jury could find that East Penn did not fully compensate its uniformed employees for the actual time spent on these activities.
 
@@ -525,7 +525,7 @@ East Penn has launched numerous challenges to Dr. Radwin's methodology and calcu
 
 The Court already found that the task of evaluating Dr. Radwin's methodology and the import of his findings should go to the jury. Indeed, a reasonable jury could very well discredit or give little weight to this expert's sampling testimony, including whether it is "representative," and whether it measured compensable activities. The Court declines to step into the jury's shoes and conduct the weighting itself as a matter of law on the papers. Moreover, the Court finds that Dr. Radwin's estimations arguably go to any damages determination at trial.
 
-<p class="case-h1">"case-h2">E. East Penn's Time Clock Records as Minimum Amount of Uncompensated Time</p>
+<p class="case-h2">E. East Penn's Time Clock Records as Minimum Amount of Uncompensated Time</p>
 
 The Secretary also moves for summary judgment on a finding that East Penn's swipe in and out time clock records constitute the "indisputable" minimum measure of overtime hours worked. According to the Secretary, the amount of time between punch time and shift time is time that East Penn knowingly "shaved off." So doing, the Secretary seeks to use these records as a proxy for uncompensated time.
 
@@ -541,7 +541,7 @@ The Secretary's claim is also complicated by the findings of its own time study 
 
 To be sure, the Court's decision on this point does not preclude, nor should it be taken as precluding or otherwise limiting, the Secretary from submitting the actual clock records at trial to try to establish his claim for damages.
 
-<p class="case-h1">"case-h2">F. East Penn's de minimis Defense</p>
+<p class="case-h2">F. East Penn's de minimis Defense</p>
 
 Preliminary and postliminary activities that are deemed integral and indispensable are theoretically compensable although they may not be automatically so. The de minimis doctrine provides a "limiting principle to compensation for trivial calculable quantities of work." The Secretary moves for summary judgment to foreclose East Penn from presenting a de minimis defense at trial. According to the Secretary, East Penn has failed to establish that it satisfies the requirements of [29 C.F.R. § 785.47](https://www.law.cornell.edu/cfr/text/29/785.47). At summary judgment, the Secretary must show that no reasonable jury could find that the amount of compensation is not de minimis.
 
@@ -617,7 +617,7 @@ A court's analysis of time under _Skidmore_ and 29 C.F.R. § 785.14 is a separat
 
 Defendants urge the Court to find that Plaintiffs' sleep time was not compensable under both the "waiting time" analysis of 29 C.F.R. § 785.14 and the "sleeping time" analysis of 29 C.F.R. § 785.23. This Court is persuaded that Plaintiffs' time spent sleeping was not compensable under 29 C.F.R. § 785.14 and the _Skidmore_ test. However, Defendants' arguments under 29 C.F.R. § 785.23 raise more complicated questions of law that need not be resolved here because summary judgment is appropriate in Defendants' favor for the separate and distinct basis that Plaintiffs' sleep time was time spent "waiting to be engaged" pursuant to 29 C.F.R. § 785.14 and _Skidmore._
 
-<p class="case-h1">"case-h2">A. Plaintiffs' sleep time is not compensable because it was time spent waiting to be engaged.</p>
+<p class="case-h2">A. Plaintiffs' sleep time is not compensable because it was time spent waiting to be engaged.</p>
 
 To determine if on-call time is compensable under the FLSA, the critical question is whether "the time is spent predominantly for the employer's benefit or the employee's." Employees must be compensated if they are "engaged to wait," but an employer is not required to pay an employee who is merely "waiting to be engaged." 
 
@@ -635,7 +635,7 @@ The fact that, at some of the homes, Plaintiffs did not have dressers or closets
 
 Moreover, all of the Plaintiffs testified that, even during their working hours, they often had down time to watch television, use social media, make personal telephone calls, play games, read, or just relax. In addition, Plaintiffs Thomas and Carr both testified that the homes contained all of the furnishings and amenities one would find in a private house. Considering all of the circumstances and nature of the employment agreement, which Plaintiffs acknowledged did not compensate them for their time spent sleeping, the Court finds that, as a matter of law, Plaintiffs' overnight time was time during which they were waiting to be engaged, time that was not compensable under the FLSA. Accordingly, summary judgment on Plaintiffs' FLSA claim is appropriate in favor of the Defendants.
 
-<p class="case-h1">"case-h2">B. The Court need not apply 29 C.F.R. § 785.23.</p>
+<p class="case-h2">B. The Court need not apply 29 C.F.R. § 785.23.</p>
 
 As the party seeking the benefit of Section 785.23, Defendants bear the burden of establishing its application and that the employment agreement with Plaintiffs was reasonable. Plaintiffs argue that Defendants have failed to meet all of the requirements of 29 C.F.R. § 785.23 because Plaintiffs did not reside in Delmarva's residences for an extended period of time. Plaintiffs specifically contend that Defendants failed to provide them with adequate sleeping quarters and did not provide them with periods of complete freedom. However, the record shows that the Plaintiffs and Defendants had a reasonable employment agreement under which Plaintiffs resided at Delmarva residences for one week at a time, Plaintiffs were provided adequate sleeping accommodations and periods of complete freedom, and Plaintiffs and Defendants agreed that sleep time would not be compensated.
 
@@ -681,7 +681,7 @@ Part of the dispute in how Plaintiffs’ wages were calculated stems from the fa
 
 <p class="case-h1">IV. PLAINTIFFS’ FLSA CLAIM</p>
 
-<p class="case-h1">"case-h2">A. Legal Standard</p>
+<p class="case-h2">A. Legal Standard</p>
 
 “The FLSA was designed to protect workers and ensure that they are not subjected to working conditions ‘detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being.’ ” Specifically, the FLSA sets a minimum hourly wage, a maximum number of weekly work hours, and overtime wage requirements. “Under the FLSA, a plaintiff may bring a ‘collective action’ for his or her FLSA claims,” which allows employees “to sue on behalf of themselves and other employees who are ‘similarly situated.’” 
 
@@ -692,14 +692,14 @@ When the employer fails to keep or produce such records, however, an employee wi
 Generally, because the FLSA contains a two-year statute of limitations, a plaintiff may recover lost wages from two years before the filing of the suit. 29 U.S.C. § 255(a). If the employer’s violation of the FLSA is willful, however, a plaintiff can recover damages dating back to three years before the filing of the suit. An employer who violates the FLSA is generally liable for the unpaid minimum or overtime wages and “an additional equal amount as liquidated damages.” 
 
 
-<p class="case-h1">"case-h2">B. The Parties’ Arguments</p>
+<p class="case-h2">B. The Parties’ Arguments</p>
 
 Before examining the merits of the parties’ dispute as to the FLSA claim, the Court briefly summarizes their main arguments on this claim. At base, Plaintiffs’ complaint alleges that Defendant did not pay overtime as required under the law. Specifically, Plaintiffs contend that they worked at least ninety-one hours per week, and thus should have been paid their regular rate of pay for the first forty hours, and one-and-a-half times their regular rate of pay for the remaining fifty-one hours. Plaintiffs also allege that their sleep breaks were frequently interrupted by their clients’ needs, and that this time worked was not compensated. Because Plaintiffs were unable to have at least five hours of uninterrupted sleep per night, and because there was no agreement between Plaintiffs and CareOne to exclude interrupted sleep time, they claim that they should have been paid for the entire eight-hour rest period. Additionally, although the complaint does not allege that Defendant improperly deducted excessive amounts for food and lodging provided to Plaintiffs, that has become a central focus of the parties’ summary judgment briefing. Based on these allegations, Plaintiffs claim that Defendant has committed a willful violation of the FLSA. 
 
 Defendant moves for summary judgment on Plaintiffs’ FLSA claim. In short, Defendant contends that he accurately calculated and paid Plaintiffs’ wages and overtime such that he did not violate the FLSA at all, much less willfully. Specifically, he argues that he appropriately credited against Plaintiffs’ wages the value of food and housing provided to Plaintiffs; that Plaintiffs did not tell him that their sleep was being interrupted, so he could not act on those issues; and, accordingly, that he properly calculated Plaintiffs’ pay. Defendant thus contends that there are no genuine issues of material fact, and that he is entitled to judgment as a matter of law.
 
 
-<p class="case-h1">"case-h2">C. Wage & Overtime Calculation</p>
+<p class="case-h2">C. Wage & Overtime Calculation</p>
 
 The Court begins with Defendant’s contention that he properly calculated Plaintiffs’ overtime pay, and finds genuine disputes of material fact that preclude summary judgment in Defendant’s favor. “To establish liability under the FLSA on a claim for unpaid overtime, a plaintiff must prove that he performed work for which he was not properly compensated, and that the employer had actual or constructive knowledge of that work.” Thus, Plaintiffs’ FLSA claim presents two issues for the Court to consider at the summary judgment stage: first, whether Plaintiffs were properly compensated for overtime hours it is undisputed that they worked; and second, whether Plaintiffs are entitled to compensation for overtime hours it is disputed that they worked. For the reasons that follow, the Court finds genuine disputes of material fact as to both issues.
 
@@ -881,7 +881,7 @@ Plaintiff Suzanne Greene brings this suit against her former employer, Defendant
 
 <p class="case-h1">I. Background</p>
 
-<p class="case-h1">"case-h2">Defendant Tyler's ExecuTime Software:</p>
+<p class="case-h2">Defendant Tyler's ExecuTime Software:</p>
 
 Defendant Tyler is the largest company in the United States providing software and technology services to public sector agencies like local and state governments. In June 2016, Tyler acquired the software company ExecuTime. Tyler has described ExecuTime as follows:
 
@@ -889,7 +889,7 @@ Defendant Tyler is the largest company in the United States providing software a
 
 The ExecuTime software that government customers purchase generally consists of "time and attendance" and/or "advanced scheduling" modules. The more basic time and attendance software is focused on clocking in, clocking out, requesting time off, or checking a time card. Advance scheduling affords clients "more robust scheduling capabilities" such as a "wheel offering" that allows supervisors to post open shifts on a wheel that employees can sign up for or a "trade board" that allows employees to swap shifts themselves. 
 
-<p class="case-h1">"case-h2">Process for Purchasing and Implementing ExecuTime:</p>
+<p class="case-h2">Process for Purchasing and Implementing ExecuTime:</p>
 
 Typically, after a government customer decides to purchase ExecuTime software, it consults with a Tyler sales representative, who creates a contract, which is later reviewed by Tyler's legal department. During this process, the client determines what type of contract to purchase—daily, hourly, milestone, or paid in full, for example. The customer also consults with the Tyler sales representative to determine what additional features to include in the contract, such as whether it wants the "advance scheduling" module, and how many physical timeclocks will be included. Another purchase decision the customer may make in conjunction with the sales representative is whether to purchase a "mobile module" which allows user access though a general web browser on a desktop or mobile phone. At this contracting stage, the customer and sales representative may also discuss "funded development" which occurs when a customer wants to add something to the software that does not yet exist, and the contract provides for the customer to fund it.
 
@@ -901,7 +901,7 @@ In addition to this project plan, the project manager also works with the custom
 
 After the project manager has completed these initial aspects of the implementation process, there is a "handoff" to the implementation consultant. This handoff typically takes the form of a phone call where the project manager introduces the customer to the implementation consultant and they all discuss next steps. After the "handoff," the project manager supervises the implementation consultant in her duties.
 
-<p class="case-h1">"case-h2">Ms. Greene's Role as an Implementation Consultant:</p>
+<p class="case-h2">Ms. Greene's Role as an Implementation Consultant:</p>
 
 Plaintiff Suzanne Greene was employed by ExecuTime beginning in February 2016 but became employed by Tyler when Tyler acquired ExecuTime in June 2016. During Ms. Greene's first six months with ExecuTime, before the acquisition, she was employed as a "project manager," working with the advanced scheduling software primarily used in local police and fire departments. In this capacity, Ms. Greene's duties involved "building schedules," which did not involve programming the software but instead meant, in part, setting configurations so that the correct schedules would populate in the software for the local departments. 
 
@@ -955,7 +955,7 @@ Plaintiff Greene filed this action on March 26, 2019 asserting a single claim fo
 
 The FLSA, which was enacted to protect the health, efficiency and welfare of workers in the United States, requires employers to pay overtime (time and a half) to employees who work more than forty hours per week. 29 U.S.C. § 207(a)(1). However, Section 213(a)(1) exempts from this requirement "any employee employed in a bona fide executive, administrative, or professional capacity." 29 U.S.C. § 213(a)(1). Keeping in mind the comprehensive remedial purposes of the FLSA, the Court interprets its provisions neither liberally nor narrowly, but instead gives its provisions a "fair interpretation." The employer bears the burden of proving its entitlement to an exemption. For Defendant Tyler to prevail, it must prove the applicability of the exemption by "clear and affirmative evidence."
 
-<p class="case-h1">"case-h2">A. The FLSA's Administrative Exemption</p>
+<p class="case-h2">A. The FLSA's Administrative Exemption</p>
 
 The Parties vigorously dispute whether Ms. Greene was an administrative employee exempt from the FLSA based on her position as an implementation consultant, tasked with training Tyler's government customers on how to use the ExecuTime software.
 
@@ -1094,7 +1094,7 @@ Defendants did not advance money to all their employees to cover these expenses;
 
 <p class="case-h1">I. Summary Judgment</p>
 
-<p class="case-h1">"case-h2">B. Parties' Contentions</p>
+<p class="case-h2">B. Parties' Contentions</p>
 
 Plaintiffs seek an order granting summary judgment as to liability, contending that:
 
@@ -1105,11 +1105,11 @@ Plaintiffs seek an order granting summary judgment as to liability, contending t
 
 <p class="case-h1">II. FLSA Claims</p>
 
-<p class="case-h1">"case-h2">A. Coverage by the FLSA</p>
+<p class="case-h2">A. Coverage by the FLSA</p>
 
 The FLSA is a remedial statute designed to "eliminate substandard labor conditions" in the United States. It was enacted to protect workers who lack sufficient bargaining power to secure a subsistence wage. Under the FLSA, an employer is required to pay each employee wages at or above the minimum wage rate for the hours worked during each workweek. The FLSA applies to all employees for whom there is not a specific exemption. H-2B workers are not specifically exempt; therefore, they are protected by the provisions of the FLSA.
 
-<p class="case-h1">"case-h2">C. Deductions for Visa, Transportation and Border Crossing Fees</p>
+<p class="case-h2">C. Deductions for Visa, Transportation and Border Crossing Fees</p>
 
 Compliance with the FLSA's minimum wage requirements also means that employees are entitled to minimum wage for the number of hours worked during the workweek "free and clear" of improper deductions. 29 C.F.R. §§ 531.35, 776.4. The FLSA defines "wage" to include both cash wages and the reasonable cost of providing "board, lodging, or other facilities;" thus, an employer may count these costs toward satisfying its minimum wage obligations. An employer may not deduct from employee wages the cost of facilities which primarily benefit the employer if such deductions drive wages below the minimum wage.
 
@@ -1139,7 +1139,7 @@ Title 20 C.F.R. § 655.22 regulates the obligation of employers under the H-2B l
 
 This court finds no reason to stray from its prior holding in _De Luna-Guerrero._ Under the FLSA, visa expenses are "incident of and necessary to the employment" and therefore do not qualify as "other facilities" and cannot be the subject of deductions, either actual or de facto, that would reduce an employee's wages below the minimum wage.
 
-<p class="case-h1">"case-h2">D. Willfulness</p>
+<p class="case-h2">D. Willfulness</p>
 
 Defendants move for summary judgment as to plaintiffs' FLSA claims arising prior to August 1, 2006. Defendants contend there is no genuine issue of material fact that any alleged violations were not willful and these claims are therefore barred by the statute of limitations.
 
@@ -1154,7 +1154,7 @@ This court finds that plaintiffs have not shown evidence sufficient to satisfy t
 
 <p class="case-h1">III. NCWHA Claims</p>
 
-<p class="case-h1">"case-h2">B. Analysis of NCWHA Claims</p>
+<p class="case-h2">B. Analysis of NCWHA Claims</p>
 
 _1. Failure to Obtain Written Authorization for Deductions_
 
@@ -1199,7 +1199,7 @@ Plaintiffs assert an FLSA claim with a proposed opt-in plaintiff class under 29 
 
 <p class="case-h1">III. CROSS MOTIONS FOR PARTIAL SUMMARY JUDGMENT</p>
 
-<p class="case-h1">"case-h2">A. Plaintiffs' Motion for Partial Summary Judgment</p>
+<p class="case-h2">A. Plaintiffs' Motion for Partial Summary Judgment</p>
 
 _2. Wage deductions for boots and replacement knives_
 
@@ -1226,7 +1226,7 @@ Plaintiffs, R. Andrew Ketner ("Ketner") and Stephen Baker ("Baker"), bring this 
 
 <p class="case-h1">I. BACKGROUND</p>
 
-<p class="case-h1">"case-h2">A. The Fair Labor Standards Act</p>
+<p class="case-h2">A. The Fair Labor Standards Act</p>
 
 Congress enacted FLSA in 1938 to ensure that the nation's workers received "a fair day's pay for a fair day's work." Though it has been amended over the years, "FLSA establishes federal minimum-wage, maximum-hour, and overtime guarantees that cannot be modified by contract". The Act requires that employers pay their employees at least the federal minimum wage and provide them overtime in the amount of one and one-half times their regular rate of pay for each hour worked beyond forty hours in a given work week. 29 U.S.C. §§ 206(a)(1), 207(a)(1). FLSA, however, provides for a number of exemptions to this general rule. § 213. One type of exemption involves employees who work "in a bona fide executive, administrative, or professional capacity." § 213(a)(1). These exemptions are commonly known as the "white collar exemptions," and such employees are exempt from FLSA's minimum wage and overtime compensation requirements. While the Act does not define the terms "executive," "administrative," or "professional," Congress has granted the Secretary of the Department of Labor ("DOL") broad authority to define the scope of the white collar exemptions. DOL has promulgated regulations defining these terms and the scope of these exemptions. _See_ 29 C.F.R. §§ 541.0-541.710 (2015).[^Ketner1]
 
@@ -1238,7 +1238,7 @@ In determining whether an employee qualifies for a white collar exemption, "job 
 [^Ketner2]:
   {-} The salary requirement for the executive, administrative or professional exemption has since been increased to $684 per week (except in Northern Mariana Islands, Guam, Puerto Rico, the U.S. Virgin Islands, and American Samoa). [§ 541.600](https://www.law.cornell.edu/cfr/text/29/541.600). 
 
-<p class="case-h1">"case-h2">B. Plaintiffs' Complaint</p>
+<p class="case-h2">B. Plaintiffs' Complaint</p>
 
 BB & T is a North Carolina-based company that provides financial services to its customers in several states throughout the country. BB & T employs, among others, recent college and MBA graduates who must, as a condition of employment, participate in BB & T's Leadership Development Program ("LDP" or "training program") and execute a Training Cost Agreement ("TCA"). The training program is six to ten months in duration and is offered by BB & T twice per year. The TCA requires that LDP participants repay the training costs associated with the LDP if they resign or are terminated for cause within five years of their first day of employment as an associate with BB & T. BB & T forgives 1/60th of the training costs for each full month worked by the associate. BB & T has valued the training costs at $46,000 per LDP participant. 
 
@@ -1248,7 +1248,7 @@ On November 17, 2014, Plaintiffs filed this action, asserting four claims agains
 
 <p class="case-h1">III. DISCUSSION</p>
 
-<p class="case-h1">"case-h2">A. Count II: Whether BB & T Misclassified LDP Graduates as Exempt</p>
+<p class="case-h2">A. Count II: Whether BB & T Misclassified LDP Graduates as Exempt</p>
 
 In Count II of their Complaint, Plaintiffs allege that BB & T misclassified them as exempt employees following their graduation from the training program, making them ineligible for overtime compensation. In particular, Plaintiffs assert that BB & T has, by enforcing the TCA and requiring them to repay their training costs, "subjected them to an actual practice and clear policy" of improper reductions to their salary as proscribed by the salary-basis test. According to Plaintiffs, this reimbursement policy demonstrates that BB & T never intended to pay them a predetermined salary as required by the test. BB & T denies that Plaintiffs were misclassified as exempt. It argues further that Plaintiffs' Complaint has failed, as a matter of law, to state a violation of the salary-basis test since it does not allege that Plaintiffs' paychecks were actually reduced or subject to reduction during their employment with BB & T. 
 
@@ -1276,7 +1276,7 @@ Because the 2006 DOL opinion is reasonable and conforms to the purpose of FLSA a
 
 BB & T further contends that Count II of Plaintiffs' Complaint should be dismissed because Plaintiffs' allegations about their job duties are nominal and insufficient for the Court to conduct the duties analysis. The Court disagrees. Plaintiffs' Complaint alleges that when Ketner graduated from the LDP, there was "no material change in his primary job responsibilities" and that "he continued to work overtime on a regular basis, and received no overtime compensation for his overtime hours." The Complaint also alleges that Plaintiffs "were placed in job positions that did not require them to exercise discretion and independent judgment with respect to matters of significance" and "were assigned to clerical-type positions." Although Baker earned $100,000 and therefore was subject to a more relaxed job duties analysis as a "highly compensated employee," he must still satisfy the requirements for exemption. Because exemptions are affirmative defenses and must be narrowly construed against the employer with the employer bearing the burden of proof, the Court concludes that Plaintiffs have sufficiently alleged a violation of the duties test to survive a motion to dismiss under Rule 12(b)(6).
 
-<p class="case-h1">"case-h2">B. Count III: Whether BB & T Violated FLSA's Minimum Wage Requirement</p>
+<p class="case-h2">B. Count III: Whether BB & T Violated FLSA's Minimum Wage Requirement</p>
 
 In Count III of the Complaint, Ketner asserts[^Ketner6] that enforcement of the TCA violates FLSA because it has the effect of requiring employees to work for wages lower than minimum wage and further that their wages were not paid "free and clear" as required by the Act. BB & T argues that Ketner and other similarly situated employees have failed to allege a plausible claim that BB & T's enforcement of the TCA violates FLSA's minimum wage requirement. 
 

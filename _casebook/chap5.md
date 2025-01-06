@@ -29,7 +29,7 @@ Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She 
 
 <p class="case-h1">III. DISCUSSION</p>
 
-<p class="case-h1">"case-h2">1. “Reasonably construe” standard</p>
+<p class="case-h2">1. “Reasonably construe” standard</p>
 
 In _Boeing_, the Board adopted a more flexible standard for assessing whether a facially neutral employment rule violates Secion 8(a)(1).
 
@@ -39,7 +39,7 @@ In other words, when a facially neutral rule cannot reasonably be interpreted to
 
 Here, the Board concluded that Lowe’s policy was facially neutral and could be reasonably construed to restrict employees’ wage discussions. The policy prohibits employees from discussing confidential information which explicitly includes “salary information.” We thus agree with the Board’s conclusion that the policy can be reasonably construed to limit employees’ rights under the NLRA. We now turn to Lowe’s legitimate justifications for the policy.
 
-<p class="case-h1">"case-h2">2. Lowe’s Legitimate Justifications</p>
+<p class="case-h2">2. Lowe’s Legitimate Justifications</p>
 
 Under _Boeing_, the Board created three categories of rules. Category 1 rules are per se lawful, either because they cannot be reasonably interpreted to interfere with employees’ rights or because the adverse impacts on rights is outweighed by justifications for the rule. Category 2 rules warrant individualized scrutiny in each case, and the Board must weigh the adverse impacts on NLRA rights with employer’s legitimate justifications. 
 
@@ -57,7 +57,7 @@ For the reasons discussed below, we find that the Respondent violated Section 8(
 
 <p class="case-h1">I. Media-Contact Provision </p>
 
-<p class="case-h1">"case-h2">A. Relevant Facts</p>
+<p class="case-h2">A. Relevant Facts</p>
 
 In October and November 2016, the Respondent required its employees to sign the following Confidentiality Agreement:
 
@@ -75,7 +75,7 @@ The Respondent created the Confidentiality Agreement in response to leaks of its
 
 The Respondent initially tried to have every employee physically sign a copy of the Confidentiality Agreement in the presence of a human resources (HR) partner. When that method proved to be logistically difficult, the Respondent, through a November 2, 2016 email sent by Vice President of Human Resources Mark Lipscomb, instructed all employees to electronically sign the Confidentiality Agreement in Workday. Lipscomb’s email stated that “it’s absolutely critical that we maintain strict confidentiality on all internal matters as any leak can have a negative impact on our company,” and that “in order to reinforce the importance of confidentiality, we are asking everyone to sign an updated confidentiality agreement.”
 
-<p class="case-h1">"case-h2">B. Legal Standard</p>
+<p class="case-h2">B. Legal Standard</p>
 
 In _Boeing Co._, the Board set out a new standard for determining whether a facially neutral work rule or policy, reasonably interpreted, would unlawfully interfere with, restrain, or coerce employees in the exercise of their Section 7 rights. The Board in _Boeing_ held:
 
@@ -93,7 +93,7 @@ However, these categories “will represent a classification of results from the
 
 The General Counsel has the initial burden to prove that a facially neutral rule or policy would, when read in context, be interpreted by a reasonable employee as potentially interfering with the exercise of Section 7 rights. If the General Counsel fails to meet this initial burden, the Board does not need to address the employer’s legitimate justifications for the rule. Instead, the rule is lawful and fits within _Boeing_ Category 1(a). Conversely, if the General Counsel does meet the initial burden of proving that a reasonable employee would interpret a rule as potentially interfering with the exercise of Section 7 rights, the Board will then balance that potential interference against the employer’s legitimate justifications for the rule. When the balance favors general employer interests, the rule at issue will be lawful and will fit within _Boeing_ Category 1(b). When the potential interference with Section 7 rights generally outweighs any possible employer justification, the rule at issue will be unlawful and will fit within _Boeing_ Category 3. Finally, “in some instances, it will not be possible to draw any broad conclusions about the legality of a particular rule because the context of the rule and the competing rights and interests involved are specific to that rule and that employer”; such rules will fit within _Boeing_ Category 2. 
 
-<p class="case-h1">"case-h2">C. Discussion</p>
+<p class="case-h2">C. Discussion</p>
 
 The Board has applied _Boeing_ to analyze media-contact rules in two recent cases. In _LA Specialty_, the Board found the following media-contact rule to be lawful:
 
@@ -157,11 +157,11 @@ Conversely, factors which weigh against finding a settlement fair and reasonable
 
 > \(1) the presence of other employees situated similarly to the claimant; (2) a likelihood that the claimant's circumstance will recur; (3) a history of FLSA non-compliance by the same employer or others in the same industry or geographic region; and (4) the desirability of a mature record and a pointed determination of the governing factual or legal issue to further the development of the law either in general or in an industry or in a workplace.
 
-<p class="case-h1">"case-h2">C. Non-Disparagement Clause</p>
+<p class="case-h2">C. Non-Disparagement Clause</p>
 
 The Court finds that the Proposed Settlement's non-disparagement clause is reasonable. In this clause, the Parties mutually "agree not to say or publicize things that are insulting or disparaging about the other Party." The clause also contains a carve-out: "each of the parties are free to make truthful statements about their experience litigating their case (except as to statements made at the confidential mediation held on July 9, 2020)." Non-disparagement clauses are valid, so long as they contain such a carve-out. Thus, the Court approves the non-disparagement clause.
 
-<p class="case-h1">"case-h2">D. Non-Publicity Clause</p>
+<p class="case-h2">D. Non-Publicity Clause</p>
 
 The Court finds that the Proposed Settlement's non-publicity cause imposes reasonable restrictions on affirmative contact with media, but unreasonable restrictions on use of social media. This clause states that "Plaintiffs, on behalf of themselves and their counsel, agree not to take affirmative steps to contact the media or utilize social media to publicize the Proposed Settlement or its terms." The clause contains two specific carve-outs. First, "if contacted by the media regarding the Proposed Settlement, Plaintiffs and Plaintiffs' Counsel are free to make truthful statements about their experience litigating their case." Second, Plaintiffs' Counsel is permitted to post a brief description of the lawsuit and settlement to its website, including a hyperlink to the case dockets.
 
@@ -359,7 +359,7 @@ MikLin Enterprises, Inc. ("MikLin") petitions for review of a National Labor Rel
 
 <p class="case-h1">I. Background.</p>
 
-<p class="case-h1">"case-h2">A. The "Sick Day Posters" Campaign.</p>
+<p class="case-h2">A. The "Sick Day Posters" Campaign.</p>
 
 MikLin is a family enterprise that owns and operates ten Jimmy John's sandwich-shop franchises in the Minneapolis-St. Paul area. Michael Mulligan is president and co-owner; Robert Mulligan, his son, is vice-president. In 2007, several MikLin workers began an organizing campaign seeking representation by the Industrial Workers of the World ("IWW") union. The IWW lost a Board-conducted election in October 2010, filed unfair labor practice charges and objections to the election with the Board, and continued its organizing campaign by urging MikLin to provide employees holiday pay in late 2010. On January 10, 2011, MikLin and the IWW settled the IWW's objections. MikLin admitted no wrongdoing but agreed to a Board-conducted rerun election if the IWW filed for the election after sixty days but not later than after eighteen months.
 
@@ -379,7 +379,7 @@ On March 20, IWW supporters implemented their threat to plaster the city with a 
 
 The IWW continued its sick leave attack. In a press release issued a day after the terminations, a discharged employee stated: "It just isn't safe — customers are getting their sandwiches made by people with the flu, and they have no idea. Rather than safeguard public health and do the right thing for their employees and their customers, Jimmy John's owners Mike and Rob Mulligan are trying to silence us." On March 30, the IWW issued another press release stating that "customers have a right to know that their sandwich could be filled with germs," that IWW members have a duty to speak out on this "public health issue," and that employees "blew the whistle by posting 3000 copies of a poster advising the public of health risks at the sandwich chain." The release quoted one employee as stating: "The unfettered greed of franchise owner Mike Mulligan and Jimmy John Liautaud himself jeopardizes the health of thousands of customers and workers almost every day. We will speak out until they realize that no one wants to eat a sandwich filled with cold and flu germs."
 
-<p class="case-h1">"case-h2">B. The NLRB Proceedings.</p>
+<p class="case-h2">B. The NLRB Proceedings.</p>
 
 Following a two-day evidentiary hearing, the Board's Administrative Law Judge ("ALJ") concluded that MikLin violated Sections 8(a)(1) and 8(a)(3) of the Act. Citing prior Board decisions, the ALJ ruled that "Section 7 29 U.S.C. § 157 protects employee communications to the public that are part of and related to an ongoing labor dispute," such as the Sick Day posters and related press releases, unless they are "so disloyal, reckless, or maliciously untrue as to lose the Act's protections." To lose Section 7 protection, "an employee's public criticism must evidence 'a malicious motive'" or be made with knowledge of the statements' falsity or with reckless disregard for their truth or falsity.
 
@@ -447,7 +447,7 @@ Two of Food Lion's claims are at issue here. Food Lion claims that Litt and Barn
 
 <p class="case-h1">III.</p>
 
-<p class="case-h1">"case-h2">A. Fiduciary Duty</p>
+<p class="case-h2">A. Fiduciary Duty</p>
 
 Defendants maintain that there can be no violation of fiduciary duty because there never was a fiduciary relationship for Litt and Barnett to violate. For a fiduciary relationship to exist, according to Defendants, there must be a relationship of special confidence or access to confidential information. In some contexts, Defendants' contentions might be correct. To the contrary, however, it appears both the North Carolina and South Carolina Supreme Courts likely would recognize a broader claim.
 

@@ -316,7 +316,7 @@ Section 7 of the NLRA provides that "employees shall have the right to join or a
 
 We have often reaffirmed that the task of defining the scope of § 7 "is for the Board to perform in the first instance as it considers the wide variety of cases that come before it," and, on an issue that implicates its expertise in labor relations, a reasonable construction by the Board is entitled to considerable deference. The question for decision today is thus narrowed to whether the Board's application of § 7 to Brown's refusal to drive truck No. 244 is reasonable. Several reasons persuade us that it is.
 
-<p class="case-h1">"case-h2"> A</p>
+<p class="case-h2">A</p>
 
 Neither the Court of Appeals nor respondent appears to question that an employee's invocation of a right derived from a collective-bargaining agreement meets § 7's requirement that an employee's action be taken "for purposes of collective bargaining or other mutual aid or protection." As the Board first explained in the _Interboro_ case, a single employee's invocation of such rights affects all the employees that are covered by the collective-bargaining agreement. This type of generalized effect, as our cases have demonstrated, is sufficient to bring the actions of an individual employee within the "mutual aid or protection" standard, regardless of whether the employee has his own interests most immediately in mind. 
 
@@ -342,7 +342,7 @@ In practice, however, there is unlikely to be a bright-line distinction between 
 
 The fact that an activity is concerted, however, does not necessarily mean that an employee can engage in the activity with impunity. An employee may engage in concerted activity in such an abusive manner that he loses the protection of § 7. Furthermore, if an employer does not wish to tolerate certain methods by which employees invoke their collectively bargained rights, he is free to negotiate a provision in his collective-bargaining agreement that limits the availability of such methods. No-strike provisions, for instance, are a common mechanism by which employers and employees agree that the latter will not invoke their rights by refusing to work. In general, if an employee violates such a provision, his activity is unprotected even though it may be concerted. Whether Brown's action in this case was unprotected, however, is not before us.
 
-<p class="case-h1">"case-h2"> B</p>
+<p class="case-h2">B</p>
 
 Respondent argues that the _Interboro_ doctrine undermines the arbitration process by providing employees with the possibility of provoking a discharge and then filing an unfair labor practice claim. This argument, however, misses the mark for several reasons. First, an employee who purposefully follows this route would run the risk that the Board would find his actions concerted but nonetheless unprotected, as discussed above.
 
