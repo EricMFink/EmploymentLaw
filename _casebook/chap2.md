@@ -212,27 +212,27 @@ Employees shall have the right to self-organization, to form, join, or assist la
 
 It shall be an unfair labor practice for an employer—
 
-- (1) to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 157 of this title;
+> (1) to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 157 of this title;
 
-- (2) to dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it: Provided, That subject to rules and regulations made and published by the Board pursuant to section 156 of this title, an employer shall not be prohibited from permitting employees to confer with him during working hours without loss of time or pay;
+> (2) to dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it: Provided, That subject to rules and regulations made and published by the Board pursuant to section 156 of this title, an employer shall not be prohibited from permitting employees to confer with him during working hours without loss of time or pay;
  
-- (3) by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization;
+> (3) by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization;
 
-- (4) to discharge or otherwise discriminate against an employee because he has filed charges or given testimony under this subchapter;
+> (4) to discharge or otherwise discriminate against an employee because he has filed charges or given testimony under this subchapter;
 
-- (5) to refuse to bargain collectively with the representatives of his employees, subject to the provisions of section 159(a) of this title.
+> (5) to refuse to bargain collectively with the representatives of his employees, subject to the provisions of section 159(a) of this title.
  
 (b) Unfair labor practices by labor organization
 
 It shall be an unfair labor practice for a labor organization or its agents—
 
-- (1) to restrain or coerce (A) employees in the exercise of the rights guaranteed in section 157 of this title: Provided, That this paragraph shall not impair the right of a labor organization to prescribe its own rules with respect to the acquisition or retention of membership therein; or (B) an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances;
+> (1) to restrain or coerce (A) employees in the exercise of the rights guaranteed in section 157 of this title: Provided, That this paragraph shall not impair the right of a labor organization to prescribe its own rules with respect to the acquisition or retention of membership therein; or (B) an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances;
 
-- (2) to cause or attempt to cause an employer to discriminate against an employee in violation of subsection (a)(3) or to discriminate against an employee with respect to whom membership in such organization has been denied or terminated on some ground other than his failure to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership [ ... ];
+> (2) to cause or attempt to cause an employer to discriminate against an employee in violation of subsection (a)(3) or to discriminate against an employee with respect to whom membership in such organization has been denied or terminated on some ground other than his failure to tender the periodic dues and the initiation fees uniformly required as a condition of acquiring or retaining membership [ ... ];
 
-- (3) to refuse to bargain collectively with an employer, provided it is the representative of his employees subject to the provisions of section 159(a) of this title;
+> (3) to refuse to bargain collectively with an employer, provided it is the representative of his employees subject to the provisions of section 159(a) of this title;
 
-- [ ... ]
+> [ ... ]
 
 (d) Obligation to bargain collectively. 
 
