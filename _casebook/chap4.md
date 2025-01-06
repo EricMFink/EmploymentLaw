@@ -1056,7 +1056,7 @@ While the Bank's evidence includes some stray references to campaigning, most of
 
 For these reasons, a reasonable jury could find that the Bank's actions violated New York Labor Law § 201-d because the bank failed to demonstrate a legitimate, non-discriminatory reason for the adverse employment action it took against Truitt. We conclude that the district court erred in granting summary judgment dismissing Truitt's New York Labor Law § 201-d claim.
 
-#### NY Labior Code § 201-d {#ny-labor-code-201d}
+#### NY Labor Code § 201-d {#ny-labor-code-201d}
 
 <div class="legal-code">
 
