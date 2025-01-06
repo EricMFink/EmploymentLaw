@@ -220,7 +220,7 @@ Sometimes although very rarely, a union-management agreement contains a provisio
 
 ##### The Questions
 
-<p class="case-h2">1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct? 
+<p class="case-h2">1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct? 
 </p>
 
 Note 1: Said forewarning or foreknowledge may properly have been given orally by management or in writing through the medium of typed or printed sheets or books of shop rules and of penalties for violation thereof. 
@@ -231,13 +231,13 @@ Note 3: A finding of lack of such communication does not in all cases require a 
 
 Note 4: Absent any contractual prohibition or restriction, the company has the right unilaterally to promulgate reasonable rules and give reasonable orders; and same need not have been negotiated with the union.
 
-<p class="case-h2">2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?
+<p class="case-h2">2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?
 </p>
 
 Note: If an employee believes that said rule or order is unreasonable, he must nevertheless obey same (in which case he may file a grievance thereover) unless he sincerely feels that to obey the rule or order would seriously and immediately jeopardize his personal safety and/or integrity. Given a firm finding to the latter effect, the employee may properly be 
 said to have had justification for his disobedience.
 
-<p class="case-h2">3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?
+<p class="case-h2">3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?
 </p>
 
 Note 1: This is the employee’s “day in court” principle. An employee has the right to know with reasonable precision the offense with which he is being charged and to defend his behavior. 
@@ -248,7 +248,7 @@ Note 3: There may of course be circumstances under which management must react i
 
 Note 4: The company’s investigation should include an inquiry into possible justification for the employee’s alleged rule violation.
 
-<p class="case-h2">4. Was the company’s investigation conducted fairly and objectively?
+<p class="case-h2">4. Was the company’s investigation conducted fairly and objectively?
 </p>
 
 Note 1: At said investigation the management official may be both “prosecutor” and “judge,” but he may not also be a witness against the employee. 
@@ -257,7 +257,7 @@ Note 2: It is essential for some higher, detached management official to assume 
 
 Note 3: In some disputes between an employee and a management person there are not witnesses to an incident other than the two immediate participants. In such cases it is particularly important that the management “judge” question the management participant rigorously and thoroughly, just as an actual third party would.
 
-<p class="case-h2">5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?
+<p class="case-h2">5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?
 </p>
 
 Note 1: It is not required that the evidence be conclusive or “beyond all reasonable doubt.” But the evidence must be truly substantial and not flimsy. 
@@ -267,7 +267,7 @@ Note 2: The management “judge” should actively search out witnesses and evid
 Note 3: When the testimony of opposing witnesses at the arbitration hearing is irreconcilably in conflict, an arbitrator seldom has any means for resolving the contradictions. His task is then to determine whether the management “judge” originally had reasonable grounds for believing the evidence presented to him by his own people.
 
 
-<p class="case-h2">6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?
+<p class="case-h2">6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?
 </p>
 
 Note 1: A “no” answer to this question requires a finding of discrimination and warrants negation or modification of the discipline imposed. 
@@ -275,7 +275,7 @@ Note 1: A “no” answer to this question requires a finding of discrimination 
 Note 2: If the company has been lax in enforcing its rules and order, and decides henceforth to apply them rigorously, the company may avoid a finding of discrimination by telling all employees beforehand of its intent to enforce hereafter all rules as written.
 
 
-<p class="case-h2">7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?
+<p class="case-h2">7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?
 </p>
 
 Note 1: A trivial proven offense does not merit harsh discipline unless the employee has properly been found guilty of the same or other offenses a number of times in the past. (There is no rule as to what number of previous offenses constitutes a “good,” a “fair,” or a “bad” record. Reasonable judgment thereon must be used.) 
@@ -1457,7 +1457,7 @@ In May, 2014—seven months before expiration of Myers's contractual obligations
 
 Myers brings a wrongful discharge claim under Montana's Wrongful Discharge from Employment Act ("WDEA"). Mont. Code Ann. §§ 39-2-901 to 39-2-915 (2015). The parties agree that Myers was not a probationary employee. Under the WDEA, an employer's discharge of a non-probationary employee is lawful if: (1) the employer did not retaliate against the employee for protected activities; (2) the employer had good cause to terminate the employee; and (3) the employer did not violate his own personnel policies. § 39-2-904. Myers does not claim that his discharge was retaliatory. Rather, he raises three alternative theories for wrongful discharge. First, he asserts that Stryker lacked good cause for his termination. Second, he argues that Stryker's purported good cause reason is a pretext and that the true reason for his discharge is unlawful. And third, he claims that even if Stryker can show good cause, Stryker violated the provisions of its own personnel policies when it terminated him.
 
-<p class="case-h2">B. Good Cause
+<p class="case-h2">B. Good Cause
 </p>
 
 Myers argues that Stryker did not have good cause to terminate him because Stryker did not adequately ground its decision in the facts, making his discharge unreasonable. The Court disagrees. The undisputed facts clearly establish that Stryker discharged Myers for acting unethically, unprofessionally, and in a manner likely to harm the company.
@@ -1482,7 +1482,7 @@ In response to Myers's citation to _Marcy,_ Stryker relies principally on _Sulli
 
 The controversy here is analogous to that presented in _Sullivan._ Myers's mere assertion that Stryker is mistaken does not create a factual dispute. To overcome summary judgment, Myers would need to offer evidence that Stryker's investigation was inadequate or specific positive evidence showing the presence of mistake. Myers has not met that burden. Summary judgment is appropriate for Stryker because the undisputed facts show that Stryker had good cause to terminate Myers for its good faith belief that Myers harassed coworkers and threatened valuable relationships with customers.
 
-<p class="case-h2">C. Pretext
+<p class="case-h2">C. Pretext
 </p>
 
 Myers argues that even if Stryker can show good cause, a factual dispute exists regarding whether Stryker's purported reason for the termination is a mere pretext. Myers asserts that Stryker terminated Myers as a scapegoat for the company's decision to terminate Auch. In response, Stryker raises two arguments: (1) that, even if Myers were correct in arguing pretext, Stryker would still have good cause to terminate Myers for suggesting Auch's termination; and (2) that Myers has presented only speculation in support of his claim of pretext. No genuine dispute of material fact exists on the question of pretext, and Stryker is entitled to judgment as a matter of law.
@@ -1497,7 +1497,7 @@ Additionally, Myers has not adequately supported his argument that a pretextual 
 
 Thus, even if Stryker did terminate Myers for advocating for Auch's termination, Myers's claim of pretext would nonetheless fail because Stryker had a "legitimate business reason" to discharge Myers for precisely that reason. Myers's actions threatened customer relationships and made Myers's coworkers uncomfortable. As a result of Myers's conduct, Stryker lost trust in him, and the company had the discretion to terminate Myers as a result. 
 
-<p class="case-h2">D. Compliance with Company Policy
+<p class="case-h2">D. Compliance with Company Policy
 </p>
 
 Myers claims that, even if Stryker had good cause to terminate him, the discharge was wrongful because it was in violation of Stryker's own personnel policies. Stryker moved for summary judgment on this theory of wrongful discharge, and Myers did not respond to defend his claim. Summary judgment is appropriate for Stryker on this theory.

@@ -8,11 +8,11 @@ This case originated in 2019 when athletes at several National Collegiate Athlet
 
 For the reasons stated below, we will affirm in part the District Court's decision denying Appellants' motion to dismiss. But because the District Court erred by applying the test from _Glatt v. Fox Searchlight Pictures, Inc.,_ 811 F.3d 528 (2d Cir. 2016), to determine whether college athletes can be employees under the FLSA, we will vacate and remand for application of an economic realities analysis grounded in common-law agency principles.
 
-<p class="case-h1">I. BACKGROUND</p>
+<p class="case-h1">I. BACKGROUND</p>
 
 Appellees contend that they are entitled to minimum wage under the FLSA for time spent on their sport-related activities. Appellants are thirteen colleges and universities that are members of the NCAA. The NCAA regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and some 500,000 athletes. The NCAA has multi-year, multi-billion-dollar contracts with ESPN, CBS, and Turner Sports to broadcast athletic competitions between D-I schools, and it distributes shares of those broadcasting fees to its member institutions. In addition to shares of broadcasting fees, D-I. schools receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered, either individually or as part of an NCAA conference, to broadcast their athletic competitions. To understand how collegiate sport generates these revenues, a brief historical survey is instructive.
 
-<p class="case-h2">A. College Athletics in Historical Context</p>
+<p class="case-h2">A. College Athletics in Historical Context</p>
 
 American intercollegiate athletics began when a group of Yale students formed a boat club in 1843; undergraduates at Harvard followed suit the next year. In 1852, the two clubs staged our nation's first intercollegiate athletic competition (The Race) on a lake in New Hampshire. From that first contest, the spectacle of college sports has grown steadily to become a multi-billion-dollar industry.
 
@@ -32,7 +32,7 @@ The colleges are not alone in profiting. One study reported that 45 million Amer
 
 By far the most obvious beneficiaries of college sports are a select few administrators, athletic directors, and coaches. The recently retired Alabama football coach, Nick Saban, earned over $11.4 million in his last year leading the Crimson Tide, making him the highest-paid coach in college sports and the eighth-highest-paid football coach in America. In fact, seven-teen of the 37 highest-paid coaches in _any_ sport in the United States make their living in college football or basketball. By contrast, university professors and administrators make far less. The University of Virginia, for example, pays $900,000 each year to its president and $600,000 to its law school dean while its basketball coach receives $5.2 million. This is not abnormal; in forty states, the highest-paid public employee is a D-I coach. Ohio State president E. Gordon Gee summarized this upside-down world when, asked whether he would consider firing his embattled football coach, he quipped, "I'm just hoping the coach doesn't dismiss me."
 
-<p class="case-h2">B. Amateurism and the "Student-Athlete" in College Athletics</p>
+<p class="case-h2">B. Amateurism and the "Student-Athlete" in College Athletics</p>
 
 We have opted against using a term both parties employ liberally in briefing: "student-athlete." Like "band-aid" or "laundromat," "student-athlete" is essentially a brand name that has become synonymous with its product. As scholars have noted, the term is an NCAA marketing invention designed to "conjure the nobility of amateurism," assert "the precedence of scholarship over athletics," and "obfuscate the nature of the legal relationship at the heart of a growing commercial enterprise." Context makes this vividly apparent.
 
@@ -50,7 +50,7 @@ Justice Kavanaugh, in an oft-cited concurrence, noted that the NCAA's remaining 
 
  Appellants raise similarly circular arguments. But as the Supreme Court recently suggested, such rationales no longer hold the weight they once did. The National Labor Relations Board (NLRB), likely in response to _Alston,_ is for the first time taking the position that college athletes are employees for purposes of the National Labor Relations Act (NLRA). In the midst of these changes, our Court is the first to consider whether college athletes may also be employees under the ambit of the related FLSA.
 
-<p class="case-h2">C. The Athletes at Bar</p>
+<p class="case-h2">C. The Athletes at Bar</p>
 
 The plaintiffs allege that although the NCAA and its member schools profit from their efforts, the NCAA's bylaws prohibit member schools from offering wages and forbid students from accepting them. To enforce these rules, the bylaws prescribe sanctions for violating schools and students, including suspension or termination of athletes, suspension of coaching staff, and disqualification of teams from competitions. The NCAA and defendant schools argue that, although athletes do not earn wages, the benefits of participation include payment in other forms, such as increased discipline, a stronger work ethic, improved strategic thinking, time management, leadership, and goal setting skills, and a greater ability to work collaboratively.
 
@@ -60,7 +60,7 @@ In their First Amended Complaint, the athletes asserted claims under the FLSA fo
 
 On August 25, 2021, the District Court rejected this argument. In the absence of controlling authority providing a specific multifactor test to evaluate whether athletes can be considered "employees" under the FLSA, the District Court applied the Court of Appeals for the Second Circuit's multifactor test from _Glatt,_ where the Court considered whether unpaid interns must be deemed employees under the FLSA and therefore compensated for their work. The District Court determined that _Glatt_ required it to assess the "economic reality" of the relationship by identifying whether the athletes or the NCAA and schools were the primary beneficiary of the relationship. After balancing and considering the seven _Glatt_ factors, the District Court concluded that the athletes had plausibly pleaded that they may be employees and denied the motion to dismiss. Subsequently, the District Court granted the Appellants' motion to certify an interlocutory appeal from the denial of their motion to dismiss. The question certified for appeal was: "Whether NCAA Division I athletes can be employees of the colleges and universities they attend for purposes of the Fair Labor Standards Act solely by virtue of their participation in interscholastic athletics."
 
-<p class="case-h1">II. DISCUSSION</p>
+<p class="case-h1">II. DISCUSSION</p>
 
 The FLSA protects "the rights of those who toil, of those who sacrifice a full measure of their freedom and talents to the use and profit of others." Accordingly, it gives specific, non-waivable minimum protections to individuals to ensure that each covered employee receives "a fair day's pay for a fair day's work," and is protected from "the evil of 'overwork' as well as 'underpay,
 
@@ -74,7 +74,7 @@ Importantly, in determining that the _Alamo_ "volunteers" were actually employee
 
 Since _McComb,_ we and other courts of appeal have adopted multifactor tests to analyze, based on the circumstances of the whole relationship between the parties, whether individuals are employees or independent contractors, whether entities are joint employers, and whether individuals are employees or interns. Here, we confront circumstances unlike those previously addressed, but core principles that traditionally define an employee-employer relationship are no less applicable.
 
-<p class="case-h2">A. Determining the Employment Status of College Athletes</p>
+<p class="case-h2">A. Determining the Employment Status of College Athletes</p>
 
 In looking to "the economic realities of the relationship" between college athletes and their schools or the NCAA, we begin by noting that athletes in the collegiate context are _sui generis._ After all, merely playing sports, even at the college level, cannot always be considered commercial _work_ integral to the employer's business in the same way that the activities performed by independent contractors or interns are assumed to be in previously mentioned multifactor tests. The Supreme Court has acknowledged this possibility, explaining that the FLSA does not cover a person who, "without promise or expectation of compensation, but solely for his personal purpose or pleasure" performs "activities carried on by other persons either for their pleasure or profit." The Department of Labor (DOL) makes the same distinction. But just as intuitively, with professional athletes as the clearest indicators, playing sports can certainly constitute compensable work. Any test to determine college athlete employee status under the FLSA must therefore be able to identify athletes whose play is _also_ work.
 
@@ -92,7 +92,7 @@ Indeed, the facts that animate _Glatt_ are not sufficiently analogous to the cas
 
 We therefore hold that college athletes may be employees under the FLSA when they (a) perform services for another party, (b) "necessarily and primarily for the other party's benefit," and (d) in return for "express" or "implied" compensation or "in-kind benefits," If so, the athlete in question may plainly fall within the meaning of "employee" as defined in 29 U.S.C. § 203(e)(1). Ultimately, the touchstone remains whether the cumulative circumstances of the relationship between the athlete and college or NCAA reveal an economic reality that is that of an employee-employer.
 
-<p class="case-h2">B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims</p>
+<p class="case-h2">B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims</p>
 
 Appellants argue that the history and tradition of amateurism is sufficient not only to remove college athletes from the general population of people whose FLSA employment status is routinely determined through the application of multifactor tests, but also compels dismissal of this suit. We disagree. Although the Supreme Court remarked in _Board of Regents_ dicta that "the NCAA plays a critical role in the maintenance of a revered tradition of amateurism in college sports," it has since unanimously clarified that _Board of Regents_ did not expressly approve of _every_ NCAA limit on athlete compensation or foreclose "any meaningful review of those limits today." The NCAA's athlete compensation rules, after all, were not even at issue in _Board of Regents._ That case instead concerned the NCAA's attempt to exercise monopoly control over television broadcast agreements.
 
@@ -108,7 +108,7 @@ We disagree with our sister circuit court's comparison of college athletes to pr
 
 In sum, for the purposes of the FLSA, we will not use a "frayed tradition" of amateurism with such dubious history to define the economic reality of athletes' relationships to their schools. Instead, we believe that the amateurism that Judge Hamilton calls into question in his "note of caution" highlights the need for an economic realities framework that distinguishes college athletes who "play" their sports for predominantly recreational or noncommercial reasons from those whose play crosses the legal line into work protected by the FLSA. Accordingly, we also hold that college athletes cannot be barred as a matter of law from asserting FLSA claims simply by virtue of a "revered tradition of amateurism" in D-I athletics.
 
-<p class="case-h1">III. CONCLUSION</p>
+<p class="case-h1">III. CONCLUSION</p>
 
 In light of the foregoing, we will vacate the District Court's order, remand for further proceedings in compliance with this opinion, and direct the District Court to grant leave to amend.
 
@@ -116,13 +116,13 @@ In light of the foregoing, we will vacate the District Court's order, remand for
 
 I write separately to explain why I concur only in the judgment.
 
-<p class="case-h1">III. Traditional multifactor tests and the amateurism principle are unhelpful guides.</p>
+<p class="case-h1">III. Traditional multifactor tests and the amateurism principle are unhelpful guides.</p>
 
 I agree with the majority's rejection of the tests in cases distinguishing employee workers from independent-contractor workers or interns. In those cases, the analysis began with the undisputed premise that individuals performed "work" that was necessary and integral to their employer's business. Here, the critical antecedent question is whether student-athletes are "workers" providing "services" to an employer.
 
 I do not question the existence or virtue of amateurism in college athletics. But a combination of market forces, decades-spanning behavior of the NCAA and some Division I teams and athletes, and the Supreme Court's relevant antitrust decisions have enervated that concept, at least for some student-athletes. Whatever legal force amateurism once had in the Division I context, it is now insufficient to decide cases like this one. Instead, we must look to the language and rules provided by statute and Supreme Court decisions.
 
-<p class="case-h1">IV. Play is not work.</p>
+<p class="case-h1">IV. Play is not work.</p>
 
 The FLSA applies only to "employees" who perform "work" for an "employer." So an obvious starting point is to ask whether a student-athlete may play her chosen sport because she wants to play, not to work primarily for her university's benefit. Play is arguably a basic human good that many pursue for its own sake. It is not work, even though it may involve sustained, regulated, physical, or intellectual exertion and combine with other goals such as competition, teamwork, fitness, or personal glory.
 
@@ -138,7 +138,7 @@ Plaintiffs alleged that their college athletic experiences constitute work. But 
 
 The majority opinion helpfully acknowledges this nettlesome issue. But in my view, its definitional test does not adequately probe the distinction between play and work, nor explain how district courts should do so. In the following sections, I will explain my other scruples about the majority's proposed test and offer some affirmative thoughts.
 
-<p class="case-h1">V. The economic-reality test continues to apply in FLSA cases.</p>
+<p class="case-h1">V. The economic-reality test continues to apply in FLSA cases.</p>
 
 Congress and the Supreme Court have created a patchwork of tests for determining employee status under federal labor and employment laws. Initially, the Court used an "economic realities" test in cases applying the National Labor Relations Act (NLRA), FLSA, and Social Security Act (SSA). Almost immediately, Congress passed a joint resolution (the "Gearhart Resolution") rejecting the economic-realities test for the NLRA and SSA, and reiterating its intention that employee status under those statutes should be determined by traditional agency law principles. But Congress did not similarly amend the FLSA.
 
@@ -152,7 +152,7 @@ Other courts wrestling with the FLSA-employee question in the specific context o
 
 So while I appreciate the majority's attempt to fashion a test using common-law agency principles from NLRA cases, I respectfully decline to join that analysis without clearer direction from the Supreme Court. Instead, I think that the proper test for this case is to determine the economic reality of the parties' relationships considering the circumstances of the whole activity.
 
-<p class="case-h1">VI. The majority's test raises but does not answer some important questions.</p>
+<p class="case-h1">VI. The majority's test raises but does not answer some important questions.</p>
 
 In addition to my doubts about relying on common-law agency principles in the FLSA context, I find the majority's four-part test wanting in some respects.
 
@@ -194,7 +194,7 @@ Compared to FBS schools, the revenue vs. nonrevenue issue is presumably even mor
 
 I tend to agree with Judge Hamilton's intuition that the economic-reality question probably shakes out differently for FBS football players and March Madness-level men's basketball players than it does for other student-athletes. _See_ _Berger v. NCAA,_ 843 F.3d 285, 294 (7th Cir. 2016) (Hamilton, J., concurring). _See also_ _NCAA v. Alston,_ 594 U.S. 69, 141 S. Ct. 2141, 2166-69, 210 L.Ed.2d 814 (2021) (Kavanaugh, J., concurring) (focusing on the "enormous sums of money" generated in college athletics and noting distinction between revenue and "nonrevenue-raising sports"); _Agnew v. NCAA,_ 683 F.3d 328, 340-41 (7th Cir. 2012) (positing a relevant labor market, for purposes of the Sherman Act, consisting of "big-time college football programs"). That is a factual matter that the parties can develop in discovery. But any test that purports to gauge "economic reality" must be sensitive to the glaring difference between revenue generating and nonrevenue intercollegiate sports.
 
-<p class="case-h1">VII. The FLSA-employee test should account for longstanding precedent and existing law.</p>
+<p class="case-h1">VII. The FLSA-employee test should account for longstanding precedent and existing law.</p>
 
 For over 65 years, courts across the country have determined that student-athletes do not qualify as employees of their universities. 
 
@@ -202,6 +202,6 @@ As the Supreme Court emphasized in the antitrust context, changing market realit
 
 This case also presents difficult collateral legal issues that should give us pause. For example, the related-statutes canon requires harmonious interpretation of statutes. Employee-employer relationships are governed by Title VII, among other things, but Title VII's prohibition against employment discrimination because of sex sits uneasily with Title IX regulations and policy interpretations mandating equal "participation opportunities" (read, "participants") between the two sexes. FLSA employee status for student-athletes would also roil the percolating debate under Title IX over transgender athletes' participation on opposite-sex teams because Title VII, which would apply to collegiate athletics if student-athletes have employee status under FLSA, prohibits employment discrimination on the basis of gender identity. The notion that sports are integral to a university's educational purpose, rather than employment programs themselves, is the basis for several tax-advantageous rules benefitting universities and student-athletes, such as unrelated business income tax, and the taxation of athletic scholarships. And our disposition of this interlocutory appeal could impact student-athletes' eligibility for federal student aid, state worker's compensation regimes, student-athletes' immigration status, and the employment status of students participating in other college-supervised extracurricular activities. These potentially disruptive collateral effects implicate many other statutory schemes, revealing the legislative rather than adjudicative nature of plaintiffs' claims and providing another reason to slow down and proceed warily.
 
-<p class="case-h1">VIII. Conclusion</p>
+<p class="case-h1">VIII. Conclusion</p>
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.

@@ -15,7 +15,7 @@ title: Employee Duties to Employers
 
 Lowe’s workplace policy prohibits disclosure of confidential information, and an employee challenged the policy under Section 8(a)(1) of the National Labor Relations Act, which prevents employers from limiting employees’ discussions of their wages. The administrative law judge (“ALJ”) concluded that Lowe’s policy violated the Act. Lowe’s appealed to the National Labor Relations Board, and the Board affirmed. We AFFIRM.
 
-<p class="case-h1">I. FACTUAL AND PROCEDURAL HISTORY</p>
+<p class="case-h1">I. FACTUAL AND PROCEDURAL HISTORY</p>
 
 Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She alleged that a section of Lowe’s employee code violated 29 U.S.C. § 158(a)(1) by interfering with employees’ right to discuss wages. The relevant part of the Lowe’s policy reads as follows:
 
@@ -27,9 +27,9 @@ Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She 
 > 
 > • proprietary information relating to Lowe’s business such as customer, budget, financial, credit, marketing, pricing, supply cost, personnel, medical records or salary information, and future plans and strategy.
 
-<p class="case-h1">III. DISCUSSION</p>
+<p class="case-h1">III. DISCUSSION</p>
 
-<p class="case-h2">1. “Reasonably construe” standard</p>
+<p class="case-h2">1. “Reasonably construe” standard</p>
 
 In _Boeing_, the Board adopted a more flexible standard for assessing whether a facially neutral employment rule violates Secion 8(a)(1).
 
@@ -39,7 +39,7 @@ In other words, when a facially neutral rule cannot reasonably be interpreted to
 
 Here, the Board concluded that Lowe’s policy was facially neutral and could be reasonably construed to restrict employees’ wage discussions. The policy prohibits employees from discussing confidential information which explicitly includes “salary information.” We thus agree with the Board’s conclusion that the policy can be reasonably construed to limit employees’ rights under the NLRA. We now turn to Lowe’s legitimate justifications for the policy.
 
-<p class="case-h2">2. Lowe’s Legitimate Justifications</p>
+<p class="case-h2">2. Lowe’s Legitimate Justifications</p>
 
 Under _Boeing_, the Board created three categories of rules. Category 1 rules are per se lawful, either because they cannot be reasonably interpreted to interfere with employees’ rights or because the adverse impacts on rights is outweighed by justifications for the rule. Category 2 rules warrant individualized scrutiny in each case, and the Board must weigh the adverse impacts on NLRA rights with employer’s legitimate justifications. 
 
@@ -55,9 +55,9 @@ We find no error in the Board’s analysis. Lowe’s policy falls within the Cat
 
 For the reasons discussed below, we find that the Respondent violated Section 8(a)(1) by maintaining a media-contact provision in its Confidentiality Agreement.
 
-<p class="case-h1">I. Media-Contact Provision </p>
+<p class="case-h1">I. Media-Contact Provision </p>
 
-<p class="case-h2">A. Relevant Facts</p>
+<p class="case-h2">A. Relevant Facts</p>
 
 In October and November 2016, the Respondent required its employees to sign the following Confidentiality Agreement:
 
@@ -75,7 +75,7 @@ The Respondent created the Confidentiality Agreement in response to leaks of its
 
 The Respondent initially tried to have every employee physically sign a copy of the Confidentiality Agreement in the presence of a human resources (HR) partner. When that method proved to be logistically difficult, the Respondent, through a November 2, 2016 email sent by Vice President of Human Resources Mark Lipscomb, instructed all employees to electronically sign the Confidentiality Agreement in Workday. Lipscomb’s email stated that “it’s absolutely critical that we maintain strict confidentiality on all internal matters as any leak can have a negative impact on our company,” and that “in order to reinforce the importance of confidentiality, we are asking everyone to sign an updated confidentiality agreement.”
 
-<p class="case-h2">B. Legal Standard</p>
+<p class="case-h2">B. Legal Standard</p>
 
 In _Boeing Co._, the Board set out a new standard for determining whether a facially neutral work rule or policy, reasonably interpreted, would unlawfully interfere with, restrain, or coerce employees in the exercise of their Section 7 rights. The Board in _Boeing_ held:
 
@@ -93,7 +93,7 @@ However, these categories “will represent a classification of results from the
 
 The General Counsel has the initial burden to prove that a facially neutral rule or policy would, when read in context, be interpreted by a reasonable employee as potentially interfering with the exercise of Section 7 rights. If the General Counsel fails to meet this initial burden, the Board does not need to address the employer’s legitimate justifications for the rule. Instead, the rule is lawful and fits within _Boeing_ Category 1(a). Conversely, if the General Counsel does meet the initial burden of proving that a reasonable employee would interpret a rule as potentially interfering with the exercise of Section 7 rights, the Board will then balance that potential interference against the employer’s legitimate justifications for the rule. When the balance favors general employer interests, the rule at issue will be lawful and will fit within _Boeing_ Category 1(b). When the potential interference with Section 7 rights generally outweighs any possible employer justification, the rule at issue will be unlawful and will fit within _Boeing_ Category 3. Finally, “in some instances, it will not be possible to draw any broad conclusions about the legality of a particular rule because the context of the rule and the competing rights and interests involved are specific to that rule and that employer”; such rules will fit within _Boeing_ Category 2. 
 
-<p class="case-h2">C. Discussion</p>
+<p class="case-h2">C. Discussion</p>
 
 The Board has applied _Boeing_ to analyze media-contact rules in two recent cases. In _LA Specialty_, the Board found the following media-contact rule to be lawful:
 
@@ -141,11 +141,11 @@ Similarly, on November 30, 2018, Plaintiff Christopher Hunlock ("Hunlock") filed
 
 The Parties now seek approval of their proposed settlement. For the reasons that follow, the Parties' application is denied without prejudice.
 
-<p class="case-h1">I. Background</p>
+<p class="case-h1">I. Background</p>
 
 According to the Complaints, A2B provides non-emergency medical transportation services. Plaintiffs allege that they were not (1) informed of their right to overtime pay, (2) paid overtime for work in excess of 40 hours per week, or (3) provided with an appropriate wage notice. Plaintiffs seek damages, liquidated damages, pre- and post-judgment interest, further relief available under the FLSA and NYLL, and attorney fees.
 
-<p class="case-h1">II. Discussion</p>
+<p class="case-h1">II. Discussion</p>
 
 Under Fed. R. Civ. P. 41(a)(1)(A), a plaintiff's ability to dismiss an action without a court order is made "subject to ... any applicable federal statute." "Except as provided in Rule 41(a)(1), an action may be dismissed at the plaintiff's request only by court order, on terms that the court considers proper." The Second Circuit has confirmed that the FLSA is an "applicable federal statute," such that "Rule 41(a)(1)(A)(ii) stipulated dismissals settling FLSA claims with prejudice require the approval of the district court or the Department of Labor to take effect." Consequently, "the Parties must satisfy the Court that their agreement is 'fair and reasonable.'"
 
@@ -157,11 +157,11 @@ Conversely, factors which weigh against finding a settlement fair and reasonable
 
 > \(1) the presence of other employees situated similarly to the claimant; (2) a likelihood that the claimant's circumstance will recur; (3) a history of FLSA non-compliance by the same employer or others in the same industry or geographic region; and (4) the desirability of a mature record and a pointed determination of the governing factual or legal issue to further the development of the law either in general or in an industry or in a workplace.
 
-<p class="case-h2">C. Non-Disparagement Clause</p>
+<p class="case-h2">C. Non-Disparagement Clause</p>
 
 The Court finds that the Proposed Settlement's non-disparagement clause is reasonable. In this clause, the Parties mutually "agree not to say or publicize things that are insulting or disparaging about the other Party." The clause also contains a carve-out: "each of the parties are free to make truthful statements about their experience litigating their case (except as to statements made at the confidential mediation held on July 9, 2020)." Non-disparagement clauses are valid, so long as they contain such a carve-out. Thus, the Court approves the non-disparagement clause.
 
-<p class="case-h2">D. Non-Publicity Clause</p>
+<p class="case-h2">D. Non-Publicity Clause</p>
 
 The Court finds that the Proposed Settlement's non-publicity cause imposes reasonable restrictions on affirmative contact with media, but unreasonable restrictions on use of social media. This clause states that "Plaintiffs, on behalf of themselves and their counsel, agree not to take affirmative steps to contact the media or utilize social media to publicize the Proposed Settlement or its terms." The clause contains two specific carve-outs. First, "if contacted by the media regarding the Proposed Settlement, Plaintiffs and Plaintiffs' Counsel are free to make truthful statements about their experience litigating their case." Second, Plaintiffs' Counsel is permitted to post a brief description of the lawsuit and settlement to its website, including a hyperlink to the case dockets.
 
@@ -173,7 +173,7 @@ Here, the restriction on affirmative steps to communicate with the media is perm
 
 The Court finds that the restriction on use of social media is impermissible. Since individuals regularly use the internet to communicate with friends, colleagues, and family, restricting Plaintiffs ability to use it "places a substantial burden on their ability to openly discuss their experience litigating the lawsuit and entering into the Proposed Settlement." This is incompatible with the statutory purpose to "ensure that workers are aware of their rights." It is true that the Proposed Settlement restricts only efforts "to publicize" the agreement. However, this provides little comfort "given the broad range of meanings which can be imputed to the word 'publicize.'"
 
-<p class="case-h1">III. Conclusion</p>
+<p class="case-h1">III. Conclusion</p>
 
 For the foregoing reasons, the Parties' request for approval of their Proposed Settlement is denied without prejudice. The Parties may reapply for approval of a settlement that eliminates or tailors the provision restricting use of social media.
 
@@ -195,7 +195,7 @@ The agreement provided for substantial monetary and injunctive sanctions against
 
 The Respondent neither gave the Union notice that it was permanently furloughing the 11 employees nor an opportunity to bargain regarding that decision and its effects. The Respondent also did not give the Union notice that it presented the severance agreement to the employees, nor did it include the Union in its discussions with the employees regarding their permanent furloughs and the severance agreement. Thus, the Respondent entirely bypassed and excluded the Union from the significant workplace events here: employees' permanent job loss and eligibility for severance benefits.
 
-<p class="case-h1">III. </p>
+<p class="case-h1">III. </p>
 
 The gravamen of the General Counsel's amended complaint is that the nondisparagement and confidentiality provisions of the severance agreement unlawfully restrain and coerce the furloughed employees in the exercise of their Section 7 rights. Applying _Baylor_ and _IGT_, the judge found these provisions to be lawful, and thus concluded that the severance agreement was lawful and that the proffer of the agreement to the furloughed employees was lawful. The General Counsel excepts to the dismissal and argues, among other things, that the Board should overrule _Baylor_ and _IGT._ We agree.
 
@@ -219,7 +219,7 @@ But whether an employer harbors animus against Section 7 activity is irrelevant 
 
 Indeed, neither _Baylor_ nor the _IGT_ majority attempted to articulate any policy considerations that would justify its severely constricted view of Section 7 rights. The _IGT_ majority reasons that because _some_ employee waivers of Section 7 rights are permissible, _no_ waivers can be facially unlawful, but this is a non sequitur. Whether or not employees view employer documents through the prism of Section 7 rights (a proposition questioned by the _IGT_ majority), the Board must do so when the General Counsel issues a complaint alleging that a severance agreement violates employee Section 7 rights. Because both _Baylor_ and the _IGT_ majority fail this test, we overrule them.
 
-<p class="case-h1">IV. </p>
+<p class="case-h1">IV. </p>
 
 _Baylor_ and the _IGT_ majority ignore well-established precedent concerning waiver of employee rights. The Board does not write on a clean slate regarding employee waiver of Section 7 rights via a severance agreement. There is a backdrop of nearly a century of settled law that employees may not broadly waive their rights under the NLRA. Agreements between employers and employees that restrict employees from engaging in activity protected by the Act, or from filing unfair labor practice charges with the Board, assisting other employees in doing so, or assisting the Board's investigative process, have been consistently deemed unlawful. The "future rights of employees as well as the rights of the public may not be traded away" in a manner which requires "forebearance from future charges and concerted activities." This broad proscription underscores that the Board acts in a public capacity to protect public rights to give effect to the declared public policy of the Act. 
 
@@ -231,7 +231,7 @@ It is through the lens of this broad grant of rights and the Board's duty to pro
 
 Certainly such surrounding circumstances may enhance the reasonable tendency of the severance agreement to coerce employees, but that tendency does not depend on them. Where an agreement unlawfully conditions receipt of severance benefits on the forfeiture of statutory rights, the mere proffer of the agreement itself violates the Act, because it has a reasonable tendency to interfere with or restrain the prospective exercise of Section 7 rights, both by the separating employee and those who remain employed. Whether the employee accepts the agreement is immaterial. As the Board explained in _Metro Networks_, the employer's "proffer of the severance agreement . . . constitutes an attempt to deter the employee from assisting the Board" and the employee's "conduct in _not_ signing the agreement did not render the employer's conduct lawful." If the law were to the contrary, it would create an incentive for employers to proffer severance agreements with unlawful provisions to employees. Only if the employee signed the agreement, subjected herself to its unlawful requirements, and then came to the Board would the Board be able to address the situation, belatedly. No policy of the Act is served by creating this obstacle to the effective protection of Section 7 rights. In fact, under established standards, no showing of actual coercion is required to prove a violation of Section 8(a)(1) of the Act. Rather, it is the high potential that coercive terms in separation agreements may chill the exercise of Section 7 rights that dictates the Board's traditional approach of viewing severance agreements requiring the forfeiture of Section 7 rights-- whether accepted or merely proffered--as unlawful unless narrowly tailored.
 
-<p class="case-h1">V. </p>
+<p class="case-h1">V. </p>
 
 Examining the language of the severance agreement here, we conclude that the nondisparagement and confidentiality provisions interfere with, restrain, or coerce employees' exercise of Section 7 rights. Because the agreement conditioned the receipt of severance benefits on the employees' acceptance of those unlawful provisions, we find that the Respondent's proffer of the agreement to employees violated Section 8(a)(1) of the Act.
 
@@ -287,7 +287,7 @@ Accordingly, because both a non-compete and the potential misappropriation of tr
 
 <p class="case-h1">Discussion</p>
 
-<p class="case-h1">I. Misappropriation of Trade Secrets</p>
+<p class="case-h1">I. Misappropriation of Trade Secrets</p>
 
 Plaintiff first argues that the trial court erred by concluding that it has not demonstrated a likelihood of success on the merits of its claim for trade secret misappropriation. After careful review, we agree.
 
@@ -357,9 +357,9 @@ Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of 
 
 MikLin Enterprises, Inc. ("MikLin") petitions for review of a National Labor Relations Board ("Board") Order holding that MikLin violated Sections 8(a)(1) and 8(a)(3) of the National Labor Relations Act ("NLRA" or "the Act") when it (i) discharged and disciplined employees who publicly distributed posters suggesting that MikLin's "Jimmy John's" sandwiches posed a health risk to consumers; (ii) solicited employees to aid in removing the posters; (iii) encouraged employees to disparage a union supporter; and (iv) removed union literature from in-store bulletin boards. MikLin argues that the Board misapplied governing law and its decision is not supported by substantial evidence. The Board cross-petitions for enforcement of its Order. A divided panel enforced the Order in its entirety. We granted rehearing en banc and vacated the panel decision. We now conclude that the means the disciplined employees used in their poster attack were so disloyal as to exceed their right to engage in concerted activities protected by the NLRA, as construed in a controlling Supreme Court precedent, _NLRB v. Local Union No. 1229, IBEW_, 346 U.S. 464 (1953) ("Jefferson Standard"). We therefore decline to enforce the determination that MikLin violated the Act by disciplining and discharging those employees and by soliciting removal of the unprotected posters. We enforce the remainder of the Order, as so modified.
 
-<p class="case-h1">I. Background.</p>
+<p class="case-h1">I. Background.</p>
 
-<p class="case-h2">A. The "Sick Day Posters" Campaign.</p>
+<p class="case-h2">A. The "Sick Day Posters" Campaign.</p>
 
 MikLin is a family enterprise that owns and operates ten Jimmy John's sandwich-shop franchises in the Minneapolis-St. Paul area. Michael Mulligan is president and co-owner; Robert Mulligan, his son, is vice-president. In 2007, several MikLin workers began an organizing campaign seeking representation by the Industrial Workers of the World ("IWW") union. The IWW lost a Board-conducted election in October 2010, filed unfair labor practice charges and objections to the election with the Board, and continued its organizing campaign by urging MikLin to provide employees holiday pay in late 2010. On January 10, 2011, MikLin and the IWW settled the IWW's objections. MikLin admitted no wrongdoing but agreed to a Board-conducted rerun election if the IWW filed for the election after sixty days but not later than after eighteen months.
 
@@ -379,7 +379,7 @@ On March 20, IWW supporters implemented their threat to plaster the city with a 
 
 The IWW continued its sick leave attack. In a press release issued a day after the terminations, a discharged employee stated: "It just isn't safe — customers are getting their sandwiches made by people with the flu, and they have no idea. Rather than safeguard public health and do the right thing for their employees and their customers, Jimmy John's owners Mike and Rob Mulligan are trying to silence us." On March 30, the IWW issued another press release stating that "customers have a right to know that their sandwich could be filled with germs," that IWW members have a duty to speak out on this "public health issue," and that employees "blew the whistle by posting 3000 copies of a poster advising the public of health risks at the sandwich chain." The release quoted one employee as stating: "The unfettered greed of franchise owner Mike Mulligan and Jimmy John Liautaud himself jeopardizes the health of thousands of customers and workers almost every day. We will speak out until they realize that no one wants to eat a sandwich filled with cold and flu germs."
 
-<p class="case-h2">B. The NLRB Proceedings.</p>
+<p class="case-h2">B. The NLRB Proceedings.</p>
 
 Following a two-day evidentiary hearing, the Board's Administrative Law Judge ("ALJ") concluded that MikLin violated Sections 8(a)(1) and 8(a)(3) of the Act. Citing prior Board decisions, the ALJ ruled that "Section 7 29 U.S.C. § 157 protects employee communications to the public that are part of and related to an ongoing labor dispute," such as the Sick Day posters and related press releases, unless they are "so disloyal, reckless, or maliciously untrue as to lose the Act's protections." To lose Section 7 protection, "an employee's public criticism must evidence 'a malicious motive'" or be made with knowledge of the statements' falsity or with reckless disregard for their truth or falsity.
 
@@ -389,7 +389,7 @@ A divided panel of the Board affirmed the ALJ's findings and conclusions. The ma
 
 Turning to the question of disloyalty, the majority noted that "Board law has developed considerably in its approach to the question of employee disloyalty." "To lose the Act's protection as an act of disloyalty, an employee's public criticism of an employer must evidence a malicious motive," even if the public communication "raises highly sensitive issues such as public safety." Accepting the majority's summary of prior Board decisions, the dissenting Member would nonetheless have held the Sick Day posters and press release unprotected, because "it is well established that employees lose the Act's protection if their means of protest are 'flagrantly disloyal, wholly incommensurate with any grievances which they may have, and manifested by public disparagement of the employer's product or undermining of its reputation,'".
 
-<p class="case-h1">II. "Sick Day" Poster Issues.</p>
+<p class="case-h1">II. "Sick Day" Poster Issues.</p>
 
 It is well established that an employer commits an unfair labor practice if it discharges employees for engaging in concerted activities that are protected by Section 7 of the NLRA, including communications to third parties or to the public that seek to "improve their lot as employees through channels outside the immediate employee-employer relationship." Section 10(c) of the Act, however, expressly limits the Board's broad authority to remedy unlawful employee discharges: "No order of the Board shall require the reinstatement of any individual as an employee if such individual was suspended or discharged for cause." The interplay between Section 7 and Section 10(c) was the critical question the Supreme Court addressed in Jefferson Standard.
 
@@ -447,7 +447,7 @@ Two of Food Lion's claims are at issue here. Food Lion claims that Litt and Barn
 
 <p class="case-h1">III.</p>
 
-<p class="case-h2">A. Fiduciary Duty</p>
+<p class="case-h2">A. Fiduciary Duty</p>
 
 Defendants maintain that there can be no violation of fiduciary duty because there never was a fiduciary relationship for Litt and Barnett to violate. For a fiduciary relationship to exist, according to Defendants, there must be a relationship of special confidence or access to confidential information. In some contexts, Defendants' contentions might be correct. To the contrary, however, it appears both the North Carolina and South Carolina Supreme Courts likely would recognize a broader claim.
 
@@ -621,7 +621,7 @@ Accordingly, because both a non-compete and the potential misappropriation of tr
 
 <p class="case-h1">Discussion</p>
 
-<p class="case-h1">II. Breach of Contract</p>
+<p class="case-h1">II. Breach of Contract</p>
 
 Plaintiff next argues that the trial court erred by concluding that it failed to present a likelihood of success on the merits of its claim for breach of the non-compete. We agree.
 

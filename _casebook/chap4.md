@@ -253,7 +253,7 @@ The three-judge panel affirmed, but on somewhat different grounds. The panel maj
 
 We agree with the district court and the panel majority that on this record, Jespersen has failed to present evidence sufficient to survive summary judgment on her claim that the policy imposes an unequal burden on women. With respect to sex stereotyping, we hold that appearance standards, including makeup requirements, may well be the subject of a Title VII claim for sexual stereotyping, but that on this record Jespersen has failed to create any triable issue of fact that the challenged policy was part of a policy motivated by sex stereotyping. We therefore affirm.
 
-<p class="case-h1">I. BACKGROUND</p>
+<p class="case-h1">I. BACKGROUND</p>
 
 Plaintiff Darlene Jespersen worked successfully as a bartender at Harrah's for twenty years and compiled what by all accounts was an exemplary record. During Jespersen's entire tenure with Harrah's, the company maintained a policy encouraging female beverage servers to wear makeup. The parties agree, however, that the policy was not enforced until 2000. In February 2000, Harrah's implemented a "Beverage Department Image Transformation" program at twenty Harrah's locations, including its casino in Reno. Part of the program consisted of new grooming and appearance standards, called the "Personal Best" program. The program contained certain appearance standards that applied equally to both sexes, including a standard uniform of black pants, white shirt, black vest, and black bow tie. Jespersen has never objected to any of these policies. The program also contained some sex-differentiated appearance requirements as to hair, nails, and makeup.
 
@@ -307,7 +307,7 @@ The record therefore does not contain any affidavit or other evidence to establi
 
 The district court granted Harrah's motion for summary judgment on all of Jespersen's claims. In this appeal, Jespersen maintains that the record before the district court was sufficient to create triable issues of material fact as to her unlawful discrimination claims of unequal burdens and sex stereotyping. We deal with each in turn.
 
-<p class="case-h1">II. UNEQUAL BURDENS</p>
+<p class="case-h1">II. UNEQUAL BURDENS</p>
 
 In order to assert a valid Title VII claim for sex discrimination, a plaintiff must make out a prima facie case establishing that the challenged employment action was either intentionally discriminatory or that it had a discriminatory effect on the basis of gender. Once a plaintiff establishes such a prima facie case, "the burden then must shift to the employer to articulate some legitimate, nondiscriminatory reason for the employee's rejection." 
 
@@ -329,7 +329,7 @@ Jespersen asks us to take judicial notice of the fact that it costs more money a
 
 Having failed to create a record establishing that the "Personal Best" policies are more burdensome for women than for men, Jespersen did not present any triable issue of fact. The district court correctly granted summary judgment on the record before it with respect to Jespersen's claim that the makeup policy created an unequal burden for women.
 
-<p class="case-h1">III. SEX STEREOTYPING</p>
+<p class="case-h1">III. SEX STEREOTYPING</p>
 
 In _Price Waterhouse,_ the Supreme Court considered a mixed-motive discrimination case. There, the plaintiff, Ann Hopkins, was denied partnership in the national accounting firm of Price Waterhouse because some of the partners found her to be too aggressive. While some partners praised Hopkins's "'strong character, independence and integrity,'" others commented that she needed to take "'a course at charm school.'" The Supreme Court determined that once a plaintiff has established that gender played "a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken the plaintiff's gender into account."
 
@@ -455,7 +455,7 @@ On appeal, Cloutier vigorously asserts that her insistence on displaying all her
 
 We find dispositive that the only accommodation Cloutier considers reasonable, a blanket exemption from the no-facial-jewelry policy, would impose an undue hardship on Costco. In such a situation, an employer has no obligation to offer an accommodation before taking an adverse employment action. 
 
-<p class="case-h2">A. Title VII</p>
+<p class="case-h2">A. Title VII</p>
 
 Title VII of the Civil Rights Act of 1964 prohibits employers from discriminating against employees on the basis of, among other things, religion. Under Title VII, an employer must offer a reasonable accommodation to resolve a conflict between an employee's sincerely held religious belief and a condition of employment, unless such an accommodation would create an undue hardship for the employer's business.
 
@@ -588,7 +588,7 @@ In its decisions carrying out this important function, the Board has grappled wi
 
 Over the past nearly 25 years, the Board has attempted to articulate and consistently apply a generally applicable test under Section 8(a)(1) for assessing facial challenges to work rules. For almost half that time, the _Lutheran Heritage_ standard provided the interpretive principles relevant to assessing the impact of a given rule on employees’ rights. We detail the Board’s recent history below with an eye toward explaining why a modified version of the _Lutheran Heritage_ standard is the best approach to evaluating facial challenges to work rules in light of the Board’s experience and long-established statutory principles. Our decision today does not disturb the Board’s long-established doctrines covering work rules that address union (or other protected) solicitation, distribution, or insignia. Consistent with the Board’s decisions in both _Lutheran Heritage_ and _Boeing_, we preserve Board precedent in those areas.
 
-<p class="case-h2">A. Lafayette Park</p>
+<p class="case-h2">A. Lafayette Park</p>
 
 The recent history of the Board’s approach to work rules begins with _Lafayette Park Hotel_ (1998). There, a full Board considered facial challenges to rules defining various types of “unacceptable conduct.” The Board identified “the appropriate inquiry” as “whether the rules would reasonably tend to chill employees in the exercise of their Section 7 rights” and that, where there is a likely chilling effect, “the Board may conclude that their maintenance is an unfair labor practice, even absent evidence of enforcement.” For that standard, the Board referred to the Supreme Court’s decision in _Republic Aviation_, quoting its admonition that assessing the challenged rules involves “working out an adjustment between the undisputed right of self-organization assured to employees under the Act and the equally undisputed right of employers to maintain discipline in their establishments.” Member Hurtgen, disagreeing with the majority, expressed his view that “if a rule reasonably chills the exercise of Sec. 7 rights, it can nonetheless be lawful if it is justified by significant employer interests.”
 
@@ -596,7 +596,7 @@ In analyzing the challenged rules’ impact on employees under its announced sta
 
 The _Lafayette Park_ Board was divided, too, in how to correctly apply the announced standard to particular rules. In a partial dissent, Members Fox and Liebman thought the majority merely paid “lip service” to the applicable interpretive principles in upholding rules that, in their view, had “the likely effect of chilling Section 7 activity.” In response, Chairman Gould characterized their dissenting approach as one that improperly “parsed out certain words and createed theoretical definitions” for rules “that differ from the obvious ones.” He asserted that the Board should not “focus on whether any language in the rules could theoretically encompass Section 7 activity” but, instead, should focus on “whether a reasonable employee could believe that the rule prohibits protected activity.” 
 
-<p class="case-h2">B. Lutheran Heritage</p>
+<p class="case-h2">B. Lutheran Heritage</p>
 
 A few years later, in another full-Board decision, _Lutheran Heritage_ (2004), the majority construed Lafayette Park to mean that the relevant inquiry “begins with the issue of whether the rule explicitly restricts activities protected by Section 7.” If it does not, a violation “is dependent upon a showing of one of the following: (1) employees would reasonably construe the language to prohibit Section 7 activity; (2) the rule was promulgated in response to union activity; or (3) the rule has been applied to restrict the exercise of Section 7 rights.” Under the first of these prongs, the majority instructed that the Board “must refrain from reading particular phrases in isolation,” “must not presume” that a rule will cause “improper interference with employee rights,” and should not conclude “that a reasonable employee would read a rule to apply to Section 7 activity simply because the rule could be interpreted that way.” 
 
@@ -606,7 +606,7 @@ In dissent, Members Liebman and Walsh raised the issue of balancing. They argued
 
 _Lutheran Heritage_, then, again demonstrated the Board’s ongoing efforts to develop a standard that grappled with the two key questions posed in work rules cases: (1) how to interpret a rule and (2) whether and how employer interests factor into the analysis.
 
-<p class="case-h2">C. Aftermath of Lutheran Heritage</p>
+<p class="case-h2">C. Aftermath of Lutheran Heritage</p>
 
 Following _Lutheran Heritage_, the Board decided many work rules cases, and reviewing courts consistently applied and upheld the standard.8 However, there was some degree of confusion and disagreement about some aspects of its proper application, in particular whether, and if so, how, to consider an employer’s reasons for maintaining a challenged rule.
 
@@ -614,7 +614,7 @@ For instance, in _Flagstaff Medical Center_ (2011), a panel majority found a hos
 
 But in a separate decision issued on the same day, a different panel majority assessed an employer’s maintenance of certain work rules and made no mention of the employer’s interests. Instead, the majority determined that the “only question” relevant was whether the employees “would reasonably construe the . . . rules to prohibit Section 7 activity” and did not mention the employer’s interests for maintaining the rules as part of its analysis resolving that question. Courts occasionally regarded the Board’s implicit approach to addressing employer interests under _Lutheran Heritage_ as placing a rebuttal burden on the employer, once it was established that a rule had a reasonable tendency to chill employees’ exercise of Section 7 rights.9
 
-<p class="case-h2">D. William Beaumont</p>
+<p class="case-h2">D. William Beaumont</p>
 
 In _William Beaumont Hospital_ (2016), a majority consisting of then-Member McFerran and Member Hirozawa struck down a hospital employer’s rule prohibiting conduct that “impedes harmonious interactions and relationships” because employees would reasonably understand that it could encompass interactions protected by Section 7. The majority also found a rule prohibiting “negative or disparaging comments” unlawful because it would reasonably be construed to prohibit protected expressions of concern about working conditions. 
 
@@ -622,7 +622,7 @@ In dissent, Member Miscimarra contended that the _Lutheran Heritage_ standard fo
 
 In response, the _William Beaumont_ majority acknowledged that assessing work rules was a “difficult area of labor law,” particularly because of “the remarkable number, variety, and detail of employer work rules.” But the majority also noted that, in the years since the Board had decided _Lutheran Heritage_, no court of appeals had rejected the standard that the Board regularly applied in work-rules cases. The majority further explained that the _Lutheran Heritage_ standard did, in fact, “take into account employer interests.” It did so by leaving employers free to protect their legitimate business interests by adopting more narrowly tailored rules while not infringing on Section 7 rights. The majority noted that when the Board found that a rule was not unlawfully overbroad, “it was typically because the rule was tailored such that the employer’s legitimate business interest in maintaining the rule was sufficiently apparent to a reasonable employee.” 
 
-<p class="case-h2">E. Boeing and LA Specialty Produce</p>
+<p class="case-h2">E. Boeing and LA Specialty Produce</p>
 
 Less than 2 years later, without being asked and without seeking any public input, a newly constituted Board effectively incorporated the William Beaumont dissent into the majority opinion in _Boeing Co._ (2017). The _Boeing_ majority held that, when deciding the lawfulness of maintaining a ““facially neutral” work rule, the Board “will evaluate two things: (i) the nature and extent of the potential impact on NLRA rights, and (ii) legitimate justifications associated with the rule.” Those two factors would be balanced against each other. According to the majority, the _Lutheran Heritage_ standard did not permit the Board to consider an employer’s legitimate business reasons for maintaining a rule; to distinguish between more and less important Section 7 interests; to differentiate among industries, work settings, or specific circumstances reflected in a given rule; or to produce consistent rulings in work-rules cases. And the majority claimed that past Board decisions specifying criteria for assessing the lawfulness of specific types of rules--like rules concerning workplace solicitation and distribution of literature--comport with its standard, which permitted accommodating employer interests, but not under _Lutheran Heritage_, which it asserted did not.
 
@@ -642,7 +642,7 @@ Member McFerran dissented. As a threshold matter, she summarized what she deemed
 
 Member McFerran also disagreed with the clarifications that _LA Specialty Produce_ purported to make to _Boeing_. Specifically, she argued that the majority’s description of a reasonable employee ignored employees’ economic dependence on the employer and the resulting reasonable tendency to interpret work rules as coercive, even where a disinterested person would not. She also faulted the majority’s requirement that the General Counsel must prove that a work rule “would in context be interpreted . . . to potentially interfere with the exercise of Section 7 rights” as effectively (but not explicitly) requiring a showing that the coercive interpretation of a rule is the only reasonable interpretation. As for the balancing test, Member McFerran noted that the majority failed to explain which party has the burden of proof with respect to the balancing, and that its endorsement of a “general” balancing approach eliminated consideration of the language of a particular rule or the requirement of narrow tailoring. 
 
-<p class="case-h2">F. Aftermath of Boeing and LA Specialty Produce</p>
+<p class="case-h2">F. Aftermath of Boeing and LA Specialty Produce</p>
 
 Since _Boeing_ was decided, both before and after the Board’s attempted clarification of it in _LA Specialty Produce_, the Board has applied its new standard in a number of cases. The Board has usually found work rules lawful to maintain and, generally, has categorically deemed all similar rules to be lawful to maintain, no matter the specific wording of any particular rule or the specific workplace context in which they are maintained.
 
@@ -901,7 +901,7 @@ In addition to finding that the discharges of Sanzone and Spinella violated the 
 
 Plaintiff Deborah Ehling brings this action against Monmouth-Ocean Hospital Service Corp. ("MONOC"), Vincent Robbins, and Stacy Quagliana (collectively "Defendants"), alleging violations of the Electronic Communications Privacy Act, the Family Medical Leave Act, and various state laws. This matter comes before the Court on Defendants' motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim upon which relief may be granted. For the reasons set forth below, Defendants' Rule 12(b)(6) motion is GRANTED in part, and DENIED in part.
 
-<p class="case-h1">I. Background</p>
+<p class="case-h1">I. Background</p>
 
 Plaintiff Deborah Ehling is a registered nurse and paramedic. Defendant Monmouth-Ocean Hospital Service Corporation ("MONOC") is a non-profit hospital service corporation dedicated to providing emergency medical services to the citizens of the State of New Jersey. Defendant Vincent Robbins is the President and CEO of MONOC. Defendant Stacy Quagliana is the Executive Director of Administration at MONOC.
 
@@ -915,11 +915,11 @@ Plaintiff alleges that MONOC "subsequently gained access to Ms. Ehling's Faceboo
 
 On June 17, 2009, MONOC sent letters regarding Plaintiff's Facebook posting to the New Jersey Board of Nursing and the New Jersey Department of Health, Office of Emergency Medical Services. The letters state that MONOC was concerned that Plaintiff's Facebook posting showed a disregard for patient safety. Plaintiff alleges that these letters were sent in a "malicious" attempt to attack Plaintiff, damage her reputation and employment opportunities, and potentially risk losing her nursing license and paramedic certification status.
 
-<p class="case-h1">III. Discussion</p>
+<p class="case-h1">III. Discussion</p>
 
 Defendants move to dismiss two of the nine counts in the Amended Complaint: (1) Count II, alleging a violation of the New Jersey Wiretapping and Electronic Surveillance Control Act; and (2) Count IV, alleging common law invasion of privacy. Each issue will be addressed in turn.
 
-<p class="case-h2">b. Common Law Invasion of Privacy </p>
+<p class="case-h2">B. Common Law Invasion of Privacy </p>
 
 Plaintiff asserts a claim for common law invasion of privacy. Plaintiff's claim is premised on Defendants' alleged unauthorized "accessing of her private Facebook postings" regarding the Holocaust Museum shooter. Defendants move to dismiss, arguing that Plaintiff did not have a reasonable expectation of privacy in her Facebook posting. The Court finds that the motion to dismiss should be denied.
 
@@ -1254,7 +1254,7 @@ And while it is true that, as a general rule of statutory construction, the brea
 
 <p class="case-h1">David S. Cayer, United States Magistrate Judge</p>
 
-<p class="case-h1">I. Factual and Procedural Background</p>
+<p class="case-h1">I. Factual and Procedural Background</p>
 
 Taking the facts of the Second Amended Complaint as true, Plaintiff is a fifty-four year old woman who worked for Defendants in their motor vehicle auction business for over fourteen years. She was terminated in February 2019. At the time of her termination, Plaintiff was a Total Resource Auction supervisor and managed seven employees. She was a loyal, reliable and respected employee.
 
@@ -1270,9 +1270,9 @@ On May 22, 2019, Plaintiff filed a wrongful discharge claim in Iredell County Su
 
 Defendants removed the case to this Court on July 1, 2019 and moved to dismiss Plaintiff’s Complaint.
 
-<p class="case-h1">III. Discussion</p>
+<p class="case-h1">III. Discussion</p>
 
-<p class="case-h2">A. Wrongful Termination for Use of Lawful Product Claim</p>
+<p class="case-h2">A. Wrongful Termination for Use of Lawful Product Claim</p>
 
 Plaintiff alleges that Defendants terminated her employment for using a lawful product, CBD oil, outside of work in violation of the public policy of North Carolina set forth in N.C. Gen. Stat. §95-28.2. Defendants move to dismiss this claim by arguing that the THC in CBD oil remains illegal. Defendants further argue that Plaintiff was not meeting the reasonable expectations of her employer by having “high levels” of THC at work and failing to comply with their valid workplace drug policy.
 
