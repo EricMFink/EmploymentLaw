@@ -525,9 +525,11 @@ We also find no evidence of attendant circumstances to indicate that Camp's cond
 
 As a consequence of concluding that employee Camp was without fiduciary duty, that his position was not one "in or affecting commerce," and that his business actions were neither aggravating nor egregious, we conclude that the trial court properly granted summary judgment as to employer Dalton's claim under N.C.G.S. § 75-1.1. Therefore, with regard to both appellants Camp and MCC, we reverse the Court of Appeals on this issue.
 
-####  -- Recovery of Damages for Exceeding the Scope of Authorized Access to Property. {#ncgs-exceeding-scope-of-authorized-access-to-property}
+####  N.C.G.S. § 99-A-2 {#ncgs-99a2}
 
 <div class="legal-code">
+
+**Recovery of Damages for Exceeding the Scope of Authorized Access to Property. **
 
 (a) Any person who intentionally gains access to the nonpublic areas of another's premises and engages in an act that exceeds the person's authority to enter those areas is liable to the owner or operator of the premises for any damages sustained. For the purposes of this section, "nonpublic areas" shall mean those areas not accessible to or not intended to be accessed by the general public.
 
