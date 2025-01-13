@@ -85,26 +85,29 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  January 27 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Scope & Limits of Employer Control** | &nbsp;
- January 29 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
- February 3 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
- February 5 | Control Outside Work | Casebook, Chap. 4, § 2
+ January 27 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
+ January 29 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
+ February 3 | Control Outside Work | Casebook, Chap. 4, § 2
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Duties to Employers** | &nbsp;
- February 10 | Confidentiality | Casebook, Chap. 5, § 1
- February 12 | Loyalty | Casebook, Chap. 5, § 2
+ February 5 | Confidentiality | Casebook, Chap. 5, § 1
+ February 10 | Loyalty | Casebook, Chap. 5, § 2
  February 17 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Wages & Hours** | &nbsp;
- February 19 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
+ February 17 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Health & Safety** | &nbsp;
- February 24 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
- February 26 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
+ February 19 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
+ February 24 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Terminating Employment** | &nbsp;
- March 3 | Employment-at-Will | Casebook, Chap. 8, § 1.1
- March 5 | Contractual Claims | Casebook, Chap. 8, § 1.2
- March 10 | Tort Claims | Casebook, Chap. 8, § 1.3
- March 12 | Statutory Claims | Casebook, Chap. 8, § 1.4
- March 17  | Unemployment Compensation | Casebook, Chap. 8, § 2
+ February 26 | Employment-at-Will | Casebook, Chap. 8, § 1.1
+ March 3 | Contractual Claims | Casebook, Chap. 8, § 1.2
+ March 5 | Tort Claims | Casebook, Chap. 8, § 1.3
+ March 10 | Statutory Claims | Casebook, Chap. 8, § 1.4
+ March 12  | Unemployment Compensation | Casebook, Chap. 8, § 2
+ March 17 | Make-Up Class (if needed) | &nbsp;
  March 17 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)
+
+ N.B. This class will not meet on Monday, January 20th (Martin Luther King, Jr. Day)
