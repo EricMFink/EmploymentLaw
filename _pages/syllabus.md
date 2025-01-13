@@ -95,7 +95,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
  February 17 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Wages & Hours** | &nbsp;
- February 17 | Minimum Wage, Overtime, & Wage Payment | Casebook, Chap. 6
+ February 12 & 17 | Minimum Wage, Overtime, & Wage Payments | Casebook, Chap. 6
  &nbsp; |  &nbsp; |  &nbsp;
  &nbsp; | **Employee Health & Safety** | &nbsp;
  February 19 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
