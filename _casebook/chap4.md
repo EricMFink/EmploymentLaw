@@ -265,35 +265,35 @@ In April 2000, Harrah's amended that policy to require that women wear makeup. J
 > 
 > Beverage Bartenders and Barbacks will adhere to these additional guidelines:
 > 
-> • Overall Guidelines (applied equally to male/ female):
+> \• Overall Guidelines (applied equally to male/ female):
 > 
-> • Appearance: Must maintain Personal Best image portrayed at time of hire.
+> > \• Appearance: Must maintain Personal Best image portrayed at time of hire.
 > 
-> • Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
+> > \• Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
 > 
-> • No faddish hairstyles or unnatural colors are permitted.
+> > \• No faddish hairstyles or unnatural colors are permitted.
 > 
-> • Males:
+> \• Males:
 > 
-> • Hair must not extend below top of shirt collar. Ponytails are prohibited.
+> > \• Hair must not extend below top of shirt collar. Ponytails are prohibited.
 > 
-> • Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
+> > \• Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
 > 
-> • Eye and facial makeup is not permitted.
+> > \• Eye and facial makeup is not permitted.
 > 
-> • Shoes will be solid black leather or leather type with rubber (non skid) soles.
+> > \• Shoes will be solid black leather or leather type with rubber (non skid) soles.
 > 
-> • Females:
+> \• Females:
 > 
-> • Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
+> > \• Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
 > 
-> • Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
+> > \• Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
 > 
-> • Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
+> > \• Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
 > 
-> • Shoes will be solid black leather or leather type with rubber (non skid) soles.
+> > \• Shoes will be solid black leather or leather type with rubber (non skid) soles.
 > 
-> • _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
+> > \• _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
 
 Jespersen did not wear makeup on or off the job, and in her deposition stated that wearing it would conflict with her self-image. It is not disputed that she found the makeup requirement offensive, and felt so uncomfortable wearing makeup that she found it interfered with her ability to perform as a bartender. Unwilling to wear the makeup, and not qualifying for any open positions at the casino with a similar compensation scale, Jespersen left her employment with Harrah's.
 
