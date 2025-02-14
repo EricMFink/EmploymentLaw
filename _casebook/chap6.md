@@ -927,27 +927,29 @@ During her employment, Ms. Greene received a salary of between $45,000 and $48,5
 
 > Employer: Tyler Technologies
 
-> title: Implementation Consultant
+> Title: Implementation Consultant
 
-> Duration: February 2016 — Present Job Duties
+> Duration: February 2016 — Present 
 
-> • Manage multiple client implementations simultaneously, while meeting all project plan deadlines.
+> Job Duties
 
-> • Build, lead and direct project teams to meet project objectives
+> > • Manage multiple client implementations simultaneously, while meeting all project plan deadlines.
 
-> • Strong leadership and delegation skills
+> > • Build, lead and direct project teams to meet project objectives
 
-> • Set clear expectations and goals for project teams. Track progress against timeline, milestones and budget, revise as needed
+> > • Strong leadership and delegation skills
 
-> • Hold regularly scheduled meetings with the client to ensure that milestones are met
+> > • Set clear expectations and goals for project teams. Track progress against timeline, milestones and budget, revise as needed
 
-> • Provide software application training using a variety of delivery methods including web-based and on-site training
+> > • Hold regularly scheduled meetings with the client to ensure that milestones are met
 
-> • Coordinate new customer implementations, providing effective training to maximize use the software
+> > • Provide software application training using a variety of delivery methods including web-based and on-site training
 
-> • Excellent communication (written and oral) and interpersonal skills
+> > • Coordinate new customer implementations, providing effective training to maximize use the software
 
-> • Effective at engaging with people from all backgrounds and work industries
+> > • Excellent communication (written and oral) and interpersonal skills
+
+> > • Effective at engaging with people from all backgrounds and work industries
 
 Plaintiff Greene filed this action on March 26, 2019 asserting a single claim for failure to pay overtime pursuant to 29 U.S.C. §§ 207 and 215(a)(2), alleging that Tyler's failure to pay her time-and-a-half for overtime hours worked was not done in good faith within the meaning of 29 U.S.C. § 260.
 
@@ -971,7 +973,7 @@ Tyler argues that, as an implementation consultant, Ms. Greene performed work di
 
 Per DOL regulations, to meet the requirement that an employee perform work "directly related to the management or general business operations," an employee "must perform work directly related to assisting with the _running or servicing_ of the business, as distinguished, for example, from working on a manufacturing production line or selling a product in a retail or service establishment." 29 C.F.R. § 541.201(a) (emphasis added). The regulations provide examples of work that is "directly related to management or general business operations," as follows:
 
-> (b) Work directly related to management or general business operations includes, but is not limited to, work in functional areas such as tax; finance; accounting; budgeting; auditing; insurance; quality control; purchasing; procurement; advertising; marketing; research; safety and health; personnel management; human resources; employee benefits; labor relations; public relations, government relations; computer network, internet and database administration; legal and regulatory compliance; and similar activities.
+> (b) Work directly related to management or general business operations includes, but is not limited to, work in functional areas such as tax; finance; accounting; budgeting; auditing; insurance; quality control; purchasing; procurement; advertising; marketing; research; safety and health; personnel management; human resources; employee benefits; labor relations; public relations, government relations; computer network, internet and database administration; legal and regulatory compliance; and similar activities.
 
 The exemption "relates to employees whose work involves servicing the business itself—employees who can be described as staff rather than line employees." U.S. DOL, Wage & Hour Div., Opinion Letter, 2010 WL 1822423, at \*2 (Mar. 24, 2010).
 
@@ -993,7 +995,7 @@ Tyler next and principally argues that Ms. Greene's work was directly related to
 
 On the issue of whether an employee is subject to the administrative exemption based on work related to their employer's _customers,_ the DOL regulations provide:
 
-> (c) An employee may qualify for the administrative exemption if the employee's primary duty is the performance of work directly related to the management or general business operations of the employer's customers. Thus, for example, employees acting as advisers or consultants to their employer's clients or customers (as tax experts or financial consults, for example) may be exempt.
+> (c) An employee may qualify for the administrative exemption if the employee's primary duty is the performance of work directly related to the management or general business operations of the employer's customers. Thus, for example, employees acting as advisers or consultants to their employer's clients or customers (as tax experts or financial consults, for example) may be exempt.
 
 29 C.F.R. § 541.201(c). Courts interpreting this subsection have explained that "while the regulations provide that 'servicing' a business may be administrative, 'advising the management' as used in subsection (c) is directed at advice on matters that involve policy determinations, _i.e.,_ how a business should be run or run more efficiently, not merely providing information in the course of the customer's daily business operation." 
 
@@ -1098,9 +1100,9 @@ Defendants did not advance money to all their employees to cover these expenses;
 
 Plaintiffs seek an order granting summary judgment as to liability, contending that:
 
-> (1) Defendants willfully violated the minimum wage provisions of the FLSA by shifting the transportation, visa, and border crossing expenses, costs which were incurred for the benefit of defendants, to Gaxiola and the other members of the FLSA class when those costs brought their pay below minimum wage.
+(1) Defendants willfully violated the minimum wage provisions of the FLSA by shifting the transportation, visa, and border crossing expenses, costs which were incurred for the benefit of defendants, to Gaxiola and the other members of the FLSA class when those costs brought their pay below minimum wage.
 
-> (2) Defendants violated the NCWHA by deducting from the weekly wages due Gaxiola and the proposed NCWHA class members transportation, visa and border crossing expenses incurred for the benefit of defendants.
+(2) Defendants violated the NCWHA by deducting from the weekly wages due Gaxiola and the proposed NCWHA class members transportation, visa and border crossing expenses incurred for the benefit of defendants.
 
 
 <p class="case-h1">II. FLSA Claims</p>
