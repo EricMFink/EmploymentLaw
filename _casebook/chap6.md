@@ -43,9 +43,7 @@ It is impossible for us to shut our eyes to the fact that many of the laws of th
 
 It is manifest to us that the limitation of the hours of labor as provided for in this section of the statute under which the indictment was found, and the plaintiff in error convicted, has no such direct relation to and no such substantial effect upon the health of the employe, as to justify us in regarding the section as really a health law. It seems to us that the real object and purpose were simply to regulate the hours of labor between the master and his employes (all being men, _sui juris_), in a private business, not dangerous in any degree to morals or in any real and substantial degree, to the health of the employes. Under such circumstances the freedom of master and employe to contract with each other in relation to their employment, and in defining the same, cannot be prohibited or interfered with, without violating the Federal Constitution.
 
-
-
-<p class="case-h1">"case-h1">"case-h1">MR. JUSTICE HOLMES dissenting.</p>
+<p class="case-h1">MR. JUSTICE HOLMES dissenting.</p>
 
 This case is decided upon an economic theory which a large part of the country does not entertain. If it were a question whether I agreed with that theory, I should desire to study it further and long before making up my mind. But I do not conceive that to be my duty, because I strongly believe that my agreement or disagreement has nothing to do with the right of a majority to embody their opinions in law. It is settled by various decisions of this court that state constitutions and state laws may regulate life in many ways which we as legislators might think as injudicious or if you like as tyrannical as this, and which equally with this interfere with the liberty to contract. Sunday laws and usury laws are ancient examples. A more modern one is the prohibition of lotteries. The liberty of the citizen to do as he likes so long as he does not interfere with the liberty of others to do the same, which has been a shibboleth for some well-known writers, is interfered with by school laws, by the Post Office, by every state or municipal institution which takes his money for purposes thought desirable, whether he likes it or not. The Fourteenth Amendment does not enact Mr. Herbert Spencer's Social Statics. The other day we sustained the Massachusetts vaccination law. United States and state statutes and decisions cutting down the liberty to contract by way of combination are familiar to this court. Two years ago we upheld the prohibition of sales of stock on margins or for future delivery in the constitution of California. The decision sustaining an eight hour law for miners is still recent. Some of these laws embody convictions or prejudices which judges are likely to share. Some may not. But a constitution is not intended to embody a particular economic theory, whether of paternalism and the organic relation of the citizen to the State or of _laissez faire._ It is made for people of fundamentally differing views, and the accident of our finding certain opinions natural and familiar or novel and even shocking ought not to conclude our judgment upon the question whether statutes embodying them conflict with the Constitution of the United States.
 
@@ -54,7 +52,7 @@ General propositions do not decide concrete cases. The decision will depend on a
 
 #### West Coast Hotel Co. v. Parrish, 300 U.S. 379 (1937) {#west-coast-hotel-v-parrish}
 
-<p class="case-h1">"case-h1">MR. CHIEF JUSTICE HUGHES delivered the opinion of the Court.</p>
+<p class="case-h1">MR. CHIEF JUSTICE HUGHES delivered the opinion of the Court.</p>
 
 This case presents the question of the constitutional validity of the minimum wage law of the State of Washington.
 
@@ -122,7 +120,7 @@ The Fair Labor Standards Act, enacted in 1938, establishes minimum wage and over
 
 <div class="legal-code">
 
-<p class="case-h1">"case-h1">§ 202. Congressional finding and declaration of policy</p>
+<p class="case-h1">§ 202. Congressional finding and declaration of policy</p>
 
 (a\) The Congress finds that the existence, in industries engaged in commerce or in the production of goods for commerce, of labor conditions detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being of workers (1) causes commerce and the channels and instrumentalities of commerce to be used to spread and perpetuate such labor conditions among the workers of the several States; (2) burdens commerce and the free flow of goods in commerce; (3) constitutes an unfair method of competition in commerce; (4) leads to labor disputes burdening and obstructing commerce and the free flow of goods in commerce; and (5) interferes with the orderly and fair marketing of goods in commerce. That Congress further finds that the employment of persons in domestic service in households affects commerce.
 
