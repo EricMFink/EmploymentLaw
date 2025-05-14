@@ -33,6 +33,7 @@ coursebook:
 collections:
   casebook:
     output: true
+    permalink: /:collection/:name
   problems:
     output: true
 
@@ -59,7 +60,8 @@ permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile.lock']
+exclude: ['Gemfile']
+keep_files: []
 post:
   template: _post.txt
   extension: md
