@@ -6,7 +6,6 @@ require 'yaml'
 require 'tmpdir'
 require 'jekyll'
 require 'jekyll-pandoc'
-require 'jekyll-spaceship'
 
 desc "Generate blog files"
 task :generate do
