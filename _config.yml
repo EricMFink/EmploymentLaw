@@ -33,7 +33,7 @@ coursebook:
 collections:
   casebook:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:name
   problems:
     output: true
 
