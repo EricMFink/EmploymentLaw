@@ -14,7 +14,7 @@ Most of the materials reproduced here are in the public domain; excerpts from co
 
 ##### Page Navigation
 
-At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of the page contents, and clicking on an item will scroll to the appropriate location on the page. On mobile devices, click on the menu icon (<img src="../img/menu.png" width="16">) to reveal the Page Navigation menu.
+At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of the page contents, and clicking on an item will scroll to the appropriate location on the page. On mobile devices, click on the menu icon (<img src="{{ site.baseurl }}/assets/casebook/img/menu.png" width="16">) to reveal the Page Navigation menu.
 
 ##### Sidenotes & Margin Notes
 

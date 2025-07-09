@@ -1153,7 +1153,7 @@ IT IS FURTHER ORDERED that the complaint is dismissed insofar as it alleges viol
 
 ##### APPENDIX
 
-![NLRB Notice](../img/StarbucksNLRBNoticeFull.png)
+![NLRB Notice]({{ site.baseurl }}/assets/casebook/img/StarbucksNLRBNoticeFull.png)
 
 
 #### Driskell v. Summit Contracting Group, Inc., 828 Fed. Appx. 858 (4th Cir. 2020) {#driskell_v_summit_contracting}
