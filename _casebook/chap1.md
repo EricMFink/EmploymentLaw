@@ -53,7 +53,7 @@ Despite the obvious failure of the post-Black Death labour legislation, repressi
 
 [^laborers1349]: Source: [Today in legislative history: Ordinance of Labourers passed to stop plebs bettering wages/conditions, 1349](https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/), Past Tense UK (Jun 18, 2016). 
 
-![Medieval Laborers]({{ site.url }}/{{ site.baseurl }}/casebook/img/medieval-labour.jpg)
+![Medieval Laborers]({{ site.url }}{{ site.baseurl }}/casebook/img/medieval-labour.jpg)
 
 #### Ordinance of Laborers, 1349 
 
