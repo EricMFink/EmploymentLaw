@@ -11,7 +11,7 @@ permalink: /casebook/index.html
 
 [Preface]({{ site.baseurl }}/casebook/preface) 
 
-[Chapter 1: Employment as a Socio-Legal Relationship]({{ site.baseurl }}/casebook/chap1) 
+[Chapter 1: Foundations of Employment Law]({{ site.baseurl }}/casebook/chap1) 
 
 [Chapter 2: Labor Organizing & Collective Bargaining ]({{ site.baseurl }}/casebook/chap2)
 
