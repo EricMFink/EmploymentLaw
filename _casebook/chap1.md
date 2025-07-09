@@ -51,7 +51,7 @@ Despite the obvious failure of the post-Black Death labour legislation, repressi
 - The 1800 Combination Acts, the last of a succession of laws banning workers from organizing together to improve wages or conditions, or from persuading others to strike…
 - the Master and Servant Act 1823, only repealed in 1875, under which any worker could be leaving a job to seek another, without his boss’s permission.
 
-[^laborers1349]: Source: [Today in legislative history: Ordinance of Labourers passed to stop plebs bettering wages/conditions, 1349](https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/), Past Tense UK (Jun 18, 2016). 
+[^laborers1349]: Source: ["Today in legislative history: Ordinance of Labourers passed to stop plebs bettering wages/conditions, 1349"](https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/), Past Tense UK (Jun 18, 2016). 
 
 ![Medieval Laborers]({{ site.baseurl }}/assets/casebook/img/medieval-labour.jpg)
 
