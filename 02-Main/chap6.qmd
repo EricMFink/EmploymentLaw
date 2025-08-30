@@ -645,8 +645,6 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 
 > (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
 
-</div>
-
 ### Massachusetts Noncompetition Agreement Act, Mass. Gen. Laws ch. 149, § 24L
 
 (a) As used in this section, the following words shall have the following meanings:-
@@ -690,8 +688,6 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 (e) No choice of law provision that would have the effect of avoiding the requirements of this section will be enforceable if the employee is, and has been for at least 30 days immediately preceding his or her cessation of employment, a resident of or employed in Massachusetts at the time of his or her termination of employment.
 
 (f) All civil actions relating to employee noncompetition agreements subject to this section shall be brought in the county where the employee resides or, if mutually agreed upon by the employer and employee, in Suffolk county; provided that, in any such action brought in Suffolk county, the superior court or the business litigation session of the superior court shall have exclusive jurisdiction.
-
-</div>
 
 ### Draftkings, Inc. v. Hermalyn, No. 24-1443 (1st Cir. Sept. 26, 2024)
 
@@ -759,7 +755,6 @@ _Non-compete clause_ means:
 
 > (ii) Operating a business in the United States after the conclusion of the employment that includes the term or condition.
 
-
 _Senior executive_ means a worker who:
 
 (1) Was in a policy-making position; and
@@ -795,7 +790,5 @@ _Senior executive_ means a worker who:
 (b) _Notice requirement for existing non-compete clauses_ —
 
 > (1) _Notice required._ For each existing non-compete clause that it is an unfair method of competition to enforce or attempt to enforce under paragraph (a)(1)(ii) of this section, the person who entered into the non-compete clause with the worker must provide clear and conspicuous notice to the worker by the effective date that the worker's non-compete clause will not be, and cannot legally be, enforced against the worker.
-
-</div>
 
 In [Ryan, LLC v. FTC](https://scholar.google.com/scholar_case?case=7255993935182189521), Civil Action No. 3:24-CV-00986-E (N.D. Tex. Aug. 20, 2024), the court blocked enforcement of the FTC Noncompete Rule. An appeal of that decision by the FTC is currently pending.
