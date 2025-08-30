@@ -1,0 +1,9 @@
+# Epigraph {.unnumbered}
+
+::: {.epigraph}
+
+> [Workin' 9 to 5, what a way to make a livin'. Barely gettin' by, it's all takin' and no givin'. They just use your mind and they never give you credit. It's enough to drive you crazy if you let it.]{.epigraph-quote}
+ 
+[[{{< fa solid pen-nib >}}]{.theme-color} Dolly Parton, _9 to 5_]{.epigraph-citation}
+
+:::

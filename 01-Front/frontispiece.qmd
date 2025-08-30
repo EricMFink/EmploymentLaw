@@ -1,0 +1,7 @@
+# Frontispiece {.unnumbered}
+
+::: {.frontispiece}
+
+![Hans Holbein the Younger, _Der Ackermann_. [Print by Hans Lützelburger](https://www.metmuseum.org/art/collection/search/336312) (ca. 1526)](../img/frontispiece.jpg)
+
+:::
