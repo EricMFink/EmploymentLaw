@@ -1359,27 +1359,27 @@ The Commissioner may adopt rules needed to implement this Article pursuant to th
 
 NC REDA applies only to discrimination or retaliation based on employee conduct under the specific North Carolina statutes identified in § 95-241: 
 
-- N.C.G.S. Chap. 97: Workers' Compensation Act
+- {{< bi bullet >}} N.C.G.S. Chap. 97: Workers' Compensation Act
 
-- N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
+- {{< bi bullet >}} N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
 
-- N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
+- {{< bi bullet >}} N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
  
-- N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
+- {{< bi bullet >}} N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
 
-- N.C.G.S. 95-28.1:  Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
+- {{< bi bullet >}} N.C.G.S. 95-28.1:  Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
 
-- N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
+- {{< bi bullet >}} N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
 
-- N.C.G.S. 95-28.1A:  Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
+- {{< bi bullet >}} N.C.G.S. 95-28.1A:  Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
 
-- N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
+- {{< bi bullet >}} N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
 
-- N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
+- {{< bi bullet >}} N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
 
-- N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
+- {{< bi bullet >}} N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
 
-- N.C.G.S. Chap. 50B: Domestic Violence
+- {{< bi bullet >}} N.C.G.S. Chap. 50B: Domestic Violence
 
 ### Myers v. Howmedica Osteonics Corp., No. CV 14-248-M-DLC. (D. Mont. March 30, 2016)
 
