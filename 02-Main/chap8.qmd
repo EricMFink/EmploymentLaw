@@ -4,7 +4,9 @@
 
 ### Family and Medical Leave Act, 29 U.S.C. § 2601 et seq.
 
-[_See also_, Wage & Hour Division, [Family & Medical Leave Act regulations](https://www.law.cornell.edu/cfr/text/29/part-825), 29 CFR Part 825]{.aside}
+::: {.aside}
+_See also_, Wage & Hour Division, [Family & Medical Leave Act regulations](https://www.law.cornell.edu/cfr/text/29/part-825), 29 CFR Part 825
+:::
 
 #### § 2601 - Definitions
 
@@ -13,33 +15,21 @@
 - **(A\) In general**
 
 - The term “eligible employee” means an employee who has been employed—
-
 	- (i\) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
-
 	- (ii\) for at least 1,250 hours of service with such employer during the previous 12-month period.
-
 - (B\) Exclusions
-
 - The term “eligible employee” does not include—
-
 	- (i\)  [ ... ]
-
 	- (ii\) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
 
 **(4\) Employer**
 
 - (A\) In general
-
 - The term “employer”—
-
 	- (i\) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
-
 	- (ii\) includes—
-
 	- (I\) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
-
 	- (II\) any successor in interest of an employer;
-
 	- [ ... ] 
 
 **(11\) Serious health condition**
@@ -47,111 +37,69 @@
 The term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
 
 - (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
-
 - (B\) continuing treatment by a health care provider.
-
 
 #### § 2602 - Leave requirement
 
 **(a\) In general**
 
 - (1\) Entitlement to leave
-
 - Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:
-
 	- (A\) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
-
 	- (B\) Because of the placement of a son or daughter with the employee for adoption or foster care.
-
 	- (C\) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
-
 	- (D\) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
-
 	- (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
-
 	- (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
 
 - **(4\) Combined leave total**
 
 - Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
-
 #### § 2614 - Employment and benefits protection
 
 (a\) Restoration to position
 
 - (1\) In general
-
 - Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
-
 	- (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
-
 	- (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
-
 - (2\) Loss of benefits
-
 - The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
-
 - (3\) Limitations
-
 - Nothing in this section shall be construed to entitle any restored employee to—
-
 	- (A\) the accrual of any seniority or employment benefits during any period of leave; or
-
 	- (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
-
 - (4\) Certification
-
 - As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
-
 - (5\) Construction
-
 - Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
 
 (b\) Exemption concerning certain highly compensated employees
 
 - (1\) Denial of restoration
-
 - An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
-
 	- (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
-
 	- (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
-
 	- (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
-
 - (2\) Affected employees
-
 - An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
 
 (c\) Maintenance of health benefits
 
 - (1\) Coverage
-
 - Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
-
 - (2\) Failure to return from leave
-
 - The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
-
 	- (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
-
 	- (B\) the employee fails to return to work for a reason other than—
-
 	- (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
-
 	- (ii\)other circumstances beyond the control of the employee.
-
 - (3\) Certification
-
 	- (A\) Issuance
-
 	- An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
-
 	- (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
-
 	- (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
-
 	- (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 #### § 2615 - Prohibited acts
@@ -159,11 +107,8 @@ The term “serious health condition” means an illness, injury, impairment, or
 (a\) Interference with rights
 
 - (1) Exercise of rights
-
 - It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
-
 - (2\) Discrimination
-
 - It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
 
 (b\) Interference with proceedings or inquiries
@@ -171,9 +116,7 @@ The term “serious health condition” means an illness, injury, impairment, or
 It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
 
 - (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
-
 - (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
-
 - (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
 ### Ramji v. Hospital Housekeeping Systems, LLC, 992 F.3d 1233 (11th Cir. 2021)
@@ -330,7 +273,9 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 ### Americans with Disabilities Act, 42 U.S.C. § 12101 et seq.
 
-[_See also_, EEOC, [Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act](https://www.law.cornell.edu/cfr/text/29/part-1630), 29 CFR Part 1630.]{.aside}
+::: {.aside}
+_See also_, EEOC, [Regulations to Implement the Equal Employment Provisions of the Americans with Disabilities Act](https://www.law.cornell.edu/cfr/text/29/part-1630), 29 CFR Part 1630.
+:::
 
 #### § 12102 - Definition of disability
 
@@ -341,19 +286,14 @@ As used in this chapter-number:
 The term “disability” means, with respect to an individual—
 
 - (A\) a physical or mental impairment that substantially limits one or more major life activities of such individual;
-
 - (B\) a record of such an impairment; or
-
 - (C\) being regarded as having such an impairment (as described in paragraph (3)) .
 
 (2\) Major life activities
 
 - (A\) In general
-
 - For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
-
 - (B\) Major bodily functions
-
 - For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
 
 (3\) Regarded as having such an impairment
@@ -361,7 +301,6 @@ The term “disability” means, with respect to an individual—
 For purposes of paragraph (1)(C):
 
 - (A\) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
-
 - (B\) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
 
 (4\) Rules of construction regarding the definition of disability
@@ -369,25 +308,15 @@ For purposes of paragraph (1)(C):
 The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
 
 - (A\) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
-
 - (B\) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
-
 - (C\) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
-
 - (D\) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
-
 - (E\) 
-
 	- (i\) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
-
 		- (I\) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses\) , prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
-
 		- (II\) use of assistive technology;
-
 		- (III\) reasonable accommodations or auxiliary aids or services; or
-
 		- (IV\) learned behavioral or adaptive neurological modifications.
-
 	- (ii\) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
 
 [ ... ] 
@@ -423,19 +352,12 @@ The term “reasonable accommodation” may include—
 **(10\) Undue hardship**
 
 - (A\) In general
-
 - The term “undue hardship” means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).
-
 - (B\) Factors to be considered
-
 - In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—
-
 	- (i\) the nature and cost of the accommodation needed under this chapter;
-
 	- (ii\) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
-
 	- (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
-
 	- (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
 #### § 12112 - Discrimination
@@ -446,7 +368,7 @@ No covered entity shall discriminate against a qualified individual on the basis
 
 ### Frilando v. New York City Transit Authority, 513 F.Supp.3d 356 (S.D.N.Y. 2021)
 
-Kenneth Frilando is a profoundly deaf man whose primary language is American Sign Language ("ASL"). Between 2016 and 2018, Mr. Frilando applied for three civil service positions: bus operator with the Manhattan and Bronx Surface Transit Operating Authority ("MaBSTOA"), train operator with the New York City Transit Authority (the "NYCTA"), and track worker with the NYCTA. Each position required applicants to pass a multiple-choice exam and "to understand and be understood in English." The Department of Citywide Administrative Services ("DCAS") regulates the examination procedures for the train operator, bus operator, and track worker exams and — as a matter of DCAS policy — the exams are not offered in languages other than English. For each exam, Mr. Frilando sought additional time and ASL interpretation of the oral instructions, exam questions, and exam answer choices. The NYCTA and MaBSTOA offered Mr. Frilando extra time and ASL interpretation of oral exam instructions, but denied Mr. Frilando's request for ASL interpretation of exam questions and answers. Mr. Frilando did not ultimately take the exams for any of the three positions.
+Kenneth Frilando is a profoundly deaf man whose primary language is American Sign Language ("ASL"). Between 2016 and 2018, Mr. Frilando applied for three civil service positions: bus operator with the Manhattan and Bronx Surface Transit Operating Authority ("MaBSTOA"), train operator with the New York City Transit Authority (the "NYCTA"), and track worker with the NYCTA. Each position required applicants to pass a multiple-choice exam and "to understand and be understood in English." The Department of Citywide Administrative Services ("DCAS") regulates the examination procedures for the train operator, bus operator, and track worker exams and—as a matter of DCAS policy—the exams are not offered in languages other than English. For each exam, Mr. Frilando sought additional time and ASL interpretation of the oral instructions, exam questions, and exam answer choices. The NYCTA and MaBSTOA offered Mr. Frilando extra time and ASL interpretation of oral exam instructions, but denied Mr. Frilando's request for ASL interpretation of exam questions and answers. Mr. Frilando did not ultimately take the exams for any of the three positions.
 
 Kenneth Frilando then sued the NYCTA and MaBSTOA (collectively, "Defendants"), alleging violations of the Americans with Disabilities Act (the "ADA") and NY state and city law. 
 
@@ -508,7 +430,7 @@ The job analyses and Notices of Examination indicate that the essential function
 
 Mr. Frilando also has not proven that Defendants' preemployment exams do not intend to measure English comprehension. While the civil service exams may not have been designed to identify a particular grade level of reading proficiency, the exams are designed to test the written comprehension and expression necessary to perform transit job functions. The Exams Unit determined that the track worker, train operator, and bus operator exams should test "written comprehension" and "written expression." The Notices of Examination for the train operator and track worker exams confirm that the multiple-choice exams may test "the ability to understand written sentences or paragraphs" or "to use English for words or sentences in writing so others will understand." 
 
-The Court's review of the evidence related to the exams — including a review of one of the current examinations — convinces the Court that the tests not only purport to measure English comprehension and expression, but also do in fact function as English comprehension and expression tests. For instance, certain exam questions test only whether applicants can read signs to write accurate reports. Because the exams plainly purport to and do measure comprehension of written English and Mr. Frilando's proposed accommodation would eliminate that very skill, Mr. Frilando cannot prove that Defendants discriminated against him in test selection or administration within the meaning of 42 U.S.C. § 12112(a).
+The Court's review of the evidence related to the exams—including a review of one of the current examinations—convinces the Court that the tests not only purport to measure English comprehension and expression, but also do in fact function as English comprehension and expression tests. For instance, certain exam questions test only whether applicants can read signs to write accurate reports. Because the exams plainly purport to and do measure comprehension of written English and Mr. Frilando's proposed accommodation would eliminate that very skill, Mr. Frilando cannot prove that Defendants discriminated against him in test selection or administration within the meaning of 42 U.S.C. § 12112(a).
 
 ##### Good-Faith Interactive Process
 
@@ -518,7 +440,11 @@ Separately, the Court also finds that Defendants did in fact engage in a good fa
 
 ### Searls v. Johns Hopkins Hospital, 158 F.Supp.3d 427 (D. Md. 2016)
 
-Lauren Searls brings this action against Johns Hopkins Hospital ("JHH"), claiming that the defendant discriminated against her on the basis of disability in violation of Title I of the Americans with Disabilities Act, 42 U.S.C. §§ 12112(a) (the "ADA" or "Title I") and Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794 ("Section 504"). [The Rehabilitation Act (1973), 29 U.S.C. § 701 et seq., prohibits disability discrimination by federal government agencies, federally-funded programs, and federal contractors. The employment discrimination standards under the Rehabilitation Act are the same as under the ADA. 29 U.S.C. §§ 791(f) and 794(d).]{.aside} She seeks declaratory and injunctive relief, compensatory damages, attorneys' fees and costs, and other appropriate equitable and legal relief. The plaintiff has filed a motion for partial summary judgment on the issue of liability under the ADA and Section 504, leaving the issue of damages to be resolved at trial. The defendant has filed a cross-motion for summary judgment on all of the plaintiff's claims. For the reasons stated below, the court will grant the plaintiff's motion for partial summary judgment, and deny the defendant's cross-motion for summary judgment.
+Lauren Searls brings this action against Johns Hopkins Hospital ("JHH"), claiming that the defendant discriminated against her on the basis of disability in violation of Title I of the Americans with Disabilities Act, 42 U.S.C. §§ 12112(a) (the "ADA" or "Title I") and Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794 ("Section 504"). She seeks declaratory and injunctive relief, compensatory damages, attorneys' fees and costs, and other appropriate equitable and legal relief. The plaintiff has filed a motion for partial summary judgment on the issue of liability under the ADA and Section 504, leaving the issue of damages to be resolved at trial. The defendant has filed a cross-motion for summary judgment on all of the plaintiff's claims. For the reasons stated below, the court will grant the plaintiff's motion for partial summary judgment, and deny the defendant's cross-motion for summary judgment.
+
+::: {.aside}
+The Rehabilitation Act (1973), 29 U.S.C. § 701 et seq., prohibits disability discrimination by federal government agencies, federally-funded programs, and federal contractors. The employment discrimination standards under the Rehabilitation Act are the same as under the ADA. 29 U.S.C. §§ 791(f) and 794(d).
+:::
 
 #### Background
 
@@ -578,7 +504,7 @@ In determining which job functions are essential, "consideration shall be given 
 
 Searls' case is distinguishable from other cases where providing the requested accommodation amounted to reallocating essential job functions. In those cases, the accommodation request was found unreasonable because the employee requested that another employee perform the entirety of an essential job function, leaving the employee with no portion of the essential job function to perform. In contrast, even with the assistance of an ASL interpreter, Searls would perform a significant portion of the essential job functions of communicating and responding to alarms herself: Searls would decide which questions to ask, she would voice for herself in speaking to patients and other professionals, and she would act in response to alarms. An interpreter, lacking the requisite medical training, could not act independently of Searls to communicate about patient care and respond to alarms.
 
-Therefore, because it is clear that Searls would retain responsibility for a substantial portion of the duties of communicating and responding to alarms if she were provided an ASL interpreter, the question becomes whether her inability to hear affected her ability to communicate and respond to alarms such that she would be "unable to 'perform' these essential functions within the meaning of the ADA. When the question is thus a matter of degree a plaintiff fails to perform the essential function only if her failure detrimentally affects the purpose of the employment." As noted, with the aid of an interpreter, Searls could perform a substantial portion of the essential job functions of communicating and responding to alarms — most importantly, those portions requiring nursing judgment — so that her inability to hear did not detrimentally affect the purpose of employing her as a nurse. A nurse's duties with respect to communicating and responding to alarms go beyond hearing what patients are saying and hearing an alarm ringing. Searls would have used her own medical expertise and training when speaking to patients, families, and other hospital personnel; providing care based on her exchanges with patients; and taking the appropriate action in response to an alarm after an interpreter communicated the sound of an alarm visually. Therefore, Searls' accommodation request would not have reallocated the essential job functions of communicating with others and responding to alarms. Searls' request for a full-time ASL interpreter was reasonable, and Searls has established a prima facie case of disability discrimination.
+Therefore, because it is clear that Searls would retain responsibility for a substantial portion of the duties of communicating and responding to alarms if she were provided an ASL interpreter, the question becomes whether her inability to hear affected her ability to communicate and respond to alarms such that she would be "unable to 'perform' these essential functions within the meaning of the ADA. When the question is thus a matter of degree a plaintiff fails to perform the essential function only if her failure detrimentally affects the purpose of the employment." As noted, with the aid of an interpreter, Searls could perform a substantial portion of the essential job functions of communicating and responding to alarms—most importantly, those portions requiring nursing judgment—so that her inability to hear did not detrimentally affect the purpose of employing her as a nurse. A nurse's duties with respect to communicating and responding to alarms go beyond hearing what patients are saying and hearing an alarm ringing. Searls would have used her own medical expertise and training when speaking to patients, families, and other hospital personnel; providing care based on her exchanges with patients; and taking the appropriate action in response to an alarm after an interpreter communicated the sound of an alarm visually. Therefore, Searls' accommodation request would not have reallocated the essential job functions of communicating with others and responding to alarms. Searls' request for a full-time ASL interpreter was reasonable, and Searls has established a prima facie case of disability discrimination.
 
 #### II. Undue Hardship Defense
 
@@ -602,13 +528,13 @@ JHH's direct threat defense is based on post-hoc rationalizations and is therefo
 
 JHH's direct threat defense also fails because the record shows that JHH failed to base its determination "on an individualized assessment of Searls' present ability to safely perform the essential functions of her job." Such an assessment must "be based on a reasonable medical judgment that relies on the most current medical knowledge and/or on the best available objective evidence" and must consider factors such as: "(1) The duration of the risk; (2) The nature and severity of the potential harm; (3) The likelihood that the potential harm will occur; and (4) The imminence of the potential harm." 29 C.F.R. § 1630.2(r). No such individualized assessment occurred here. Instead, JHH relied on stereotypes or generalizations about deafness. Aside from Rotman's September 23 email previously discussed, the only other evidence JHH presents to support its direct threat defense is Rotman's deposition where she testified that she was concerned about Searls' "ability to function safely as a nurse on Halsted 8" based on whether "she would be able to hear the alarms." Rotman admitted that she had never observed Searls fail to respond to an alarm. She also said that it "wouldn't be a safe situation" for a non-nurse to be trained to differentiate between the alarms. Rotman never expressed this concern to Searls. In fact, the defendant does not dispute that no JHH employee ever raised patient safety concerns with Searls or asked how she planned to work with an interpreter to respond to alarms. Rotman speculated that because Searls is deaf and cannot hear alarms she would endanger patient health, but she "failed to provide any medical basis for her conclusion, and she does not discuss whether the safety concerns could be alleviated by reasonable accommodation." Therefore, JHH has not met its burden of establishing that Searls constituted a "direct threat" to the safety of others at Halsted 8. The court will grant the plaintiff's motion for partial summary judgment on the issue of direct threat.
 
-
-
 ## Occupational Health & Safety Act
 
 ### Occupational Safety & Health Act, 29 U.S.C. § 641 et seq.
 
-[See Also, [Occupational Safety & Health Administration regulations](https://www.law.cornell.edu/cfr/text/29/chapter-XVII), 29 CFR chap. XVII.]{.aside}
+::: {.aside}
+See Also, [Occupational Safety & Health Administration regulations](https://www.law.cornell.edu/cfr/text/29/chapter-XVII), 29 CFR chap. XVII.
+:::
 
 #### § 651 - Congressional statement of findings and declaration of purpose and policy
 
@@ -617,9 +543,7 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 (b\) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
 
 - (1\) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
-
 - (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
-
 - (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
 #### § 654 - Duties of employers and employees
@@ -627,14 +551,13 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 (a\) Each employer—
 
 - (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
-
 - (2\) shall comply with occupational safety and health standards promulgated under this chapter.
 
 (b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
 #### § 655 - Standards
 
-**(a\) Promulgation by Secretary of national consensus standards and established Federal standards; [ ...]**
+**(a\) Promulgation by Secretary of national consensus standards and established Federal standards;**
 
 [T]he Secretary shall, [ … ], by rule promulgate as an occupational safety or health standard any national consensus standard, and any established Federal standard, unless he determines that the promulgation of such a standard would not result in improved safety or health for specifically designated employees. In the event of conflict among any such standards, the Secretary shall promulgate the standard which assures the greatest protection of the safety or health of the affected employees.
 
@@ -645,13 +568,11 @@ JHH's direct threat defense also fails because the record shows that JHH failed 
 In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
 
 - (1\) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
-
 - (2\) to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee.
 
 **(f\) Request for inspection by employees or representative of employees; [ … ]**
 
 - (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
-
 - (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
 
 #### § 658 - Citations
@@ -662,11 +583,11 @@ If, upon inspection or investigation, the Secretary or his authorized representa
 
 #### § 659 - Enforcement procedures
 
-**(a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation; [ … ]**
+**(a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation;**
 
 If, after an inspection or investigation, the Secretary issues a citation under section 658(a) of this title, he shall, within a reasonable time after the termination of such inspection or investigation, notify the employer by certified mail of the penalty, if any, proposed to be assessed under section 666 of this title and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the citation or proposed assessment of penalty. If, within fifteen working days from the receipt of the notice issued by the Secretary the employer fails to notify the Secretary that he intends to contest the citation or proposed assessment of penalty, and no notice is filed by any employee or representative of employees under subsection (c) within such time, the citation and the assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
 
-**(b\) Notification of employer of failure to correct in allotted time period violation for which citation was issued and proposed assessment of penalty for failure to correct; [ … ]**
+**(b\) Notification of employer of failure to correct in allotted time period violation for which citation was issued and proposed assessment of penalty for failure to correct;**
 
 If the Secretary has reason to believe that an employer has failed to correct a violation for which a citation has been issued within the period permitted for its correction (which period shall not begin to run until the entry of a final order by the Commission in the case of any review proceedings under this section initiated by the employer in good faith and not solely for delay or avoidance of penalties), the Secretary shall notify the employer by certified mail of such failure and of the penalty proposed to be assessed under section 666 of this title by reason of such failure, and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the Secretary’s notification or the proposed assessment of penalty. If, within fifteen working days from the receipt of notification issued by the Secretary, the employer fails to notify the Secretary that he intends to contest the notification or proposed assessment of penalty, the notification and assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
 
@@ -679,9 +600,7 @@ If an employer notifies the Secretary that he intends to contest a citation issu
 **(c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief**
 
 - (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
-
 - (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
-
 - (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
 ####  § 666 - Civil and criminal penalties
@@ -736,9 +655,9 @@ On February 24, 2010, SeaWorld trainer Dawn Brancheau was interacting with Tilik
 
 The Secretary of Labor issued three citations to SeaWorld after an investigation by an Occupational Safety and Health Administration ("OSHA") compliance officer. Only the second citation is at issue. It alleged two instances of a "willful" violation of the general duty clause for exposing animal trainers to the recognized hazards of drowning or injury when working with killer whales during performances. The first instance related to animal trainers working with Tilikum being exposed to "struck-by and drowning hazards" by being "allowed unprotected contact with Tilikum" while conducting "'drywork' performances on pool ledges, slideouts and platforms." In SeaWorld's terms, when trainers are out of the pool or on submerged ledges called "slideouts" in water no deeper than their knees, their interactions with killer whales are called "drywork." Any interaction in deeper water is "waterwork." According to the Secretary, "among other methods, one feasible and acceptable means of abatement would be to not allow animal trainers to have any contact with Tilikum unless they are protected by a physical barrier." The second instance concerned animal trainers working with killer whales other than Tilikum who were exposed to struck-by and drowning hazards when they were "allowed to engage in 'waterwork' and 'drywork' performances with the killer whales without adequate protection." The Secretary listed as possible abatement methods "prohibiting animal trainers from working with killer whales, including 'waterwork' or 'dry work,' unless the trainers are protected through the use of physical barriers or through the use of decking systems, oxygen supply systems or other engineering or administrative controls that provide the same or greater level of protection for the trainers." The Secretary proposed a penalty of $70,000.
 
-Following an evidentiary hearing, the Administrative Law Judge ("ALJ") found that on February 24, 2010, a "performance" was still in progress when Tilikum seized Ms. Brancheau and pulled her into the pool water. The ALJ found that the first and third elements of a violation of the general duty clause — existence of a workplace condition presenting a hazard that likely caused death or serious physical harm — were established by the events on February 24, 2010: Ms. Brancheau's death demonstrated that close contact with killer whales was a hazard likely to cause death or serious injury. Based on evidence regarding three previous deaths involving killer whales (beginning in 1991 with Tilikum), SeaWorld's written training manuals and safety lectures as implemented specifically to Tilikum, and SeaWorld's incident reports, the ALJ found that the Secretary had established by "abundant" record evidence that "SeaWorld recognized the hazard created when its trainers worked in close contact with Tilikum during drywork performances," satisfying the second element of a violation. Further, the ALJ found that evidence, including SeaWorld's incident reports, established that SeaWorld recognized the hazard when trainers worked in close contact with other killer whales; SeaWorld's statistics regarding the predictability of killer whale behavior, on the other hand, were unpersuasive because not based on rigorous, scientific data. The ALJ concluded that SeaWorld's claim that "it was unaware working with killer whales presents a recognized hazard is difficult to reconcile with numerous comments made over the years by SeaWorld management personnel, including two corporate curators of animal training whose comments were documented and circulated among all of the SeaWorld parks." 
+Following an evidentiary hearing, the Administrative Law Judge ("ALJ") found that on February 24, 2010, a "performance" was still in progress when Tilikum seized Ms. Brancheau and pulled her into the pool water. The ALJ found that the first and third elements of a violation of the general duty clause—existence of a workplace condition presenting a hazard that likely caused death or serious physical harm—were established by the events on February 24, 2010: Ms. Brancheau's death demonstrated that close contact with killer whales was a hazard likely to cause death or serious injury. Based on evidence regarding three previous deaths involving killer whales (beginning in 1991 with Tilikum), SeaWorld's written training manuals and safety lectures as implemented specifically to Tilikum, and SeaWorld's incident reports, the ALJ found that the Secretary had established by "abundant" record evidence that "SeaWorld recognized the hazard created when its trainers worked in close contact with Tilikum during drywork performances," satisfying the second element of a violation. Further, the ALJ found that evidence, including SeaWorld's incident reports, established that SeaWorld recognized the hazard when trainers worked in close contact with other killer whales; SeaWorld's statistics regarding the predictability of killer whale behavior, on the other hand, were unpersuasive because not based on rigorous, scientific data. The ALJ concluded that SeaWorld's claim that "it was unaware working with killer whales presents a recognized hazard is difficult to reconcile with numerous comments made over the years by SeaWorld management personnel, including two corporate curators of animal training whose comments were documented and circulated among all of the SeaWorld parks." 
 
-The ALJ also found that the Secretary had established the fourth element of a violation: feasible abatement of the hazard for trainers working with Tilikum and other killer whales. SeaWorld had not argued, the ALJ noted, that it is infeasible to install barriers or implement a minimum distance between trainers and whales, but rather "considers the extensive safety training of its trainers and the operant conditioning of its killer whales to be an adequate means of abatement that materially reduces the hazard the killer whales present to the trainers." The ALJ found the Secretary had met her burden to show SeaWorld's safety program is inadequate. Despite SeaWorld's contention that its operant conditioning "materially reduces the recognized hazard," the ALJ concluded that "SeaWorld's reliance on its trainers to recognize precursors and prevent unpredictable behavior by the killer whales runs counter to the requirements of the Act. 'The duty to comply with section 5(a)(1) rests with the employer.'" The ALJ further concluded that "SeaWorld holds trainers to a near — impossible standard set by upper management, who engage in a form of Monday morning quarterbacking." Additionally, the ALJ noted that SeaWorld had already implemented the means of abatement recommended by the Secretary for trainers working with Tilikum — namely, maintaining a minimum distance from the killer whale, or imposing a physical barrier between the killer whale and trainers — and concluded the same or similar abatement involving other killer whales was no less feasible.
+The ALJ also found that the Secretary had established the fourth element of a violation: feasible abatement of the hazard for trainers working with Tilikum and other killer whales. SeaWorld had not argued, the ALJ noted, that it is infeasible to install barriers or implement a minimum distance between trainers and whales, but rather "considers the extensive safety training of its trainers and the operant conditioning of its killer whales to be an adequate means of abatement that materially reduces the hazard the killer whales present to the trainers." The ALJ found the Secretary had met her burden to show SeaWorld's safety program is inadequate. Despite SeaWorld's contention that its operant conditioning "materially reduces the recognized hazard," the ALJ concluded that "SeaWorld's reliance on its trainers to recognize precursors and prevent unpredictable behavior by the killer whales runs counter to the requirements of the Act. 'The duty to comply with section 5(a)(1) rests with the employer.'" The ALJ further concluded that "SeaWorld holds trainers to a near—impossible standard set by upper management, who engage in a form of Monday morning quarterbacking." Additionally, the ALJ noted that SeaWorld had already implemented the means of abatement recommended by the Secretary for trainers working with Tilikum—namely, maintaining a minimum distance from the killer whale, or imposing a physical barrier between the killer whale and trainers—and concluded the same or similar abatement involving other killer whales was no less feasible.
 
 Although crediting the testimony of a SeaWorld curator of animal training regarding the educational and inspirational justification for continuing "waterwork" with killer whales, the ALJ concluded that justification "must be measured against the risk incurred by allowing trainers to interact closely with killer whales." Observing that OSHA has "no specific standard" regulating employees working in close contact with killer whales, and that the Secretary had presented no evidence SeaWorld had a "heightened awareness of the illegality of its conduct" or manifested "plain indifference to employee safety," the ALJ found that violations were "serious," not "willful," and imposed a fine of $7,000 for the general duty clause violation, emphasizing that his order was limited to show performances. SeaWorld unsuccessfully sought discretionary review by the Commission, whereupon the ALJ's decision and order became final.SeaWorld petitions for review of the general duty violation.
 
@@ -774,7 +693,7 @@ The Secretary and the Commission could also reasonably determine that the remedy
 
 ##### C.
 
-Substantial evidence supports the ALJ's findings that it was feasible for SeaWorld to abate the hazard to its employees by using barriers or minimum distance between trainers and killer whales, most notably because SeaWorld has implemented many of these measures on its own. When an employer has existing safety procedures, the burden is on the Secretary to show that those procedures are inadequate. The record evidence showed that SeaWorld's training and protocols did not prevent continued incidents, including the submerging and biting of one trainer in 2006, the killing of a trainer by a SeaWorld-trained and — owned killer whale in 2009 at an amusement park in Spain, and Ms. Brancheau's death in 2010. SeaWorld employees repeatedly acknowledged the unpredictability of its killer whales. This record evidence supports the ALJ's finding that existing protocols were inadequate to eliminate or materially reduce the hazard to SeaWorld's trainer employees performing with killer whales.
+Substantial evidence supports the ALJ's findings that it was feasible for SeaWorld to abate the hazard to its employees by using barriers or minimum distance between trainers and killer whales, most notably because SeaWorld has implemented many of these measures on its own. When an employer has existing safety procedures, the burden is on the Secretary to show that those procedures are inadequate. The record evidence showed that SeaWorld's training and protocols did not prevent continued incidents, including the submerging and biting of one trainer in 2006, the killing of a trainer by a SeaWorld-trained and—owned killer whale in 2009 at an amusement park in Spain, and Ms. Brancheau's death in 2010. SeaWorld employees repeatedly acknowledged the unpredictability of its killer whales. This record evidence supports the ALJ's finding that existing protocols were inadequate to eliminate or materially reduce the hazard to SeaWorld's trainer employees performing with killer whales.
 
 Abatement is "feasible" when it is "economically and technologically capable of being done." After Ms. Brancheau's death, SeaWorld required that all trainers work with Tilikum from a minimum distance or behind a barrier, and "waterwork" ceased with all of its killer whales. Implementing the ordered abatement is feasible because it would involve extending these practices to all killer whales and into the future. As the ALJ noted, SeaWorld had not argued the Secretary's proposed abatement was not economically or technologically feasible and had already implemented abatement for at least one of its killer whales and needed only to apply the same or similar protective contact measures it used with Tilikum to other killer whales. Consequently, the Secretary was not required to specify the precise manner in which abatement should be implemented. That the ALJ subsequently granted SeaWorld's request for a six-month extension of the abatement deadline, in view of SeaWorld's difficulty in scheduling two consulting experts, does not undermine the substantial evidence that SeaWorld could feasibly abate the hazard. SeaWorld does not dispute that the Secretary's abatement measures would materially reduce, if not eliminate, the hazard killer whales pose to its employees during performances. SeaWorld's use of protective contact with Tilikum, the three-year moratorium on "waterwork" after Ms. Brancheau's death, and repeated temporary cessation of "waterwork" with all killer whales or particular killer whales after other incidents support the finding that these changes were feasible and would not fundamentally alter the nature of the trainers' employment or SeaWorld's business.
 
@@ -786,10 +705,7 @@ Facial challenges to the general duty clause have been rejected, and although an
 
 SeaWorld contends the general duty clause is unconstitutionally vague as applied because it lacked fair notice that the abatement measures would be required. But the administrative record establishes that SeaWorld did not lack fair notice because the hazard arising from trainers' close contact with killer whales in performance is preventable. Given evidence of continued incidents of aggressive behavior by killer whales toward trainers notwithstanding SeaWorld's training, operant conditioning practices, and emergency measures, SeaWorld could have anticipated that abatement measures it had applied after other incidents would be required. SeaWorld suggests that it was entitled to rely on the fact that the State of California's Division of Occupational Safety and Health ("Cal/OSHA") did not issue a citation for killer whale hazards after a killer whale bit and dragged a trainer underwater during a performance, puncturing the trainer's skin on both feet and breaking the metatarsal in his left foot. Cal/OSHA, however, inspected a different SeaWorld facility (in San Diego) and it, not the federal OSHA, resolved the citation question. In any event, the State inspection report included a warning on point. Although noting that SeaWorld had been following industry standards and was a recognized leader in training killer whales for performance, and that its employees were well-trained and followed emergency procedures, Cal/OSHA concluded that SeaWorld of San Diego's procedures "were not entirely effective at stopping the unwanted behaviors of the killer whale during this attack" and that "short of eliminating all of the water interactions with the killer whales, there is no guarantee that employees can be kept safe from an attack by the killer whale once they get in the water with the animal." 
 
-
 ### Whirlpool Corp. v. Marshall, 445 U.S. 1 (1980)
-
-#### JUSTICE STEWART delivered the opinion of the Court.JUSTICE
 
 The Occupational Safety and Health Act of 1970 (Act) prohibits an employer from discharging or discriminating against any employee who exercises "any right afforded by" the Act. The Secretary of Labor (Secretary) has promulgated a regulation providing that, among the rights that the Act so protects, is the right of an employee to choose not to perform his assigned task because of a reasonable apprehension of death or serious injury coupled with a reasonable belief that no less drastic alternative is available. The question presented in the case before us is whether this regulation is consistent with the Act.
 
@@ -868,7 +784,6 @@ Neither of these congressional concerns is implicated by the regulation before u
 ##### C
 
 For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by the Secretary in the valid exercise of his authority under the Act. Accordingly, the judgment of the Court of Appeals is affirmed.
-
 
 ## Workers' Compensation 
 

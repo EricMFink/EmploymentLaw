@@ -50,7 +50,11 @@ We also agree with the trial judge's conclusion that plaintiff Shane was defenda
 
 > An employee is one who works for another for wages or salary, and the right to demand pay for his services from his employer would seem to be essential to his right to receive compensation under the Workmen's Compensation Act.
 
-The statutory definition (N.C.G.S. § 97-2(2))[N.C.G.S. § 97-2(2): "The term 'employee' means every person engaged in an employment under any appointment or contract of hire or apprenticeship, express or implied, oral or written, including aliens, and also minors, whether lawfully or unlawfully employed, but excluding persons whose employment is both casual and not in the course of the trade, business, profession, or occupation of his employer."]{.aside} adds nothing to the common law definition. The trial judge found that Schneiderman had hired the child, that he had authority to hire and fire employees for defendant, and that the jobs Shane did were in the course of defendant's business and that he was engaged in doing them when he fell. We believe these facts, taken together, will support the conclusion that the plaintiff Shane was an employee of defendant at the time of the accident.
+The statutory definition (N.C.G.S. § 97-2(2)) adds nothing to the common law definition. The trial judge found that Schneiderman had hired the child, that he had authority to hire and fire employees for defendant, and that the jobs Shane did were in the course of defendant's business and that he was engaged in doing them when he fell. We believe these facts, taken together, will support the conclusion that the plaintiff Shane was an employee of defendant at the time of the accident.
+
+::: {.aside}
+N.C.G.S. § 97-2(2): "The term 'employee' means every person engaged in an employment under any appointment or contract of hire or apprenticeship, express or implied, oral or written, including aliens, and also minors, whether lawfully or unlawfully employed, but excluding persons whose employment is both casual and not in the course of the trade, business, profession, or occupation of his employer."
+:::
 
 Plaintiffs, however, contend that the evidence does not support the facts and the facts do not support the conclusion.
 
@@ -210,9 +214,10 @@ In reviewing the District Court decision _de novo,_ we determine summary judgmen
 
 [^Razak11]: (n.11 in opinion) We also note that the District Court did not interpret whether Plaintiffs could in actuality exercise any managerial skill while being "online" to increase their profits, only that they could potentially choose to perform other jobs to make a greater profit.
 
-### Note on _Razak_
-
+::: {.callout-note}
+**Postscript to _Razak_**
 Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, ending in two hung juries. Concluding that "A third jury trial would do nothing more than waste precious judicial resources while—in all likelihood—leaving the Parties precisely where we began so many years ago", the trial court dismissed the suit “pursuant to its inherent authority to manage its docket.” [_Razak v. Uber Technologies, Inc._](https://scholar.google.com/scholar_case?case=9711104425490886779), No. 16-573 (E.D. Pa. July 30, 2024). An appeal of that decision is pending. 
+:::
 
 ### U.S. Department of Labor, Employee or Independent Contractor Classification Under the Fair Labor Standards Act, 89 FR 1638 (Final Rule Jan. 10, 2024)
 
@@ -251,6 +256,12 @@ This part contains the Department of Labor's (the Department) general interpreta
 - (6\) _Skill and initiative._ This factor considers whether the worker uses specialized skills to perform the work and whether those skills contribute to business-like initiative. This factor indicates employee status where the worker does not use specialized skills in performing the work or where the worker is dependent on training from the potential employer to perform the work. Where the worker brings specialized skills to the work relationship, this fact is not itself indicative of independent contractor status because both employees and independent contractors may be skilled workers. It is the worker's use of those specialized skills in connection with business-like initiative that indicates that the worker is an independent contractor.
 
 - (7\) _Additional factors._ Additional factors may be relevant in determining whether the worker is an employee or independent contractor for purposes of the FLSA, if the factors in some way indicate whether the worker is in business for themself, as opposed to being economically dependent on the potential employer for work.
+
+::: {.callout-note}
+In May 2025, the Department of Labor issued [Guidance on Independent Contractor Misclassification Enforcement](https://www.dol.gov/newsroom/releases/whd/whd20250501):
+
+> While the department reviews the 2024 final rule, [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/rulemaking)–which is also being challenged in federal court–agency investigators are directed not to apply the 2024 rule’s analysis in current enforcement matters. Instead, the division will rely on longstanding principles outlined in [Fact Sheet #13](https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship) and further informed by the reinstated [Opinion Letter FLSA2019-6](https://www.dol.gov/sites/dolgov/files/WHD/opinion-letters/FLSA/FLSA2019-6.pdf), which addresses classification in the context of virtual marketplace platforms.
+:::
 
 ### Wang v. Hearst Corp., 877 F.3d 69 (2d Cir. 2017)
 
@@ -544,14 +555,13 @@ This case also presents difficult collateral legal issues that should give us pa
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
-
 ## Identifying Employers
 
 ### Ries v. McDonald's USA, LLC, No. 1:20-cv-2 (W.D. Mich. Dec. 6, 2021)
 
 Plaintiffs bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
-#### II. ANALYSIS
+#### II. Analysis
 
 ##### A. Title VII
 
@@ -594,7 +604,6 @@ McDonald's rightly notes that the press release has limited relevance to this ca
 In short, construing the evidence in a light most favorable to Plaintiffs, there is no genuine dispute that McDonald's did not meaningfully participate in employment decisions or possess sufficient control over the terms of Plaintiffs' employment to qualify as a joint employer. The control that McDonald's did have in its relationship with Franchisee was "control over conformity to standard operational details inherent in many franchise settings" and "the power to terminate the franchises." As other courts have concluded, that level of involvement in a franchisee's business does not suffice to give rise to employer liability under Title VII. 
 
 Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismiss similar claims against it because the franchisor was involved in creating personnel policies or provided training to the franchisee's employees. Those cases are distinguishable. There, courts concluded that the plaintiffs had alleged sufficient facts in their complaints to state a plausible claim against the franchisor and proceed to discovery. The question facing this Court is a different one. The Court is not assessing the allegations in Plaintiffs' complaint. At this stage, Plaintiffs must support their allegations with evidence sufficient to demonstrate that they can proceed to trial against McDonald's. They have not done so. They have not shown that there is a genuine dispute of fact about whether McDonald's was a joint employer with Franchisee.
-
 
 ### Johnson v. NCAA (II), 561 F.Supp.3d 490 (E.D. Pa. Sept. 21, 2021)
 
@@ -693,104 +702,3 @@ Plaintiffs argue that the Complaint alleges that the NCAA and its member schools
 The district court rejected a similar argument in _Livers v. National Collegiate Athletic Association_, (E.D. Pa. May 17, 2018). The plaintiff in Livers contended that the NCAA, Villanova University (for which he played football), "and dozens of other NCAA member schools, violated his right to be paid as an employee of the Defendants, acting jointly, for his participation on the Villanova football team as a Scholarship Athlete." The _Livers_ court granted a motion to dismiss brought by the NCAA member schools that were not attended by the Plaintiff. While the complaint in _Livers_, like the Complaint in the instant proceeding, alleged that the NCAA member schools had agreed to impose restrictions on student athlete recruitment, eligibility, compensation, and the number of hours that student athletes could spend in connection with NCAA intercollegiate athletics, and to subject student athletes to discipline by the NCAA Committee on Infractions, the _Livers_ court concluded that the complaint in that case did not plausibly allege that the NCAA member schools that Livers did not attend were his joint employers under either the Enterprise test or _North American Soccer League_. After first noting that the Fifth's Circuit's decision in _North American Soccer League_ is not controlling in the Eastern District of Pennsylvania, the _Livers_ court rejected the plaintiff's argument that _North American Soccer League_ demanded a conclusion that the NCAA member schools that he did not attend were his joint employers, observing that _North American Soccer League_ was not an FLSA case, did not involve student athletes, and, most importantly, involved facts that "demonstrated a more significant management role for each individual soccer team in the management of the League as a whole, by virtue of their membership in the League, than Plaintiff alleges with respect to NCAA member schools." 
 
 We conclude that the same is true in the case before us. In _North American Soccer League_, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club. In contrast, the Complaint in this case does not allege that the president of the NCAA is selected by and paid by the member schools, that any of the NASD are members of the NCAA D1 Committee on Infractions or the D1 Infractions Appeal Committee, or that any of the NASD are involved in day-to-day decision making in the NCAA D1. We conclude, accordingly, that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs under the "Sports League Joint Employment Theory" described in _North American Soccer League_. Based on this conclusion and our prior analysis under the Enterprise test, we further conclude that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs and, accordingly, that Plaintiffs lack standing to sue the NASD for violations of the FLSA. We thus grant the instant Motion to Dismiss as to Plaintiffs' FLSA claim in Count I of the Complaint as against the NASD.
-
-
-### NLRB, Standard for Determining Joint-Employer Status, 88 FR 73946 (Final Rule Oct. 27, 2023)
-
-#### The Final Rule 
-
-The joint-employer doctrine plays an important role in the administration of the Act. The doctrine determines when an entity that exercises control over particular employees' essential terms and conditions of employment has a duty to bargain with those employees' representative. It also determines such an entity's potential liability for unfair labor practices. The joint-employer analysis set forth in this final rule is based on common-law agency principles as applied in the particular context of the Act. In our considered view, the joint-employer standard that we adopt today removes artificial control-based restrictions with no foundation in the common law that the Board has previously imposed in cases beginning in the mid-1980s discussed above, and in the 2020 rule. By incorporating common-law agency principles, as the Act requires, the final rule appropriately aligns employers' responsibilities with respect to their employees with their authority to control those employees' essential terms and conditions of employment and so promotes the policy of the United States, as articulated in Section 1 of the Act, to encourage the practice and procedure of collective bargaining and to protect the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
-
-##### A. Definition of an Employer of Particular Employees
-
-Section 103.40(a) of the final rule provides that an employer, as defined by Section 2(2) of the Act, is an employer of particular employees, as defined by Section 2(3) of the Act, if the employer has an employment relationship with those employees under common-law agency principles. This provision expressly recognizes the Supreme Court's conclusion that Congress's use of the terms “employer” and “employee” in the NLRA was intended to describe the conventional employer-employee relationship under the common law.
-
-Because “Congress has tasked the courts, and not the Board, with defining the common-law scope of 'employer,'” the Board—in evaluating whether a common-law employment relationship exists—looks for guidance from the judiciary, including primary articulations of relevant principles by judges applying the common law, as well as secondary compendiums, reports, and restatements of these common law decisions, focusing “first and foremost [on] the 'established' common-law definitions at the time Congress enacted the National Labor Relations Act in 1935 and the Taft-Hartley Amendments in 1947.”  
-
-By explicitly grounding the Board's joint-employer analysis in common-law agency principles, this provision recognizes that the existence of a common-law employment relationship is a necessary prerequisite to a finding that an entity is a joint employer of particular employees.
-
-##### B. Definition of Joint Employers
-
-Section 103.40(b) provides that, for all purposes under the Act, two or more employers of the same particular employees are joint employers of those employees if the employers share or codetermine those matters governing employees' essential terms and conditions of employment. The provision thus first recognizes, as did the 2020 rule, that joint-employer issues may arise (and the same test will apply) in various contexts under the Act, including both representation and unfair labor practice case contexts.
-
-The provision goes on to codify the longstanding core of the joint-employer test, consistent with the formulation of the standard that several Courts of Appeals (notably, the Third Circuit and the District of Columbia Circuit) have endorsed.
-
-By providing that a common-law employer of particular employees must also share or codetermine those matters governing the employees' essential terms and conditions of employment in order to be considered a joint employer, the provision recognizes and incorporates the principle from BFI that “the existence of a common-law employment relationship is necessary, but not sufficient, to find joint-employer status.”  
-
-##### C. Definition of “share or codetermine”
-
-Section 103.40(c) of the final rule provides that to “share or codetermine those matters governing employees' essential terms and conditions of employment” means for an employer to possess the authority to control (whether directly, indirectly, or both) or to exercise the power to control (whether directly, indirectly, or both) one or more of the employees' essential terms and conditions of employment. This provision incorporates the view of the Board and the District of Columbia Circuit in BFI that evidence of the authority or reserved right to control, as well as evidence of the exercise of control (whether direct or indirect, including control through an intermediary, as discussed further below) is probative evidence of the type of control over employees' essential terms and conditions of employment that is necessary to establish joint-employer status. After careful consideration of comments, as reflected above, the Board has concluded that this definition of “share or codetermine” is consistent with common-law agency principles and best serves the policy of the United States, embodied in the Act, to encourage the practice and procedure of collective bargaining by ensuring that employees have the ability to negotiate the terms and conditions of their employment, through representatives of their own choosing, with all of their employers that possess the authority to control or exercise the power to control those terms and conditions.
-
-##### D. Definition of “essential terms and conditions of employment”
-
-Section 103.40(d) defines “essential terms and conditions of employment” as (1) wages, benefits, and other compensation; (2) hours of work and scheduling; (3) the assignment of duties to be performed; (4) the supervision of the performance of duties; (5) work rules and directions governing the manner, means, and methods of the performance of duties and the grounds for discipline; (6) the tenure of employment, including hiring and discharge; and (7) working conditions related to the safety and health of employees. The Board has decided, after careful consideration of comments as reflected above, to modify the proposed rule's definition of “essential terms and conditions of employment” by setting forth an exclusive, closed list of terms and conditions of employment that may serve as the objects of control necessary to establish joint-employer status.
-
-Terms and conditions of employment falling in these seven categories are not simply common across employment relationships, they represent the core subjects of collective bargaining contemplated by the Act, as illuminated by the Board's administrative experience. Thus, Section 8(d) of the Act expressly provides that the collective-bargaining obligation encompasses a duty to confer with respect to wages and hours, subjects falling within categories (1) and (2). Categories (3), (4), and (5) similarly include terms involving the assignment, supervision, and detailed control of employees' performance of work duties—and the grounds for discipline of employees who fail to perform as required—all common across employment relationships and subjects of central concern to employees seeking to improve their terms and conditions of employment through collective bargaining. Terms and conditions in Category (6), addressing the conditions for the formation and dissolution of the employment relationship itself, are clearly essential conditions of employment. Finally, as many commenters have observed, terms setting working conditions related to the safety and health of employees—encompassed in category (7)—are basic to the employment relationship and lie at or near the core of issues about which employees would reasonably seek to bargain. By providing that a common-law employer of particular employees will be considered a joint employer of those employees only if it possesses the authority to control or exercises the power to control one or more terms and conditions of employment falling into one of these seven categories, this provision ensures that such an employer will be in a position to engage in meaningful bargaining over an issue of core concern to the employees involved. This provision thus effectively incorporates the second step of the Board's joint-employer test set forth in BFI, above, as described by the District of Columbia Circuit in BFI v. NLRB, and addresses that court's concern that the Board had failed, in BFI, adequately to delineate what terms and conditions are “essential” to make collective bargaining “meaningful.”  
-
-##### E. Control Sufficient To Establish Joint-Employer Status
-
-Section 103.40(e) provides, consistent with § 103.40(a) and (c), that whether an employer possesses the authority to control or exercises the power to control one or more of the employees' essential terms and conditions of employment is determined under common law-agency principles. Thus, this provision explains that, subject to the terms of the preceding provisions, (1) possessing the authority to control one or more essential terms and conditions of employment is sufficient to establish status as a joint employer regardless of whether the control is exercised; and (2) exercising the power to control indirectly (including through an intermediary) one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether the control is exercised directly.
-
-As discussed above, the Board has modified this provision from the version set forth in the NPRM by clarifying that, in every case, the object of a common-law employer's control that is relevant to the question of whether it is also a joint employer under the Act must be an essential term and condition of employment as defined in § 103.40(d). In combination with the Board's limitation of “essential” terms and conditions of employment to matters that lie near the core of the collective-bargaining process, this change is intended to address the concerns of commenters (discussed above) that the standard should not require the Board to find a joint-employer relationship based on an entity's attenuated, insubstantial, or unexercised control over matters that—while they may be mandatory subjects of bargaining—are actually peripheral to the employment relationship or to employees' terms and conditions of employment. The version of § 103.40(e) that appears in the final rule is reformatted to include two subsections and has been streamlined to avoid surplusage.
-
-##### F. Control Immaterial to Joint-Employer Status
-
-Section 103.40(f) provides that evidence of an entity's control over matters that are immaterial to the existence of an employment relationship under common-law agency principles and that do not bear on the employees essential terms and conditions of employment is not relevant to the determination of whether the employer is a joint employer.
-
-As discussed above, many commenters have expressed a concern that the proposed rule could result in the Board finding joint-employer relationships based on kinds of control that are not indicative of a common-law employment relationship or that do not form a proper foundation for collective bargaining or unfair-labor practice liability. Similarly, the District of Columbia Circuit in BFI v. NLRB criticized the Board's BFI decision for failing, in its articulation and application of the indirect-control element of the standard, to distinguish between indirect control that the common law of agency considers intrinsic to ordinary third-party contracting relationships and indirect control over essential terms and conditions of employment.
-
-This provision addresses these concerns by expressly recognizing that some kinds of control, including some of those commonly embodied in a contract for the provision of goods or services by a true independent contractor, are not relevant to the determination of whether the entity possessing such control is a common-law employer of the workers producing or delivering the goods or services, and that an entity's control over matters that do not bear on workers' essential terms and conditions of employment are not relevant to the determination of whether that entity is a joint employer.
-
-##### G. Burden of Proof
-
-Section 103.40(g) provides that a party asserting that an employer is a joint employer of particular employees has the burden of establishing, by a preponderance of the evidence, that the entity meets the requirements set forth above. This allocation of the burden of proof is consistent with the 2020 Rule, BFI, and pre-BFI precedent. 
-
-##### H. Bargaining Obligations of a Joint Employer
-
-Section 103.40(h) provides that a joint employer of particular employees must bargain collectively with the representative of those employees with respect to any term and condition of employment that it possesses the authority to control or exercises the power to control, regardless of whether that term and condition is deemed to be an essential term and condition of employment under the definition above, but is not required to bargain with respect to any term and condition of employment that it does not possess the authority to control or exercise the power to control.
-
-As discussed above, some commenters have requested that the Board provide a concise statement of joint employers' bargaining obligations in order to clarify both that a joint employer—like any other employer—must bargain over any mandatory subject of bargaining that is subject to its control, and that a joint employer—again, like any other employer—is not required to bargain about workplace conditions that are not subject to its control. Particularly in light of the Board's determination, discussed above, to adopt a closed list of “essential terms and conditions of employment,” as objects of control relevant to the joint-employer determination, the Board has concluded, after careful consideration of the comments, that it is desirable to expressly provide that a joint employer's bargaining obligations are not limited to those “essential terms and conditions” of employment that it controls, but extend to any ordinary mandatory subject of bargaining that is also subject to its control. Clarifying a joint employer's bargaining obligation in this way further ensures that collective bargaining involving the joint employer will be meaningful, because such bargaining will be able to address not only the core workplace issues the control of which establishes the employer's status as a joint employer but also any other matters subject to the joint employer's control that sufficiently affect the terms and conditions of employees' employment to permit or require collective bargaining under section 8(d) of the Act.
-
-On the other hand, the Board has also concluded that it serves a useful clarifying purpose to expressly provide, consistent with extant Board precedent not affected by the final rule, that where two or more entities each control terms and conditions of employment of particular employees, an employer is not required to bargain over any such terms and conditions which are in no way subject to its own control.
-
-#### 29 CFR § 103.40. Joint Employers
-
-(a\) An employer, as defined by section 2(2) of the National Labor Relations Act (the Act), is an employer of particular employees, as defined by section 2(3) of the Act, if the employer has an employment relationship with those employees under common-law agency principles.
-
-(b\) For all purposes under the Act, two or more employers of the same particular employees are joint employers of those employees if the employers share or codetermine those matters governing employees' essential terms and conditions of employment.
-
-(c\) To “share or codetermine those matters governing employees' essential terms and conditions of employment” means for an employer to possess the authority to control (whether directly, indirectly, or both), or to exercise the power to control (whether directly, indirectly, or both), one or more of the employees' essential terms and conditions of employment.
-
-(d\) “Essential terms and conditions of employment” are
-
-- (1\) Wages, benefits, and other compensation;
-
-- (2\) Hours of work and scheduling;
-
-- (3\) The assignment of duties to be performed;
-
-- (4\) The supervision of the performance of duties;
-
-- (5\) Work rules and directions governing the manner, means, and methods of the performance of duties and the grounds for discipline;
-
-- (6\) The tenure of employment, including hiring and discharge; and 
-
-- (7\) Working conditions related to the safety and health of employees.
-
-(e\) Whether an employer possesses the authority to control or exercises the power to control one or more of the employees' essential terms and conditions of employment is determined under common-law agency principles. For the purposes of this section:
-
-- (1\) Possessing the authority to control one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether control is exercised.
-
-- (2\) Exercising the power to control indirectly (including through an intermediary) one or more essential terms and conditions of employment is sufficient to establish status as a joint employer, regardless of whether the power is exercised directly.
-
-(f\) Evidence of an entity's control over matters that are immaterial to the existence of an employment relationship under common-law agency principles and that do not bear on the employees' essential terms and conditions of employment is not relevant to the determination of whether the entity is a joint employer.
-
-(g\) A party asserting that an employer is a joint employer of particular employees has the burden of establishing, by a preponderance of the evidence, that the entity meets the requirements set forth in paragraphs (a) through (f) of this section.
-
-(h\) A joint employer of particular employees
-
-- (1\) Must bargain collectively with the representative of those employees with respect to any term and condition of employment that it possesses the authority to control or exercises the power to control, regardless of whether that term or condition is deemed to be an essential term and condition of employment under this section for the purposes of establishing joint-employer status; but
-
-- (2\) Is not required to bargain with respect to any term and condition of employment that it does not possess the authority to control or exercise the power to control.
-
-(i\) The provisions of this section are intended to be severable. If any paragraph of this section is held to be unlawful, the remaining paragraphs of this section not deemed unlawful are intended to remain in effect to the fullest extent permitted by law.

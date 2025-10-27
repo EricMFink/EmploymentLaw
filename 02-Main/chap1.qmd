@@ -203,8 +203,6 @@ The opinions in the labor decisions indicate that the judges believed that what 
 
 ### Haskins v. Royster, 70 N.C. 600 (1874)
 
-#### Rodman, J.
-
 We take it to be a settled principle of law, that if one contracts upon a consideration to render personal services for another any third person who maliciously, that is, without a lawful justification, induces the party who contracted to render the service to refuse to do so, is liable to the injured party in an action for damages. It need scarcely be said that there is nothing in this principle inconsistent with personal freedom, else we would not find it in the laws of the freest and most enlightened States in the world. It extends impartially to every grade of service, from the most brilliant and best paid to the most homely, and it shelters our nearest and tenderest domestic relations from the interference of malicious intermeddlers. It is not derived from any idea of property by the one party in the other, but is an inference from the obligation of a contract freely made by competent persons.
 
 We are relieved from any labor in finding authorities for this principle, by a very recent decision of the Supreme Court of Massachusetts, in which a learned and able Judge delivers the opinion of the Court. _Walker v. Cronin_, 107 Mass. 555.
@@ -252,8 +250,6 @@ To enable a plaintiff to recover from one who entices his servant, it is suffici
 We are of opinion that the complaint sets forth a sufficient cause of action.
 
 ### Pollock v. Williams, 322 U.S. 4 (1944)
-
-#### MR. JUSTICE JACKSON delivered the opinion of the Court.
 
 Appellant Pollock questions the validity of a statute of the State of Florida making it a misdemeanor to induce advances with intent to defraud by a promise to perform labor and further making failure to perform labor for which money has been obtained _prima facie_ evidence of intent to defraud. It conflicts, he says, with the Thirteenth Amendment to the Federal Constitution and with the antipeonage statute enacted by Congress thereunder. Claims also are made under the due process and equal protection clauses of the Fourteenth Amendment which we find it unnecessary to consider.
 
@@ -420,8 +416,6 @@ It is possible to design a workplace constitution in which workers have a non-ad
 It is not my intention in this lecture to defend any particular model of worker participation in firm governance. My point is rather to expose a deep failure in current ways of thinking about how government fits into Americans’ lives. We do not live in the market society imagined by Paine and Lincoln, which offered an appealing vision of what a free society of equals would look like, combining individualistic libertarian and egalitarian ideals. Government is everywhere, not just in the form of the state, but even more pervasively in the workplace. Yet public discourse and much of political theory pretends that this is not so. It pretends that the constitution of workplace government is somehow the object of voluntary negotiation between workers and employers. This is true only for a tiny proportion of privileged workers. The vast majority are subject to private, authoritarian government, not through their own choice, but through laws that have handed nearly all authority to their employers. 
 
 ### Workman v. United Parcel Service, Inc., 234 F.3d 998 (7th Cir. 2000)
-
-#### Posner, Circuit Judge
 
 This is a diversity suit, governed by Indiana law and resolved in favor of the defendant on summary judgment, for breach of contract and promissory estoppel. The plaintiff is an employee of UPS who claims that the company made a binding promise not to demote him without just cause and broke its promise. 
 
