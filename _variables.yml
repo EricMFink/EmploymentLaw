@@ -1,4 +1,4 @@
-version: 1.0
+version: 4.1
 
 subject: EmploymentLaw
 repo-name: emfink.net/EmploymentLaw
@@ -13,6 +13,6 @@ institution: Elon University School of Law
 address: 201 North Greene Street
 city-state: Greensboro, North Carolina
 
-term: 'Winter 2025'
+term: 'Winter 2026'
 room: 'Room 105'
 meets: 'Mondays & Wednesdays, 10:30 am–12:15 pm'

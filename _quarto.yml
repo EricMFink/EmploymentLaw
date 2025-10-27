@@ -3,6 +3,10 @@ project:
 
 book:
   title: "Employment Law"
+  subtitle: Elon Law School
+  author: Eric M. Fink
+  date-format: MMMM YYYY
+  license: "CC BY NC SA"
   page-navigation: true
   page-footer:
       center: 
@@ -52,12 +56,11 @@ book:
         - 02-Main/chap9.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
-    - part: Additional Material
+    - part: Problems
       chapters: 
       - problems/confidentiality.qmd
       - problems/loyalty.qmd
       - problems/workers-comp.qmd
-      - links.qmd
 
 format:
   html:
@@ -73,6 +76,7 @@ format:
     number-depth: 2
     toc-location: left
     toc-depth: 3
+    callout-icon: false
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
