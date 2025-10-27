@@ -1,9 +1,9 @@
----
+—
 layout: casebook
 permalink: /StatutesOfLabourers/
 chapter: Chapter 1
 title: Supplemental Material
----
+—
 
 # Early English Labor Statutes
 
