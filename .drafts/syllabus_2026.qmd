@@ -1,28 +1,34 @@
-# Employment Law {.unnumbered}
+# Syllabus {.unnumbered}
 
-[{{< bi download >}}](EmploymentLawSyllabus.pdf "Download Syllabus")
+[{{< bi download >}}]({{< var syllabus-download >}} "Download Syllabus")
+
+::: {.syllabus-header}
+
+## {{< var subject >}} {.unnumbered}
+
+{{< var institution >}}
+
+{{< var term >}}
+
+{{< var room >}}
+
+{{< var meets >}}
+
+[{{< var repo-name >}}]({{< var repo-url >}})
+
+### Professor
+
+{{< var author >}}
+
+{{< var phone >}}
+
+[{{< var email >}}](mailto:{{< var email >}})
+
+Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
+
+:::
 
 ::: {.syllabus}
-
-##### {{< var institution >}}
-
-##### {{< var term >}}
-
-##### {{< var room >}}
-
-##### {{< var meets >}}
-
-###### [{{< var repo-name >}}]({{< var repo-url >}})
-
-#### Professor
-
-##### {{< var author >}}
-
-##### {{< var phone >}}
-
-###### [{{< var email >}}](mailto:{{< var email >}})
-
-##### Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
 ## Description {.unnumbered}
 
@@ -34,7 +40,7 @@ After completing the course, you should be able to recognize and diagnose legal 
 
 ### Required
 
-Employment Law: An Open-Source Casebook. Available on the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw).  
+Employment Law: An Open-Source Casebook (version 4.1, December 2025). Available on the course website: [emfink.net/EmploymentLaw](http://www.emfink.net/EmploymentLaw).  
 
 Rachel Arnow-Richman & Nantiya Ruan, Developing Professional Skills: Workplace Law (West Academic 2017) ("Workbook"). 
 
@@ -46,10 +52,11 @@ Ann Hodges & Rafael Gely, Principles of Employment Law (West Academic 2016). Dig
 
 ### Grading
 
-Your final grade for the term will be based on three problem assignments (25% each; 75% total) and your contributions to in-class discussion (25%). There will be no final exam or paper for this course.
+Your final grade for this course will be based on two group assignments (20% each), one individual writing assignment (30%), and class participation (30%). There will be no final exam.
 
-The graded problem assignments (from the _Developing Professional Skills_ workbook) and due dates are indicated in the "Schedule & Assignments" section of the syllabus. I will provide further information about each assignment in class before it is due. 
+The group assignments will be based on problems from the Developing Professional Skills workbook. Each group will be responsible for two problems during the term, as indicated in the Schedule and Assignments section of the syllabus. I will provide further information about each assignment before the due dates. 
 
+The individual writing assignment will be based on a problem that I will provide in the last week of class. The due date for this assignment will be March 21 (last day of Winter Term exam period). 
 
 ### Attendance
 
@@ -71,45 +78,96 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 ## Schedule & Assignments {.unnumbered}
 
- **Date** | **Topic**  | **Assignment**
---|---|--
- &nbsp; | &nbsp; | &nbsp;
- &nbsp; | **Foundations of Employment Law** | &nbsp;
- January 6 | Employment as a Socio-Legal Relationship | Casebook, Chap. 1
- January 8 | Labor Organizing & Collective Bargaining | Casebook, Chap. 2
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Establishing an Employment Relationship** | &nbsp;
- January 13 | Identifying Employees | Casebook, Chap. 3, § 1 
- January 15 | Identifying Employers | Casebook, Chap. 3, § 2 
- January 22  | Recruitment & Hiring |  Casebook, Chap. 3, § 3
- January 27 | **Assignment 1 due** | The Canine Trainer (Workbook, Chap. 1)
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Scope & Limits of Employer Control** | &nbsp;
- January 27 | Privacy, Autonomy, & Dignity  | Casebook, Chap. 4, § 1.1
- January 29 | Workplace Rules & Protected Concerted Activity | Casebook, Chap. 4, § 1.2
- February 3 | Control Outside Work | Casebook, Chap. 4, § 2
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Employee Duties to Employers** | &nbsp;
- February 5 | Confidentiality | Casebook, Chap. 5, § 1
- February 10 | Loyalty | Casebook, Chap. 5, § 2
- February 17 | **Assignment 2 due** | The Doctor Is In (Workbook, Chap. 5)
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Wages & Hours** | &nbsp;
- February 12 & 17 | Minimum Wage, Overtime, & Wage Payments | Casebook, Chap. 6
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Employee Health & Safety** | &nbsp;
- February 19 | Medical Leave & Disability Discrimination | Casebook, Chap. 7, §§ 1 & 2
- February 24 | OSHA & Workers' Compensation | Casebook, Chap. 7, §§ 3 & 4
- &nbsp; |  &nbsp; |  &nbsp;
- &nbsp; | **Terminating Employment** | &nbsp;
- February 26 | Employment-at-Will | Casebook, Chap. 8, § 1.1
- March 3 | Contractual Claims | Casebook, Chap. 8, § 1.2
- March 5 | Tort Claims | Casebook, Chap. 8, § 1.3
- March 10 | Statutory Claims | Casebook, Chap. 8, § 1.4
- March 12  | Unemployment Compensation | Casebook, Chap. 8, § 2
- March 17 | Make-Up Class (if needed) | &nbsp;
- March 17 | **Assignment 3 due** | The Smart-Tek IPO (Workbook, Chap. 4)
+(_Note:_ This class will not meet on Monday, January 20th)
 
- N.B. This class will not meet on Monday, January 20th (Martin Luther King, Jr. Day)
+### 1\. Foundations of Employment Law
+
+#### January 5
+
+Employment as a Socio-Legal Relationship, _Casebook_ Chap. 1
+
+#### January 7
+
+Labor Organizing & Collective Bargaining, _Casebook_ Chap. 2
+
+### 2\. Establishing an Employment Relationship
+
+#### January 12 
+
+Identifying Employees, _Casebook_ Chap. 3, § 1
+
+#### January 14 
+
+Identifying Employers, _Casebook_ Chap. 3, § 2
+
+#### January 21 
+
+Recruitment & Hiring, _Casebook_ Chap. 4
+
+### 3\.Scope & Limits of Employer Control
+
+#### January 26
+
+Privacy, Autonomy, & Dignity, _Casebook_ Chap. 5, § 1
+
+#### January 28
+
+Protected Concerted Activity, _Casebook_ Chap. 5, § 2
+
+#### February 2 
+
+Control Outside Work, _Casebook_ Chap. 5, § 3
+
+### 4\. Employee Duties to Employers
+
+#### February 4 
+
+Confidentiality, _Casebook_ Chap. 6, § 1
+
+#### February 9 
+
+Loyalty, _Casebook_ Chap. 6, § 2
+
+### 5\. Wages & Hours
+
+#### February 11 
+
+Minimum Wage, Overtime, & Wage Payments, _Casebook_ Chap. 7
+
+### 6\. Employee Health & Safety
+
+#### February 16 
+
+Medical Leave & Disability Discrimination, _Casebook_ Chap. 8, §§ 1 & 2
+
+#### February 18 
+
+OSHA & Workers' Compensation, _Casebook_ Chap. 8, §§ 3 & 4
+
+### 7\. Terminating Employment
+
+#### February 23 
+
+Employment-at-Will, _Casebook_ Chap. 9, § 1.1
+
+#### February 25 
+
+Contract & Tort Claims for Wrongful Termination, _Casebook_ Chap. 9, § 1.2 & 1.3
+
+#### March 2 
+
+Statutory Limits on Termination, _Casebook_ Chap. 9, § 1.4
+
+#### March 4
+
+Contractual Restraints on Employee Exit,  _Casebook_ Chap. ??
+
+#### March 9 
+
+Unemployment Compensation, _Casebook_ Chap. 9, § 2
+
+#### March 11 
+
+##### Make-up Class (if needed)
 
 :::

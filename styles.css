@@ -202,22 +202,48 @@ ul {
 }
 
 /* Syllabus */
+
+.syllabus-header {
+	margin-bottom: 2rem;
+}
+.syllabus-header h2 {
+	font-family: "Adelle Sans", sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	font-style: normal;
+	margin: 1rem 0 0 0;
+}
+.syllabus-header h3 {
+	font-family: "Adelle Sans", sans-serif;
+	font-size: .8rem;
+	font-weight: 400;
+	font-style: normal;
+	margin: 1rem 0 0 0;
+}
+.syllabus p {
+	font-family: "Literata", serif;
+	font-size: 0.9rem;
+	font-weight: 300;
+	font-style: normal;
+	margin: 0.2rem 0 0rem 0;
+}
+
 .syllabus {
 	font-family: "Literata",serif;
-	font-size: .8rem;
+	font-size: 1rem;
 	margin: 0 0 0 0;
 	display: block;
 }
 .syllabus h1 {
 	font-family: "Adelle Sans", sans-serif;
 	color: #800000;
-	margin-top: 1.5rem;
+	margin-top: 2rem;
 	margin-bottom: 0rem;
 }
 .syllabus h2 {
 	font-family: "Adelle Sans", sans-serif;
 	color: #800000;
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 1;
@@ -226,43 +252,27 @@ ul {
 .syllabus h3 {
 	font-family: "Literata", serif;
 	color: #191919;
-	font-size: 1.1rem;
+	font-size: 1.3rem;
 	font-weight: 400;
 	font-style: normal;
 	margin: 1rem 0 0 0;
 	border: none;
 }
 .syllabus h4 {
-	font-family: "Adelle Sans", sans-serif;
-	font-size: .7rem;
+	font-family: "Literata", serif;
+	font-size: 1.1rem;
 	font-weight: 400;
 	font-style: normal;
 	margin: 1rem 0 0 0;
 }
 .syllabus h5 {
 	font-family: "Literata", serif;
-	font-size: 0.8rem;
+	font-size: 1rem;
 	font-weight: 300;
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-.syllabus h6 {
-	font-family: "Lft-Etica-Mono", monospace;
-	font-size: 0.7rem;
-	font-weight: 300;
-	font-style: normal;
-	margin: 0.2rem 0 0rem 0;
-}
-.syllabus-info {
-	margin-bottom: 2rem;
-}
-.syllabus-info p {
-	font-family: "Adelle Sans", sans-serif;
-	font-size: 0.8rem;
-	font-weight: 400;
-	font-style: normal;
-	margin: 0.2rem 0 0rem 0;
-}
+
 /*
 .syllabus a {
 	font-family: "Lft-Etica-Mono", monospace;

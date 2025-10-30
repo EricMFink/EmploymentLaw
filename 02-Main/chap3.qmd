@@ -1,6 +1,6 @@
 # Establishing an Employment Relationship
 
-## The Legal Significance of Employee Status
+## Employees
 
 ### Lemmerman v. A.T. Williams Oil Co., 350 S.E.2d 83 (N.C. 1986)
 
@@ -107,8 +107,6 @@ For the above reasons I vote to allow the infant plaintiff to pursue his common 
 [^Lemmerman4]: (n.4 in opinion) Schneiderman testified that he hired his own children to work at the Wilco and that defendant promoted this arrangement because "you could work your kids for less money." 
 
 [^Lemmerman5]: (n.5 in opinion) He paid their net pay out of the register and submitted their names and pay records to his supervisor for payment of payroll taxes.
-
-## Distinguishing Employees from Contractors, Interns, & Students 
 
 ### Razak v. Uber Technologies, Inc., 951 F.3d 137 (3d Cir. 2020)
 
@@ -555,7 +553,7 @@ This case also presents difficult collateral legal issues that should give us pa
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
-## Identifying Employers
+## Employers
 
 ### Ries v. McDonald's USA, LLC, No. 1:20-cv-2 (W.D. Mich. Dec. 6, 2021)
 
