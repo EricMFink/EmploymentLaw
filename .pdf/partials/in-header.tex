@@ -51,10 +51,15 @@
 \AtBeginEnvironment{longtable*}{\tablefont} 
 \renewcommand{\arraystretch}{2}
 
-% no label for unordered lists; needed to use ul for legal code; use Unicode Character “•” (U+2022) for bullet
+% custom unordered list environment for statutes and other legal code
 \usepackage{enumitem}
-\setlist[itemize]{label={}}
-\renewcommand{\labelitemi}{}
+\newenvironment{legalcode}{%
+  \setlist[itemize]{
+    label={},
+    itemindent=0em,
+    leftmargin=1.5em,
+  }
+  \renewcommand{\labelitemi}{}}
 
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
@@ -122,6 +127,12 @@
 %  \item\relax\small\itshape
 %}
 %{\endlist}
+
+\renewenvironment{quote}{
+  \list{}{\leftmargin=2em\rightmargin=2em}
+  \item\relax\small
+}
+{\endlist}
 
 \newcommand{\monthyear}{%
   \ifcase\month\or January\or February\or March\or April\or May\or June\or
