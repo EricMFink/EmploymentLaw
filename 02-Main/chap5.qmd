@@ -254,35 +254,35 @@ In April 2000, Harrah's amended that policy to require that women wear makeup. J
 > 
 > Beverage Bartenders and Barbacks will adhere to these additional guidelines:
 > 
-> \• Overall Guidelines (applied equally to male/ female):
+> - Overall Guidelines (applied equally to male/ female):
 > 
-> > \• Appearance: Must maintain Personal Best image portrayed at time of hire.
+> > - Appearance: Must maintain Personal Best image portrayed at time of hire.
 > 
-> > \• Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
+> > - Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
 > 
-> > \• No faddish hairstyles or unnatural colors are permitted.
+> > - No faddish hairstyles or unnatural colors are permitted.
 > 
-> \• Males:
+> - Males:
 > 
-> > \• Hair must not extend below top of shirt collar. Ponytails are prohibited.
+> > - Hair must not extend below top of shirt collar. Ponytails are prohibited.
 > 
-> > \• Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
+> > - Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
 > 
-> > \• Eye and facial makeup is not permitted.
+> > - Eye and facial makeup is not permitted.
 > 
-> > \• Shoes will be solid black leather or leather type with rubber (non skid) soles.
+> > - Shoes will be solid black leather or leather type with rubber (non skid) soles.
 > 
-> \• Females:
+> - Females:
 > 
-> > \• Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
+> > - Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
 > 
-> > \• Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
+> > - Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
 > 
-> > \• Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
+> > - Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
 > 
-> > \• Shoes will be solid black leather or leather type with rubber (non skid) soles.
+> > - Shoes will be solid black leather or leather type with rubber (non skid) soles.
 > 
-> > \• _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
+> > - _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
 
 Jespersen did not wear makeup on or off the job, and in her deposition stated that wearing it would conflict with her self-image. It is not disputed that she found the makeup requirement offensive, and felt so uncomfortable wearing makeup that she found it interfered with her ability to perform as a bartender. Unwilling to wear the makeup, and not qualifying for any open positions at the casino with a similar compensation scale, Jespersen left her employment with Harrah's.
 
@@ -568,6 +568,8 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 ### Cal. Labor Code § 980{#cal-labor-code-980}
 
+::: {.legalcode}
+
 #### Employer Use of Social Media 
 
 (a) As used in this chapter, “social media” means an electronic service or account, or electronic content, including, but not limited to, videos, still photographs, blogs, video blogs, podcasts, instant and text messages, email, online services or accounts, or Internet Web site profiles or locations.
@@ -575,9 +577,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 (b) An employer shall not require or request an employee or applicant for employment to do any of the following:
 
 - (1) Disclose a username or password for the purpose of accessing personal social media.
-
 - (2) Access personal social media in the presence of the employer.
-
 - (3) Divulge any personal social media, except as provided in subdivision (c).
 
 (c) Nothing in this section shall affect an employer’s existing rights and obligations to request an employee to divulge personal social media reasonably believed to be relevant to an investigation of allegations of employee misconduct or employee violation of applicable laws and regulations, provided that the social media is used solely for purposes of that investigation or a related proceeding.
@@ -585,6 +585,8 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 (d) Nothing in this section precludes an employer from requiring or requesting an employee to disclose a username, password, or other method for the purpose of accessing an employer-issued electronic device.
 
 (e) An employer shall not discharge, discipline, threaten to discharge or discipline, or otherwise retaliate against an employee or applicant for not complying with a request or demand by the employer that violates this section. However, this section does not prohibit an employer from terminating or otherwise taking an adverse action against an employee or applicant if otherwise permitted by law.
+
+::: 
 
 ## Protected Concerted Activity 
 
@@ -606,7 +608,7 @@ Accordingly, we invited the parties and interested amici to address the followin
 
 	c. the Board appropriately balances employees’ rights under Section 7 and employers’ legitimate business interests?
 
-3. Should the Board continue to hold that certain categories of work rules-- such as investigative-confidentiality rules, non-disparagement rules, and rules prohibiting outside employment--are always lawful to maintain?
+3. Should the Board continue to hold that certain categories of work rules--such as investigative-confidentiality rules, non-disparagement rules, and rules prohibiting outside employment--are always lawful to maintain?
 
 Having carefully considered the briefs of the parties and amici, as well as the Board’s past experiences regarding these issues and the view of our dissenting colleague, we have decided to adopt an approach to assessing facial challenges to employer work rules under Section 8(a)(1) that builds on and revises the _Lutheran Heritage_ standard. As we will explain, the primary problem with the standard from _Boeing_ and _LA Specialty Produce_ is that it permits employers to adopt overbroad work rules that chill employees’ exercise of their rights under Section 7 of the Act, which include the “right to self-organization, to form, join, or assist labor organizations, to bargain collectively . . ., and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection.” 29 U.S.C. § 157. To begin, the current standard fails to account for the economic dependency of employees on their employers. Because employees are typically (and understandably) anxious to avoid discharge or discipline, they are reasonably inclined both to construe an ambiguous work rule to prohibit statutorily protected activities and to avoid the risk of violating the rule by engaging in such activity. In turn, _Boeing_ gives too little weight to the burden a work rule could impose on employees’ Section 7 rights. At the same time, _Boeing_’s purported balancing test gives too much weight to employer interests. Crucially, _Boeing_ also condones overbroad work rules by not requiring the party drafting the work rules--the employer--to narrowly tailor its rules to only promote its legitimate and substantial business interests while avoiding burdening employee rights.
 
@@ -660,7 +662,7 @@ In response, the _William Beaumont_ majority acknowledged that assessing work ru
 
 Less than 2 years later, without being asked and without seeking any public input, a newly constituted Board effectively incorporated the William Beaumont dissent into the majority opinion in _Boeing Co._ (2017). The _Boeing_ majority held that, when deciding the lawfulness of maintaining a ““facially neutral” work rule, the Board “will evaluate two things: (i) the nature and extent of the potential impact on NLRA rights, and (ii) legitimate justifications associated with the rule.” Those two factors would be balanced against each other. According to the majority, the _Lutheran Heritage_ standard did not permit the Board to consider an employer’s legitimate business reasons for maintaining a rule; to distinguish between more and less important Section 7 interests; to differentiate among industries, work settings, or specific circumstances reflected in a given rule; or to produce consistent rulings in work-rules cases. And the majority claimed that past Board decisions specifying criteria for assessing the lawfulness of specific types of rules--like rules concerning workplace solicitation and distribution of literature--comport with its standard, which permitted accommodating employer interests, but not under _Lutheran Heritage_, which it asserted did not.
 
-The majority also created a categorical classification system for evaluating rules under its standard. In “Category 1”-- rules that were always lawful to maintain--it would put rules that, as a type, did not interfere with Section 7 rights and rules where the adverse impacts on Section 7 rights were outweighed by justifications associated with such rules. In “Category 2”--rules that were sometimes lawful to maintain--it would put rules that “warrant scrutiny in each case.” And in “Category 3”--rules that were always unlawful to maintain--it would put rules that, given their impact on protected activity, could never be justified by an employer. The purported intent of this categorical approach was to “provide far greater clarity and certainty” for regulated parties. 
+The majority also created a categorical classification system for evaluating rules under its standard. In “Category 1”--rules that were always lawful to maintain--it would put rules that, as a type, did not interfere with Section 7 rights and rules where the adverse impacts on Section 7 rights were outweighed by justifications associated with such rules. In “Category 2”--rules that were sometimes lawful to maintain--it would put rules that “warrant scrutiny in each case.” And in “Category 3”--rules that were always unlawful to maintain--it would put rules that, given their impact on protected activity, could never be justified by an employer. The purported intent of this categorical approach was to “provide far greater clarity and certainty” for regulated parties. 
 
 Applying its new standard, the _Boeing_ majority upheld a rule maintained by the employer, a manufacturer of military and commercial aircraft, restricting the use of cameras in the workplace because any “adverse impact” on Section 7 rights was “comparatively slight” and was “outweighed by substantial and important justifications associated with _Boeing_’s maintenance of the no-camera rule.” Without further explanation, it deemed all rules of that type always lawful for employers to maintain no matter the circumstances. Remarkably, the _Boeing_ Board also designated all rules “requiring employees to abide by basic standards of civility”--of the sort at issue in _William Beaumont_, but not at issue in _Boeing_--as always lawful. 
 
@@ -692,7 +694,7 @@ But “equally undisputed,” as the Supreme Court has also observed, is the “
 
 ##### A.
 
-It has long been established that the test for evaluating whether an employer’s conduct or statements violate Section 8(a)(1) of the Act is whether they have a reasonable tendency to interfere with, restrain, or coerce employees who may engage in activities protected by Section 7. The General Counsel, of course, has the burden of establishing a violation of the Act. As we now explain, our initial focus in the work-rules context is on whether the General Counsel has proven that a rule has a reasonable tendency to interfere with, restrain, or coerce employees who contemplate engaging in protected activity. To discern that tendency, the Board--as in all other Section 8(a)(1) contexts-- appropriately “views employer statements ‘from the standpoint of employees over whom the employer has a measure of economic power.”’ 
+It has long been established that the test for evaluating whether an employer’s conduct or statements violate Section 8(a)(1) of the Act is whether they have a reasonable tendency to interfere with, restrain, or coerce employees who may engage in activities protected by Section 7. The General Counsel, of course, has the burden of establishing a violation of the Act. As we now explain, our initial focus in the work-rules context is on whether the General Counsel has proven that a rule has a reasonable tendency to interfere with, restrain, or coerce employees who contemplate engaging in protected activity. To discern that tendency, the Board--as in all other Section 8(a)(1) contexts--appropriately “views employer statements ‘from the standpoint of employees over whom the employer has a measure of economic power.”’ 
 
 Interpreting a work rule from the perspective of the economically dependent employee who contemplates engaging in Section 7 activity is consistent with workplace reality--employees ordinarily do not wish to risk their jobs by violating their employers’ rules--and with the employee-protective purposes of the Act. As suggested, this frame of reference is entirely consistent with, and arguably compelled by, the Supreme Court’s decision in _Gissel_, which considered whether certain statements made by an employer to his employees violated Section 8(a)(1). Addressing the employer’s argument that its statements were protected by Section 8(c) of the Act, the _Gissel_ Court explained that “an employer’s rights cannot outweigh the equal rights of the employees to associate freely, as those rights are embodied in § 7 and protected by § 8(a)(1).” The Court reasoned that “any balancing of those rights must take into account the economic dependence of the employees on their employers, and the necessary tendency of the former, because of that relationship, to pick up intended implications of the latter that might be more readily dismissed by a more disinterested ear.” These “obvious principles,” in the Court’s words, should be central to our analysis when the Board evaluates a work rule. Accordingly, in interpreting a rule, the Board will take the perspective of the “economically dependent employee” who contemplates engaging in Section 7 activity. Such an employee is readily inclined to avoid violating a rule, and so readily inclined to interpret it more broadly to restrict or prohibit Section 7 activity than a disinterested observer might. Being discharged might mean--to take just two very real examples--being unable to pay rent or put food on the table. For purposes of the Act, then, the coercive potential of a work rule is inextricably intertwined with the vulnerable position of employees.
 
@@ -724,7 +726,7 @@ Under _Boeing_, even after attempting to provide clarifications in _LA Specialty
 
 ##### C.
 
-Having rescinded the standard adopted in _Boeing_ and revised in _LA Specialty Produce_, we necessarily reject those decisions and their progeny, including the categorical holding that the Board has made to find certain types of work rules always lawful to maintain. Instead of that rigid-- indeed, arbitrary--categorical approach, we return to a case-by-case approach, which examines the specific language of particular rules and the employer interests actually invoked to justify them.
+Having rescinded the standard adopted in _Boeing_ and revised in _LA Specialty Produce_, we necessarily reject those decisions and their progeny, including the categorical holding that the Board has made to find certain types of work rules always lawful to maintain. Instead of that rigid--indeed, arbitrary--categorical approach, we return to a case-by-case approach, which examines the specific language of particular rules and the employer interests actually invoked to justify them.
 
 The primary problem with _Boeing_’s categorical approach is that it was regularly applied to designate all rules of a generalized type as always lawful to maintain, no matter their specific wording, the specific industry or workplace in which the employer maintained the rule, the specific employer interests that the rule was supposed to advance, or any number of context-specific factors that may have arisen in a particular case. _Boeing_ itself exemplifies the arbitrary nature of this categorical approach.
 
@@ -778,9 +780,9 @@ On the same date, Starbucks responded by posting this _Marking and Calling Custo
 > 
 > Starbucks prohibits the writing or printing of content on items that is inappropriate, offensive or otherwise does not align with Our Missions & Values. **Partners should also not write or print content on items that advocates for a political, religious or a personal issue, even if requested by a customer.** When marking customer items and calling orders:
 > 
-> • Do not write phrases that do not represent Our Missions & Values ....
+> - Do not write phrases that do not represent Our Missions & Values ....
 > 
-> • When a customer requests that you write something on an item that is inappropriate, offensive or not in alignment with Our Mission & Values, respectfully mark the name of the item that was ordered.
+> - When a customer requests that you write something on an item that is inappropriate, offensive or not in alignment with Our Mission & Values, respectfully mark the name of the item that was ordered.
 
 In _Stericycle, Inc._, the Board recently held that challenged work rules are subject to the following standard:
 
@@ -813,7 +815,7 @@ On August 15, the Lindbergh employees read aloud a letter in the café to assist
 On September 28, i.e., just 4 days after the strike, Starbucks issued its first round of _Dress Code_ policy disciplines; they are summarized below:
 
 | **Employee**  | **Dress Code Violations**  | **Disciplinary Action**  |
-| --- | --- | --- |
+| ---| ---| ---|
 | Barge | August 17, 19, 30, 31 and September 5, 8, 9 (graphic t-shirt violations) | Documented Coaching |
 | Sudekum | August 31 and September 6 (graphic t-shirt violations) | Documented Coaching |
 | Gamache | August 19, 20, 22, 26, 27, 31 and September 1, 3, 7, 8 and 23 (graphic t-shirt violations) | Documented Coaching  |
@@ -822,7 +824,7 @@ On September 28, i.e., just 4 days after the strike, Starbucks issued its first 
 On October 14 and 31, Starbucks issued these additional _Dress Code_ disciplines:
 
 | **Employee**  | **Dress Code Violations**  | **Disciplinary Action**  |
-| --- | --- | --- |
+| ---| ---| ---|
 | Barge  | September 29 and October 4, 11 (graphic t-shirt violations)  | Written Warning |
 | Sudekum | October 3 and 4 (graphic t-shirt violations), and October 15 and 20 (color palette violations) | Written Warning |
 | Gamache | October 1, 4, 6, 7, 8, 12, 13 (graphic t-shirt violations) | Written Warning |
@@ -832,7 +834,7 @@ On October 21, Rohlf received a _Notice of Separation_ on the basis of his: (1) 
 Store Manager Dillon testified that Lindbergh generally failed to comply with the _Dress Code_, PSC and other workplace policies. She recollected that she started coaching employees on these issues in April. She recalled that, in May, Sudekum wore a red shirt that was barred by the _Dress Code_, which resulted in an informal counseling. She related that her practice was that, once she discussed a _Dress Code_ violation was raised and the employee continued to violate the rule, she issued discipline. She related that she coached several shift supervisors on PSC issues before issuing discipline. Starbucks personnel records demonstrated that, at Lindbergh, _Dress Code_ disciplines were also issued to these employees:
 
 | **Employee** | **Date** | **Discipline** | **Summary** |
-| --- | --- | --- | --- |
+| ---| ---| ---| ---|
 | B. Freeman | November 14 | Documented Coaching | Patterned pants, graphic tee, skirt length |
 | D. Floyd | January 3, 2023 | Written warning | Lateness, no call no show, graphic tee, leggings, hooded top |
 
@@ -1010,42 +1012,32 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 
 ### NY Labor Code § 201-d
 
+::: {.legalcode}
+
 #### Discrimination against the engagement in certain activities.
 
 1\. Definitions. As used in this section:
 
 - a\. "Political activities" shall mean (i) running for public office, (ii) campaigning for a candidate for public office, or (iii) participating in fund-raising activities for the benefit of a candidate, political party or political advocacy group;
-
 - b\. "Recreational activities" shall mean any lawful, leisure-time activity, for which the employee receives no compensation and which is generally engaged in for recreational purposes, including but not limited to sports, games, hobbies, exercise, reading and the viewing of television, movies and similar material;
-
 - c\. "Work hours" shall mean, for purposes of this section, all time, including paid and unpaid breaks and meal periods, that the employee is suffered, permitted or expected to be engaged in work, and all time the employee is actually engaged in work. This definition shall not be referred to in determining hours worked for which an employee is entitled to compensation under any law including article nineteen of this chapter;
-
 - d\. "Political matters" shall mean matters relating to elections for political office, political parties, legislation, regulation and the decision to join or support any political party or political, civic, community, fraternal or labor organization;
-
 - e\. "Religious matters" shall mean matters relating to religious affiliation and practice and the decision to join or support any religious organization or association.
 
 2\. Unless otherwise provided by law, it shall be unlawful for any employer or employment agency to refuse to hire, employ or license, or to discharge from employment or otherwise discriminate against an individual in compensation, promotion or terms, conditions or privileges of employment because of:
 
 - a\. an individual's political activities outside of working hours, off of the employer's premises and without use of the employer's equipment or other property, if such activities are legal, provided, however, that this paragraph shall not apply to persons whose employment is defined in paragraph six of subdivision (a) of section seventy-nine-h of the civil rights law, and provided further that this paragraph shall not apply to persons who would otherwise be prohibited from engaging in political activity pursuant to chapter 15 of title 5 and subchapter III of chapter 73 of title 5 of the USCA;
-
 - b\. an individual's legal use of consumable products, including cannabis in accordance with state law, prior to the beginning or after the conclusion of the employee's work hours, and off of the employer's premises and without use of the employer's equipment or other property;
-
 - c\. an individual's legal recreational activities, including cannabis in accordance with state law, outside work hours, off of the employer's premises and without use of the employer's equipment or other property;
-
 - d\. an individual's membership in a union or any exercise of rights granted under Title 29, USCA, Chapter 7 or under article fourteen of the civil service law; or
-
 - e\. an individual's refusal to: (i) attend an employer-sponsored meeting with the employer or its agent, representative or designee, the primary purpose of which is to communicate the employer's opinion concerning religious or political matters; or (ii) listen to speech or view communications, the primary purpose of which is to communicate the employer's opinion concerning religious or political matters.
 
 3\. The provisions of subdivision two of this section shall not be deemed to protect activity which:
 
 - a\. creates a material conflict of interest related to the employer's trade secrets, proprietary information or other proprietary or business interest;
-
 - b\. with respect to employees of a state agency as defined in sections seventy-three and seventy-four of the public officers law respectively, is in knowing violation of subdivision two, three, four, five, seven, eight or twelve of section seventy-three or of section seventy-four of the public officers law, or of any executive order, policy, directive, or other rule which has been issued by the attorney general regulating outside employment or activities that could conflict with employees' performance of their official duties;
-
 - c\. with respect to employees of any employer as defined in section twenty-seven-a of this chapter, is in knowing violation of a provision of a collective bargaining agreement concerning ethics, conflicts of interest, potential conflicts of interest, or the proper discharge of official duties;
-
 - d\. with respect to employees of any employer as defined in section twenty-seven-a of this chapter who are not subject to section seventy-three or seventy-four of the public officers law, is in knowing violation of article eighteen of the general municipal law or any local law, administrative code provision, charter provision or rule or directive of the mayor or any agency head of a city having a population of one million or more, where such law, code provision, charter provision, rule or directive concerns ethics, conflicts of interest, potential conflicts of interest, or the proper discharge of official duties and otherwise covers such employees; and
-
 - e\. with respect to employees other than those of any employer as defined in section twenty-seven-a of this chapter, violates a collective bargaining agreement or a certified or licensed professional's contractual obligation to devote his or her entire compensated working hours to a single employer, provided however that the provisions of this paragraph shall apply only to professionals whose compensation is at least fifty thousand dollars for the year nineteen hundred ninety-two and in subsequent years is an equivalent amount adjusted by the same percentage as the annual increase or decrease in the consumer price index.
 
 4\. Notwithstanding the provisions of subdivision three of this section, an employer shall not be in violation of this section where the employer takes action based on the belief either that: (i) the employer's actions were required by statute, regulation, ordinance or other governmental mandate, (ii) the employer's actions were permissible pursuant to an established substance abuse or alcohol program or workplace policy, professional contract or collective bargaining agreement, or (iii) the individual's actions were deemed by an employer or previous employer to be illegal or to constitute habitually poor performance, incompetency or misconduct.
@@ -1053,9 +1045,7 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 4-a\. Notwithstanding the provisions of subdivision three or four of this section, an employer shall not be in violation of this section where the employer takes action related to the use of cannabis based on the following:
 
 - (i\) the employer's actions were required by state or federal statute, regulation, ordinance, or other state or federal governmental mandate;
-
 - (ii\) the employee is impaired by the use of cannabis, meaning the employee manifests specific articulable symptoms while working that decrease or lessen the employee's performance of the duties or tasks of the employee's job position, or such specific articulable symptoms interfere with an employer's obligation to provide a safe and healthy work place, free from recognized hazards, as required by state and federal occupational safety and health law; or
-- 
 - (iii\) the employer's actions would require such employer to commit any act that would cause the employer to be in violation of federal law or would result in the loss of a federal contract or federal funding.
 
 5\. Nothing in this section shall apply to persons who, on an individual basis, have a professional service contract with an employer and the unique nature of the services provided is such that the employer shall be permitted, as part of such professional service contract, to limit the off-duty activities which may be engaged in by such individual.
@@ -1065,7 +1055,6 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 7\. 
 
 - a\. Where a violation of this section is alleged to have occurred, the attorney general may apply in the name of the people of the state of New York for an order enjoining or restraining the commission or continuance of the alleged unlawful acts. In any such proceeding, the court may impose a civil penalty in the amount of three hundred dollars for the first violation and five hundred dollars for each subsequent violation.
-
 - b\. In addition to any other penalties or actions otherwise applicable pursuant to this chapter, where a violation of this section is alleged to have occurred, an aggrieved individual may commence an action for equitable relief and damages.
 
 8\. Nothing in this section shall prohibit: (i) an employer or its agent, representative or designee from communicating to its employees any information that the employer is required by law to communicate, but only to the extent of such legal requirement; (ii) an employer or its agent, representative or designee from communicating to its employees any information that is necessary for such employees to perform their job duties; (iii) an institution of higher education, or any agent, representative or designee of such institution, from meeting with or participating in any communications with its employees that are part of coursework, any symposia or an academic program at such institution; (iv) casual conversations between employees or between an employee and an agent, representative or designee of an employer, provided participation in such conversations is not required; or (v) a requirement limited to the employer's managerial and supervisory employees.
@@ -1073,6 +1062,8 @@ For these reasons, a reasonable jury could find that the Bank's actions violated
 9\. The provisions of this section shall not apply to a religious corporation, entity, association, educational institution or society that is exempt from the requirements of Title VII of the Civil Rights Act of 1964 pursuant to 42 USC 2000e-1(a) with respect to speech on religious matters to employees who perform work connected with the activities undertaken by such religious corporation, entity, association, educational institution or society.
 
 10\. Every employer shall post a sign in every workplace at the location or locations where notices to employees are normally posted, to inform employees of their rights pursuant to this section.
+
+:::
 
 ### Brunner v. Al Attar, 786 S.W.2d 784 (Tex. App. 1990)
 
@@ -1242,6 +1233,8 @@ Accordingly, the undersigned respectfully recommends that Defendants’ Motion t
 
 ### NCGS § 95-28.2
 
+::: {.legalcode}
+
 #### Discrimination against persons for lawful use of lawful products during nonworking hours prohibited.
 
 (a\) As used in this section, "employer" means the State and all political subdivisions of the State, public and quasi-public corporations, boards, bureaus, commissions, councils, and private employers with three or more regularly employed employees.
@@ -1267,3 +1260,5 @@ Accordingly, the undersigned respectfully recommends that Defendants’ Motion t
 - (3\) An order directing the employer to offer employment to the prospective employee.
 
 (f\) The court may award reasonable costs, including court costs and attorneys' fees, to the prevailing party in an action brought pursuant to this section. 
+
+:::

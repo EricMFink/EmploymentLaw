@@ -14,9 +14,9 @@ Employee Amber Frare filed an unfair labor practice claim against Lowe’s. She 
 > 
 > Confidential information includes, but is not limited to:
 > 
-> • material non-public information; and
+> - material non-public information; and
 > 
-> • proprietary information relating to Lowe’s business such as customer, budget, financial, credit, marketing, pricing, supply cost, personnel, medical records or salary information, and future plans and strategy.
+> - proprietary information relating to Lowe’s business such as customer, budget, financial, credit, marketing, pricing, supply cost, personnel, medical records or salary information, and future plans and strategy.
 
 #### Discussion
 
@@ -110,9 +110,9 @@ We acknowledge that the Respondent has a legitimate and, indeed, weighty interes
 
 Based on the foregoing, we find that the media-contact provision in the Respondent’s Confidentiality Agreement is unlawful and that the Respondent therefore violated Section 8(a)(1) by maintaining it. Further, we place rules that prohibit employees from communicating with the media regardless of whether the communications concern confidential information or the employees purport to speak on the employer’s behalf in _Boeing_ Category 3.
 
-### Note on _Lowe's Home Centers_ and _Tesla_
-
+::: {.callout-note}
 In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confidentiality policies under the standard adopted in _Boeing Co._, 365 NLRB No. 154 (2017) and _LA Specialty Produce Co._, 368 NLRB No. 93 (2019). In _Stericycle, Inc_., 372 NLRB No. 113 (N.L.R.B. Aug. 2, 2023) (see Chap. 4), the NLRB overruled _Boeing_ and "adopt[ed] a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act." Because the standard under _Stericycle_ is less deferential to employer interests and more protective of employee rights, the outcome in cases like _Lowe's Home Centers_ and _Tesla_, holding employer rules illegal under _Boeing_, would likely be the same.
+:::
 
 ## Confidential Settlement Agreements  
 
@@ -126,7 +126,7 @@ The Parties now seek approval of their proposed settlement. For the reasons that
 
 #### Background
 
-According to the Complaints, A2B provides non-emergency medical transportation services. Plaintiffs allege that they were not (1) informed of their right to overtime pay, (2) paid overtime for work in excess of 40 hours per week, or (3) provided with an appropriate wage notice. Plaintiffs seek damages, liquidated damages, pre- and post-judgment interest, further relief available under the FLSA and NYLL, and attorney fees.
+According to the Complaints, A2B provides non-emergency medical transportation services. Plaintiffs allege that they were not (1) informed of their right to overtime pay, (2) paid overtime for work in excess of 40 hours per week, or (3) provided with an appropriate wage notice. Plaintiffs seek damages, liquidated damages, pre-and post-judgment interest, further relief available under the FLSA and NYLL, and attorney fees.
 
 #### Discussion
 
@@ -212,7 +212,7 @@ The Board is tasked with safeguarding the integrity of its processes for employe
 
 It is through the lens of this broad grant of rights and the Board's duty to protect them that the Board scrutinizes a severance agreement containing provisions alleged to violate Section 8(a)(1) of the Act. Inherent in any proffered severance agreement requiring workers not to engage in protected concerted activity is the coercive potential of the overly broad surrender of NLRA rights if they wish to receive the benefits of the agreement. Accordingly, we return to the approach followed by Board precedent before _Baylor_, and hold that an employer violates Section 8(a)(1) of the Act when it proffers a severance agreement with provisions that would restrict employees' exercise of their NLRA rights. Such an agreement has a reasonable tendency to restrain, coerce, or interfere with the exercise of Section 7 rights by employees, regardless of the surrounding circumstances.
 
-Certainly such surrounding circumstances may enhance the reasonable tendency of the severance agreement to coerce employees, but that tendency does not depend on them. Where an agreement unlawfully conditions receipt of severance benefits on the forfeiture of statutory rights, the mere proffer of the agreement itself violates the Act, because it has a reasonable tendency to interfere with or restrain the prospective exercise of Section 7 rights, both by the separating employee and those who remain employed. Whether the employee accepts the agreement is immaterial. As the Board explained in _Metro Networks_, the employer's "proffer of the severance agreement . . . constitutes an attempt to deter the employee from assisting the Board" and the employee's "conduct in _not_ signing the agreement did not render the employer's conduct lawful." If the law were to the contrary, it would create an incentive for employers to proffer severance agreements with unlawful provisions to employees. Only if the employee signed the agreement, subjected herself to its unlawful requirements, and then came to the Board would the Board be able to address the situation, belatedly. No policy of the Act is served by creating this obstacle to the effective protection of Section 7 rights. In fact, under established standards, no showing of actual coercion is required to prove a violation of Section 8(a)(1) of the Act. Rather, it is the high potential that coercive terms in separation agreements may chill the exercise of Section 7 rights that dictates the Board's traditional approach of viewing severance agreements requiring the forfeiture of Section 7 rights-- whether accepted or merely proffered--as unlawful unless narrowly tailored.
+Certainly such surrounding circumstances may enhance the reasonable tendency of the severance agreement to coerce employees, but that tendency does not depend on them. Where an agreement unlawfully conditions receipt of severance benefits on the forfeiture of statutory rights, the mere proffer of the agreement itself violates the Act, because it has a reasonable tendency to interfere with or restrain the prospective exercise of Section 7 rights, both by the separating employee and those who remain employed. Whether the employee accepts the agreement is immaterial. As the Board explained in _Metro Networks_, the employer's "proffer of the severance agreement . . . constitutes an attempt to deter the employee from assisting the Board" and the employee's "conduct in _not_ signing the agreement did not render the employer's conduct lawful." If the law were to the contrary, it would create an incentive for employers to proffer severance agreements with unlawful provisions to employees. Only if the employee signed the agreement, subjected herself to its unlawful requirements, and then came to the Board would the Board be able to address the situation, belatedly. No policy of the Act is served by creating this obstacle to the effective protection of Section 7 rights. In fact, under established standards, no showing of actual coercion is required to prove a violation of Section 8(a)(1) of the Act. Rather, it is the high potential that coercive terms in separation agreements may chill the exercise of Section 7 rights that dictates the Board's traditional approach of viewing severance agreements requiring the forfeiture of Section 7 rights--whether accepted or merely proffered--as unlawful unless narrowly tailored.
 
 #### V. 
 
@@ -226,9 +226,10 @@ Our scrutiny of the confidentiality provision of the severance agreement leads t
 
 The confidentiality provision would also prohibit the subject employee from discussing the terms of the severance agreement with his former coworkers who could find themselves in a similar predicament facing the decision whether to accept a severance agreement. In this manner, the confidentiality provision impairs the rights of the subject employee's former coworkers to call upon him for support in comparable circumstances. Additionally encompassed by the confidentiality provision is discussion with the Union concerning the terms of the agreement, or such discussion with a union representing employees where the subject employee may gain subsequent employment, or alternatively seek to participate in organizing, or discussion with future co-workers. A severance agreement is unlawful if it precludes an employee from assisting coworkers with workplace issues concerning their employer, and from communicating with others, including a union, and the Board, about his employment. Conditioning the benefits under a severance agreement on the forfeiture of statutory rights plainly has a reasonable tendency to interfere with, restrain, or coerce the exercise of those rights. unless it is narrowly tailored to respect the range of those rights. Our review of the agreement here plainly shows that not to be the case. We accordingly find that the proffer of the confidentiality provision violates Section 8(a)(1) of the Act.
 
-### Note on Confidential Settlement Agreements
+::: {.callout-note}
 
 Two states, California and Washington, have enacted legislation against provisions in settlement agreements that restrict disclosure of factual information related to sexual assault, sexual harassment, and other workplace discrimination and harassment. [Cal. Code of Civil Procedure, § 1001](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=&title=14.&part=2.&chapter=3.5.&article=); [Wash, Sess. Laws, Chapter 133, Laws of 2022](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1795-S.SL.pdf). The Washington law also applies to settlement agreements related to wage and hour violations. Similar legislation has been introduced in the U.S. Congress. Accountability for [Workplace Misconduct Act](https://www.govinfo.gov/app/details/BILLS-118hr4802ih), H.R. 4802. 
+:::
 
 ### Trade Secrets 
 
@@ -494,6 +495,8 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 ###  N.C.G.S. § 99-A-2
 
+::: {.legalcode}
+
 **Recovery of Damages for Exceeding the Scope of Authorized Access to Property. **
 
 (a) Any person who intentionally gains access to the nonpublic areas of another's premises and engages in an act that exceeds the person's authority to enter those areas is liable to the owner or operator of the premises for any damages sustained. For the purposes of this section, "nonpublic areas" shall mean those areas not accessible to or not intended to be accessed by the general public.
@@ -528,7 +531,9 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 (g) Nothing in this section shall be construed to limit any other remedy available at common law or provided by the General Statutes. 
 
-### Notes on N.C.G.S. § 99-A-2
+::: 
+
+::: {.callout-note}
 
 1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. [_People for the Ethical Treatment of Animals v. North Carolina Farm Bureau Federation, Inc._](https://scholar.google.com/scholar_case?case=9857645331694642470), 60 F.4th 815 (4th Cir. 2023). In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
 
@@ -540,11 +545,15 @@ However, the statute does not exempt employee conduct that is protected under fe
 
 The NLRA generally preempts state law (criminal and civil) regulating or imposing liability for employee or employer conduct that is “arguably subject” to the NLRA.[^preemption1] This means that if an employer sues an employee or labor union for conduct that is arguably protected under Section 7, the court (state or federal) must normally dismiss the claim for lack of subject matter jurisdiction.[^preemption2] It is an unfair labor practice under § 8(a)(1) for an employer to bring such a preempted suit against an employee or union.[^preemption3] 
 
+Consider how labor preemtion might apply to suits under N.C.G.S. § 99-A-2 against employees for workplace recording or other activity arguably protected under the NLRA. 
+
 [^preemption1]: [_San Diego Building Trades Council v. Garmon_](https://scholar.google.com/scholar_case?case=4204950691768143719), 359 U.S. 236 (1959)
 
 [^preemption2]: There is an exception for claims involving matters of special state interest, such as trespassing or "conduct marked by violence and imminent threats to the public order". _Garmon_, 359 U.S. at 247. 
 
 [^preemption3]: [_Can-Am Plumbing, Inc._](https://scholar.google.com/scholar_case?case=9226620398790808405), 321 F. 3d 145 (D.C. Cir. 2003)
+
+:::
 
 ## Non-Compete Agreements 
 
@@ -610,17 +619,16 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 
 ### Cal. Bus. & Prof. Code §§ 16600 et seq.
 
+::: {.legalcode}
+
 #### § 16600
 
 (a) Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.
 
-(b) (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937, to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
+(b) 
 
-::: {.aside}
-In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncompetition agreements are invalid under section 16600 in California, even if narrowly drawn, unless they fall within the applicable statutory exceptions of section 16601, 16602, or 16602.5," "leav[ing] it to the Legislature, if it chooses, either to relax the statutory restrictions or adopt additional exceptions to the prohibition-against-restraint rule under section 16600."
-:::
- 
-> (2) This subdivision does not constitute a change in, but is declaratory of, existing law.
+- (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937, to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
+- (2) This subdivision does not constitute a change in, but is declaratory of, existing law.
  
 (c) This section shall not be limited to contracts where the person being restrained from engaging in a lawful profession, trade, or business is a party to the contract.
 
@@ -628,9 +636,10 @@ In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncomp
 
 (a) It shall be unlawful to include a noncompete clause in an employment contract, or to require an employee to enter a noncompete agreement, that does not satisfy an exception in this chapter.
 
-(b) (1) For current employees, and for former employees who were employed after January 1, 2022, whose contracts include a noncompete clause, or who were required to enter a noncompete agreement, that does not satisfy an exception to this chapter, the employer shall, by February 14, 2024, notify the employee that the noncompete clause or noncompete agreement is void.
+(b) 
 
-> (2) Notice made under this subdivision shall be in the form of a written individualized communication to the employee or former employee, and shall be delivered to the last known address and the email address of the employee or former employee.
+- (1) For current employees, and for former employees who were employed after January 1, 2022, whose contracts include a noncompete clause, or who were required to enter a noncompete agreement, that does not satisfy an exception to this chapter, the employer shall, by February 14, 2024, notify the employee that the noncompete clause or noncompete agreement is void.
+- (2) Notice made under this subdivision shall be in the form of a written individualized communication to the employee or former employee, and shall be delivered to the last known address and the email address of the employee or former employee.
 
 (c) A violation of this section constitutes an act of unfair competition within the meaning of [Chapter 5](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=2.&chapter=5.&article=) (commencing with Section 17200).
 
@@ -644,11 +653,16 @@ In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncomp
 
 (d) An employer that enters into a contract that is void under this chapter or attempts to enforce a contract that is void under this chapter commits a civil violation.
 
-(e) (1) An employee, former employee, or prospective employee may bring a private action to enforce this chapter for injunctive relief or the recovery of actual damages, or both.
+(e) 
 
-> (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
+- (1) An employee, former employee, or prospective employee may bring a private action to enforce this chapter for injunctive relief or the recovery of actual damages, or both.
+- (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
+
+:::
 
 ### Massachusetts Noncompetition Agreement Act, Mass. Gen. Laws ch. 149, § 24L
+
+::: {.legalcode}
 
 (a) As used in this section, the following words shall have the following meanings:-
 
@@ -668,21 +682,14 @@ In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncomp
 
 (b) To be valid and enforceable, a noncompetition agreement must meet the minimum requirements of paragraphs (i) through (viii).
 
-> (i) If the agreement is entered into in connection with the commencement of employment, it must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing. The agreement must be provided to the employee by the earlier of a formal offer of employment or 10 business days before the commencement of the employee's employment.
-
-> (ii) If the agreement is entered into after commencement of employment but not in connection with the separation from employment, it must be supported by fair and reasonable consideration independent from the continuation of employment, and notice of the agreement must be provided at least 10 business days before the agreement is to be effective. Moreover, the agreement must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing.
-
-> (iii) The agreement must be no broader than necessary to protect one or more of the following legitimate business interests of the employer: (A) the employer's trade secrets; (B) the employer's confidential information that otherwise would not qualify as a trade secret; or (C) the employer's goodwill. A noncompetition agreement may be presumed necessary where the legitimate business interest cannot be adequately protected through an alternative restrictive covenant, including but not limited to a non-solicitation agreement or a non-disclosure or confidentiality agreement.
-
-> (iv) In no event may the stated restricted period exceed 12 months from the date of cessation of employment, unless the employee has breached his or her fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, in which case the duration may not exceed 2 years from the date of cessation of employment.
-
-> (v) The agreement must be reasonable in geographic reach in relation to the interests protected. A geographic reach that is limited to only the geographic areas in which the employee, during any time within the last 2 years of employment, provided services or had a material presence or influence is presumptively reasonable.
-
-> (vi) The agreement must be reasonable in the scope of proscribed activities in relation to the interests protected. A restriction on activities that protects a legitimate business interest and is limited to only the specific types of services provided by the employee at any time during the last 2 years of employment is presumptively reasonable.
-
-> (vii) The noncompetition agreement shall be supported by a garden leave clause or other mutually-agreed upon consideration between the employer and the employee, provided that such consideration is specified in the noncompetition agreement. To constitute a garden leave clause within the meaning of this section, the agreement must (i) provide for the payment, consistent with the requirements for the payment of wages under section 148 of chapter 149 of the general laws, on a pro-rata basis during the entirety of the restricted period, of at least 50 percent of the employee's highest annualized base salary paid by the employer within the 2 years preceding the employee's termination; and (ii) except in the event of a breach by the employee, not permit an employer to unilaterally discontinue or otherwise fail or refuse to make the payments; provided, however, if the restricted period has been increased beyond 12 months as a result of the employee's breach of a fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, the employer shall not be required to provide payments to the employee during the extension of the restricted period.
-
-> (viii) The agreement must be consonant with public policy.
+- (i) If the agreement is entered into in connection with the commencement of employment, it must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing. The agreement must be provided to the employee by the earlier of a formal offer of employment or 10 business days before the commencement of the employee's employment.
+- (ii) If the agreement is entered into after commencement of employment but not in connection with the separation from employment, it must be supported by fair and reasonable consideration independent from the continuation of employment, and notice of the agreement must be provided at least 10 business days before the agreement is to be effective. Moreover, the agreement must be in writing and signed by both the employer and employee and expressly state that the employee has the right to consult with counsel prior to signing.
+- (iii) The agreement must be no broader than necessary to protect one or more of the following legitimate business interests of the employer: (A) the employer's trade secrets; (B) the employer's confidential information that otherwise would not qualify as a trade secret; or (C) the employer's goodwill. A noncompetition agreement may be presumed necessary where the legitimate business interest cannot be adequately protected through an alternative restrictive covenant, including but not limited to a non-solicitation agreement or a non-disclosure or confidentiality agreement.
+- (iv) In no event may the stated restricted period exceed 12 months from the date of cessation of employment, unless the employee has breached his or her fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, in which case the duration may not exceed 2 years from the date of cessation of employment.
+- (v) The agreement must be reasonable in geographic reach in relation to the interests protected. A geographic reach that is limited to only the geographic areas in which the employee, during any time within the last 2 years of employment, provided services or had a material presence or influence is presumptively reasonable.
+- (vi) The agreement must be reasonable in the scope of proscribed activities in relation to the interests protected. A restriction on activities that protects a legitimate business interest and is limited to only the specific types of services provided by the employee at any time during the last 2 years of employment is presumptively reasonable.
+- (vii) The noncompetition agreement shall be supported by a garden leave clause or other mutually-agreed upon consideration between the employer and the employee, provided that such consideration is specified in the noncompetition agreement. To constitute a garden leave clause within the meaning of this section, the agreement must (i) provide for the payment, consistent with the requirements for the payment of wages under section 148 of chapter 149 of the general laws, on a pro-rata basis during the entirety of the restricted period, of at least 50 percent of the employee's highest annualized base salary paid by the employer within the 2 years preceding the employee's termination; and (ii) except in the event of a breach by the employee, not permit an employer to unilaterally discontinue or otherwise fail or refuse to make the payments; provided, however, if the restricted period has been increased beyond 12 months as a result of the employee's breach of a fiduciary duty to the employer or the employee has unlawfully taken, physically or electronically, property belonging to the employer, the employer shall not be required to provide payments to the employee during the extension of the restricted period.
+- (viii) The agreement must be consonant with public policy.
 
 (c) A noncompetition agreement shall not be enforceable against the following types of workers: (i) an employee who is classified as nonexempt under the Fair Labor Standards Act, 29 U.S.C. 201-219; (ii) undergraduate or graduate students that partake in an internship or otherwise enter a short-term employment relationship with an employer, whether paid or unpaid, while enrolled in a full-time or part-time undergraduate or graduate educational institution; (iii) employees that have been terminated without cause or laid off; or (iv) employees age 18 or younger. This section does not render void or unenforceable the remainder of the contract or agreement containing the unenforceable noncompetition agreement, nor does it preclude the imposition of a noncompetition restriction by a court, whether through preliminary or permanent injunctive relief or otherwise, as a remedy for a breach of another agreement or a statutory or common law duty.
 
@@ -692,13 +699,15 @@ In _Edwards v. Arthur Anderson,_ the California Supreme Court held that "Noncomp
 
 (f) All civil actions relating to employee noncompetition agreements subject to this section shall be brought in the county where the employee resides or, if mutually agreed upon by the employer and employee, in Suffolk county; provided that, in any such action brought in Suffolk county, the superior court or the business litigation session of the superior court shall have exclusive jurisdiction.
 
+:::
+
 ### Draftkings, Inc. v. Hermalyn, No. 24-1443 (1st Cir. Sept. 26, 2024)
 
 #### Stage-Setting
 
 Massachusetts and California aren't exactly on the same page when it comes to noncompete agreements.
 
-Massachusetts generally _allows_ noncompetes if they comply with certain restrictions (for example, employers can't require all employees to sign them (excluded employees include persons aged 18 or younger) and the noncompete period can't last more than a year (except if the employee breached a fiduciary duty to the employer or stole the employer's property, in which case a 2-year cap applies)). _See, e.g._, Mass. Gen. Laws ch. 149, § 24L(b)(iv), (c). California generally _bans_ noncompetes unless they squeeze within one of the few narrow exceptions (like for noncompetes in a business sale or a partnership breakup). _See, e.g._, Cal. Bus. & Prof. Code §§ 16600(a), 16601, 16602. And that's true "regardless of where and when the contract was signed" and "whether . . . the employment was maintained outside of California." See id. § 16600.5(a), (b).
+Massachusetts generally _allows_ noncompetes if they comply with certain restrictions (for example, employers can't require all employees to sign them (excluded employees include persons aged 18 or younger) and the noncompete period can't last more than a year (except if the employee breached a fiduciary duty to the employer or stole the employer's property, in which case a 2-year cap applies)). _See, e.g._, Mass. Gen. Laws ch. 149, § 24L(b)(iv), (c). California generally _bans_ noncompetes unless they squeeze within one of the few narrow exceptions (like for noncompetes in a business sale or a partnership breakup). _See, e.g._, Cal. Bus. & Prof. Code §§ 16600(a), 16601, 16602. And that's true "regardless of where and when the contract was signed" and "whether ... the employment was maintained outside of California." See id. § 16600.5(a), (b).
 
 Today's case plays out against the backdrop of these different policy choices. We streamline the facts and procedural history (rather aggressively) to lay bare the nature of the disputes before us, adding more details later as needed for specific issues (an example of streamlining is our ignoring a California state-court lawsuit involving some of the same parties as here, because that suit doesn't affect our analysis).
 
