@@ -12,11 +12,10 @@ The indictment charged in substance:
 
 (2\) that defendants conspired and agreed that they would endeavor to prevent "by threats, menaces, and other unlawful means" other craftsmen from working except at said specified rates; and 
 
-(3\) that defendants, having formed themselves into an association, conspired and agreed that none of them would work for any master who should employ a cordwainer who had broken any rule or bylaw of the association, and that defendants, in accordance with such agreement refused to work at the usual rates and prices.
-
 ::: {.aside}
 Cordwainer is an archaic term for a shoemaker.
 :::
+(3\) that defendants, having formed themselves into an association, conspired and agreed that none of them would work for any master who should employ a cordwainer who had broken any rule or bylaw of the association, and that defendants, in accordance with such agreement refused to work at the usual rates and prices.
 
 It is proper to consider, is such a combination consistent with the principles of our law, and injurious to the public welfare? The usual means by which the prices of work are regulated, are the demand for the article and the excellence of its fabric. Where the work is well done, and the demand is considerable, the prices will necessarily be high. Where the work is ill done, and the demand is inconsiderable, they will unquestionably be low. If there are many to consume, and few to work, the price of the article will be high; but if there are few to consume, and many to work, the article must be low.
 
@@ -26,15 +25,12 @@ Consider it on the footing of the general commerce of the city. Is there any man
 
 What is the case now before us? A combination of workmen to raise their wages may be considered in a two fold point of view; one is to benefit themselves the other is to injure those who do not join their society. The rule of law condemns both. If the rule be clear, we are bound to conform to it even though we do not comprehend the principle upon which it is founded. We are not to reject it because we do not see the reason of it. It is enough, that is the will of the majority. It is law because it is their will—if it is law, there may be good reasons for it though we cannot find them out. But the rule in this case is pregnant with sound sense and all the authorities are clear upon the subject. 
 
-It is adopted by Blackstone, and laid down as the law by Lord Mansfield, that an act innocent in an individual, is rendered criminal by a confederacy to effect it. One man determines not to work under a certain price and it may be individually the opinion of all; in such a case it would be lawful in each to refuse to do so, for if each stands, alone, either may extract from his determination when he pleases. In the turn-out of last fall, if each member of the body had stood alone, fettered by no promises to the rest, many of them might have changed their opinion as to the price of wages and gone to work; but it has been given to you in evidence, that they were bound down by their agreement, and pledged by mutual engagements, to persist in it, however contrary to their own judgment. The continuance in improper conduct may therefore well be attributed to the combination. The good sense of those individuals was prevented by this agreement, from having its free exercise.
-
 ::: {.aside}
 William Blackstone (1723-1780) was a British lawyer, judge, and legal scholar. His treatise on the common law, [_Commentaries on the Laws of England_](https://www.gutenberg.org/files/30802/30802-h/30802-h.htm), was frequently cited as an authority by 19th century U.S. courts. William Murray, 1st Earl of Mansfield (1705-1793) was a prominent British lawyer and judge.
-:::
 
-::: {.aside}
-Turnout is an archaic word for a labor strike.
+"turn-out": an archaic word for a labor strike.
 :::
+It is adopted by Blackstone, and laid down as the law by Lord Mansfield, that an act innocent in an individual, is rendered criminal by a confederacy to effect it. One man determines not to work under a certain price and it may be individually the opinion of all; in such a case it would be lawful in each to refuse to do so, for if each stands, alone, either may extract from his determination when he pleases. In the turn-out of last fall, if each member of the body had stood alone, fettered by no promises to the rest, many of them might have changed their opinion as to the price of wages and gone to work; but it has been given to you in evidence, that they were bound down by their agreement, and pledged by mutual engagements, to persist in it, however contrary to their own judgment. The continuance in improper conduct may therefore well be attributed to the combination. The good sense of those individuals was prevented by this agreement, from having its free exercise.
 
 The defendants were found guilty and were fined eight dollars each plus costs. 
 
