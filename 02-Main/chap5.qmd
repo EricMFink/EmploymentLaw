@@ -230,7 +230,7 @@ To be clear, the Firm did not hack into plaintiff's personal account or maliciou
 
 ### Jesperson v. Harrah's Operating Company, Inc., 444 F.3d 1104 (9th Cir. 2006)
 
-#### SCHROEDER, Chief Judge.
+#### Schroeder, Chief Judge.
 
 We took this sex discrimination case en banc in order to reaffirm our circuit law concerning appearance and grooming standards, and to clarify our evolving law of sex stereotyping claims.
 
@@ -296,7 +296,7 @@ The record therefore does not contain any affidavit or other evidence to establi
 
 The district court granted Harrah's motion for summary judgment on all of Jespersen's claims. In this appeal, Jespersen maintains that the record before the district court was sufficient to create triable issues of material fact as to her unlawful discrimination claims of unequal burdens and sex stereotyping. We deal with each in turn.
 
-#### UNEQUAL BURDENS
+#### Unequal Burdens
 
 In order to assert a valid Title VII claim for sex discrimination, a plaintiff must make out a prima facie case establishing that the challenged employment action was either intentionally discriminatory or that it had a discriminatory effect on the basis of gender. Once a plaintiff establishes such a prima facie case, "the burden then must shift to the employer to articulate some legitimate, nondiscriminatory reason for the employee's rejection." 
 
@@ -318,7 +318,7 @@ Jespersen asks us to take judicial notice of the fact that it costs more money a
 
 Having failed to create a record establishing that the "Personal Best" policies are more burdensome for women than for men, Jespersen did not present any triable issue of fact. The district court correctly granted summary judgment on the record before it with respect to Jespersen's claim that the makeup policy created an unequal burden for women.
 
-#### SEX STEREOTYPING
+#### Sex Stereotyping
 
 In _Price Waterhouse,_ the Supreme Court considered a mixed-motive discrimination case. There, the plaintiff, Ann Hopkins, was denied partnership in the national accounting firm of Price Waterhouse because some of the partners found her to be too aggressive. While some partners praised Hopkins's "'strong character, independence and integrity,'" others commented that she needed to take "'a course at charm school.'" The Supreme Court determined that once a plaintiff has established that gender played "a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken the plaintiff's gender into account."
 
@@ -340,7 +340,7 @@ Nor is there evidence in this record that Harrah's treated Jespersen any differe
 
 We emphasize that we do not preclude, as a matter of law, a claim of sex-stereotyping on the basis of dress or appearance codes. Others may well be filed, and any bases for such claims refined as law in this area evolves. This record, however, is devoid of any basis for permitting this particular claim to go forward, as it is limited to the subjective reaction of a single employee, and there is no evidence of a stereotypical motivation on the part of the employer. This case is essentially a challenge to one small part of what is an overall apparel, appearance, and grooming policy that applies largely the same requirements to both men and women. As we said in _Nichols,_ in commenting on grooming standards, the touch-stone is reasonableness. A makeup requirement must be seen in the context of the overall standards imposed on employees in a given workplace.
 
-#### PREGERSON, Circuit Judge, with whom Judges KOZINSKI, GRABER, and W. FLETCHER join, dissenting:
+#### Pregerson, Circuit Judge, with whom Judges Kozinski, Graber, and W. Fletcher join, dissenting:
 
 I agree with the majority that appearance standards and grooming policies may be subject to Title VII claims. I also agree with the majority that a Title VII plaintiff challenging appearance standards or grooming policies may "make out a prima facie case by establishing that the challenged employment action was _either_ intentionally discriminatory _or_ that it had a discriminatory effect on the basis of gender." Maj. Op. at 1108 (emphasis added). In other words, I agree with the majority that a Title VII plaintiff may make out a prima facie case by showing that the challenged policy either was motivated in part "because of a sex stereotype," Maj. Op. at 1111, or "creates an 'unequal burden' for the plaintiff's gender," Maj. Op. at 1110. Finally, I agree with the majority that Jespersen failed to introduce sufficient evidence to establish that Harrah's "Personal Best" program created an undue burden on Harrah's female bartenders. I part ways with the majority, however, inasmuch as I believe that the "Personal Best" program was part of a policy motivated by sex stereotyping and that Jespersen's termination for failing to comply with the program's requirements was "because of" her sex. Accordingly, I dissent from Part III of the majority opinion and from the judgment of the court.
 
@@ -366,7 +366,7 @@ Just as the bank in _Carroll_ deemed female employees incapable of achieving a p
 
 I believe that Jespersen articulated a classic case of _Price Waterhouse_ discrimination and presented undisputed, material facts sufficient to avoid summary judgment. Accordingly, Jespersen should be allowed to present her case to a jury. Therefore, I respectfully dissent.
 
-#### KOZINSKI, Circuit Judge, with whom Judges GRABER and W. FLETCHER join, dissenting:
+#### Kozinski, Circuit Judge, with whom Judges Graber and W. Fletcher join, dissenting:
 
 I agree with Judge Pregerson and join his dissent—subject to one caveat: I believe that Jespersen also presented a triable issue of fact on the question of disparate burden.
 
@@ -750,7 +750,7 @@ Here, retroactive application of the new work-rules standard will not cause mani
 
 In this case, the General Counsel alleges that the Respondent unlawfully maintained overbroad work rules governing personal conduct, conflicts of interest, and confidentiality of harassment complaints. Applying _Boeing_ and its progeny, the judge determined that maintenance of those rules was unlawful. Having overruled those decisions, we do not review the judge’s application of them. Instead, to allow the parties an opportunity to present arguments and introduce any relevant evidence under the new standard announced today, we remand this case to the judge for further proceedings consistent with this decision.
 
-### Starbucks Corporation, Case 14--CA--29581 (N.L.R.B. Div. of Judges Sept. 21, 2023)
+### Starbucks Corporation, Case 14-CA-295813 (N.L.R.B. Div. of Judges Sept. 21, 2023)
 
 This case concerns Starbucks' response to the Union's organizing campaigns at five St. Louis cafés.
 
@@ -1159,7 +1159,7 @@ Moreover, the record shows that the evidence of rumor was not a basis for any de
 
 ### State v. Wal-Mart Stores, Inc., 621 N.Y.S.2d 158 (N.Y. App. Div. 1995)
 
-#### MERCURE, J.
+#### Mercure, J.
 
 In February 1993, defendant discharged two of its employees for violating its "fraternization" policy, which is codified in defendant's 1989 Associates Handbook and prohibits a "dating relationship" between a married employee and another employee, other than his or her own spouse. In this action, plaintiff seeks reinstatement of the two employees with back pay upon the ground that their discharge violated [Labor Law § 201-d(2)(c)](https://www.nysenate.gov/legislation/laws/LAB/201-D), which forbids employer discrimination against employees because of their participation in "legal recreational activities" pursued outside of work hours. Defendant moved to dismiss the complaint. The trial court denied the motion with regard to the first cause of action, concluding that "dating" while one is married "may well be 'recreational activities' within the meaning of Labor Law § 201-d(2)(c)", but granted the motion with regard to the second cause of action, predicated upon Executive Law § 63(12), which prohibits repeated or persistent illegality in the transaction of business. The parties cross-appeal.
 
@@ -1169,7 +1169,7 @@ Moreover, even if Labor Law § 201-d(1)(b) was found to contain some ambiguity, 
 
 Nor is there any realistic danger that this construction will permit employers to infringe upon the right of employees to engage in protected off-hours pursuits by wrongly characterizing dispassionate recreational activity as dating. To the contrary, recognition of the distinction between "dating" and "recreational activity" imposes upon the employer the enhanced burden of establishing not only joint activity of a recreational nature, but the employees' mutual romantic interest as well. Similarly, this construction in no way diminishes the statutory protection afforded social relationships between unmarried employees or married employees having no romantic interest or involvement with one another.
 
-#### YESAWICH JR., J. (dissenting).
+#### Yesawich Jr., J. (dissenting).
 
 I respectfully dissent, for I find defendant's central thesis, apparently accepted by the majority, that the employment policy at issue only prohibits romantic entanglements and not other types of social interaction, to be wholly without merit. While the majority encumbers the word "dating" with an "amorous interest" component, there is nothing in defendant's fraternization policy, its application—defendant does not allege that its two former employees manifested an intimate or amatory attitude toward each other—or even in defendant's own definition of a "date", "a social engagement between persons of opposite sex" (Webster's Ninth New Collegiate Dictionary 325 1988), that leads to such a conclusion.
 
