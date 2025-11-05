@@ -6,6 +6,4 @@ toc: false
 # Home {.unnumbered}
 :::
 
-
 ![](img/cover.png)
-
