@@ -255,9 +255,7 @@ This part contains the Department of Labor's (the Department) general interpreta
 :::
 
 ::: {.callout-note}
-In May 2025, the Department of Labor issued [Guidance on Independent Contractor Misclassification Enforcement](https://www.dol.gov/newsroom/releases/whd/whd20250501):
-
-> While the department reviews the 2024 final rule, [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/rulemaking)–which is also being challenged in federal court–agency investigators are directed not to apply the 2024 rule’s analysis in current enforcement matters. Instead, the division will rely on longstanding principles outlined in [Fact Sheet #13](https://www.dol.gov/agencies/whd/fact-sheets/13-flsa-employment-relationship) and further informed by the reinstated [Opinion Letter FLSA2019-6](https://www.dol.gov/sites/dolgov/files/WHD/opinion-letters/FLSA/FLSA2019-6.pdf), which addresses classification in the context of virtual marketplace platforms.
+In May 2025, the Department of Labor issued a Field Assistance Bulletin on  [FLSA Independent Contractor Misclassification Enforcement Guidance](../exhibits/fab2025-1.pdf), advising that the Wage & Hour Division "is currently reviewing and developing the appropriate standard for determining FLSA employee versus independent contractor status" and will not longer apply the analysis under the 2024 Final Rule. 
 :::
 
 ## Distinguishing Employees from Interns and Students

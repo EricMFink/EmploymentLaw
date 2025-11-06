@@ -147,7 +147,7 @@ Moreover, “there is no requirement that any precise formula be followed or tha
 
 :::
 
-### Friel v. Angell Care, Inc., 440 S.E.2d 111 (N.C. App. 1994)
+### Friel v. Angell Care, Inc., 440 S.E.2d 111 (N.C. Ct. App. 1994)
 
 Plaintiff Patricia W. Friel was employed as a secretary by defendant company Angell Care Incorporated ("Angell Care") from July 1982 until 17 April 1987. She held several positions within the company before being assigned to be the personal secretary to Bruce Smith, a new vice-president of the company. On or about 18 March 1987, plaintiff alleged that Smith had sexually harassed her. On 17 April 1987, plaintiff entered into a settlement agreement signed by Angell Care's president, Dennis Young, on behalf of Angell Care. Under the terms of the agreement, plaintiff would leave the company and would not discuss the terms and contents of the agreement. Angell Care would pay plaintiff $9566.63; would not discuss the terms or contents of the agreement with plaintiff's prospective employers; and would provide her prospective employers with neutral employment references.
 
@@ -551,7 +551,7 @@ To address Health-Pro's appeal of the trial court's denial of its motions for di
 
 As such, the Court of Appeals held that the trial court erred by denying Health-Pro's motions for directed verdict and judgment notwithstanding the verdict "with respect to ordinary negligence, as that claim was not properly before the trial court, and no evidence could support it." 
 
-The Court of Appeals then considered whether the Keiths' evidence was sufficient to survive a motion for judgment notwithstanding the verdict "based upon the theory of negligent hiring." It began by discussing the Court of Appeals' case _Little v. Omega Meats I, Inc.,_ 171 N.C. App. 583 (2005), which this Court affirmed per curiam without written opinion.
+The Court of Appeals then considered whether the Keiths' evidence was sufficient to survive a motion for judgment notwithstanding the verdict "based upon the theory of negligent hiring." It began by discussing the Court of Appeals' case _Little v. Omega Meats I, Inc.,_ 171 N.C. Ct. App. 583 (2005), which this Court affirmed per curiam without written opinion.
 
 The Court of Appeals concluded that according to _Little,_ "three specific elements must be proven by a plaintiff in order to show that an employer had a duty to protect a third party from its employee's negligent or intentional acts committed out-side of the scope of the employment." Specifically,
 

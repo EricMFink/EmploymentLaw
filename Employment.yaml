@@ -116,7 +116,7 @@ references:
 - id: CloutierCostcoWholesaleCorp_1stCir2004
   authority: 1st Cir.
   citation-key: CloutierCostcoWholesaleCorp_1stCir2004
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2004
   page: '126'
@@ -127,7 +127,7 @@ references:
 - id: ComanThomasMfgCo_SupremeCourt1989
   authority: Supreme Court
   citation-key: ComanThomasMfgCo_SupremeCourt1989
-  container-title: SE 2d
+  container-title: S.E.2d
   issued:
     - year: 1989
       month: 7
@@ -307,9 +307,9 @@ references:
   volume: '40'
 
 - id: FrielAngellCareInc_NCApp1994
-  authority: N.C. App.
+  authority: N.C. Ct. App.
   citation-key: FrielAngellCareInc_NCApp1994
-  container-title: SE 2d
+  container-title: S.E.2d
   issued:
     - year: 1994
   jurisdiction: NC
@@ -345,9 +345,9 @@ references:
   volume: '70'
 
 - id: HoganForsythCountryClub_NCApp1986
-  authority: N.C. App.
+  authority: N.C. Ct. App.
   citation-key: HoganForsythCountryClub_NCApp1986
-  container-title: SE 2d
+  container-title: S.E.2d
   issued:
     - year: 1986
   jurisdiction: NC
@@ -368,7 +368,7 @@ references:
 - id: JespersenHarrahsOperatingCo_9thCir2006
   authority: 9th Cir.
   citation-key: JespersenHarrahsOperatingCo_9thCir2006
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2006
   page: '1104'
@@ -379,7 +379,7 @@ references:
 - id: JohnsonNatlCollegiateAthletic_3rdCir2024
   authority: 3rd Cir.
   citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
-  container-title: F. 4th
+  container-title: F.4th
   issued:
     - year: 2024
   page: '163'
@@ -401,7 +401,7 @@ references:
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2008
   page: '412'
@@ -412,7 +412,7 @@ references:
 - id: KarrakerRentACenterInc_7thCir2005
   authority: 7th Cir.
   citation-key: KarrakerRentACenterInc_7thCir2005
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2005
   page: '831'
@@ -423,7 +423,7 @@ references:
 - id: KeithHealthProHomeCare_NC2022
   authority: N.C.
   citation-key: KeithHealthProHomeCare_NC2022
-  container-title: SE 2d
+  container-title: S.E.2d
   issued:
     - year: 2022
   jurisdiction: NC
@@ -467,7 +467,7 @@ references:
 - id: LemmermanWilliamsOilCo_NC1986
   authority: N.C.
   citation-key: LemmermanWilliamsOilCo_NC1986
-  container-title: SE 2d
+  container-title: S.E.2d
   issued:
     - year: 1986
   jurisdiction: NC
@@ -721,7 +721,7 @@ references:
 - id: RazakUberTechnologiesInc_3rdCir2020
   authority: 3rd Cir.
   citation-key: RazakUberTechnologiesInc_3rdCir2020
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2020
   page: '137'
@@ -844,7 +844,7 @@ references:
 - id: StengartLovingCareAgency_NJ2010
   authority: N.J.
   citation-key: StengartLovingCareAgency_NJ2010
-  container-title: A. 2d
+  container-title: A.2d
   issued:
     - year: 2010
   jurisdiction: NJ
@@ -902,7 +902,7 @@ references:
 - id: TruittSalisburyBankTrust_2ndCir2022
   authority: 2nd Cir.
   citation-key: TruittSalisburyBankTrust_2ndCir2022
-  container-title: F. 4th
+  container-title: F.4th
   issued:
     - year: 2022
   page: '80'
@@ -930,7 +930,7 @@ references:
 - id: WangHearstCorp_2ndCir2017
   authority: 2nd Cir.
   citation-key: WangHearstCorp_2ndCir2017
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2017
   page: '69'
@@ -952,7 +952,7 @@ references:
 - id: WorkmanUnitedParcelService_7thCir2000
   authority: 7th Cir.
   citation-key: WorkmanUnitedParcelService_7thCir2000
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2000
   page: '998'

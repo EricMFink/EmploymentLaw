@@ -244,17 +244,17 @@ ul {
 }
 .syllabus h4 {
 	font-family: "Adelle Sans", sans-serif;
-	font-size: .7rem;
+	font-size: .9rem;
 	font-weight: 400;
-	font-style: normal;
+	font-style: italic;
 	margin: 1rem 0 0 0;
 }
 .syllabus h5 {
 	font-family: "Literata", serif;
-	font-size: 0.8rem;
+	font-size: 1rem;
 	font-weight: 300;
 	font-style: normal;
-	margin: 0.2rem 0 0rem 0;
+	margin: 0.2rem 0 0 1.5rem;
 }
 .syllabus h6 {
 	font-family: "Lft-Etica-Mono", monospace;
@@ -263,10 +263,19 @@ ul {
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-.syllabus-info {
+.syllabus-header {
 	margin-bottom: 2rem;
 }
-.syllabus-info p {
+.syllabus-header h2 {
+	margin-bottom: 1rem;
+}
+.syllabus-header h3 {
+	font-family: "Adelle Sans", sans-serif;
+	font-size: 1rem;
+	margin-bottom: .2rem;
+	border: none;
+}
+.syllabus-header p {
 	font-family: "Adelle Sans", sans-serif;
 	font-size: 0.8rem;
 	font-weight: 400;
