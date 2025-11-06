@@ -1,4 +1,5 @@
 # Employee Health and Safety
+
 ## Workers' Compensation 
 
 [@Friedman2023]{.aside}
