@@ -13,7 +13,6 @@ body {
 	background-color: #fffaf0;
 	quotes: "‘" "’";
 }
-
 /* HEADINGS */
 /* Chapter */
 h1 {
@@ -61,6 +60,7 @@ h4 {
 	text-align: left;
 	margin: 1.5rem 0 .5rem 0;
 	padding: 0 0 0 0;
+	max-width: 40rem;
 	list-style: outside none none !important;
 }
 
@@ -73,6 +73,7 @@ h5 {
 	line-height: 1.2;
 	margin: 1rem 0 .5rem 0;
 	padding: 0 0 0 0;
+	max-width: 40rem;
 	list-style: outside none none !important;
 }
 
@@ -86,6 +87,7 @@ h5 {
 p {
 	font-size: 1rem;
 	margin: .5rem 0 .5rem 0;
+	max-width: 40rem;
 }
 
 /* Links */
@@ -117,8 +119,9 @@ a:active {
 
 /* Blockquotes */
 .blockquote {
-	margin: .5rem 2rem .5rem 2rem;
-	padding: 0 0rem 0 0rem;
+	margin: .5rem 0 .5rem 0;
+	padding: 0 2rem 0 2rem;
+	max-width: 40rem;
 	border: none;
 }
 .blockquote p {
@@ -126,18 +129,25 @@ a:active {
 	font-size: 0.9rem;
 	font-style: normal;
 	line-height: 1.3;
-}
-
-.blockquote.page-columns.page-full {
-	margin: .5rem 4rem .5rem 2rem;
+	max-width: 40rem;
 }
 
 /* Lists -- ul default is unstyled; use • for bullets */
 ol, ul {
 	padding-left: 1.5rem;
+	max-width: 40rem;
 }
+/*
 ul { 
 	list-style-type: none;
+}
+*/
+.legalcode ul { 
+	list-style-type: none;
+}
+
+.legalcode li {
+	margin-top: .5rem;
 }
 
 /* Home Page */
@@ -234,17 +244,17 @@ ul {
 }
 .syllabus h4 {
 	font-family: "Adelle Sans", sans-serif;
-	font-size: .7rem;
+	font-size: .9rem;
 	font-weight: 400;
-	font-style: normal;
+	font-style: italic;
 	margin: 1rem 0 0 0;
 }
 .syllabus h5 {
 	font-family: "Literata", serif;
-	font-size: 0.8rem;
+	font-size: 1rem;
 	font-weight: 300;
 	font-style: normal;
-	margin: 0.2rem 0 0rem 0;
+	margin: 0.2rem 0 0 1.5rem;
 }
 .syllabus h6 {
 	font-family: "Lft-Etica-Mono", monospace;
@@ -253,10 +263,19 @@ ul {
 	font-style: normal;
 	margin: 0.2rem 0 0rem 0;
 }
-.syllabus-info {
+.syllabus-header {
 	margin-bottom: 2rem;
 }
-.syllabus-info p {
+.syllabus-header h2 {
+	margin-bottom: 1rem;
+}
+.syllabus-header h3 {
+	font-family: "Adelle Sans", sans-serif;
+	font-size: 1rem;
+	margin-bottom: .2rem;
+	border: none;
+}
+.syllabus-header p {
 	font-family: "Adelle Sans", sans-serif;
 	font-size: 0.8rem;
 	font-weight: 400;
@@ -268,7 +287,17 @@ ul {
 	font-family: "Lft-Etica-Mono", monospace;
 	font-size: .8rem;
 }
-	*/
+
+*/
+
+.syllabus ul { 
+	list-style-type: disc;
+}
+.syllabus li {
+	font-size: .9rem;
+	margin-bottom: .5rem;
+}
+
 .syllabus table {
 	margin: 2rem 0 1rem 0;
 	max-width: 100%;
@@ -335,6 +364,7 @@ ul {
 .titlepage {
 	font-family: "Literata",serif;
 	text-align: right;
+	max-width: 40rem;
 
 }
 .titlepage h1 {
@@ -501,6 +531,7 @@ ul {
 /* References */
 div.csl-bib-body {
 	margin-left:0em;
+	max-width: 40rem;
 }
 div.csl-entry {
 	clear: both;
@@ -535,6 +566,33 @@ div.csl-right-inline {
 }
 div.csl-indent {
 	margin-left: 0em;
+}
+
+.references {
+	font-family: "Literata",serif;
+	margin-left:0em;
+	max-width: 40rem;
+}
+.references p {
+	font-size: .9rem;
+	font-weight: 300;
+	line-height: 1.3;
+	margin-left: 2em;
+	margin-bottom: 1rem;
+	text-indent: -2em;
+}
+.references h2 {
+	font-family: "Literata",serif;
+	font-size: 1.4rem;
+	line-height: 1.1;
+	margin: 2rem 0 1rem 0;
+}
+.references h3 {
+	font-family: "Literata",serif;
+	font-size: 1.2rem;
+	line-height: 1.1;
+	margin: 1rem 0 1rem 0;
+	border: none;
 }
 
 /* FOOTER */
@@ -582,7 +640,7 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: block;
 }
 
-/* SPANS */
+/* SPANS & SPECIAL ELEMENTS*/
 .theme-color {
 	color: #800000;
 }
@@ -625,10 +683,42 @@ footer.footer .nav-footer, #quarto-header > nav {
 	display: inline-block;
 	background: #fffff8;
 	border-radius: 4px;
-	font-family: "Adelle Sans";
+	font-family: "Adelle-Sans", sans-serif;
 	font-size: 80%;
 	color: #191919;
 	padding: 4px 6px;
+}
+.callout.callout-style-default .callout-body {
+	font-size: .9rem;
+	font-weight: 400;
+	max-width: 40rem;
+}
+.callout p {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: .9rem;
+	font-weight: 300;
+}
+
+.callout h4 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1.1rem;
+}
+
+.callout h5 {
+	font-family: "Adelle-Sans", sans-serif;
+	font-size: 1rem;
+	font-style: italic;
+}
+
+.callout ul {
+	font-family: "Adelle-Sans", sans-serif;
+	font-weight: 300;
+}
+
+hr {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* 404 PAGE */
@@ -668,33 +758,52 @@ footer.footer .nav-footer, #quarto-header > nav {
 	font-size: .625rem;
 }
 /* Side note */
-.citation a, .footnote-ref {
-	text-decoration: none;
-}
-.citation a, .footnote-ref::before {
-	content: '[';
-	vertical-align: super;
-	font-size: smaller;
-}
-.citation a, .footnote-ref::after {
-	content: ']';
-	vertical-align: super;
-	font-size: smaller;
-}
 
 .column-margin.column-container p {
 	font-size: .625rem;
 	line-height: 1.2;
 	margin: 0 0 .2rem 0;
 }
+.column-margin.column-container > :not(.collapse):first-child {
+	padding-top: 2em;
+	padding-bottom: .5em;
+	display: block;
+}
+.margin-aside > .citation {
+	padding-top: 2rem;
+	padding-bottom: .5em;
+	display: block;
+}
+
+.citation {
+	font-size: .8rem;
+
+}
+
+.citation a {
+	text-decoration: none;
+}
+.footnote-ref {
+	text-decoration: none;
+}
+.footnote-ref::before {
+	content: '[';
+	vertical-align: super;
+	font-size: smaller;
+}
+.footnote-ref::after {
+	content: ']';
+	vertical-align: super;
+	font-size: smaller;
+}
+
+
 /* Margin note */
 .margin-aside, div.aside, aside { 
 	font-family: "Adelle-Sans",sans-serif;
 	color: #006400;
 	font-weight: 300;
 }
-
-
 
 /* Sidebar */
 #quarto-sidebar {
