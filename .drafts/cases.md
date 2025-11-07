@@ -1,10 +1,4 @@
-# Sources {.unnumbered}
-
-::: {.references}
-
-## Cases
-
-*Adair v. United States*, 208 U.S. 161 (1908)
+*Adair v. United States*, 208 U.S. 161 (U.S. 1908)
 
 *Arku v. Wells Fargo Bank, Nat. Association*, 621 F. Supp. 3d 602 (W.D.N.C. 2022)
 
@@ -20,13 +14,13 @@
 
 *Coman v. Thomas Mfg. Co., Inc.*, 381 S.E.2d 445 (N.C. 1989)
 
-*Commonwealth v. Hunt*, 45 Mass. 111 (1842)
+*Commonwealth v. Hunt*, (Mass. 1842)
 
-*Commonwealth v. Pullis* (Phila. 1806), 3 Doc. His. of Am. Ind. Soc. 59 (2d ed. Commons 1910)
+*Commonwealth v. Pullis*, 3 Doc. His. of Am. Ind. Soc. 59 (Phila. 1806)
 
-*Coppage v. Kansas*, 236 U.S. 1 (1915)
+*Coppage v. Kansas*, 236 U.S. 1 (U.S. 1915)
 
-*Dalton v. Camp*, 353 N.C. 647 (2001)
+*Dalton v. Camp*, 353 N.C. 647 (N.C. 2001)
 
 *Deem v. Treadway*, 543 S.E.2d 209 (N.C. Ct. App. 2001)
 
@@ -36,9 +30,9 @@
 
 *Driskell v. Summitt Contracting Group, Inc.*, 828 Fed. App'x 858 (4th Cir. 2020)
 
-*Duplex Printing Press Co. v. Deering*, 254 U.S. 443 (1921)
+*Duplex Printing Press Co. v. Deering*, 254 U.S. 443 (U.S. 1921)
 
-*Eastex, Inc. v. NLRB*, 437 U.S. 556 (1978)
+*Eastex, Inc. v. NLRB*, 437 U.S. 556 (U.S. 1978)
 
 *Ehling v. Monmouth-Ocean Hosp. Service Corp.*, 961 F. Supp. 2d 659 (D.N.J. 2013)
 
@@ -48,7 +42,7 @@
 
 *Food Lion, Inc. v. Capital Cities/ABC, Inc.*, 951 F. Supp. 1224 (M.D.N.C. 1996)
 
-*Franklin v. Vertex Global Solutions, Inc.*, No. 20 Civ. 10495 (KPF) (S.D.N.Y. 2022)
+*Franklin v. Vertex Global Solutions, Inc.*, 20 Civ. 10495 (KPF) (S.D.N.Y. 2022)
 
 *Friel v. Angell Care Inc.*, 440 S.E.2d 111 (N.C. Ct. App. 1994)
 
@@ -64,19 +58,19 @@
 
 *Hansen v. America Online*, 96 P.3d 950 (Utah 2004)
 
-*Haskins v. Royster*, 70 N.C. 600 (1874)
+*Haskins v. Royster*, 70 N.C. 600 (N.C. 1874)
 
 *Hogan v. Forsyth Country Club Co.*, 340 S.E.2d 116 (N.C. Ct. App. 1986)
 
 *Jackson v. N.C. Department of Commerce*, 775 S.E.2d 687 (N.C. Ct. App. 2015)
 
-*Jespersen v. Harrah's Operating Co., Inc.*, 444 F.3d 1104 (9th Cir. 2006)
+*Jespersen v. Harrah's Operating Co., Inc.*, 444 F. 3d 1104 (9th Cir. 2006)
 
-*Johnson v. Nat'l Collegiate Athletic Ass'n*, 108 F.4th 163 (3rd Cir. 2024)
+*Johnson v. Nat'l Collegiate Athletic Ass'n*, 108 F. 4th 163 (3rd Cir. 2024)
 
 *Johnson v. Nat'l Collegiate Athletic Ass'n*, 561 F. Supp. 3d 490 (E.D. Pa. 2021)
 
-*Kadlec Medical v. Lakeview Anesthesia Associates*, 527 F3d 412 (5th Cir. 2008)
+*Kadlec Medical v. Lakeview Anesthesia Associates*, 527 F. 3d 412 (5th Cir. 2008)
 
 *Karraker v. Rent-A-Center, Inc.*, 411 F.3d 831 (7th Cir. 2005)
 
@@ -88,17 +82,17 @@
 
 *Kurtzman v. Applied Analytical Industries, Inc*, 493 S.E.2d 420 (N.C. 1997)
 
-*Lawlor v. Loewe*, 235 U.S. 522 (1915)
+*Lawlor v. Loewe*, 235 U.S. 522 (U.S. 1915)
 
 *Lemmerman v. A.T. Williams Oil Co.*, 350 S.E.2d 83 (N.C. 1986)
 
-*Lochner v. New York*, 198 U.S. 45 (1905)
+*Lochner v. New York*, 198 U.S. 45 (U.S. 1905)
 
-*Loewe v. Lawlor*, 208 U.S. 274 (1908)
+*Loewe v. Lawlor*, 208 U.S. 274 (U.S. 1908)
 
 *Lowe's Home Centers, LLC v. NLRB*, 850 Fed.App'x 886 (5th Cir. 2021)
 
-*Maclaren Macomb*, 372 N.L.R.B. No. 58 (2023)
+*Maclaren Macomb*, 372 NLRB No. 58 (N.L.R.B. 2023)
 
 *Matter of Lennane*, 869 S.E.2d 243 (N.C. 2022)
 
@@ -114,35 +108,35 @@
 
 *Nelson v. Knight*, 834 N.W.2d 64 (Iowa 2013)
 
-*NLRB v. City Disposal Systems, Inc.*, 465 U.S. 822 (1984)
+*NLRB v. City Disposal Systems, Inc.*, 465 U.S. 822 (U.S. 1984)
 
-*NLRB v. Electrical Workers*, 346 U.S. 464 (1953)
+*NLRB v. Electrical Workers*, 346 U.S. 464 (U.S. 1953)
 
-*NLRB v. Town & Country Elec., Inc.*, 516 U.S. 85 (1995)
+*NLRB v. Town & Country Elec., Inc.*, 516 U.S. 85 (U.S. 1995)
 
-*NLRB v. Washington Aluminum Co.*, 370 U.S. 9 (1962)
+*NLRB v. Washington Aluminum Co.*, 370 U.S. 9 (U.S. 1962)
 
 *People for Ethical Treatment of Animals v. North Carolina Farm Bureau Federation*, 60 F.4th 815 (4th Cir. 2023)
 
-*Pham v. Aeva Specialty Pharmacy*, No. 21-cv-00703-NYW-STV (D. Colo. 2022)
+*Pham v. Aeva Specialty Pharmacy*, Civil Action No. 21-cv-00703-NYW-STV (D. Colo. 2022)
 
-*Pollock v. Williams*, 322 U.S. 4 (1944)
+*Pollock v. Williams*, 322 U.S. 4 (U.S. 1944)
 
 *Pugh v. See's Candies, Inc.*, 116 Cal. App. 3d 311 (1981)
 
 *Ramji v. Hospital Housekeeping Systems, LLC*, 992 F.3d 1233 (11th Cir. 2021)
 
-*Razak v. Uber Technologies, Inc.*, 951 F.3d 137 (3rd Cir. 2020)
+*Razak v. Uber Technologies, Inc.*, 951 F. 3d 137 (3rd Cir. 2020)
 
-*Ries v. Mcdonald's USA, LLC*, No. 1:20-cv-2 (W.D. Mich. 2021)
+*Ries v. Mcdonald's Usa, Llc*, Case No. 1:20-cv-2 (W.D. Mich. 2021)
 
-*Rulon-Miller v. International Bus. Machines Corp.*, 162 Cal. App. 3d 241 (1984)
+*Rulon-Miller v. International Bus. Machines Corp.*, 162 Cal. App. 3d 241 (Cal. App. 1984)
 
 *Salt v. Applied Analytical, Inc.*, 412 S.E.2d 97 (N.C. Ct. App. 1991)
 
-*San Diego Building Trades Council v. Garmon*, 359 U.S. 236 (1959)
+*San Diego Building Trades Council v. Garmon*, 359 U.S. 236 (U.S. 1959)
 
-*Scudder v Woodbridge*, 1 Ga. 195 (1846)
+*Scudder v Woodbridge*, 1 Ga. 195 (Georgia 1846)
 
 *Searls v. Johns Hopkins Hospital*, 158 F. Supp. 3d 427 (D. Md. 2016)
 
@@ -152,23 +146,23 @@
 
 *Smith v. Manheim Remarketing, Inc.*, No. 5:19-CV-00086-KDB-DSC (W.D.N.C. 2019)
 
-*Starbucks Corp.*, 372 N.L.R.B. No. 122 (2023)
+*Starbucks Corp.*, 372 N.L.R.B. No. 122 (N.L.R.B. 2023)
 
-*Starbucks Corp.*, Case 14-CA-295813 (N.L.R.B. Div. of Judges 2023)
+*Starbucks Corp.*, Case 14\--CA\--295813 (N.L.R.B. Div. of Judges 2023)
 
 *State v. Wal-Mart Stores*, 207 A.D.2d 150 (N.Y. App. Div. 1995)
 
 *Stengart v. Loving Care Agency*, 990 A.2d 650 (N.J. 2010)
 
-*Stericycle, Inc.*, 372 N.L.R.B. No. 113 (2023)
+*Stericycle, Inc.*, 04-CA-137660, 04-CA-145466, 04-CA-158277 04-CA-160621 (N.L.R.B. 2023)
 
-*Tesla, Inc.*, 370 N.L.R.B. No. 101 (2021)
+*Tesla, Inc.*, 370 N.L.R.B. No. 101 (NLRB 2021)
 
-*The Boeing Company*, 365 N.L.R.B. No. 154 (2017)
+*The Boeing Company*, 365 N.L.R.B. No. 154 (N.L.R.B. 2017)
 
 *Three D, LLC d/b/a Triple Play Sports Bar and Grille v. NLRB*, 629 Fed. App'x 33 (2d Cir. 2015)
 
-*Triple Play Sports Bar & Grille*, 361 N.L.R.B. No. 31 (2014)
+*Triple Play Sports Bar & Grille*, 361 N.L.R.B. No. 31 (N.L.R.B. 2014)
 
 *Truitt v. Salisbury Bank and Trust Co.*, 52 F.4th 80 (2nd Cir. 2022)
 
@@ -178,17 +172,17 @@
 
 *Wang v. The Hearst Corp.*, 877 F.3d 69 (2nd Cir. 2017)
 
-*West Coast Hotel Co. v. Parrish*, 300 U.S. 379 (1937)
+*West Coast Hotel Co. v. Parrish*, 300 U.S. 379 (U.S. 1937)
 
-*Whichard v. CH Mortgage Company, Inc.*, 248 N.C. App. 123 (2016)
+*Whichard v. CH Mortgage Company, Inc.*, 248 N.C. App. 123 (N.C. Ct. App. 2016)
 
-*Whirlpool Corp. v. Marshall*, 445 U.S. 1 (1980)
+*Whirlpool Corp. v. Marshall*, 445 U.S. 1 (U.S. 1980)
 
 *Wilson v. Monarch Paper*, 939 F.2d 1138 (5th Cir. 1991)
 
 *Wood v. Ward*, 30 F.Cas. 479 (Cir. Ct., S.D. Ohio 1879)
 
-*Woolley v. Hoffmann-La Roche, Inc.*, 99 N.J. 284 (1985)
+*Woolley v. Hoffmann-La Roche, Inc.*, 99 N.J. 284 (N.J. 1985)
 
 *Workman v. United Parcel Service, Inc.*, 234 F.3d 998 (7th Cir. 2000)
 
@@ -196,68 +190,3 @@
 
 *Zorn-Hill v. A2B Taxi, LLC*, 19-CV-1058 & 18-CV-11165 (S.D.N.Y 2020)
 
-## Statutes
-
-### Federal
-
-Americans with Disabilities Act, 42 U.S.C. § 12101 et seq.
-
-Clayton Antitrust Act of 1914, 15 U.S. Code § 17
-
-Fair Labor Standards Act of 1938, 29 U.S.C. § 201 et seq.
-
-Family and Medical Leave Act, 29 U.S.C. § 2601 et seq.
-
-National Labor Relations Act of 1935, 29 U.S. Code § 151 et seq.
-
-Norris-LaGuardia Act of 1932, 29 U.S. Code § 101 et seq.
-
-Occupational Safety & Health Act, 29 U.S.C. § 641 et seq.
-
-Sherman Antitrust Act of 1890, 15 U.S. Code § 1
-
-### State
-
-Contracts Against Public Policy of 2025, Cal. Labor Code § 926
-
-Contracts in Restraint of Trade, Cal. Bus. & Prof. Code § 16600 et seq.
-
-Discrimination Against the Engagement in Certain Activities, NY Labor Law § 201-d
-
-Employer Use of Social Media, Cal. Labor Code § 980
-
-Immunity from Civil Liability for Employers Disclosing Information of 2021, N.C.G.S. § § 1-539.12
-
-Lawful Use of Lawful Products of 1992, N.C.G.S. § 95-28.2
-
-Montana Wrongful Discharge from Employment Act, Mont. Code Ann. § 39-2-901 et seq.
-
-NC Employment Security Act, N.C.G.S. § 96-1 et seq.
-
-NC Property Protection Act of 2016, N.C. Gen. Stat. § 99A-2
-
-NC Retaliatory Employment Discrimination Act, N.C.G.S. § 95-240 et seq.
-
-NC Wage & Hour Act, N.C.G.S. § 95-25.6
-
-NC Workers’ Compensation Act, N.C.G.S. § 97-2 et seq.
-
-Trapped at Work Act of 2025, NY Labor Law, Art. 37 § 1050 et seq.
-
-### Other 
-
-Ordinance of Labourers, 23 Edw. 3 cc. 1-8 (1349)
-
-Statute of Labourers, 25 Edw. 3 Stat. 1 (1351)
-
-## Regulatory Materials
-
-U.S. Dept. of Labor, Employee or Independent Contractor Classification Under the Fair Labor Standards Act, 89 FR § 1638 (Final Rule 2024)
-
-:::
-
-## Books, Articles, & Other Publications
-
-::: {#refs}
-
-::
