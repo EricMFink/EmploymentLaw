@@ -202,7 +202,7 @@
 
 Americans with Disabilities Act, 42 U.S.C. § 12101 et seq.
 
-Clayton Antitrust Act of 1914, 15 U.S. Code § 17
+Clayton Antitrust Act of 1914, 15 U.S. Code § 17 et seq.
 
 Fair Labor Standards Act of 1938, 29 U.S.C. § 201 et seq.
 
@@ -214,11 +214,11 @@ Norris-LaGuardia Act of 1932, 29 U.S. Code § 101 et seq.
 
 Occupational Safety & Health Act, 29 U.S.C. § 641 et seq.
 
-Sherman Antitrust Act of 1890, 15 U.S. Code § 1
+Sherman Antitrust Act of 1890, 15 U.S. Code § 1 et seq.
 
 ### State
 
-Contracts Against Public Policy of 2025, Cal. Labor Code § 926
+Contracts Against Public Policy, Cal. Labor Code § 926
 
 Contracts in Restraint of Trade, Cal. Bus. & Prof. Code § 16600 et seq.
 
@@ -226,23 +226,23 @@ Discrimination Against the Engagement in Certain Activities, NY Labor Law § 201
 
 Employer Use of Social Media, Cal. Labor Code § 980
 
-Immunity from Civil Liability for Employers Disclosing Information of 2021, N.C.G.S. § § 1-539.12
+Immunity from Civil Liability for Employers Disclosing Information, N.C.G.S. § 1-539.12
 
-Lawful Use of Lawful Products of 1992, N.C.G.S. § 95-28.2
+Lawful Use of Lawful Products, N.C.G.S. § 95-28.2
 
 Montana Wrongful Discharge from Employment Act, Mont. Code Ann. § 39-2-901 et seq.
 
 NC Employment Security Act, N.C.G.S. § 96-1 et seq.
 
-NC Property Protection Act of 2016, N.C. Gen. Stat. § 99A-2
+NC Property Protection Act of, N.C. Gen. Stat. § 99A-2
 
 NC Retaliatory Employment Discrimination Act, N.C.G.S. § 95-240 et seq.
 
-NC Wage & Hour Act, N.C.G.S. § 95-25.6
+NC Wage & Hour Act, N.C.G.S. § 95-25.1 et seq.
 
-NC Workers’ Compensation Act, N.C.G.S. § 97-2 et seq.
+NC Workers’ Compensation Act, N.C.G.S. § 97-1 et seq.
 
-Trapped at Work Act of 2025, NY Labor Law, Art. 37 § 1050 et seq.
+Trapped at Work Act, NY Labor Law, Art. 37 § 1050 et seq.
 
 ### Other 
 
@@ -252,12 +252,12 @@ Statute of Labourers, 25 Edw. 3 Stat. 1 (1351)
 
 ## Regulatory Materials
 
-U.S. Dept. of Labor, Employee or Independent Contractor Classification Under the Fair Labor Standards Act, 89 FR § 1638 (Final Rule 2024)
-
-:::
+U.S. Dept. of Labor, Employee or Independent Contractor Classification Under the Fair Labor Standards Act, 89 FR 1638 (Final Rule 2024)
 
 ## Books, Articles, & Other Publications
 
 ::: {#refs}
 
-::
+:::
+
+:::
