@@ -2,6 +2,9 @@
 
 [{{< bi download >}}]({{< var syllabus-download >}} "Download Syllabus")
 
+
+::: {.syllabus}
+
 ::: {.syllabus-header}
 
 ## {{< var subject >}} {.unnumbered}
@@ -27,8 +30,6 @@
 Office hours: [[calendly.com/emfink]({{< var appointments >}})]{.mono-font-smaller}
 
 :::
-
-::: {.syllabus}
 
 ## Description {.unnumbered}
 

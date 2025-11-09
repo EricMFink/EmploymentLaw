@@ -2,9 +2,7 @@
 
 ## Feudal Roots
 
-[@LondonRadicalHistories2016]{.aside}
-
-### Regulating Labor in Medieval England
+### Regulating Labor in Medieval England [@LondonRadicalHistories2016]
 
 > _“Whereas late against the malice of servants, which were idle, and not willing to serve after the pestilence, without taking excessive wages, it was ordained by our lord the king… that such manner of servants … should be bound to serve, receiving salary and wages, accustomed in places where they ought to serve… five or six years before; and that the same servants refusing to serve … should be punished by imprisonment …”_
 
@@ -95,14 +93,11 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ## Employment as Status and Contract
 
-[@Orren1991]{.aside}
-
-### Karen Orren, _The Order of the Workplace in Late-Nineteenth-Century America_
-
+### The Order of the Workplace in Late-Nineteenth-Century America [@Orren1991]
 
 When the United Stated embarked upon full-scale industrialization in the decades following the Civil War, American labor relations were a remnant of the ancient order, in the sense that arrangements established in England in previous centuries were carried forward and enforced in law, often with only slight modification, to form the framework of relations between American employers and their employees. 
 
-#### The order of labor
+[The order of labor]{.case-h1}
 
 At the most abstract level, "feudal" refers to the fact that the hierarchical relation of master and servant in nineteenth-century America was a remnant of the larger system of hierarchies that historically had extended up and down medieval society.
 
@@ -118,12 +113,11 @@ Another such principle was _quicquid acquietur servo acquietur domino_ ("whateve
 
 By the late nineteenth century, employers in the United States could sue workers for breach of contract for their earnings in other employment only when it could be shown that the work had been done during hours and activities in which the plaintiff employer had been entitled to the worker's efforts. In an 1877 _Treatise on the Law of Master and Servant_, however, Horace Wood devoted three full pages to Hargrave's "learned note" and concluded that under the rule of _quicquid acquietur servo_ the employer could also retain waged earned by a worker in outside activities if the money somehow came into the employer's hands.[Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).]{.aside} Moreover, even in its diluted American form, the law expressed the employer's proprietary interest not only in the worker's labor performed under the contract but also in all labor that might be performed by the worker's _person_, under a different contract, The remedy went beyond simply dismissing the worker or deducting from his wages for so many hours; it extended to the outside earnings acquired, as if they (as an extension of the worker) belonged to the master. Such a principle would seem incongruous not simply with the market-model morality of enterprising employees, but even with the more sober depictions of nineteenth-century workers as earnest breadwinners for their families. It was eminently compatible, however, with other features, likewise ancient, of the hierarchical structure of employment relations during the period. 
 
-#### The judicial governance of master and servant
+[The judicial governance of master and servant]{.case-h1}
 
 The links between past and present may be observed in the line of precedents used by American judges to decide the disputes between masters and servants and third parties that came before the courts. … 
 
 Regarding whether or not an employee might recover wages if asked by an employer to work on a Sunday, Wood proceeds for several pages citing precedents and authorities that include, among others, practice prior to the year 500, Edward the Confessor,[Edward the Confessor was the English king from 1042 to 1066. _The Mirror of Justices_ was an Anglo-Norman law text published in 1642.]{.aside} _The Mirror of Justices_, and Lord Coke, reaching the conclusion that the worker may not. The point is not only that the courts followed precedent, and the precedents were ancient, but also that there was a preestablished substance that constituted the legal relations between the parties, which the courts administered in the course of litigation. 
-
 
 As a remnant of feudalism, judicial regulation of labor relations in the nineteenth century maintained that comprehensive sense of governance, in which courts administered, and to a lesser extent, legislated, as well as adjudicated. Thus, for example, by the mid-nineteenth century, American courts, running ahead of the English, no longer permitted employers to beat their employees. Similarly, in the 1880s, judge-made law turned away from the assumption of an annual hiring, based on the English model and on the prevalence of agricultural labor, to a hiring "at-will." Such modifications were no doubt responsible for the system's survival for so long, preempting interference by other agencies of the state in unusually offensive or inconvenient circumstances. Even so, as in the case of at-will employment, the courts continued to prescribe labor relations, not derive them from contracts devised by the parties. … 
 
@@ -133,7 +127,7 @@ A second principle in nineteenth-century labor law [was] the principle that a co
 
 This rule made it possible for employers to goad employees into quitting near the end of a term or pay period, and thereby benefit from their earlier labor without having to pay. But the "entire" contract principle was also basic to the full range of subject matters in dispute between nineteenth-century employers and employees, because very often other issues presented at law involved the question of whether or not a worker was entitled to, or had been unjustifiably denied, payment for his or her services. The principle was most important during the decades prior to the Civil War, when contracts definite as to term were more common than they would be later, but it retained its vitality after then as well, particularly with respect to salaried workers. The principle of hiring "at will," under which either party could terminate the contract for any reason, began to take hold in the 1880s; but in the meantime many courts continued to apply the English rule of an assumed annual hiring, or else held that the pay period (by the week, month, etc.) would determine the point at which back wages could be accrued and recovered. 
 
-#### The province of work
+[The province of work]{.case-h1}
 
 The principles of hierarchy and obedience imply the existence of jurisdictional boundaries within which authority is organized and enforced. ...
 
@@ -155,7 +149,7 @@ Under the rules of liability, ... employees stood in relation to one another as 
 
 Here the worker may be seen to have had less protection than members of the public at large against identical injuries caused by identical accidents. By virtue of one's status as an employee of the company in the course of whose business the injury occurred, one was unprotected against injuries for which the company would have assumed liability had they been inflicted on an ordinary member of the public. The evident injustice of the fellow-servant rule, which adversely affected the families and other associates of injured workers, as well as the workers themselves, would eventually lead to a major revolution in torts through the institution of workmen's compensation laws. Those laws would bring new inroads into the domain of master and servant. However, at a time when court decisions in other areas of the law were moving in the direction of universal contracts, the effect of workers' compensation laws was to enhance the status-based responsibilities of the employment relation. 
 
-#### The province and the republic
+[The province and the republic]{.case-h1}
 
 A final barrier against interference in the workplace was constitutional. Labor relations were bounded by the limits of legislative sovereignty. Regular payment of wages, and in money rather than scrip or credit; reasons for discharge, and wages due and service letters upon departure; removal of the fellow-servant defense against liability for injury; shorter hours of employment—these and other changes in the old law were obtained by workers and their political allies in legislation, through the activities of lobbying and elections. However, as is well known, in the majority of instances those statutes were overturned in review by the judiciary. 
 
@@ -235,7 +229,7 @@ The Circuit Court held the statutes under which the case was prosecuted to be un
 
 Florida advances no argument that the presumption section of this statute is constitutional, nor could it plausibly do so in view of our decisions. It contends, however, (1) that we can give no consideration to the presumption section because it was not in fact brought into play in the case, by reason of the plea of guilty; (2) that so severed the section denouncing the crime is constitutional.
 
-#### I.
+[I.]{.case-h1}
 
 These issues emerge from an historical background against which the Florida legislation in question must be appraised.
 
@@ -253,7 +247,7 @@ These cases decided by this Court under the Act of 1867 came either from Florida
 
 In 1891, the Legislature created an offense of two elements: obtaining money or property upon a false promise to perform service, and abandonment of service without just cause and without restitution of what had been obtained. In 1905, this Court decided _Clyatt v. United States,_ indicating that any person, including public officers, even if acting under state law, might be guilty of violating the Federal Act. In 1907, the Florida Legislature enacted a new statute, nearly identical in terms with that of Alabama. In 1911, in _Bailey v. Alabama,_ this Court held such an act unconstitutional. In 1913, the Florida Legislature repealed the 1907 act, but re-enacted in substance the section denouncing the crime, omitting the presumption of intent from the failure to perform the service or make restitution. In 1919, the Florida Supreme Court held this act, standing alone, void under the authority of _Bailey v. Alabama._ Whereupon, at the session of 1919, the present statute was enacted, including the _prima facie_ evidence provisions, notwithstanding these decisions by the Supreme Court of Florida and by this Court. The Supreme Court of Florida later upheld a conviction under this statute on a plea of guilty, but declined to pass on the presumption section, because, as in the present case, the plea of guilty was thought to make its consideration unnecessary. The statute was re-enacted without substantial change in 1941. Again in 1943 it was re-enacted despite the fact that the year before we held a very similar Georgia statute unconstitutional in its entirety.
 
-#### II.
+[II.]{.case-h1}
 
 The State contends that we must exclude the _prima facie_ evidence provision from consideration because in fact it played no part in producing this conviction. Such was the holding of the State Supreme Court. We are not concluded by that holding, however, but under the circumstances are authorized to make an independent determination.
 
@@ -269,13 +263,13 @@ As we have seen, Florida persisted in putting upon its statute books a provision
 
 In the view we take of the purpose and effect of this _prima facie_ evidence provision it is not material whether as matter of state law it is regarded as an independent and severable provision.
 
-#### III.
+[III.]{.case-h1}
 
 We are induced by the evident misunderstanding of our decisions by the Florida Supreme Court, in what we are convinced was a conscientious and painstaking study of them, to make more explicit the basis of constitutional invalidity of this type of statute.
 
 The undoubted aim of the Thirteenth Amendment as implemented by the Antipeonage Act was not merely to end slavery but to maintain a system of completely free and voluntary labor throughout the United States. Forced labor in some special circumstances may be consistent with the general basic system of free labor. For example, forced labor has been sustained as a means of punishing crime, and there are duties such as work on highways which society may compel. But in general the defense against oppressive hours, pay, working conditions, or treatment is the right to change employers. When the master can compel and the laborer cannot escape the obligation to go on, there is no power below to redress and no incentive above to relieve a harsh overlordship or unwholesome conditions of work. Resulting depression of working conditions and living standards affects not only the laborer under the system, but every other with whom his labor comes in competition. Whatever of social value there may be, and of course it is great, in enforcing contracts and collection of debts, Congress has put it beyond debate that no indebtedness warrants a suspension of the right to be free from compulsory service. This congressional policy means that no state can make the quitting of work any component of a crime, or make criminal sanctions available for holding unwilling persons to labor. The federal statutory test is a practical inquiry into the utilization of an act as well as its mere form and terms.
 
-Where peonage has existed in the United States it has done so chiefly by virtue of laws like the statute in question. Whether the statute did or did not include the presumption seems to have made little difference in its practical effect. In 1910, in response to a resolution of the House of Representatives, the Immigration Commission reported the results of an investigation of peonage among immigrants in the United States. It found that no general system of peonage existed, and that sentiment did not support it anywhere. On the other hand, it found sporadic cases of probable peonage in every state in the Union except Oklahoma and Connecticut. It pointed out that "there has probably existed in Maine the most complete system of peonage in the entire country," in the lumber camps. In 1907, Maine enacted a statute, applicable only to lumber operations but in its terms very like the section of the Florida statute we are asked to separate and save. The law was enforcible in local courts not of record. The Commission pointed out that the Maine statute, unlike that of Minnesota and the statutes of other states in the West and South, did not contain a _prima facie_ evidence provision. But as a practical matter the statute led to the same result.
+Where peonage has existed in the United States it has done so chiefly by virtue of laws like the statute in question. Whether the statute did or did not include the presumption seems to have made little difference in its practical effect. In 1910, in response to a resolution of the House of Representatives, the Immigration Commission reported the results of an investigation of peonage among immigrants in the United States. It found that no general system of peonage existed, and that sentiment did not support it anywhere. On the other hand, it found sporadic cases of probable peonage in every state in the Union except Oklahoma and Connecticut. It pointed out that "there has probably existed in Maine the most complete system of peonage in the entire country," in the lumber camps. In 1907, Maine enacted a statute, applicable only to lumber operations but in its terms very like the section of the Florida statute we are asked to separate and save. The law was enforceable in local courts not of record. The Commission pointed out that the Maine statute, unlike that of Minnesota and the statutes of other states in the West and South, did not contain a _prima facie_ evidence provision. But as a practical matter the statute led to the same result.
 
 The fraud which such statutes purport to penalize is not the concealment or misrepresentation of existing facts, such as financial condition, ownership of assets, or data relevant to credit. They either penalize promissory representations which relate to future action and conduct or they penalize a misrepresentation of the present intent or state of mind of the laborer. In these "a hair perhaps divides the false and true." Of course there might be provable fraud even in such matters. One might engage for the same period to several employers, collecting an advance from each, or he might work the same trick of hiring out and collecting in advance again and again, or otherwise provide proof that fraud was his design and purpose. But in not one of the cases to come before this Court under the antipeonage statute has there been evidence of such subtlety or design. In each there was the same story, a necessitous and illiterate laborer, an agreement to work for a small wage, a trifling advance, a breach of contract to work. In not one has there been proof from which we fairly could say whether the Negro never intended to work out the advance, or quit because of some real or fancied grievance, or just got tired. If such statutes have ever on even one occasion been put to a worthier use in the records of any state court, it has not been called to our attention. If this is the visible record, it is hardly to be assumed that the off-the-record uses are more benign.
 
@@ -383,9 +377,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 
 ## Employer Control
 
-[@Anderson2017]{.aside}
-
-### Elizabeth Anderson, _Private Government_
+### Employment as Private Government [@Anderson2017]
 
 Most workers in the United States are governed by dictatorships in their work lives. Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is. Most believe, for example, that their boss cannot fire them for their off-hours Facebook postings, or for supporting a political candidate their boss opposes. Yet only about half of U.S. workers enjoy even partial protection of their off-duty speech from employer meddling. Far fewer enjoy legal protection of their speech on the job, except in narrowly defined circumstances. Even where they are entitled to legal protection, as in speech promoting union activity, their legal rights are often a virtual dead letter due to lax enforcement: employers determined to keep out unions immediately fire any workers who dare mention them, and the costs of litigation make it impossible for workers to hold them accountable for this. 
 

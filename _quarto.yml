@@ -64,7 +64,7 @@ book:
       - problems/workers-comp.qmd
 
 bibliography: Employment.yaml
-csl: casebook.csl
+csl: casebook-bib.csl
 
 format:
   html:
