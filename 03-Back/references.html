@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.23">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -53,15 +53,14 @@ div.csl-indent {
 <link href="../02-Main/chap9.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-1fe81d0376b2c50856e68e651e390326.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-c42e5ec770c9dfde308a18eeec1c84f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1e20ad44f75e5f149600bdbb7c6c02b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -122,9 +121,7 @@ div.csl-indent {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="../index.html" class="sidebar-logo-link">
-      </a>
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Employment Law</a> 
         <div class="sidebar-tools-main tools-wide">
@@ -489,28 +486,27 @@ div.csl-indent {
 </section>
 <section id="books-articles-other-publications" class="level2">
 <h2 class="anchored" data-anchor-id="books-articles-other-publications">Books, Articles, &amp; Other Publications</h2>
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="1" role="list">
 <div id="ref-Anderson2017" class="csl-entry" role="listitem">
-Elizabeth Anderson, <span class="smallcaps">Private Government: How
-Employers Rule Our Lives</span> (2017)
+<span class="smallcaps">Elizabeth Anderson</span>, <span class="smallcaps">Private Government: How Employers Rule Our
+Lives</span>, (2017).
 </div>
 <div id="ref-Friedman2023" class="csl-entry" role="listitem">
 Lawrence Friedman, <em>Work Accidents: A Drama in Three Acts</em>, 40
 <span class="smallcaps">Hofstra Labor &amp; Employment Law
-Journal</span> (2023)
+Journal</span> (2023).
 </div>
 <div id="ref-GouldIV2004" class="csl-entry" role="listitem">
-William B. Gould IV, <span class="smallcaps">A Primer on American Labor
-Law</span> (4th ed. 2004)
+<span class="smallcaps">William B. Gould IV</span>, <span class="smallcaps">A Primer on American Labor Law</span>, (4th ed. 2004).
 </div>
 <div id="ref-LondonRadicalHistories2016" class="csl-entry" role="listitem">
-London Radical Histories, <em><a href="https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/">Today
-in Legislative History: Ordinance of Labourers Passed to Stop Plebs
-Bettering Wages/Conditions, 1349.</a></em> (Jun. 18, 2016)
+London Radical Histories, <em>Today in legislative history: Ordinance of
+Labourers passed to stop plebs bettering wages/conditions, 1349</em>,
+(2016), <a href="https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/">https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/</a>.
 </div>
 <div id="ref-Orren1991" class="csl-entry" role="listitem">
-Karen Orren, <span class="smallcaps">Belated Feudalism: Labor, the Law,
-and Liberal Development in the United States</span> (1991)
+<span class="smallcaps">Karen Orren</span>, <span class="smallcaps">Belated Feudalism: Labor, the Law, and Liberal
+Development in the United States</span>, (1991).
 </div>
 </div>
 </section>
@@ -570,14 +566,13 @@ and Liberal Development in the United States</span> (1991)
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -940,7 +935,7 @@ and Liberal Development in the United States</span> (1991)
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2025-11-07 17:58:27
+ Last updated: 2025-11-11 15:44:12
   </li>  
 </ul>
     </div>
