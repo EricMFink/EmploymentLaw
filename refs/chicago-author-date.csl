@@ -75,68 +75,6 @@
       <term form="verb-short" name="translator">trans.</term>
     </terms>
   </locale>
-  <!-- Contents:
-    
-       This file interprets Chicago using APA's four basic reference elements
-       (cf. CMOS18 14.2, 14.64, 14.161):
-
-        1. Author (CMOS18 13.74-86)
-        2. Date (author-date system only, CMOS18 13.102)
-        3. Title and descriptions (CMOS18 13.87-101)
-            3.1. Title
-            3.2. Description
-            3.3. Identifiers (edition, contributors, volume)
-        4. Source
-            4.1. Serial sources
-            4.2. Monographic sources
-            4.3. Series
-            4.4. Event
-            4.5. Publisher
-            4.6. Date
-            4.7. Locator (including page references)
-            4.8. Medium
-            4.9. Archival location
-            4.10. URL or persistent identifier
-      
-       Freeform annotations to bibliography entries: 
-        
-        5. Notes
-       
-       Chicago also provides parallel rules for legal references following
-       The Bluebook: A Uniform System of Citation (code shared with APA):
-
-        6. Legal references
-            6.1. Legal author
-            6.2. Legal date
-            6.3. Legal title
-            6.4. Legal source
-  -->
-  <!-- In this file, macros suffixed `-bib` and `-note` are parallel versions
-       of the same features for the bibliography and notes, and all changes
-       must be applied to both. They should only contain differences of
-       punctuation (periods in bibliography, commas in notes) and capitalization,
-       except where the comments indicate structural changes. -->
-  <!-- Categories of CSL item types:
-
-       Serial
-       : article-journal article-magazine article-newspaper periodical post-weblog review review-book
-
-       Serial or Monographic
-       : interview paper-conference
-
-         Monographic with any of `collection-editor compiler editor editorial-director`.
-         A serial `paper-conference` is unpublished if it lacks any of `issue page supplement-number volume`.
-
-       Monographic
-       : article book broadcast chapter classic collection dataset document
-         entry entry-dictionary entry-encyclopedia event figure
-         graphic manuscript map motion_picture musical_score
-         pamphlet patent performance personal_communication post report
-         software song speech standard thesis webpage
-
-       Legal
-       : bill hearing legal_case legislation regulation treaty
-  -->
   <!-- Variable labels -->
   <macro name="label-chapter-number-capitalized">
     <group delimiter=" ">
@@ -1563,7 +1501,6 @@
     </choose>
   </macro>
   <macro name="description-letter-short">
-    <!-- shortened notes ideally give author, recipient, place, and date (CMOS18 14.13) -->
     <group delimiter=", ">
       <choose>
         <if variable="genre recipient">
@@ -2140,7 +2077,6 @@
     </group>
   </macro>
   <macro name="identifier-volume-bib">
-    <!-- In notes styles, bibliography entries may be listed either under an individual volume title or its series, but the former approach is required for author-date, which is the form that this macro implements (CMOS18 14.21) -->
     <group delimiter=", ">
       <choose>
         <if variable="part-number part-title volume volume-title">
@@ -2496,7 +2432,6 @@
   <macro name="source-serial-locator">
     <choose>
       <if match="any" variable="locator number">
-        <!-- Page numbers cited in notes appear alongside article ID (CMOS18 14.71) -->
         <group delimiter=", ">
           <text macro="label-locator"/>
           <text variable="number"/>
@@ -3502,26 +3437,6 @@
   </macro>
   <!-- 6. Legal references: Bluebook style (shared with APA) -->
   <macro name="legal-reference">
-    <!-- Type usage:
-
-         `bill`
-         : bills, resolutions, federal reports
-
-         `legal_case`
-         : all legal and court cases
-
-         `hearing`
-         : hearings and testimony
-
-         `legislation`
-         : statutes, constitutional items, and charters
-
-         `regulation`
-         : codified regulations, uncodified regulations, executive orders
-
-         `treaty`
-         : treaties
-    -->
     <group delimiter=" ">
       <choose>
         <if type="treaty">

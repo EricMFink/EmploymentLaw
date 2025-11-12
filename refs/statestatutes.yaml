@@ -1,0 +1,89 @@
+---
+references:
+- id: ContractsRestraintTrade_nd
+  citation-key: ContractsRestraintTrade_nd
+  container-title: Cal. Bus. & Prof. Code
+  section: 16600 et seq.
+  title: Contracts in Restraint of Trade
+  type: legislation
+
+- id: DiscriminationEngagementCertain_nd
+  citation-key: DiscriminationEngagementCertain_nd
+  container-title: NY Labor Law
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+
+- id: EmployerUseSocial_nd
+  citation-key: EmployerUseSocial_nd
+  container-title: Cal. Labor Code
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
+
+- id: ImmunityCivilLiability2021
+  citation-key: ImmunityCivilLiability2021
+  container-title: N.C.G.S.
+  section: 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+
+- id: LawfulUseLawful1992
+  citation-key: LawfulUseLawful1992
+  container-title: N.C.G.S.
+  section: 95-28.2
+  title: Lawful Use of Lawful Products
+  type: legislation
+
+- id: MontanaWrongfulDischarge_nd
+  citation-key: MontanaWrongfulDischarge_nd
+  container-title: Mont. Code Ann.
+  section: 39-2-901 et seq.
+  title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+
+- id: NCPropertyProtection2016
+  citation-key: NCPropertyProtection2016
+  container-title: N.C. Gen. Stat.
+  language: en-US
+  section: 99A-2
+  title: NC Property Protection Act
+  type: legislation
+
+- id: NCRetaliatoryEmployment_nd
+  citation-key: NCRetaliatoryEmployment_nd
+  container-title: N.C.G.S.
+  section: 95-240 et seq.
+  title: NC Retaliatory Employment Discrimination Act
+  type: legislation
+
+- id: NCWageHour_nd
+  citation-key: NCWageHour_nd
+  container-title: N.C.G.S.
+  section: 95-25.1 et seq.
+  title: NC Wage & Hour Act
+  type: legislation
+
+- id: NCWorkersCompensation_nd
+  citation-key: NCWorkersCompensation_nd
+  container-title: N.C.G.S.
+  section: 97-1 et seq.
+  title: NC Workers' Compensation Act
+  type: legislation
+
+- id: TrappedWorkAct2025
+  citation-key: TrappedWorkAct2025
+  container-title: NY Labor Law, Art. 37
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
+  type: legislation
+
+- id: zotero-item-7396
+  citation-key: zotero-item-7396
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy
+  type: legislation
+...

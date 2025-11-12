@@ -1,0 +1,85 @@
+---
+references:
+- id: AmericansDisabilitiesAct_nd
+  citation-key: AmericansDisabilitiesAct_nd
+  container-title: U.S.C.
+  section: 12101 et seq.
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
+- id: ClaytonAntitrustAct1914
+  abstract: C
+  citation-key: ClaytonAntitrustAct1914
+  container-title: U.S. Code
+  issued:
+    - year: 1914
+  section: 17 et seq.
+  title: Clayton Antitrust Act
+  type: legislation
+  volume: '15'
+
+- id: FairLaborStandards1938
+  citation-key: FairLaborStandards1938
+  container-title: U.S.C.
+  issued:
+    - year: 1938
+  section: 201 et seq.
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: FamilyMedicalLeave_nd
+  citation-key: FamilyMedicalLeave_nd
+  container-title: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
+- id: NationalLaborRelations1935
+  citation-key: NationalLaborRelations1935
+  container-title: U.S. Code
+  issued:
+    - year: 1935
+  section: 151 et seq.
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
+- id: NCEmploymentSecurity_nd
+  citation-key: NCEmploymentSecurity_nd
+  container-title: N.C.G.S.
+  section: 96-1 et seq.
+  title: NC Employment Security Act
+  type: legislation
+
+- id: NorrisLaGuardiaAct1932
+  citation-key: NorrisLaGuardiaAct1932
+  container-title: U.S. Code
+  issued:
+    - year: 1932
+  section: 101 et seq.
+  title: Norris-LaGuardia Act
+  type: legislation
+  volume: '29'
+
+- id: OccupationalSafetyHealth_nd
+  citation-key: OccupationalSafetyHealth_nd
+  container-title: U.S.C.
+  section: 641 et seq.
+  title: Occupational Safety & Health Act
+  type: legislation
+  volume: '29'
+
+- id: ShermanAntitrustAct1890
+  abstract: C
+  citation-key: ShermanAntitrustAct1890
+  container-title: U.S. Code
+  issued:
+    - year: 1890
+  section: 1 et seq.
+  title: Sherman Antitrust Act
+  type: legislation
+  volume: '15'
+...

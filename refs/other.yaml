@@ -1,0 +1,189 @@
+---
+references:
+- id: Anderson2017
+  author:
+    - family: Anderson
+      given: Elizabeth
+  citation-key: Anderson2017
+  event-place: Princeton
+  ISBN: 978-0-691-17651-2
+  issued:
+    - year: 2017
+  language: English
+  number-of-pages: '224'
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: 'Private Government: How Employers Rule Our Lives'
+  title-short: Private Government
+  type: book
+
+- id: Bierman1993
+  accessed:
+    - year: 2025
+      month: 11
+      day: 2
+  author:
+    - family: Bierman
+      given: Leonard
+    - family: Vinton
+      given: Karen
+    - family: Youngblood
+      given: Stuart A.
+  citation-key: Bierman1993
+  container-title: Montana Law Review
+  issued:
+    - year: 1993
+  page: '367'
+  title: >-
+    Montana's Wrongful Discharge from Employment Act: The Views of the Montana
+    Bar
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/montlr54&div=25&g_sent=1&casa_token=X0xHNr63JE8AAAAA:lZ_LfiNzSZgRJ7pYJ1H08WDcqbGkLaaIjKeA3bgxW4Am57-ZzWnLJOHTbAUdWIAgoIjAHLw9&collection=journals
+  volume: '54'
+
+- id: Casebeer2017
+  accessed:
+    - year: 2025
+      month: 11
+      day: 12
+  author:
+    - family: Casebeer
+      given: Kenneth M.
+  citation-key: Casebeer2017
+  container-title: Employee Rights and Employment Policy Journal
+  container-title-short: Emp. Rts. & Emp. Pol'y J.
+  issue: '2'
+  issued:
+    - year: 2017
+  language: eng
+  page: 325–334
+  source: HeinOnline
+  title: >-
+    It's Not Just the Contract, It's Capitalism: Inequality and the Restatement
+    of Employment Law Chapter on Termination
+  title-short: It's Not Just the Contract, It's Capitalism
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
+  volume: '21'
+
+- id: Epstein1984
+  accessed:
+    - year: 2025
+      month: 10
+      day: 29
+  author:
+    - family: Epstein
+      given: Richard
+  citation-key: Epstein1984
+  container-title: University of Chicago Law Review
+  issued:
+    - year: 1984
+  page: '947'
+  title: In Defense of the Contract at Will
+  type: article-journal
+  URL: https://www.jstor.org/stable/1599554?seq=1
+  volume: '51'
+
+- id: Friedman2023
+  author:
+    - family: Friedman
+      given: Lawrence
+  citation-key: Friedman2023
+  container-title: Hofstra Labor & Employment Law Journal
+  issue: '2'
+  issued:
+    - year: 2023
+  page: '463'
+  title: 'Work Accidents: A Drama in Three Acts'
+  title-short: Work Accidents
+  type: article-journal
+  URL: https://scholarlycommons.law.hofstra.edu/hlelj/vol40/iss2/5/
+  volume: '40'
+
+- id: GouldIV2004
+  author:
+    - family: Gould IV
+      given: William B.
+  citation-key: GouldIV2004
+  edition: 4th
+  ISBN: 978-1-108-59750-0
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '432'
+  publisher: MIT Press
+  title: A Primer on American Labor Law
+  type: book
+
+- id: LondonRadicalHistories2016
+  author:
+    - family: London Radical Histories
+      given: ''
+  citation-key: LondonRadicalHistories2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 18
+  language: en
+  title: >-
+    Today in legislative history: Ordinance of Labourers passed to stop plebs
+    bettering wages/conditions, 1349
+  title-short: Ordinance of Labourers
+  type: post-weblog
+  URL: >-
+    https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
+- id: Orren1991
+  abstract: >-
+    Traditional theories of American political development depict the American
+    state as a thoroughly liberal state from its very inception. In this book,
+    first published in 1992, Karen Orren challenges that account by arguing that
+    a remnant of ancient feudalism was, in fact, embedded in the American
+    governmental system, in the form of the law of master and servant, and
+    persisted until well into the twentieth century. The law of master and
+    servant was, she reveals, incorporated in the US Constitution and
+    administered from democratic politics. The fully legislative polity that
+    defines the modern liberal state was achieved in America, Orren argues, only
+    through the initiatives of the labor movement in the late nineteenth and
+    early twentieth centuries, and was finally ushered in as part of the
+    processes of collective bargaining instituted by the New Deal. This book
+    represents a fundamental reinterpretation of constitutional change in the
+    United States and of the role of American organized labor, which is shown to
+    be a creator of liberalism, rather than a spoiler of socialism.
+  author:
+    - family: Orren
+      given: Karen
+  citation-key: Orren1991
+  ISBN: 978-0-521-42254-3
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '256'
+  publisher: Cambridge University Press
+  title: >-
+    Belated Feudalism: Labor, the Law, and Liberal Development in the United
+    States
+  title-short: Belated Feudalism
+  type: book
+
+- id: Summers2000
+  author:
+    - family: Summers
+      given: Clyde
+  citation-key: Summers2000
+  container-title: University of Pennsylvania Journal of Business Law
+  ISSN: 1945-2934
+  issue: '1'
+  issued:
+    - year: 2000
+      month: 10
+      day: 1
+  page: '65'
+  source: COinS
+  title: 'Employment at Will in the United States: The Divine Right of Employers'
+  title-short: Employment at Will in the United States
+  type: article-journal
+  URL: https://scholarship.law.upenn.edu/jbl/vol3/iss1/2
+  volume: '3'
+...

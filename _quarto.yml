@@ -63,8 +63,18 @@ book:
       - problems/loyalty.qmd
       - problems/workers-comp.qmd
 
-bibliography: Employment.yaml
-csl: casebook-bib.csl
+filters:
+  - citetools
+bibliography_fedcases: refs/fedcases.yaml
+bibliography_statecases: refs/statecases.yaml
+bibliography_othercases: refs/othercases.yaml
+bibliography_fedstatutes: refs/fedstatutes.yaml
+bibliography_statestatutes: refs/statestatutes.yaml
+bibliography_otherstatutes: refs/otherstatutes.yaml
+bibliography_other: refs/other.yaml
+csl: refs/casebook.csl
+nocite: |
+  @*
 
 format:
   html:
@@ -79,7 +89,7 @@ format:
     number-sections: true
     number-depth: 2
     toc-location: left
-    toc-depth: 3
+    toc-depth: 4
     callout-icon: false
     include-in-header:
     - text: |

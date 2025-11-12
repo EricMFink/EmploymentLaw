@@ -1,0 +1,707 @@
+---
+references:
+- id: AdairUnitedStates_US1908
+  authority: U.S.
+  citation-key: AdairUnitedStates_US1908
+  container-title: U.S.
+  issued:
+    - year: 1908
+  page: '161'
+  title: Adair v. United States
+  type: legal_case
+  volume: '208'
+
+- id: ArkuWellsFargoBank_WDNC2022
+  authority: W.D.N.C.
+  citation-key: ArkuWellsFargoBank_WDNC2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  jurisdiction: WD North Carolina
+  page: '602'
+  title: Arku v. Wells Fargo Bank, Nat. Association
+  type: legal_case
+  volume: '621'
+
+- id: BoeingCompany_NLRB2017
+  authority: N.L.R.B.
+  citation-key: BoeingCompany_NLRB2017
+  container-title: N.L.R.B.
+  issued:
+    - year: 2017
+      month: 12
+      day: 14
+  page: No. 154
+  title: The Boeing Company
+  type: legal_case
+  volume: '365'
+
+- id: ClaytonDelmarvaCommunityServices_DMd2020
+  authority: D. Md.
+  citation-key: ClaytonDelmarvaCommunityServices_DMd2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+  page: '404'
+  title: Clayton v. Delmarva Community Services, Inc.
+  type: legal_case
+  volume: '447'
+
+- id: CloutierCostcoWholesaleCorp_1stCir2004
+  authority: 1st Cir.
+  citation-key: CloutierCostcoWholesaleCorp_1stCir2004
+  container-title: F.3d
+  issued:
+    - year: 2004
+  page: '126'
+  title: Cloutier v. Costco Wholesale Corp.
+  type: legal_case
+  volume: '390'
+
+- id: CoppageKansas_US1915
+  authority: U.S.
+  citation-key: CoppageKansas_US1915
+  container-title: U.S.
+  issued:
+    - year: 1915
+  page: '1'
+  title: Coppage v. Kansas
+  type: legal_case
+  volume: '236'
+
+- id: DesaiCharterCommunicationsLLC_WDKy2019
+  authority: W.D. Ky.
+  citation-key: DesaiCharterCommunicationsLLC_WDKy2019
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2019
+  jurisdiction: WD Kentucky
+  page: '774'
+  title: Desai v. Charter Communications, LLC
+  type: legal_case
+  volume: '381'
+
+- id: DraftkingsIncHermalyn_1stCir2024
+  authority: 1st Cir.
+  citation-key: DraftkingsIncHermalyn_1stCir2024
+  issued:
+    - year: 2024
+      month: 9
+      day: 26
+  number: No. 24-1443
+  title: Draftkings, Inc. v. Hermalyn
+  type: legal_case
+
+- id: DriskellSummittContractingGroup_4thCir2020
+  authority: 4th Cir.
+  citation-key: DriskellSummittContractingGroup_4thCir2020
+  container-title: Fed. App'x
+  issued:
+    - year: 2020
+  page: '858'
+  title: Driskell v. Summitt Contracting Group, Inc.
+  type: legal_case
+  volume: '828'
+
+- id: DuplexPrintingPressCo_US1921
+  authority: U.S.
+  citation-key: DuplexPrintingPressCo_US1921
+  container-title: U.S.
+  issued:
+    - year: 1921
+  page: '443'
+  title: Duplex Printing Press Co. v. Deering
+  type: legal_case
+  volume: '254'
+
+- id: EastexIncNLRB_US1978
+  authority: U.S.
+  citation-key: EastexIncNLRB_US1978
+  container-title: U.S.
+  issued:
+    - year: 1978
+  page: '556'
+  title: Eastex, Inc. v. NLRB
+  title-short: Eastex
+  type: legal_case
+  volume: '437'
+
+- id: EhlingMonmouthOceanHospService_DNJ2013
+  authority: D.N.J.
+  citation-key: EhlingMonmouthOceanHospService_DNJ2013
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2013
+  jurisdiction: D. New Jersey
+  page: '659'
+  title: Ehling v. Monmouth-Ocean Hosp. Service Corp.
+  type: legal_case
+  volume: '961'
+
+- id: FoodLionIncCapital_4thCircuit1999
+  authority: 4th Circuit
+  citation-key: FoodLionIncCapital_4thCircuit1999
+  container-title: F.3d
+  issued:
+    - year: 1999
+  page: '505'
+  title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
+  type: legal_case
+  volume: '194'
+
+- id: FoodLionIncCapital_MDNC1996
+  authority: M.D.N.C.
+  citation-key: FoodLionIncCapital_MDNC1996
+  container-title: F. Supp.
+  issued:
+    - year: 1996
+  page: '1224'
+  title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
+  type: legal_case
+  volume: '951'
+
+- id: FranklinVertexGlobalSolutions_SDNY2022
+  authority: S.D.N.Y.
+  citation-key: FranklinVertexGlobalSolutions_SDNY2022
+  issued:
+    - year: 2022
+      month: 2
+      day: 9
+  jurisdiction: SD New York
+  number: 20 Civ. 10495 (KPF)
+  title: Franklin v. Vertex Global Solutions, Inc.
+  type: legal_case
+
+- id: FrilandoNewYorkCity_SDNY2021
+  authority: S.D.N.Y.
+  citation-key: FrilandoNewYorkCity_SDNY2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '356'
+  title: Frilando v. New York City Transit Authority
+  type: legal_case
+  volume: '513'
+
+- id: GarciaFrogIslandSeafood_EDNC2009
+  authority: E.D.N.C.
+  citation-key: GarciaFrogIslandSeafood_EDNC2009
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2009
+  page: '696'
+  title: Garcia v. Frog Island Seafood, Inc.
+  type: legal_case
+  volume: '644'
+
+- id: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
+  authority: E.D.N.C.
+  citation-key: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2011
+  page: '117'
+  title: Glaxiola v. Williams Seafood of Arapahoe, Inc.
+  type: legal_case
+  volume: '776'
+
+- id: GreeneTylerTechnologiesInc_NDGa2021
+  authority: N.D. Ga.
+  citation-key: GreeneTylerTechnologiesInc_NDGa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '1325'
+  title: Greene v. Tyler Technologies, Inc.
+  type: legal_case
+  volume: '526'
+
+- id: JespersenHarrahsOperatingCo_9thCir2006
+  authority: 9th Cir.
+  citation-key: JespersenHarrahsOperatingCo_9thCir2006
+  container-title: F.3d
+  issued:
+    - year: 2006
+  page: '1104'
+  title: Jespersen v. Harrah's Operating Co., Inc.
+  type: legal_case
+  volume: '444'
+
+- id: JohnsonNatlCollegiateAthletic_3rdCir2024
+  authority: 3rd Cir.
+  citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
+  container-title: F.4th
+  issued:
+    - year: 2024
+  page: '163'
+  title: Johnson v. Nat'l Collegiate Athletic Ass'n
+  type: legal_case
+  volume: '108'
+
+- id: JohnsonNatlCollegiateAthletic_EDPa2021
+  authority: E.D. Pa.
+  citation-key: JohnsonNatlCollegiateAthletic_EDPa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '490'
+  title: Johnson v. Nat'l Collegiate Athletic Ass'n
+  type: legal_case
+  volume: '561'
+
+- id: KadlecMedicalLakeviewAnesthesia_5thCir2008
+  authority: 5th Cir.
+  citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
+  container-title: F.3d
+  issued:
+    - year: 2008
+  page: '412'
+  title: Kadlec Medical v. Lakeview Anesthesia Associates
+  type: legal_case
+  volume: '527'
+
+- id: KarrakerRentACenterInc_7thCir2005
+  authority: 7th Cir.
+  citation-key: KarrakerRentACenterInc_7thCir2005
+  container-title: F.3d
+  issued:
+    - year: 2005
+  page: '831'
+  title: Karraker v. Rent-A-Center, Inc.
+  type: legal_case
+  volume: '411'
+
+- id: KetnerBranchBankingTrust_MDNC2015
+  authority: M.D.N.C.
+  citation-key: KetnerBranchBankingTrust_MDNC2015
+  container-title: F. Supp .3d
+  issued:
+    - year: 2015
+  page: '370'
+  title: Ketner v. Branch Banking and Trust Company
+  type: legal_case
+  volume: '143'
+
+- id: LawlorLoewe_US1915
+  authority: U.S.
+  citation-key: LawlorLoewe_US1915
+  container-title: U.S.
+  issued:
+    - year: 1915
+  page: '522'
+  title: Lawlor v. Loewe
+  type: legal_case
+  volume: '235'
+
+- id: LochnerNewYork_US1905
+  authority: U.S.
+  citation-key: LochnerNewYork_US1905
+  container-title: U.S.
+  issued:
+    - year: 1905
+  page: '45'
+  title: Lochner v. New York
+  type: legal_case
+  volume: '198'
+
+- id: LoeweLawlor_US1908
+  authority: U.S.
+  citation-key: LoeweLawlor_US1908
+  container-title: U.S.
+  issued:
+    - year: 1908
+  page: '274'
+  title: Loewe v. Lawlor
+  type: legal_case
+  volume: '208'
+
+- id: LowesHomeCentersLLC_NLRB2021
+  authority: 5th Cir.
+  citation-key: LowesHomeCentersLLC_NLRB2021
+  container-title: Fed.App'x
+  issued:
+    - year: 2021
+      month: 3
+      day: 15
+  page: '886'
+  title: Lowe's Home Centers, LLC v. NLRB
+  type: legal_case
+  volume: '850'
+
+- id: MaclarenMacomb_NLRB
+  authority: N.L.R.B.
+  citation-key: MaclarenMacomb_NLRB
+  container-title: N.L.R.B.
+  issued:
+    - year: 2023
+      month: 2
+      day: 21
+  page: No. 58
+  title: Maclaren Macomb
+  type: legal_case
+  volume: '372'
+
+- id: MexicanRadioCorpNLRB_2dCir2019
+  accessed:
+    - year: 2025
+      month: 11
+      day: 2
+  authority: 2d Cir.
+  citation-key: MexicanRadioCorpNLRB_2dCir2019
+  container-title: Fed.Appx.
+  issued:
+    - year: 2019
+  page: '261'
+  title: Mexican Radio Corp. v. NLRB
+  type: legal_case
+  volume: '789'
+
+- id: MiklinEnterprisesIncNLRB_8thCircuit2016
+  authority: 8th Circuit
+  citation-key: MiklinEnterprisesIncNLRB_8thCircuit2016
+  container-title: F.3d
+  issued:
+    - year: 2016
+  page: '812'
+  title: Miklin Enterprises, Inc. v. NLRB
+  type: legal_case
+  volume: '861'
+
+- id: ModiseCareOneHealthServices_DConn2022
+  authority: D. Conn.
+  citation-key: ModiseCareOneHealthServices_DConn2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+      month: 11
+      day: 1
+  page: '159'
+  title: Modise v. CareOne Health Services, LLC
+  type: legal_case
+  volume: '638'
+
+- id: NLRBCityDisposalSystems_US1984
+  authority: U.S.
+  citation-key: NLRBCityDisposalSystems_US1984
+  container-title: U.S.
+  issued:
+    - year: 1984
+  page: '822'
+  title: NLRB v. City Disposal Systems, Inc.
+  title-short: City Disposal
+  type: legal_case
+  volume: '465'
+
+- id: NLRBElectricalWorkers_US1953
+  authority: U.S.
+  citation-key: NLRBElectricalWorkers_US1953
+  container-title: U.S.
+  issued:
+    - year: 1953
+  page: '464'
+  title: NLRB v. Electrical Workers
+  type: legal_case
+  volume: '346'
+
+- id: NLRBTownCountryElec_US1995
+  authority: U.S.
+  citation-key: NLRBTownCountryElec_US1995
+  container-title: U.S.
+  issued:
+    - year: 1995
+  page: '85'
+  title: NLRB v. Town & Country Elec., Inc.
+  title-short: Town & Country Electric
+  type: legal_case
+  volume: '516'
+
+- id: NLRBWashingtonAluminumCo_US1962
+  authority: U.S.
+  citation-key: NLRBWashingtonAluminumCo_US1962
+  container-title: U.S.
+  issued:
+    - year: 1962
+  page: '9'
+  title: NLRB v. Washington Aluminum Co.
+  title-short: Washington Aluminum
+  type: legal_case
+  volume: '370'
+
+- id: PeopleEthicalTreatmentAnimals_4thCir2023
+  authority: 4th Cir.
+  citation-key: PeopleEthicalTreatmentAnimals_4thCir2023
+  container-title: F.4th
+  issued:
+    - year: 2023
+      month: 2
+      day: 23
+  page: '815'
+  title: >-
+    People for Ethical Treatment of Animals v. North Carolina Farm Bureau
+    Federation
+  title-short: PETA v. Farm Bureau
+  type: legal_case
+  volume: '60'
+
+- id: PhamAevaSpecialtyPharmacy_DColo2022
+  authority: D. Colo.
+  citation-key: PhamAevaSpecialtyPharmacy_DColo2022
+  issued:
+    - year: 2022
+      month: 12
+      day: 8
+  jurisdiction: D. Colorado
+  number: No. 21-cv-00703-NYW-STV
+  title: Pham v. Aeva Specialty Pharmacy
+  type: legal_case
+
+- id: PollockWilliams_US1944
+  authority: U.S.
+  citation-key: PollockWilliams_US1944
+  container-title: U.S.
+  issued:
+    - year: 1944
+  page: '4'
+  title: Pollock v. Williams
+  type: legal_case
+  volume: '322'
+
+- id: RamjiHospitalHousekeepingSystems_11thCir2021
+  authority: 11th Cir.
+  citation-key: RamjiHospitalHousekeepingSystems_11thCir2021
+  container-title: F.3d
+  issued:
+    - year: 2021
+  page: '1233'
+  title: Ramji v. Hospital Housekeeping Systems, LLC
+  type: legal_case
+  volume: '992'
+
+- id: RazakUberTechnologiesInc_3rdCir2020
+  authority: 3rd Cir.
+  citation-key: RazakUberTechnologiesInc_3rdCir2020
+  container-title: F.3d
+  issued:
+    - year: 2020
+  page: '137'
+  title: Razak v. Uber Technologies, Inc.
+  type: legal_case
+  volume: '951'
+
+- id: SanDiegoBuildingTrades_US1959
+  authority: U.S.
+  citation-key: SanDiegoBuildingTrades_US1959
+  container-title: U.S.
+  issued:
+    - year: 1959
+  page: '236'
+  title: San Diego Building Trades Council v. Garmon
+  title-short: Garmon
+  type: legal_case
+  volume: '359'
+
+- id: SearlsJohnsHopkinsHospital_DMd2016
+  authority: D. Md.
+  citation-key: SearlsJohnsHopkinsHospital_DMd2016
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2016
+  page: '427'
+  title: Searls v. Johns Hopkins Hospital
+  type: legal_case
+  volume: '158'
+
+- id: SeaworldFlorida_DCCir2014
+  authority: D.C. Cir.
+  citation-key: SeaworldFlorida_DCCir2014
+  container-title: F.3d
+  issued:
+    - year: 2014
+  page: '1202'
+  title: Seaworld of Florida v. Perez
+  type: legal_case
+  volume: '748'
+
+- id: SmithManheimRemarketingInc_WDNC2019
+  authority: W.D.N.C.
+  citation-key: SmithManheimRemarketingInc_WDNC2019
+  issued:
+    - year: 2019
+      month: 11
+      day: 26
+  number: No. 5:19-CV-00086-KDB-DSC
+  title: Smith v. Manheim Remarketing, Inc.
+  type: legal_case
+
+- id: StarbucksCorp_NLRB2023
+  authority: N.L.R.B.
+  citation-key: StarbucksCorp_NLRB2023
+  container-title: N.L.R.B.
+  issued:
+    - year: 2023
+      month: 8
+      day: 9
+  page: No. 122
+  title: Starbucks Corp.
+  type: legal_case
+  volume: '372'
+
+- id: StarbucksCorp_NLRBDivofJudges2023
+  authority: N.L.R.B. Div. of Judges
+  citation-key: StarbucksCorp_NLRBDivofJudges2023
+  issued:
+    - year: 2023
+      month: 9
+      day: 21
+  number: No. 14--CA--295813
+  title: Starbucks Corp.
+  type: legal_case
+
+- id: StericycleInc_NLRB2023
+  authority: N.L.R.B.
+  citation-key: StericycleInc_NLRB2023
+  issued:
+    - year: 2023
+      month: 8
+      day: 2
+  page: No. 113
+  title: Stericycle, Inc.
+  type: legal_case
+  volume: '372'
+
+- id: TeslaInc_NLRB2021
+  authority: NLRB
+  citation-key: TeslaInc_NLRB2021
+  container-title: N.L.R.B.
+  issued:
+    - year: 2021
+      month: 3
+      day: 25
+  page: No. 101
+  title: Tesla, Inc.
+  type: legal_case
+  volume: '370'
+
+- id: ThreeLLCTriplePlay_2dCir2015
+  authority: 2d Cir.
+  citation-key: ThreeLLCTriplePlay_2dCir2015
+  container-title: Fed. App'x
+  issued:
+    - year: 2015
+      month: 10
+      day: 21
+  page: '33'
+  title: Three D, LLC d/b/a Triple Play Sports Bar and Grille v. NLRB
+  type: legal_case
+  volume: '629'
+
+- id: TriplePlaySportsBar_NLRB2014
+  authority: N.L.R.B.
+  citation-key: TriplePlaySportsBar_NLRB2014
+  container-title: N.L.R.B.
+  issued:
+    - year: 2014
+  page: No. 31
+  title: Triple Play Sports Bar & Grille
+  type: legal_case
+  volume: '361'
+
+- id: TruittSalisburyBankTrust_2ndCir2022
+  authority: 2nd Cir.
+  citation-key: TruittSalisburyBankTrust_2ndCir2022
+  container-title: F.4th
+  issued:
+    - year: 2022
+  page: '80'
+  title: Truitt v. Salisbury Bank and Trust Co.
+  type: legal_case
+  volume: '52'
+
+- id: WalshEastPennManufacturing_EDPa2021
+  authority: E.D. Pa.
+  citation-key: WalshEastPennManufacturing_EDPa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '89'
+  title: Walsh v. East Penn Manufacturing, Inc
+  type: legal_case
+  volume: '555'
+
+- id: WangHearstCorp_2ndCir2017
+  authority: 2nd Cir.
+  citation-key: WangHearstCorp_2ndCir2017
+  container-title: F.3d
+  issued:
+    - year: 2017
+  page: '69'
+  title: Wang v. The Hearst Corp.
+  type: legal_case
+  volume: '877'
+
+- id: WestCoastHotelCo_US1937
+  authority: U.S.
+  citation-key: WestCoastHotelCo_US1937
+  container-title: U.S.
+  issued:
+    - year: 1937
+  page: '379'
+  title: West Coast Hotel Co. v. Parrish
+  type: legal_case
+  volume: '300'
+
+- id: WhirlpoolCorpMarshall_US1980
+  authority: U.S.
+  citation-key: WhirlpoolCorpMarshall_US1980
+  container-title: U.S.
+  issued:
+    - year: 1980
+  page: '1'
+  title: Whirlpool Corp. v. Marshall
+  type: legal_case
+  volume: '445'
+
+- id: WilsonMonarchPaper_5thCir1991
+  authority: 5th Cir.
+  citation-key: WilsonMonarchPaper_5thCir1991
+  container-title: F.2d
+  issued:
+    - year: 1991
+  page: '1138'
+  title: Wilson v. Monarch Paper
+  type: legal_case
+  volume: '939'
+
+- id: WoodWard1879
+  authority: Cir. Ct., S.D. Ohio
+  citation-key: WoodWard1879
+  container-title: F.Cas.
+  issued:
+    - year: 1879
+  page: '479'
+  title: Wood v. Ward
+  type: legal_case
+  volume: '30'
+
+- id: WorkmanUnitedParcelService_7thCir2000
+  authority: 7th Cir.
+  citation-key: WorkmanUnitedParcelService_7thCir2000
+  container-title: F.3d
+  issued:
+    - year: 2000
+  page: '998'
+  title: Workman v. United Parcel Service, Inc.
+  type: legal_case
+  volume: '234'
+
+- id: ZornHillA2BTaxiLLC_SDNY2020
+  authority: S.D.N.Y
+  citation-key: ZornHillA2BTaxiLLC_SDNY2020
+  issued:
+    - year: 2020
+      month: 9
+      day: 17
+  number: No. 19-CV-1058 & 18-CV-11165
+  title: Zorn-Hill v. A2B Taxi, LLC
+  type: legal_case
+...

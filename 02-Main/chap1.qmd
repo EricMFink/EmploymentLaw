@@ -2,10 +2,13 @@
 
 ## Feudal Roots
 
-### Regulating Labor in Medieval England [@LondonRadicalHistories2016]
+### Regulating Labor in Medieval England
 
 > _“Whereas late against the malice of servants, which were idle, and not willing to serve after the pestilence, without taking excessive wages, it was ordained by our lord the king… that such manner of servants … should be bound to serve, receiving salary and wages, accustomed in places where they ought to serve… five or six years before; and that the same servants refusing to serve … should be punished by imprisonment …”_
 
+::: {.aside}
+Source: @LondonRadicalHistories2016
+:::
 Between 1348 and 1351 a virulent plague known as the Black Death devastated Europe. Historians estimate that between 30\% and 50\% of the English population died from the disease. This dramatic loss in population led to great changes taking place. Fields were left unsown and unreaped. Entire villages lay abandoned. Those who had not died of the plague were in danger of dying from starvation.
  
 Food shortages also resulted in much higher prices. The peasants, needing extra money to feed their families, demanded higher wages. The landowners, desperately short of labour, often agreed to these wage demands. The landowners were worried that if they refused, their workers would run away and find an employer who was willing to pay these higher wages.
@@ -48,7 +51,7 @@ Despite the obvious failure of the post-Black Death labour legislation, repressi
 
 ![Medieval Laborers](../img/medieval-labour.jpg)
 
-### Ordinance of Labourers, 1349 
+### Ordinance of Labourers (1349) 
 
 The king to the sheriff of Kent, greeting. 
 
@@ -77,7 +80,7 @@ The king to the reverend father in Christ W. by the same grace bishop of Winches
 
 Like letters of request are directed to the several bishops of England, and to the keeper of the spiritualities of the archbishopric of Canterbury, during the vacancy of the see, under the same date.
 
-### The Statute of Labourers, 1351
+### Statute of Labourers (1351)
 
 Whereas late against the malice of servants, which were idle, and not willing to serve after the pestilence, without taking excessive wages, it was ordained by our lord the king, and by the assent of the prelates, nobles, and other of his council, that such manner of servants, as well men as women, should be bound to serve, receiving salary and wages, accustomed in places where they ought to serve in the twentieth year of the reign of the king that now is, or five or six years before; and that the same servants refusing to serve in such manner should be punished by imprisonment of their bodies, as in the said statute is more plainly contained: whereupon commissions were made to divers people in every county to inquire and punish all them which offend against the same: and now forasmuch as it is given the king to understand in this present parliament, by the petition of the commonalty, that the said servants having no regard to the said ordinance, but to their ease and singular covetise, do withdraw themselves to serve great men and other, unless they have livery and wages to the double or treble of that they were wont to take the said twentieth year, and before, to the great damage of the great men, and impoverishing of all the said commonalty, whereof the said commonalty prayeth remedy: wherefore in the said parliament, by the assent of the said prelates, earls, barons, and other great men, and of the same commonalty there assembled, to refrain the malice of the said servants, be ordained and established the things underwritten:
 
@@ -93,11 +96,13 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ## Employment as Status and Contract
 
-### The Order of the Workplace in Late-Nineteenth-Century America [@Orren1991]
+### Karen Orren, _Belated Feudalism_ (1991) 
+
+[The Order of the Workplace in Late-Nineteenth-Century America]{.case-h1}
 
 When the United Stated embarked upon full-scale industrialization in the decades following the Civil War, American labor relations were a remnant of the ancient order, in the sense that arrangements established in England in previous centuries were carried forward and enforced in law, often with only slight modification, to form the framework of relations between American employers and their employees. 
 
-[The order of labor]{.case-h1}
+[The order of labor]{.case-h2}
 
 At the most abstract level, "feudal" refers to the fact that the hierarchical relation of master and servant in nineteenth-century America was a remnant of the larger system of hierarchies that historically had extended up and down medieval society.
 
@@ -113,7 +118,7 @@ Another such principle was _quicquid acquietur servo acquietur domino_ ("whateve
 
 By the late nineteenth century, employers in the United States could sue workers for breach of contract for their earnings in other employment only when it could be shown that the work had been done during hours and activities in which the plaintiff employer had been entitled to the worker's efforts. In an 1877 _Treatise on the Law of Master and Servant_, however, Horace Wood devoted three full pages to Hargrave's "learned note" and concluded that under the rule of _quicquid acquietur servo_ the employer could also retain waged earned by a worker in outside activities if the money somehow came into the employer's hands.[Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).]{.aside} Moreover, even in its diluted American form, the law expressed the employer's proprietary interest not only in the worker's labor performed under the contract but also in all labor that might be performed by the worker's _person_, under a different contract, The remedy went beyond simply dismissing the worker or deducting from his wages for so many hours; it extended to the outside earnings acquired, as if they (as an extension of the worker) belonged to the master. Such a principle would seem incongruous not simply with the market-model morality of enterprising employees, but even with the more sober depictions of nineteenth-century workers as earnest breadwinners for their families. It was eminently compatible, however, with other features, likewise ancient, of the hierarchical structure of employment relations during the period. 
 
-[The judicial governance of master and servant]{.case-h1}
+[The judicial governance of master and servant]{.case-h2}
 
 The links between past and present may be observed in the line of precedents used by American judges to decide the disputes between masters and servants and third parties that came before the courts. … 
 
@@ -127,7 +132,7 @@ A second principle in nineteenth-century labor law [was] the principle that a co
 
 This rule made it possible for employers to goad employees into quitting near the end of a term or pay period, and thereby benefit from their earlier labor without having to pay. But the "entire" contract principle was also basic to the full range of subject matters in dispute between nineteenth-century employers and employees, because very often other issues presented at law involved the question of whether or not a worker was entitled to, or had been unjustifiably denied, payment for his or her services. The principle was most important during the decades prior to the Civil War, when contracts definite as to term were more common than they would be later, but it retained its vitality after then as well, particularly with respect to salaried workers. The principle of hiring "at will," under which either party could terminate the contract for any reason, began to take hold in the 1880s; but in the meantime many courts continued to apply the English rule of an assumed annual hiring, or else held that the pay period (by the week, month, etc.) would determine the point at which back wages could be accrued and recovered. 
 
-[The province of work]{.case-h1}
+[The province of work]{.case-h2}
 
 The principles of hierarchy and obedience imply the existence of jurisdictional boundaries within which authority is organized and enforced. ...
 
@@ -149,7 +154,7 @@ Under the rules of liability, ... employees stood in relation to one another as 
 
 Here the worker may be seen to have had less protection than members of the public at large against identical injuries caused by identical accidents. By virtue of one's status as an employee of the company in the course of whose business the injury occurred, one was unprotected against injuries for which the company would have assumed liability had they been inflicted on an ordinary member of the public. The evident injustice of the fellow-servant rule, which adversely affected the families and other associates of injured workers, as well as the workers themselves, would eventually lead to a major revolution in torts through the institution of workmen's compensation laws. Those laws would bring new inroads into the domain of master and servant. However, at a time when court decisions in other areas of the law were moving in the direction of universal contracts, the effect of workers' compensation laws was to enhance the status-based responsibilities of the employment relation. 
 
-[The province and the republic]{.case-h1}
+[The province and the republic]{.case-h2}
 
 A final barrier against interference in the workplace was constitutional. Labor relations were bounded by the limits of legislative sovereignty. Regular payment of wages, and in money rather than scrip or credit; reasons for discharge, and wages due and service letters upon departure; removal of the fellow-servant defense against liability for injury; shorter hours of employment—these and other changes in the old law were obtained by workers and their political allies in legislation, through the activities of lobbying and elections. However, as is well known, in the majority of instances those statutes were overturned in review by the judiciary. 
 
@@ -377,7 +382,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 
 ## Employer Control
 
-### Employment as Private Government [@Anderson2017]
+### Elizabeth Anderson, _Private Government_ (2017)
 
 Most workers in the United States are governed by dictatorships in their work lives. Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is. Most believe, for example, that their boss cannot fire them for their off-hours Facebook postings, or for supporting a political candidate their boss opposes. Yet only about half of U.S. workers enjoy even partial protection of their off-duty speech from employer meddling. Far fewer enjoy legal protection of their speech on the job, except in narrowly defined circumstances. Even where they are entitled to legal protection, as in speech promoting union activity, their legal rights are often a virtual dead letter due to lax enforcement: employers determined to keep out unions immediately fire any workers who dare mention them, and the costs of litigation make it impossible for workers to hold them accountable for this. 
 

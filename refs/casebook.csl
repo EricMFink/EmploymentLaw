@@ -271,8 +271,11 @@
         </else-if>
         <else>
         <group delimiter=" ">
-          <text macro="author-short" suffix=", "/>
-		  <text macro="issuance" prefix="(" suffix=")"/>
+          <text macro="author-short" suffix=" "/>
+		  <date variable="issued">
+          <date-part name="year"/>
+          </date>
+		  <text variable="locator" prefix=", "/>
         </group>
         </else>
       </choose>
@@ -299,7 +302,7 @@
   </macro>
   
   <citation after-collapse-delimiter="; " collapse="year" disambiguate-add-givenname="true" disambiguate-add-names="true" disambiguate-add-year-suffix="true" et-al-min="3" et-al-use-first="1" givenname-disambiguation-rule="primary-name-with-initials">
-    <layout delimiter="; " prefix="" suffix="">
+    <layout delimiter="; " prefix="(" suffix=")">
       <text macro="citation-author-date"/>
     </layout>
   </citation>
