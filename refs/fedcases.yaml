@@ -36,6 +36,20 @@ references:
   type: legal_case
   volume: '365'
 
+- id: ClarkCarter_DistCourt2025
+  authority: Dist. Court
+  citation-key: ClarkCarter_DistCourt2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 2
+      day: 27
+  jurisdiction: SD Indiana
+  page: '927'
+  title: Clark v. Carter
+  type: legal_case
+  volume: '768'
+
 - id: ClaytonDelmarvaCommunityServices_DMd2020
   authority: D. Md.
   citation-key: ClaytonDelmarvaCommunityServices_DMd2020
@@ -380,6 +394,19 @@ references:
   type: legal_case
   volume: '638'
 
+- id: NdambiCoreCivicInc_4thCircuit2021
+  authority: 4th Circuit
+  citation-key: NdambiCoreCivicInc_4thCircuit2021
+  container-title: F. 3d
+  issued:
+    - year: 2021
+      month: 3
+      day: 5
+  page: '369'
+  title: Ndambi v. CoreCivic, Inc.
+  type: legal_case
+  volume: '990'
+
 - id: NLRBCityDisposalSystems_US1984
   authority: U.S.
   citation-key: NLRBCityDisposalSystems_US1984
@@ -499,6 +526,19 @@ references:
   title-short: Garmon
   type: legal_case
   volume: '359'
+
+- id: ScottBaltimoreCountyMaryland_4thCircuit2024
+  authority: 4th Circuit
+  citation-key: ScottBaltimoreCountyMaryland_4thCircuit2024
+  container-title: F. 4th
+  issued:
+    - year: 2024
+      month: 5
+      day: 8
+  page: '336'
+  title: Scott v. Baltimore County, Maryland
+  type: legal_case
+  volume: '101'
 
 - id: SearlsJohnsHopkinsHospital_DMd2016
   authority: D. Md.
