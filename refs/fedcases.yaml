@@ -701,6 +701,20 @@ references:
   type: legal_case
   volume: '445'
 
+- id: WiegandMotivaEnterprisesLLC_DistCourt2003
+  authority: Dist. Court
+  citation-key: WiegandMotivaEnterprisesLLC_DistCourt2003
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2003
+      month: 12
+      day: 16
+  jurisdiction: D. New Jersey
+  page: '465'
+  title: Wiegand v. Motiva Enterprises, LLC
+  type: legal_case
+  volume: '295'
+
 - id: WilsonMonarchPaper_5thCir1991
   authority: 5th Cir.
   citation-key: WilsonMonarchPaper_5thCir1991
