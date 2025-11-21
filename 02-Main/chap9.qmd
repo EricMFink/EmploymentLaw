@@ -8,7 +8,7 @@ Express contractual protection against termination at-will is rare for individua
 
 #### Carroll R. Daugherty, Arbitrator
 
-#### Test Applicable for Learning Whether Employer Had Just and Proper Cause for Disciplining an Employee 
+[Test Applicable for Learning Whether Employer Had Just and Proper Cause for Disciplining an Employee ]{.casesection}
 
 Few if any union-management agreements contain a definition of “just cause.” Nevertheless, over the years the opinions of arbitrators in innumerable discipline cases have developed a sort of “common law” definition thereof. This definition consists of a set of guide lines or criteria that are to be applied to the facts of any one case, and said criteria are set forth below in the form of questions. 
 
@@ -21,9 +21,9 @@ through the grievance procedure to arbitration. Any question as to whether the e
 
 Sometimes although very rarely, a union-management agreement contains a provision limiting the scope of the arbitrator’s inquiry into the question of just cause. For example, one such provision seen by this arbitrator says that “the only question the arbitrator is to determine shall be whether the employee is or is not guilty of the act or acts resulting in his discharge.” Under the latter contractual statement an arbitrator might well have to confine his attention to Question No. 5 below-or at most to Questions Nos. 3, 4, and 5. But absent any such restriction in an agreement, a consideration of the evidence on all seven Questions (and their accompanying Notes) is not only proper but necessary.
 
-#### The Questions
+[The Questions]{.casesection}
 
-##### 1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct? 
+[1. Did the company give to the employee forewarning or foreknowledge of the possible or probably disciplinary consequences of the employee’s conduct?]{.legalcode}
 
 Note 1: Said forewarning or foreknowledge may properly have been given orally by management or in writing through the medium of typed or printed sheets or books of shop rules and of penalties for violation thereof. 
 
@@ -33,12 +33,12 @@ Note 3: A finding of lack of such communication does not in all cases require a 
 
 Note 4: Absent any contractual prohibition or restriction, the company has the right unilaterally to promulgate reasonable rules and give reasonable orders; and same need not have been negotiated with the union.
 
-##### 2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?
+[2. Was the company’s rule or managerial order reasonably related to (a) the orderly, efficient, and safe operation of the company’s business and (b) the performance that the company might properly expect of the employee?]{.casesubsection}
 
 Note: If an employee believes that said rule or order is unreasonable, he must nevertheless obey same (in which case he may file a grievance thereover) unless he sincerely feels that to obey the rule or order would seriously and immediately jeopardize his personal safety and/or integrity. Given a firm finding to the latter effect, the employee may properly be 
 said to have had justification for his disobedience.
 
-##### 3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?
+[3. Did the company, before administering discipline to an employee, make an effort to discover whether the employee did in fact violate or disobey a rule or order of management?]{.casesubsection}
 
 Note 1: This is the employee’s “day in court” principle. An employee has the right to know with reasonable precision the offense with which he is being charged and to defend his behavior. 
 
@@ -48,7 +48,7 @@ Note 3: There may of course be circumstances under which management must react i
 
 Note 4: The company’s investigation should include an inquiry into possible justification for the employee’s alleged rule violation.
 
-##### 4. Was the company’s investigation conducted fairly and objectively?
+[4. Was the company’s investigation conducted fairly and objectively?]{.casesubsection}
 
 Note 1: At said investigation the management official may be both “prosecutor” and “judge,” but he may not also be a witness against the employee. 
 
@@ -56,7 +56,7 @@ Note 2: It is essential for some higher, detached management official to assume 
 
 Note 3: In some disputes between an employee and a management person there are not witnesses to an incident other than the two immediate participants. In such cases it is particularly important that the management “judge” question the management participant rigorously and thoroughly, just as an actual third party would.
 
-##### 5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?
+[5. At the investigation did the “judge” obtain substantial evidence or proof that the employee was guilty as charged?]{.casesubsection}
 
 Note 1: It is not required that the evidence be conclusive or “beyond all reasonable doubt.” But the evidence must be truly substantial and not flimsy. 
 
@@ -64,13 +64,13 @@ Note 2: The management “judge” should actively search out witnesses and evid
 
 Note 3: When the testimony of opposing witnesses at the arbitration hearing is irreconcilably in conflict, an arbitrator seldom has any means for resolving the contradictions. His task is then to determine whether the management “judge” originally had reasonable grounds for believing the evidence presented to him by his own people.
 
-##### 6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?
+[6. Has the company applied its rules, orders, and penalties evenhandedly and without discrimination to all employees?]{.casesubsection}
 
 Note 1: A “no” answer to this question requires a finding of discrimination and warrants negation or modification of the discipline imposed. 
 
 Note 2: If the company has been lax in enforcing its rules and order, and decides henceforth to apply them rigorously, the company may avoid a finding of discrimination by telling all employees beforehand of its intent to enforce hereafter all rules as written.
 
-##### 7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?
+[7. Was the degree of discipline administered by the company in a particular case reasonably related to (a) the seriousness of the employee’s proven offense and (b) the record of the employee in his service with the company?]{.casesubsection}
 
 Note 1: A trivial proven offense does not merit harsh discipline unless the employee has properly been found guilty of the same or other offenses a number of times in the past. (There is no rule as to what number of previous offenses constitutes a “good,” a “fair,” or a “bad” record. Reasonable judgment thereon must be used.) 
 
@@ -90,7 +90,7 @@ Can a male employer terminate a long-time female employee because the employer's
 
 We emphasize the limits of our decision. The employee did not bring a sexual harassment or hostile work environment claim; we are not deciding how such a claim would have been resolved in this or any other case. Also, when an employer takes an adverse employment action against a person or persons because of a gender-specific characteristic, that can violate the civil rights laws. The record in this case, however, does not support such an allegation.
 
-#### Facts and Procedural Background.
+[Facts and Procedural Background.]{.casesection}
 
 Because this case was decided on summary judgment, we set forth the facts in the light most favorable to the plaintiff, Melissa Nelson.
 
@@ -120,7 +120,7 @@ After timely filing a civil rights complaint and getting a "right to sue" letter
 
 Dr. Knight moved for summary judgment. After briefing and oral argument, the district court sustained the motion. The court reasoned in part, "Ms. Nelson was fired not because of her gender but because she was a threat to the marriage of Dr. Knight." Nelson appeals.
 
-#### Analysis.
+[Analysis.]{.casesection}
 
 Section 216.6(1)(_a_) of the Iowa Code makes it generally unlawful to discharge or otherwise discriminate against an employee because of the employee's sex. "When interpreting discrimination claims under Iowa Code chapter 216, we turn to federal law, including Title VII of the United States Civil Rights Act." Generally, an employer engages in unlawful sex discrimination when the employer takes adverse employment action against an employee and sex is a motivating factor in the employer's decision. 
 
@@ -176,7 +176,7 @@ As a Michigan appellate court observed regarding a male employee's claim that he
 
 > Plaintiff proceeded to trial on a theory of discrimination based on romantic jealousy. Plaintiff did not claim and the evidence did not establish that plaintiff was required to submit to sexually-based harassment as a condition of employment. Nor did the evidence presented at trial support a theory of gender-based discrimination. Plaintiff established, at most, that Vajda's alleged adverse treatment of plaintiff was based on plaintiff's relationship with Goshorn, not plaintiff's gender. Vajda may have had a romantic purpose in initially pursuing Goshorn and may, as the trial court surmised, have intended to eliminate plaintiff so that he could pursue Goshorn's affections. However, Vajda's alleged harassment was not conduct that is proscribed by the CRA because it was not gender-based. Indeed, if Vajda's motive was to win the affection of Goshorn, it would not matter if the person Vajda perceived to be standing in his way was male or female. As such, it is evident that plaintiff's gender was not the impetus for Vajda's alleged conduct, but rather was merely coincidental to that conduct.
 
-#### Conclusion.
+[Conclusion.]{.casesection}
 
 As we have indicated above, the issue before us is not whether a jury could find that Dr. Knight treated Nelson badly. We are asked to decide only if a genuine fact issue exists as to whether Dr. Knight engaged in unlawful gender discrimination when he fired Nelson at the request of his wife. For the reasons previously discussed, we believe this conduct did not amount to unlawful discrimination, and therefore we affirm the judgment of the district court.
 
@@ -244,9 +244,9 @@ Section 12940(h) makes it an unlawful employment practice for an employer "to di
 
 For the reasons set forth below, we conclude that an employee's refusal to follow a supervisor's order that she reasonably believes to be discriminatory constitutes protected activity under the FEHA and that an employer may not retaliate against an employee on the basis of such conduct when the employer, in light of all the circumstances, knows that the employee believes the order to be discriminatory, even when the employee does not explicitly state to her supervisor or employer that she believes the order to be discriminatory. 
 
-#### I.
+[I.]{.casesection}
 
-##### A
+[A]{.casesubsection}
 
 Yanowitz began her employment with the predecessor of L'Oreal as a sales representative in 1981 and was promoted to regional sales manager for Northern California and the Pacific Northwest in 1986. As regional sales manager, Yanowitz was responsible for managing L'Oreal's sales team and dealing with the department and specialty stores that sold L'Oreal's fragrances. From 1986 to 1996, Yanowitz's performance as a regional sales manager consistently was judged as "Above Expectation" and in some instances fell close to "Outstanding," the highest possible rating, although her reviews over this period also consistently contained some criticism of her "listening" and "communication" skills.
 
@@ -274,7 +274,7 @@ Yanowitz viewed the memorandum as an expression of intent to develop pretextual 
 
 Carol Giustino, Sears's replacement as human resources director, set up a meeting for July 22 and rejected Yanowitz's request that the meeting be postponed. Giustino also denied Yanowitz's request to have Yanowitz's attorney-husband present at the meeting, citing company policy. During the July 22 meeting, Roderick and Giustino questioned Yanowitz about the accusations in the July 16 memorandum without reading her written response. Yanowitz, who was being treated for nervous anxiety allegedly brought on by the situation at work, broke down in tears. During the meeting, Roderick imposed a new travel schedule on Yanowitz, a schedule that regulated precisely how often she should visit each market in her territory. Two days after the meeting, Yanowitz departed on disability leave due to stress. She did not return, and L'Oreal replaced her in November 1998.
 
-##### B
+[B]{.casesubsection}
 
 Yanowitz filed a discrimination charge with the Department of Fair Employment and Housing (DFEH) on June 25, 1999. She alleged that L'Oreal had discriminated against her on the basis of sex, age (Yanowitz was 53), and religion (Yanowitz is Jewish). She also alleged that L'Oreal had retaliated against her for refusing to terminate the female employee whom Wiswall considered unattractive.
 
@@ -286,11 +286,11 @@ L'Oreal petitioned for review, contending (1) with regard to the "protected cond
 
 In light of the importance of a number of these issues, particularly the proper standard for determining whether an employee has been subjected to an adverse employment action, we granted review.
 
-#### II.
+[II.]{.casesection}
 
 Past California cases hold that in order to establish a prima facie case of retaliation under the FEHA, a plaintiff must show (1) he or she engaged in a "protected activity," (2) the employer subjected the employee to an adverse employment action, and (3) a causal link existed between the protected activity and the employer's action. Once an employee establishes a prima facie case, the employer is required to offer a legitimate, nonretaliatory reason for the adverse employment action. If the employer produces a legitimate reason for the adverse employment action, the presumption of retaliation "drops out of the picture," and the burden shifts back to the employee to prove intentional retaliation.
 
-##### A
+[A]{.casesubsection}
 
 We first must determine whether Yanowitz's refusal to follow Wiswall's order to terminate the sales associate because he found the associate sexually unattractive was protected activity for which she could not be subjected to retaliation. The statutory language of section 12940(h) indicates that protected conduct can take many forms. Specifically, section 12940(h) makes it an unlawful employment practice "for any employer to discharge, expel, or otherwise discriminate against any person because the person has _opposed any practices forbidden under this part or because the person has filed a complaint, testified, or assisted in any proceeding under this part._" The question here is whether Yanowitz's refusal to follow Wiswall's directive qualifies under the first category—that is, whether by refusing the directive, Yanowitz "opposed any practices forbidden under this part."
 
@@ -322,7 +322,7 @@ We conclude that, on this record, a trier of fact properly could find that Wiswa
 
 In sum, we conclude that the evidence presented by Yanowitz would permit—although it certainly would not compel—a reasonable trier of fact to find that, in view of the nature of Wiswall's order, Yanowitz's refusal to implement the order, coupled with her multiple requests for "adequate justification," sufficiently communicated to Wiswall that she believed that his order was discriminatory. Thus, we conclude that Yanowitz presented sufficient evidence to satisfy the protected activity element of her prima facie case. 
 
-##### B
+[B]{.casesubsection}
 
 We turn next to an issue that generally is referred to in the employment discrimination cases and literature under the rubric of "adverse employment action." This term does not appear in the language of the FEHA or in title VII, but has become a familiar shorthand expression referring to the kind, nature, or degree of adverse action against an employee that will support a cause of action under a relevant provision of an employment discrimination statute. In the present case, the issue before us is the appropriate standard for determining whether an employee has been subjected to an adverse employment action for purposes of a retaliation claim under the FEHA.
 
@@ -330,7 +330,7 @@ We begin with the relevant statutory language. As already indicated, section 129
 
 When the provisions of section 12940 are viewed as a whole, we believe it is more reasonable to conclude that the Legislature intended to extend a comparable degree of protection both to employees who are subject to the types of basic forms of discrimination at which the FEHA is directed—that is, for example, discrimination on the basis of race or sex—and to employees who are discriminated against in retaliation for opposing such discrimination, rather than to interpret the statutory scheme as affording a greater degree of protection against improper retaliation than is afforded against direct discrimination. Accordingly, we conclude that the term "otherwise discriminate" in section 12940(h) should be interpreted to refer to and encompass the same forms of adverse employment activity that is actionable under section 12940(a). 
 
-#### III.
+[III.]{.casesection}
 
 Yanowitz contends that the following activity constitutes adverse employment actions for purposes of her prima facie claim: (1) unwarranted negative performance evaluations (specifically, Roderick's July 16, 1998 memo criticizing Yanowitz); (2) L'Oreal's refusal to allow Yanowitz to respond to the allegedly unwarranted criticism, by insisting on the July 22, 1998 meeting despite Yanowitz's request to postpone the meeting to allow her to prepare a defense to the charges; (3) unwarranted criticism voiced by Roderick in the presence of Yanowitz's associates and other employees on May 13, 1998, and the "humiliating" public reprobation by Wiswall on June 11, 1998; (4) refusing Yanowitz's request to provide necessary resources and assistance to Christine DeGracia (sometime after May 13, 1998), thereby allegedly fueling the employee resentment for which Yanowitz was chastised in her performance reviews; and (5) Roderick's solicitation of negative feedback from Yanowitz's staff in April 1998.
 
@@ -362,7 +362,7 @@ Contrary to L'Oreal's assertion, this is not a case in which the plaintiff alleg
 
 We emphasize that we do not determine that the alleged adverse action occurred, or that it was not justified by bona fide concerns on the part of L'Oreal with regard to Yanowitz's general performance at work that might yet be proved at trial. We hold only that, at the summary adjudication stage, Yanowitz's evidence was sufficient to satisfy the adverse action element of her prima facie case. It remains for the trier of fact to decide whether Yanowitz's allegations are true.
 
-#### IV.
+[IV.]{.casesection}
 
 Finally, L'Oreal argues that the Court of Appeal erred in holding that Yanowitz met her burden of establishing that L'Oreal's stated nonretaliatory grounds for taking the actions against her were pretextual. L'Oreal points to an August 5, 1997 memo from Roderick to Sears—written months before the incident with Wiswall—that severely criticized Yanowitz for deficiencies in her "listening" skills and her "attitude," and to Yanowitz's admission that the November 1997 merger created problems in her department and left her with additional job responsibilities that may have had an impact on her performance. L'Oreal additionally proffered evidence that it had received complaints about Yanowitz from customers before and after the incidents with Wiswall and that these complaints expressed negative feedback about Yanowitz, including an expressed desire by certain corporate customers not to work with Yanowitz again.
 
@@ -380,7 +380,7 @@ The Board has considered the decision and record in light of the exceptions and 
 
 The judge found, among other things, that the Respondent violated Section 8(a)(3) and 8(a)(4) by discharging employee Hannah Whitbeck. As explained below, we adopt the judge’s finding that the discharge violated the Act as alleged.
 
-#### Background
+[Background]{.casesection}
 
 The Respondent is engaged in the operation of public restaurants selling food and beverages throughout the United States, including, as relevant here, five stores in Ann Arbor, Michigan, one of which is located at 300 South Main Street (Main and Liberty).These stores are part of a District of approximately 10 stores in Ann Arbor and the surrounding area, overseen by Respondent’s District Manager, Paige Schmehl. Hannah Whitbeck was a shift supervisor at the Respondent’s Main and Liberty store. Whitbeck reported directly to the Store Manager, Erin Lind, who in turn reports to Schmehl.
 
@@ -396,7 +396,7 @@ District Manager Schmehl oversaw the investigation of the incident with guidance
 
 The Respondent’s legal department authorized Whitbeck’s discharge on April 3. Schmehl testified that the final discharge decision was a product of her collaboration with PRSC and the Respondent’s legal team. It is undisputed that the Respondent has not discharged any other employees at any of its Michigan locations for violating the “two employee” rule.
 
-#### Discussion
+[Discussion]{.casesection}
 
 Applying Wright Line, the judge found that the Respondent violated Section 8(a)(3) and 8(a)(4) of the Act by discharging Whitbeck on April 11. Under Wright Line, the General Counsel bears the initial burden of establishing that an employee’s union or other protected activity was a motivating factor in the employer’s adverse employment action. The General Counsel meets this burden by proving that (1) the employee engaged in union or other protected activity, (2) the employer knew of that activity, and (3) the employer bore animus against union or other protected activity. An employer’s motivation is a question of fact that may be inferred from both direct and circumstantial evidence on the record as a whole. Circumstantial evidence of discriminatory motive may include, among other factors, the timing of the action in relation to the union or other protected conduct; contemporaneous unfair labor practices; shifting, false, or exaggerated reasons offered for the action; failure to conduct a meaningful investigation; departures from past practices; and disparate treatment of the employee. Once the General Counsel sustains her initial burden under Wright Line, the burden shifts to the employer to show that it would have taken the same action even in the absence of the protected activity.
 
@@ -416,7 +416,7 @@ Having found, in agreement with the judge, that the General Counsel sustained he
 
 [^starbucks1]: (n.3 in opinion) The Respondent excepts to the judge’s ordering of a notice reading to remedy Whitbeck’s unlawful discharge. Contrary to the judge, in the circumstances of this case, we find that the Board’s standard remedies suffice to inform employees of the Respondent’s unlawful conduct. In so doing, we observe that the circumstances of this case are distinguishable from those presented in _Gavilon Grain, LLC_, 371 NLRB No. 79 (2022), and _Absolute Healthcare d/b/a Curaleaf Arizona_, 372 NLRB No. 16 (2022), in which high-level management officials openly participated in a widely disseminated course of unlawful conduct. We have thus amended the judge’s recommended remedy and Order to remove the notice reading. We shall substitute a new notice to conform to the Order as modified.
 
-#### Order
+[Order]{.casesection}
 
 The National Labor Relations Board orders that the Respondent, Starbucks Corporation, Ann Arbor, Michigan, its officers, agents, successors, and assigns, shall
 
@@ -448,15 +448,15 @@ The National Labor Relations Board orders that the Respondent, Starbucks Corpora
 
 IT IS FURTHER OrderED that the complaint is dismissed insofar as it alleges violations of the Act not specifically found.
 
-#### Appendix
+[Appendix]{.casesection}
 
 ![NLRB Notice](../img/StarbucksNLRBNoticeFull.png)
 
 ### Driskell v. Summit Contracting Group, Inc., 828 Fed. Appx. 858 (4th Cir. 2020)
 
-#### I.
+[I.]{.casesection}
 
-##### A.
+[A.]{.casesubsection}
 
 Summit is a general contractor that manages construction projects. On June 4, 2015, Summit hired Driskell as an Assistant Superintendent and promptly assigned him to a project in Charlotte, North Carolina. He reported to Superintendent Daniel Rhyner, who in turn reported to the Project Manager, Steve Fudge. Driskell’s father, Tom Driskell, had been a senior Summit employee for years.
 
@@ -496,7 +496,7 @@ The next afternoon (July 23), Driskell turned in his company-issued devices at t
 
 About a month later, Driskell applied for a new job at another company. On the application, he checked a box indicating that he had never been “fired from a job.” At trial, Driskell explained that this was a lie to improve his chances of getting the new job.
 
-##### B.
+[B.]{.casesubsection}
 
 In January 2016, Driskell filed a complaint with the North Carolina Department of Labor. He alleged that he was fired because of his complaints about Rhyner and his refusal (for safety reasons) to follow Rhyner’s instructions to increase his team’s production, and because he “became a threat, risk or liability to the Company after Mr. Rhyner attacked him.” After the Labor Department declined to investigate his complaint, Driskell asked for and received a right-to-sue letter.
 
@@ -504,9 +504,9 @@ Driskell then filed this suit, bringing claims for, as relevant here, retaliator
 
 The jury found that Summit had fired Driskell and, in doing so, violated REDA and North Carolina common law. The jury didn’t specify which of Driskell’s two theories of retaliation it accepted. It also awarded Driskell $65,000 in compensatory damages (representing his lost wages and benefits) for his two claims (which he could collect only once) and $681,000 in punitive damages on the wrongful-discharge claim.
 
-#### II.
+[II.]{.casesection}
 
-##### A.
+[A.]{.casesubsection}
 
 First, Summit insists that it was entitled to judgment as a matter of law on Driskell’s REDA and wrongful-discharge claims because it never fired him; rather, he quit. We must affirm the district court unless no reasonable jury could have ruled for Driskell.
 
@@ -524,7 +524,7 @@ At no point did Driskell quit his job. While he did tell Mr. Padgett on July 20 
 
 Nor does Driskell’s statement on a job application that he had never been fired doom his claims. To the contrary, a reasonable jury could credit his explanation that he lied to help his chances of getting a new job. Statements on job applications aren’t binding admissions, contrary to what Summit argues. The case Summit points to, _Warch v. Ohio Cas. Ins. Co._, 435 F.3d 510 (4th Cir. 2006), doesn’t support that proposition. There, in ruling against a plaintiff, we relied on the plaintiff’s “failure to present any evidence genuinely disputing” the fact that he had admitted in a job application. Here, Driskell did present such evidence.
 
-##### B.
+[B.]{.casesubsection}
 
 Next, Summit contends that REDA doesn’t protect internal complaints to one’s own employer. So, Summit argues that it is entitled to judgment as a matter of law because, even if Summit did fire Driskell for his complaints to Mr. Padgett, that couldn’t support a REDA claim.
 
@@ -550,7 +550,7 @@ We deduce from these authorities the following principles. Internal complaints a
 
 Driskell’s complaints about Rhyner meet these criteria. Driskell alleged OSHANC violations: namely, Rhyner’s presence at the work site while intoxicated and his assault on Driskell. See N.C. Gen. Stat. § 95–129(1) (requiring employees to furnish “a place of employment free from recognized hazards that are causing or are likely to cause death or serious injury or serious physical harm to employees”). These allegations led to Born’s investigation into Rhyner’s drinking. Driskell complained frequently to Mr. Padgett, who is Summit’s president and chief executive officer, not a mere supervisor or manager. And workplace safety was the focus of Driskell’s complaints. Thus, REDA protects Driskell’s complaints to Mr. Padgett.
 
-##### C.
+[C.]{.casesubsection}
 
 Summit also makes two arguments that are specific to Driskell’s second theory of retaliation: namely, that Summit expected Driskell to file a workers’ compensation claim. While Driskell’s first theory suffices to support the jury’s verdict on the merits (and its compensatory-damages award), we address the second theory as well because it’s relevant to evaluating Summit’s challenge to the punitive-damages award.
 
@@ -570,7 +570,7 @@ Additionally, Summit asserts that Driskell failed to exhaust his administrative 
 
 Before bringing a REDA claim, a plaintiff must: “file a written complaint with the Commissioner of Labor alleging [a REDA] violation,” N.C. Gen. Stat. § 95-242(a); obtain a right-to-sue letter, id. §§ 95-242(a), 95-243(a); and commence a civil action within ninety days of the letter’s issuance, id. § 95-243(b). Driskell did that, so he exhausted his administrative remedies. Since North Carolina law doesn’t require that a REDA suit be based on the same theory of retaliation that supported the plaintiff’s administrative complaint, Summit’s argument misses the mark.
 
-##### D.
+[D.]{.casesubsection}
 
 Next, Summit maintains that no reasonable jury could have found causation, i.e., that Summit fired Driskell because of his complaints or because it believed that he would file a worker’s compensation claim. Instead, Summit posits, it fired Driskell for a legitimate reason: his violations of company policy, including insubordination, cursing and fighting his supervisor, and taking two days off when he had no leave available.
 
@@ -580,7 +580,7 @@ Indeed, the evidence of causation here is stronger than in Abels, where the Supr
 
 There’s also no contemporaneous evidence corroborating Summit’s explanation for why it fired Driskell. Thus, a reasonable jury could infer from the late appearance of Summit’s current justification that it is a post-hoc rationale, not a legitimate explanation for its adverse employment decision.
 
-##### E.
+[E.]{.casesubsection}
 
 Next, Summit asserts that it was entitled to judgment on Driskell’s wrongful-discharge claim because Driskell never filed or threatened to file an OSHA or workers’ compensation claim. Summit is mistaken.
 
@@ -800,7 +800,7 @@ A party who makes a valid offer to arbitrate that is not accepted by the other p
 
 Defendant/Counter-Plaintiff Howmedica Osteonics Corp. d/b/a Stryker Orthopedics ("Stryker") filed a motion for judgment as a matter of law with regard to the wrongful discharge claim brought by Plaintiff/Counter-Defendant Jeremy R. Myers ("Myers"). For the reasons explained below, the Court grants Stryker's motion.
 
-#### Background
+[Background]{.casesection}
 
 Stryker, a medical device and equipment manufacturer, terminated Myers on December 10, 2013, following an investigation into Myers's professional conduct. Myers had begun working for Stryker in 2005 as a sales representative, selling Stryker products to doctors throughout Montana and nearby states. In July, 2010, Stryker promoted Myers to the position of Sales Manager for Stryker's Northwest Branch. Shortly after accepting the promotion, Myers signed a contract including, among other provisions, confidentiality and non-competition obligations. Myers agreed to be bound by those obligations for a year following termination of his employment.
 
@@ -818,11 +818,11 @@ Curtis notified Lavey of his conversations with employees and customers and aske
 
 In May, 2014—seven months before expiration of Myers's contractual obligations—Myers took a job with Zimmer, Inc. ("Zimmer"), which manufactures and sells products competitive to Stryker's within the same markets.
 
-#### Wrongful Discharge Claims
+[Wrongful Discharge Claims]{.casesection}
 
 Myers brings a wrongful discharge claim under Montana's Wrongful Discharge from Employment Act ("WDEA"). Mont. Code Ann. §§ 39-2-901 to 39-2-915 (2015). The parties agree that Myers was not a probationary employee. Under the WDEA, an employer's discharge of a non-probationary employee is lawful if: (1) the employer did not retaliate against the employee for protected activities; (2) the employer had good cause to terminate the employee; and (3) the employer did not violate his own personnel policies. § 39-2-904. Myers does not claim that his discharge was retaliatory. Rather, he raises three alternative theories for wrongful discharge. First, he asserts that Stryker lacked good cause for his termination. Second, he argues that Stryker's purported good cause reason is a pretext and that the true reason for his discharge is unlawful. And third, he claims that even if Stryker can show good cause, Stryker violated the provisions of its own personnel policies when it terminated him.
 
-##### Good Cause
+[Good Cause]{.casesubsection}
 
 Myers argues that Stryker did not have good cause to terminate him because Stryker did not adequately ground its decision in the facts, making his discharge unreasonable. The Court disagrees. The undisputed facts clearly establish that Stryker discharged Myers for acting unethically, unprofessionally, and in a manner likely to harm the company.
 
@@ -846,7 +846,7 @@ In response to Myers's citation to _Marcy,_ Stryker relies principally on _Sulli
 
 The controversy here is analogous to that presented in _Sullivan._ Myers's mere assertion that Stryker is mistaken does not create a factual dispute. To overcome summary judgment, Myers would need to offer evidence that Stryker's investigation was inadequate or specific positive evidence showing the presence of mistake. Myers has not met that burden. Summary judgment is appropriate for Stryker because the undisputed facts show that Stryker had good cause to terminate Myers for its good faith belief that Myers harassed coworkers and threatened valuable relationships with customers.
 
-##### Pretext
+[Pretext]{.casesubsection}
 
 Myers argues that even if Stryker can show good cause, a factual dispute exists regarding whether Stryker's purported reason for the termination is a mere pretext. Myers asserts that Stryker terminated Myers as a scapegoat for the company's decision to terminate Auch. In response, Stryker raises two arguments: (1) that, even if Myers were correct in arguing pretext, Stryker would still have good cause to terminate Myers for suggesting Auch's termination; and (2) that Myers has presented only speculation in support of his claim of pretext. No genuine dispute of material fact exists on the question of pretext, and Stryker is entitled to judgment as a matter of law.
 
@@ -860,7 +860,7 @@ Additionally, Myers has not adequately supported his argument that a pretextual 
 
 Thus, even if Stryker did terminate Myers for advocating for Auch's termination, Myers's claim of pretext would nonetheless fail because Stryker had a "legitimate business reason" to discharge Myers for precisely that reason. Myers's actions threatened customer relationships and made Myers's coworkers uncomfortable. As a result of Myers's conduct, Stryker lost trust in him, and the company had the discretion to terminate Myers as a result. 
 
-##### Compliance with Company Policy
+[Compliance with Company Policy]{.casesubsection}
 
 Myers claims that, even if Stryker had good cause to terminate him, the discharge was wrongful because it was in violation of Stryker's own personnel policies. Stryker moved for summary judgment on this theory of wrongful discharge, and Myers did not respond to defend his claim. Summary judgment is appropriate for Stryker on this theory.
 
@@ -872,7 +872,7 @@ Under Montana law, a discharge is wrongful if an employer "violated express prov
 
 After 32 years of employment with See's Candies, Inc., in which he worked his way up the corporate ladder from dishwasher to vice president in charge of production and member of the board of directors, Wayne Pugh was fired. Asserting that he had been fired in breach of contract and for reasons which offend public policy he sued his former employer seeking compensatory and punitive damages for wrongful termination, and joined as a defendant a labor organization which, he alleged, had conspired in or induced the wrongful conduct. The case went to trial before a jury, and upon conclusion of the plaintiff's case-in-chief the trial court granted defendants' motions for nonsuit, and this appeal followed.
 
-#### Summary of the Evidence
+[Summary of the Evidence]{.casesection}
 
 The defendant employer is in the business of manufacturing fresh candy at its plants in Los Angeles and South San Francisco and marketing the candy through its own retail outlets. The South San Francisco plant is operated under the name See's Candies, Inc., a wholly owned subsidiary corporation of See's Candy Shops, Inc., which operates the Los Angeles plant as well. The stock of See's Candy Shops, Inc., was held by members of the See family until 1972, when it was sold to Blue Chip Stamps Corporation. For convenience, the designation "See's" will be used to refer to both companies.
 
@@ -904,9 +904,9 @@ The 1971 agreement expired in 1973. In April of that year, Huggins asked Pugh to
 
 The union's alleged participation in Pugh's termination was in the form of a statement attributed to Mr. Button (the individual who succeeded Pugh as production manager) at a negotiating meeting between the company and the union in June 1973. According to one witness, Mr. Button stated at the commencement of the meeting, "Now we've taken care of Mr. Pugh. What are you going to do for us."
 
-#### Discussion
+[Discussion]{.casesection}
 
-##### A. Historical Background.
+[A. Historical Background.]{.casesubsection}
 
 The law of the employment relationship has been, and perhaps still is, in the process of continuing evolution. The old law of master and servant, which held sway through the 18th century and to some extent beyond, viewed the relationship as primarily one of status rather than of contract. While agreement gave rise to the relationship and might establish certain of its terms, it was "custom and public policy, not the will of the parties, which defined the implicit framework of mutual rights and obligations."
 
@@ -922,7 +922,7 @@ In recent years, there have been established by statute a variety of limitations
 
 Even apart from statute or constitutional protection, however, the employer's right to terminate employees is not absolute. "The mere fact that a contract is terminable at will does not give the employer the absolute right to terminate it in all cases." Two relevant limiting principles have developed, one of them based upon public policy and the other upon traditional contract doctrine. The first limitation precludes dismissal "when an employer's discharge of an employee violates fundamental principles of public policy", the second when the discharge is contrary to the terms of the agreement, express or implied. Appellant relies upon both these principles in contesting his termination here.
 
-##### C. Contract Limitations.
+[C. Contract Limitations.]{.casesubsection}
 
 The presumption that an employment contract is intended to be terminable at will is subject, like any presumption, to contrary evidence. This may take the form of an agreement, express or implied, that the relationship will continue for some fixed period of time. Or, and of greater relevance here, it may take the form of an agreement that the employment relationship will continue indefinitely, pending the occurrence of some event such as the employer's dissatisfaction with the employee's services or the existence of some "cause" for termination. Sometimes this latter type of agreement is characterized as a contract for "permanent" employment, but that characterization may be misleading. In one of the earliest California cases on this subject, the Supreme Court interpreted a contract for permanent employment as meaning "that plaintiffs' employment was to continue indefinitely, and until one or the other of the parties wish, _for some good reason,_ to sever the relation." 
 
@@ -964,11 +964,11 @@ By what standard that burden is to be measured will depend, in part, upon what c
 
 ### Woolley v. Hoffmann-La Roche, Inc., 99 N.J. 284 (1985)
 
-#### I.
+[I.]{.casesection}
 
 The issue before us is whether certain terms in a company's employment manual may contractually bind the company. We hold that absent a clear and prominent disclaimer, an implied promise contained in an employment manual that an employee will be fired only for cause may be enforceable against an employer even when the employment is for an indefinite term and would otherwise be terminable at will.
 
-#### II.
+[II.]{.casesection}
 
 Plaintiff, Richard Woolley, was hired by defendant, Hoffmann-La Roche, Inc., in October 1969, as an Engineering Section Head in defendant's Central Engineering Department at Nutley. There was no written employment contract between plaintiff and defendant. Plaintiff began work in mid-November 1969. Some time in December, plaintiff received and read the personnel manual on which his claims are based.
 
@@ -980,7 +980,7 @@ Plaintiff filed a complaint alleging breach of contract, intentional infliction 
 
 Defendant's motion for summary judgment was granted by the trial court, which held that the employment manual was not contractually binding on defendant, thus allowing defendant to terminate plaintiff's employment at will. 
 
-#### III.
+[III.]{.casesection}
 
 Hoffmann-La Roche contends that the formation of the type of contract claimed by plaintiff to exist--Hoffmann-La Roche calls it a permanent employment contract for life--is subject to special contractual requirements: the intent of the parties to create such an undertaking must be clear and definite; in addition to an explicit provision setting forth its duration, the agreement must specifically cover the essential terms of employment--the duties, responsibilities, and compensation of the employee, and the proof of these terms must be clear and convincing; the undertaking must be supported by consideration in addition to the employee's continued work. Woolley claims that the requirements for the formation of such a contract have been met here and that they do not extend as far as Hoffmann-La Roche claims. Further, Woolley argues that this is not a "permanent contract for life," but rather an employment contract of indefinite duration that may be terminated only for good cause and in accordance with the procedure set forth in the personnel policy manual. Both parties agree that the employment contract is one of indefinite duration; Hoffmann-La Roche contends that in New Jersey, when an employment contract is of indefinite duration, the inescapable legal conclusion is that it is an employment at will; Woolley claims that even such a contract--of indefinite duration--may contain provisions requiring that termination be only for cause.
 
@@ -990,7 +990,7 @@ The Appellate Division, viewing plaintiff's claim as one for a "permanent or lif
 
 We are thus faced with the question of whether this is the kind of employment contract--a "long-range commitment"--that must be construed as one of indefinite duration and therefore at will unless the stringent requirements of _Savarese v. Pyrene Mfg. Co.,_ 9 N.J. 595 (1952) are met, or whether ordinary contractual doctrine applies. In either case, the question is whether Hoffmann-La Roche retained the right to fire with or without cause or whether, as Woolley claims, his employment could be terminated only for cause. We believe another question, not explicitly treated below, is involved: should the legal effect of the dissemination of a personnel policy manual by a company with a substantial number of employees be determined solely and strictly by traditional contract doctrine? Is that analysis adequate for the realities of such a workplace?
 
-#### IV.
+[IV.]{.casesection}
 
 As originally conceived in the late 1800's, the law was that an employment contract for an indefinite term was presumed to be terminable at will; an employee with an at-will contract could be fired for any reason (or no reason) whatsoever, be it good cause, no cause, or even morally wrong cause. Pursuant to that rule, in New Jersey employers were free to terminate an at-will employment relationship with or without cause. 
 
@@ -1012,7 +1012,7 @@ The thrust of the thought is unmistakable. There is an interest to be served in 
 
 Given this approach, the issue is not whether the rules applicable to individual lifetime or indefinite long-term employment contracts should be changed, but rather whether a correct understanding of the "underlying interests involved," in the relationship between the employer and its workforce calls for compliance by the employer with certain rudimentary agreements voluntarily extended to the employees.
 
-#### V.
+[V.]{.casesection}
 
 The rule of _Savarese_, which the trial court and the Appellate Division transported to this case, was derived in a very different context from that here. The case involved an unusual transaction not likely to recur (promise by company officer, made to induce employee to play baseball with company team, for lifetime employment even if employee became disabled as a result of playing baseball). Here, instead, we have the knowing distribution of an apparently carefully thought-out policy manual intended to cover all employees of a large employer. The courts below, however, despite this completely different situation, identified the claimed implied promise not to fire except for cause as purporting to establish an _individual_ contract for lifetime or long-term employment for a particular employee. On that basis, they concluded that the stringent rule of _Savarese_ was triggered.
 
@@ -1026,7 +1026,7 @@ A policy manual that provides for job security grants an important, fundamental 
 
 We do not believe that Hoffmann-La Roche was attempting to renege on its promise when it fired Woolley. On the contrary, the record strongly suggests that even though it believed its manual did not create any contractually binding agreements, Hoffmann-La Roche nevertheless almost invariably honored it. In effect, it gave employees more than it believed the law required. Its position taken before us is one of principle: while contending it treated Woolley fairly, it maintains it had no legal obligation to do so.
 
-#### VI.
+[VI.]{.casesection}
 
 Given the facts before us and the common law of contracts interpreted in the light of sound policy applicable to this modern setting, we conclude that the termination clauses of this company's Personnel Policy Manual, including the procedure required before termination occurs, could be found to be contractually enforceable. Furthermore, we conclude that when an employer of a substantial number of employees circulates a manual that, when fairly read, provides that certain benefits are an incident of the employment (including, especially, job security provisions), the judiciary, instead of "grudgingly" conceding the enforceability of those provisions, should construe them in accordance with the reasonable expectations of the employees.
 
@@ -1050,11 +1050,11 @@ Many of these workers undoubtedly know little about contracts, and many probably
 
 Under all of these circumstances, therefore, it would be most unrealistic to construe this manual and determine its enforceability as if it were the same as a lifetime contract with but one employee designed to induce him to play on the company's baseball team.
 
-#### VIII.
+[VIII.]{.casesection}
 
 Defendant expresses some concern that our interpretation will encourage lawsuits by disgruntled employees. As we view it, however, if the employer has in fact agreed to provide job security, plaintiffs in lawsuits to enforce that agreement should not be regarded as disgruntled employees, but rather as employees pursuing what is rightfully theirs. The solution is not deprivation of the employees' claim, but enforcement of the employer's agreement. The defendant further contends that its future plans and proposed projects are premised on continuance of the at-will employment status of its workforce. We find this argument unpersuasive. There are many companies whose employees have job security who are quite able to plan their future and implement those plans. If, however, the at-will employment status of the workforce was so important, the employer should not have circulated a document so likely to lead employees into believing they had job security.
 
-#### XI.
+[XI.]{.casesection}
 
 Our opinion need not make employers reluctant to prepare and distribute company policy manuals. Such manuals can be very helpful tools in labor relations, helpful both to employer and employees, and we would regret it if the consequence of this decision were that the constructive aspects of these manuals were in any way diminished. We do not believe that they will, or at least we certainly do not believe that that constructive aspect _should_ be diminished as a result of this opinion.
 
@@ -1220,7 +1220,7 @@ All the evidence considered by the jury, viewed in the light most favorable to p
 
 ### Wilson v. Monarch Paper, 939 F.2d 1138 (5th Cir. 1991)
 
-#### I
+[I]{.casesection}
 
 In 1970, at age 48, Richard E. Wilson was hired by Monarch Paper Company. Monarch is an incorporated division of Unisource Corporation, and Unisource is an incorporated group of Alco Standard Corporation. Wilson served as manager of the Corpus Christi division until November 1, 1977, when he was moved to the corporate staff in Houston to serve as "Corporate Director of Physical Distribution." During that time, he routinely received merit raises and performance bonuses. In 1980, Wilson received the additional title of "Vice President." In 1981, Wilson was given the additional title of "Assistant to John Blankenship," Monarch's President at the time.
 
@@ -1248,13 +1248,13 @@ Wilson filed an age discrimination charge with the EEOC in January 1983. Althoug
 
 Wilson's emotional illness was severe and long-lasting. He was diagnosed with manic-depressive illness or bipolar disorder. After his first hospitalization for a manic episode, in which he was locked in a padded cell and heavily sedated, he fell into a deep depression. The depression was unremitting for over two years and necessitated an additional hospital stay in which he was given electroconvulsive therapy (shock treatments). It was not until 1987 that Wilson's illness began remission, thus allowing him to carry on a semblance of a normal life.
 
-#### II
+[II]{.casesection}
 
 Wilson filed suit against the defendants, alleging age discrimination and various state law tort and contract claims. The case was tried before a jury on Wilson's claims that the defendants (1) reassigned him because of his age; (2) intentionally inflicted emotional distress; and (3) terminated his long-term disability benefits in retaliation for filing charges of age discrimination under the Age Discrimination in Employment Act (ADEA).
 
 The district court denied the defendants' motions for directed verdict. The jury returned a special verdict in favor of Wilson on his age discrimination claim, awarding him $156,000 in damages, plus an equal amount in liquidated damages. The jury also found in favor of Wilson on his claim for intentional infliction of emotional distress, awarding him past damages of $622,359.15, future damages of $225,000, and punitive damages of $2,250,000. The jury found in favor of the defendants on Wilson's retaliation claim. The district court denied the defendants' motions for judgment NOV, new trial, or, alternatively, a remittitur. The defendants appeal.
 
-#### III
+[III]{.casesection}
 
 Monarch raises three issues, each attacking the district court's exercise of discretion in sending the case to the jury and entering judgment on its verdict. First, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, and new trial on Wilson's claim for intentional infliction of emotional distress. Second, Monarch argues that the district court erred in denying its similar motions on Wilson's age discrimination claim. Finally, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, new trial, and remittitur with respect to the amount of back pay awarded on the age discrimination claim. With respect to the emotional distress claim, neither the quantum of actual damages or the award of punitive damages are appealed.
 
@@ -1266,7 +1266,7 @@ The standard of review for motions for directed verdict and for JNOV \[is\] that
 
 > the Court should consider all of the evidence—not just that evidence which supports the non-mover's case—but in the light and with all reasonable inferences most favorable to the party opposed to the motion. If the facts and inferences point so strongly and overwhelmingly in favor of one party that the Court believes that reasonable men could not arrive at a contrary verdict, granting of the motions is proper. On the other hand, if there is substantial evidence opposed to the motions, that is, evidence of such quality and weight that reasonable and fair-minded men in the exercise of impartial judgment might reach different conclusions, the motions should be denied, and the case submitted to the jury.
 
-##### A
+[A]{.casesubsection}
 
 To prevail on a claim for intentional infliction of emotional distress, Texas law requires that the following four elements be established:
 
@@ -1342,7 +1342,7 @@ We do not condone defendant's failure to comply with the Controlled Substance Ex
 
 Luke Hansen, Jason Melling, and Paul Carlson appeal the trial court's summary determination that the "public policy" exception to Utah's at-will employment doctrine did not apply to the circumstances surrounding the termination of their employment by America Online. We affirm.
 
-#### Background
+[Background]{.casesection}
 
 Messrs. Hansen, Melling and Carlson, whom for convenience we will refer to as "the employees," were employed by America Online ("AOL") at its call center in Ogden, Utah. The Ogden call center is located in a strip mall. AOL leased, and reserved for its exclusive use, up to 350 parking stalls from the strip mall's larger public parking lot.
 
@@ -1352,7 +1352,7 @@ On September 14, 2000, the three employees, all of whom were off-duty at the tim
 
 The employees then filed a lawsuit alleging wrongful termination. They alleged that, the AOL Workplace Violence Prevention Policy notwithstanding, AOL was liable for their wrongful discharge because their possession of firearms on the AOL parking lot was protected by a clear and substantial public policy. Both the employees and AOL filed motions for summary judgment. The trial court issued a memorandum decision denying the employees' motion and granting AOL's motion. The employees appeal. We affirm.
 
-#### Analysis
+[Analysis]{.casesection}
 
 Utah's employment law presumes that all employment relationships entered into for an indefinite period of time are at-will, where the employer or the employee may terminate the employment for any reason (or no reason) except where prohibited by law. The presumption of validity given to an employer's decision to discharge an employee may be overcome by demonstrating that
 
@@ -1420,7 +1420,7 @@ We acknowledge that the legislature has enacted statutes which give practical ef
 
 However, we confront here the unique situation in which the very claim to the public policy exception sought by the employees has been taken up and debated by the legislature. We are not asked to measure the clarity and substance of a public policy exception candidate and compare it for the first time with the rights of an employer. The legislature in its role as the primary institutional source of public policy has done this work for us. The ambivalence of the outcome of its labors directs us to our determination that the employees may not use the public policy exception to overcome the at-will doctrine.
 
-#### Conclusion
+[Conclusion]{.casesection}
 
 There remains an evolving discussion about the role of firearms in our society. While certain areas of that debate are more developed than others, the mature at-will employment law in the state of Utah rejects the idea that, in the face of a freely entered-into agreement to the contrary, an employee has the right to carry a firearm on his employer's premises.
 
@@ -1487,7 +1487,7 @@ As a guide to the interpretation and application of this Chapter, the public pol
 
 Jacqueline M. Jackson ("Petitioner") was discharged from her employment with Golden Age of Lexington, Inc. ("Employer"). The Board of Review at the North Carolina Department of Commerce, Division of Employment Security ("Division") determined that Petitioner was disqualified to receive unemployment benefits. On appeal, the superior court reversed the Board of Review's decision and held that Petitioner was _not_ disqualified to receive unemployment benefits. Employer and the Division (hereafter "Appellants") appeal the superior court's order. For the following reasons, we reverse the superior court's order.
 
-#### Background
+[Background]{.casesection}
 
 Employer operates a nursing facility. Petitioner worked for Employer as a certified nursing assistant. In August 2013, Employer terminated Petitioner's employment because she failed to report to Employer a "patient fall" which had occurred the prior week.
 
@@ -1497,13 +1497,13 @@ Following a hearing in which evidence was taken, the appeals referee entered a d
 
 Following a hearing on the matter, the superior court _reversed_ the Board of Review's decision and held that Petitioner was entitled to benefits. Specifically, the superior court held that there was no _competent_ evidence at the initial hearing before the adjudicator that a patient had, in fact, fallen during Petitioner's watch. Appellants filed notice of appeal from the superior court's order.
 
-#### Analysis
+[Analysis]{.casesection}
 
 Employer contends that Petitioner is ineligible for unemployment benefits because she was discharged for cause. Employer contends that Petitioner was discharged for failing to report that a patient had fallen out of her wheelchair as required by Employer's policies. (A nurse or other attendant is required to report any patient fall so that the patient can be evaluated by a doctor.)
 
 Petitioner claims that she was not required to file a report because the patient in question did not fall from her wheelchair but had merely slumped in the wheelchair, as she testified before the adjudicator. Petitioner contends—and the superior court agreed—that Employer failed to produce any _competent_ evidence before the appeals referee that the patient had, in fact, fallen. Rather, Petitioner contends that the only evidence before the appeals referee that a fall had occurred was offered in the form of incompetent hearsay. Specifically, Employer offered the written statement of another nurse, Ms. Hyatt, that the patient was on the floor when Petitioner called her into the patient's room to assist her.
 
-##### Termination for misconduct
+[Termination for misconduct]{.casesubsection}
 
 In cases appealed from administrative tribunals, we review questions of law _de novo_ and questions of fact under the whole record test. A determination that an employee has engaged in misconduct under N.C. Gen.Stat. § 96-14.6 is a conclusion of law.
 
@@ -1529,7 +1529,7 @@ Ms. Hyatt's statement says that she observed the resident on the floor. Ms. Duna
 
 ### Whichard v. CH Mortgage Company, Inc., 248 N.C.App. 123 (N.C. Ct. App.2016)
 
-#### Facts and Procedural Background
+[Facts and Procedural Background]{.casesection}
 
 Following her termination from DHI Mortgage, Whichard filed a new initial claim for unemployment insurance benefits effective 20 April 2014. The Division of Employment Security (the Division) determined the weekly benefit amount payable to Whichard was $350.00, and the maximum amount of unemployment insurance benefits payable to Whichard was $6,650.00. The Division referred the claim to an adjudicator on the issue of separation from last employment. The adjudicator determined DHI Mortgage terminated Whichard for unacceptable personal conduct. As a result, she did not qualify for benefits. Whichard filed an appeal from the determination to an Appeals Referee. The Appeals Referee reversed the adjudicator’s decision, finding Whichard qualified for receiving unemployment benefits. DHI appealed the Referee’s decision to the Board of Review. The Board of Review reversed the Referee’s decision, concluding that Whichard was not qualified for benefits because DHI terminated Whichard for violating the Employee Conduct and Work Rules and for conduct disregarding the standard of behavior for which an employer had the right to expect of an employee. The Board of Review found the following facts, which are unchallenged and therefore binding on appeal.
 
@@ -1543,13 +1543,13 @@ In March 2014, Whichard called Carroll and informed her Sheldon continually bull
 
 Whichard appealed the Board’s decision to superior court. The superior court reversed the Board of Review’s decision, determining Whichard’s conduct did not disqualify her from receiving unemployment benefits. The court determined Whichard was not guilty of misconduct because the findings of fact did not support the conclusion that she violated a work rule; her Facebook post did not threaten violence or a disruption of workplace activity nor did it constitute a violation or disregard of standards of behavior that the employer has the right to expect of an employee DHI timely filed a notice of appeal.
 
-#### Standard of Review
+[Standard of Review]{.casesection}
 
 The standard of review in appeals from the Division, both to the superior court and to the appellate division, is established by statute. The statute reads in pertinent part: “In any judicial proceeding under this section, the findings of fact by the Division, if there is any competent evidence to support them, and in the absence of fraud, shall be conclusive, and the jurisdiction of the court shall be confined to questions of law.” N.C. Gen Stat. § 96–15(i) (2015). If no exception to findings of fact is stated, then those findings are presumed to be supported by the evidence and are binding on appeal. N.C. Gen.Stat. 96–15(i) (2015).
 
 In considering an appeal from a decision of the Division, the reviewing court must (1) determine whether there was evidence before the Division to support its findings of fact and (2) decide whether the facts found sustain the Division’s conclusions of law and its resulting decision. The Board of Review’s conclusions of law are reviewed de novo. 
 
-#### Analysis
+[Analysis]{.casesection}
 
 Ordinarily a claimant is presumed to be entitled to benefits under the Unemployment Compensation Act, but this is a rebuttable presumption with the burden on the employer to show circumstances which disqualify the claimant. “An individual who the Division determines is unemployed for misconduct connected with the work is disqualified for (unemployment) benefits.” N.C. Gen.Stat. § 96–14 .6(a) (2015). “Misconduct connected with the work” includes “conduct evincing a willful or wanton disregard of the employer’s interest as is found in deliberate violation or disregard of standards of behavior that the employer has the right to expect of an employee or has explained orally or in writing to an employee.” N.C. Gen.Stat. § 96–14.6(b)(1) (2015). Violation of an employer’s work rules is misconduct unless the evidence shows that the employee’s actions were reasonable and were taken with good cause. In the absence of a specific rule violation, misconduct may consist in deliberate violations or disregard of standards of behavior which the employer has the right to expect of his employee.
 
@@ -1565,7 +1565,7 @@ If no rule violation occurs, misconduct may consist in deliberate violations or 
 
 Respondent North Carolina Department of Commerce, Division of Employment Security ("the Division"), appeals from the superior court's order reversing the Board of Review's decision that Petitioner Devon J.A. Burroughs was disqualified from receiving unemployment compensation benefits. We affirm.
 
-#### Background
+[Background]{.casesection}
 
 Burroughs began working as a server for Applebee's in September 2015. Burroughs reported a wage-and-hour concern to Human Resources in May 2016, complaining of nonpayment for hours worked. Following an investigation, Applebee's issued a check to Burroughs in the amount of $1,299.45.
 
@@ -1585,7 +1585,7 @@ Burroughs petitioned for judicial review in Wake County Superior Court. By order
 
 On appeal, the Division argues that the superior court erred by disregarding the applicable standard of review and reversing the Board's determination that Burroughs was discharged for misconduct connected with his work, disqualifying him from receiving unemployment benefits. We disagree, and affirm the superior court's order reversing the Board's decision and requiring that the Division issue to Burroughs the unemployment benefits to which he is entitled.
 
-#### Standard of Review
+[Standard of Review]{.casesection}
 
 The instant appeal arises under N.C. Gen. Stat. § 96-15(i).
 
@@ -1593,7 +1593,7 @@ The instant appeal arises under N.C. Gen. Stat. § 96-15(i).
 
 The Division's conclusions of law are reviewed _de novo_. A determination that an employee's unemployment is due to misconduct connected with the work is a conclusion of law, and is therefore reviewed _de novo_.
 
-#### Discussion
+[Discussion]{.casesection}
 
 Pursuant to N.C. Gen. Stat. § 96-14.6, an individual will be disqualified from receiving unemployment benefits if the individual is discharged due to "misconduct connected with the work." The burden is on the employer to show that a claimant is unemployed due to misconduct, thereby disqualifying the individual from receiving unemployment benefits.
 
@@ -1623,17 +1623,17 @@ N.C.G.S. § 96-2 (2021).
 
 This declaration guides our analysis of the issue before us: whether Lennane's leaving work was attributable to his employer as required by N.C.G.S. § 96-14.5(a) to avoid disqualification for unemployment benefits. _See_ N.C.G.S. § 96-2. Having considered the legislature's declared public policy, the plain language of the applicable statute, and the binding findings of fact, we conclude that Lennane failed to show that his leaving work was attributable to his employer as required by N.C.G.S. § 96-14.5(a).
 
-##### Background
+[Background]{.casesubsection}
 
 Lennane left work on 16 November 2018. Lennane filed an initial claim for unemployment benefits on 11 November 2018. An adjudicator held Lennane disqualified for benefits, and Lennane appealed. Thereafter, an appeals referee conducted a hearing on the matter. The appeals referee affirmed the prior decision and ruled that Lennane was disqualified for unemployment benefits because he failed to show good cause attributable to the employer for leaving as required by N.C.G.S. § 96-14.5(a). Lennane then appealed to the Board of Review for the North Carolina Department of Commerce. The Board of Review adopted the appeals referee's findings of fact as its own and concluded that the appeals referee's decision was in accord with the law and the facts. Accordingly, the Board of Review affirmed the appeals referee's decision. Lennane next appealed to the superior court, which affirmed the Board of Review's decision. Lennane then appealed to the Court of Appeals.
 
 A divided panel of the Court of Appeals affirmed the superior court's order. 
 
-##### Standard of Review
+[Standard of Review]{.casesubsection}
 
 In these judicial proceedings, "the findings of fact by the Division, if there is any competent evidence to support them and in the absence of fraud, shall be conclusive, and the jurisdiction of the court shall be confined to questions of law." N.C.G.S. § 96-15(i) (2021). When no challenge to a finding of fact is made, an appellate court presumes that the finding of fact is supported by the evidence, and the finding of fact is binding on appeal. We review de novo whether the Division's findings of fact support the conclusions of law. 
 
-##### Analysis
+[Analysis]{.casesubsection}
 
 Article 2C of Chapter 96 of the North Carolina General Statutes sets forth when benefits are payable for unemployment and when an individual is disqualified from receiving benefits. N.C.G.S. §§ 96-14.1 to—14.16 (2021). As relevant to this appeal, subsection 96-14.5(a) mandates that "an individual does not have a right to benefits and is disqualified from receiving benefits if the Division determines that the individual left work for a reason other than good cause attributable to the employer." N.C.G.S. § 96-14.5(a). "When an individual leaves work, the burden of showing good cause attributable to the employer rests on the individual and the burden may not be shifted to the employer." N.C.G.S. § 96-14.5(a). Good cause exists when an individual's "reason for leaving would be deemed by reasonable men and women valid and not indicative of an unwillingness to work." "A separation is attributable to the employer if it was produced, caused, created or as a result of actions by the employer." 
 
@@ -1717,7 +1717,7 @@ This Court's holding honors the limitation created by our legislature on unemplo
 
 Decades later, the legislature still does not omit the statutory language "attributable to the employer" for individuals leaving work: "an individual is disqualified for any remaining benefits if the Division determines that the individual has failed, without good cause, to accept suitable work when offered," N.C.G.S. § 96-14.11(b), but "disqualified from receiving benefits if the Division determines that the individual left work for a reason other than good cause _attributable to the employer,_" N.C.G.S. § 96-14.5(a). Thus, we decline to create insurance paid for by employers for unemployment not attributable to an employer's actions or inactions.
 
-##### Conclusion
+[Conclusion]{.casesubsection}
 
 Unemployment insurance does not provide benefits to individuals who "left work for a reason other than good cause attributable to the employer." N.C.G.S. § 96-14.5(a). While Lennane, as conceded by the parties, left work for good cause, he has failed to satisfy his burden to show that his leaving work was "attributable to the employer" as a matter of law. Accordingly, we affirm the Court of Appeals' decision.
 

@@ -4,7 +4,7 @@ Until 2020, Baltimore County sent incarcerated people from its detention center 
 
 Courts—including this one—are generally skeptical of Fair Labor Standards Act claims brought by incarcerated workers. But there is no categorical rule that such workers cannot be covered by the Act when they work outside their detention facility's walls and for someone other than their immediate detainer. Having clarified the nature of the required analysis, we remand for a fresh look at the facts under those standards.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 Baltimore County operates its own recycling center. The Department of Public Works (DPW) oversees the facility, where residential recycling from throughout the County is sorted. After being separated from non-recyclable waste, recyclable materials are further sorted into bales of "scrap metal, cardboard, mixed paper," "tin," "aluminum," and "four types" of plastic. The bales are then sold at auction to "commercial purchasers."
 
@@ -18,7 +18,7 @@ The district court conditionally certified a collective action to litigate the f
 
 The district court granted the County's motion for summary judgment and dismissed Scott's suit. The court concluded that Scott's claims all "failed as a matter of law" because neither he nor the people he represented were "employees" under the Act or its state law equivalents.
 
-[III.]{.case-h1}
+[III.]{.casesection}
 
 The Fair Labor Standards Act requires "a minimum wage and overtime pay for all covered employees." This appeal comes down to a single question: Were Scott and other members of the work detail at the recycling center "employees" under the Act?
 
@@ -34,7 +34,7 @@ At the same time, we reject Scott's assertion that _Harker_'s entire approach is
 
 Under _Harker,_ we consider three "factors" in deciding whether a particular detained worker is covered by the Act. Although _Harker_ and _Matherly_ discussed the factors in a different order, we arrange them as we do here because it allows us to begin with what looks like our previous cases before turning to what looks different. We start by asking whether the relationship between the workers and their putative employer had the hallmarks of "a true employer-employee relationship." We next consider whether the purposes of the Fair Labor Standards Act call for its application. Finally, we reach what turns out to be the critical question here: whether the putative employer had "a rehabilitative, rather than pecuniary, interest in" Scott's and his fellow plaintiffs' labor.
 
-[1.]{.case-h2}
+[1.]{.casesubsection}
 
 This Court has concluded that detainees who "have the opportunity" to work "solely at the prerogative of the custodian" "do not deal at arms' length" with their putative employer like the typical worker in the national economy. Such workers, the Court has explained, "have not made the bargained-for exchange of labor for mutual economic gain that occurs in a true employer-employee relationship" and the custodian "wields virtually absolute control over them to a degree simply not found in the free labor situation of true employment." 
 
@@ -52,7 +52,7 @@ A comparison between detainees on work release (who the County admits are employ
 
 To sum up: Because Scott needed DOC's approval to work at the recycling center, he did not bargain at arms' length with his putative employer under this Court's precedent. At the same time, however, there are—at minimum—genuine disputes of material fact that bear on whether Scott's putative employer exercised so much control as to prevent Scott from qualifying as an employee. Especially where "no single factor is dispositive," this factor alone is not enough to win this case for the County.
 
-[2.]{.case-h2}
+[2.]{.casesubsection}
 
 We next ask whether the purposes of the Act call for covering workers like Scott. Here too, our analysis points in both directions, but this time it tends to favor Scott.
 
@@ -74,7 +74,7 @@ That brings us to the second reason it matters that this work was done outside t
 
 That risk was realized here, too. The record contains evidence that the County sought to "get rid of the temp workers" at the recycling center—thereby eliminating what would have been at least minimum wage paying jobs—and thus "decrease costs" by getting "more consistent inmate numbers" to do the work instead. Perhaps the best proof that the use of incarcerated workers kept other workers from getting these jobs is that after the County stopped using incarcerated workers at the onset of the COVID-19 pandemic (and this lawsuit), it hired more temporary workers for the recycling center and paid them the minimum wage.[^scott2]
 
-[3.]{.case-h2}
+[3.]{.casesubsection}
 
 We arrive now at the last _Harker_ factor—whether the "inmates perform work... to turn profits for their supposed employer" or instead "as a means of rehabilitation and job training." 
 
@@ -108,7 +108,7 @@ To once again sum up: The question under this _Harker_ factor is whether DPW's p
 
 The district court, of course, did not have before it our analysis of these issues when it considered the County's motion for summary judgment. For that reason, it is understandable that the court's framing of the relevant legal standards differed from those set out in this opinion in various important respects. True, the de novo standard of review means we could apply those standards ourselves to decide whether to affirm the district court's grant of summary judgment to the County. But "we remain mindful that we are a court of review, not of first view", and we think it better to follow our usual practice of allowing the district court to conduct the required analysis in the first instance. Such an approach seems especially appropriate here given the inherently fact-intensive nature of the relevant inquiry. To be sure, the "_ultimate_ conclusion" about whether a given worker is an employee under the Act presents "a legal question." But many of the subsidiary questions that guide that analysis are, unsurprisingly, "factual questions." So while we do not foreclose the possibility of renewed summary judgment proceedings on remand, we emphasize that any factual disputes—including those bearing on the degree of control exercised at the recycling center and DPW's primary purpose in using incarcerated workers— must be viewed in the light most favorable to the non-moving party.
 
-[* * *]{.case-h1}
+[* * *]{.casesection}
 
 Congress may well not have had workers like Scott in mind when it enacted the Fair Labor Standards Act. "But ... it is ultimately the provisions of our laws rather than the principal concerns of our legislators by which we are governed." And "the fact that a statute can be applied in situations not expressly anticipated by Congress does not demonstrate ambiguity. It demonstrates breadth." These observations ring especially true for this statute—one "whose striking breadth" courts have long recognized. 
 

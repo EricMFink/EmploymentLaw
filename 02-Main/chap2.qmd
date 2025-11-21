@@ -218,7 +218,7 @@ James Brown, a truck driver employed by respondent, was discharged when he refus
 
 The question to be decided is whether Brown's honest and reasonable assertion of his right to be free of the obligation to drive unsafe trucks constituted "concerted activity" within the meaning of § 7 of the National Labor Relations Act (NLRA or Act). The National Labor Relations Board (NLRB or Board) held that Brown's refusal was concerted activity within § 7, and that his discharge was, therefore, an unfair labor practice under § 8(a)(1) of the Act. The Court of Appeals disagreed and declined enforcement. At least three other Courts of Appeals, however, have accepted the Board's interpretation of "concerted activities" as including the assertion by an individual employee of a right grounded in a collective-bargaining agreement. We granted certiorari to resolve the conflict, and now reverse.
 
-#### I
+[I]{.casesection}
 
 The facts are not in dispute in the current posture of this case. Respondent, City Disposal Systems, Inc. (City Disposal), hauls garbage for the city of Detroit. Under the collective-bargaining agreement with Local Union No. 247, respondent's truckdrivers haul garbage from Detroit to a landfill about 37 miles away. Each driver is assigned to operate a particular truck, which he or she operates each day of work, unless that truck is in disrepair.
 
@@ -236,13 +236,13 @@ The NLRB adopted the findings and conclusions of the ALJ and ordered that Brown 
 
 On a petition for enforcement of the Board's order, the Court of Appeals disagreed with the ALJ and the Board. Finding that Brown's refusal to drive truck No. 244 was an action taken solely on his own behalf, the Court of Appeals concluded that the refusal was not a concerted activity within the meaning of § 7. 
 
-#### II
+[II]{.casesection}
 
 Section 7 of the NLRA provides that "employees shall have the right to join or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection." 29 U. S. C. § 157. The NLRB's decision in this case applied the Board's longstanding "_Interboro_ doctrine," under which an individual's assertion of a right grounded in a collective-bargaining agreement is recognized as "concerted activity" and therefore accorded the protection of § 7. The Board has relied on two justifications for the doctrine: First, the assertion of a right contained in a collective-bargaining agreement is an extension of the concerted action that produced the agreement; and second, the assertion of such a right affects the rights of all employees covered by the collective-bargaining agreement.
 
 We have often reaffirmed that the task of defining the scope of § 7 "is for the Board to perform in the first instance as it considers the wide variety of cases that come before it," and, on an issue that implicates its expertise in labor relations, a reasonable construction by the Board is entitled to considerable deference. The question for decision today is thus narrowed to whether the Board's application of § 7 to Brown's refusal to drive truck No. 244 is reasonable. Several reasons persuade us that it is.
 
-##### A
+[A]{.legalcode}
 
 Neither the Court of Appeals nor respondent appears to question that an employee's invocation of a right derived from a collective-bargaining agreement meets § 7's requirement that an employee's action be taken "for purposes of collective bargaining or other mutual aid or protection." As the Board first explained in the _Interboro_ case, a single employee's invocation of such rights affects all the employees that are covered by the collective-bargaining agreement. This type of generalized effect, as our cases have demonstrated, is sufficient to bring the actions of an individual employee within the "mutual aid or protection" standard, regardless of whether the employee has his own interests most immediately in mind. 
 
@@ -268,7 +268,7 @@ In practice, however, there is unlikely to be a bright-line distinction between 
 
 The fact that an activity is concerted, however, does not necessarily mean that an employee can engage in the activity with impunity. An employee may engage in concerted activity in such an abusive manner that he loses the protection of § 7. Furthermore, if an employer does not wish to tolerate certain methods by which employees invoke their collectively bargained rights, he is free to negotiate a provision in his collective-bargaining agreement that limits the availability of such methods. No-strike provisions, for instance, are a common mechanism by which employers and employees agree that the latter will not invoke their rights by refusing to work. In general, if an employee violates such a provision, his activity is unprotected even though it may be concerted. Whether Brown's action in this case was unprotected, however, is not before us.
 
-##### B
+[B]{.legalcode}
 
 Respondent argues that the _Interboro_ doctrine undermines the arbitration process by providing employees with the possibility of provoking a discharge and then filing an unfair labor practice claim. This argument, however, misses the mark for several reasons. First, an employee who purposefully follows this route would run the risk that the Board would find his actions concerted but nonetheless unprotected, as discussed above.
 
@@ -276,7 +276,7 @@ Second, the _Interboro_ doctrine does not shift dispute resolution from the grie
 
 Finally, and most importantly, to the extent that the factual issues raised in an unfair labor practice action have been, or can be, addressed through the grievance process, the Board may defer to that process. There is no reason, therefore, for the Board's interpretation of "concerted activity" in § 7 to be constrained by a concern for maintaining the integrity of the grievance and arbitration process.
 
-#### III
+[III]{.casesection}
 
 In this case, the Board found that James Brown's refusal to drive truck No. 244 was based on an honest and reasonable belief that the brakes on the truck were faulty. Brown explained to each of his supervisors his reason for refusing to drive the truck. Although he did not refer to his collective-bargaining agreement in either of these confrontations, the agreement provided not only that "the Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition," but also that "it shall not be a violation of this Agreement where employees refuse to operate such equipment, unless such refusal is unjustified." There is no doubt, therefore, nor could there have been any doubt during Brown's confrontations with his supervisors, that by refusing to drive truck No. 244, Brown was invoking the right granted him in his collective-bargaining agreement to be free of the obligation to drive unsafe trucks. Moreover, there can be no question but that Brown's refusal to drive the truck was reasonably well directed toward the enforcement of that right. Indeed, it would appear that there were no other means available by which Brown could have enforced the right. If he had gone ahead and driven truck No. 244, the issue may have been moot.
 

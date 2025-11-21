@@ -20,7 +20,7 @@ Capital Accounts set Mr. Clark’s wages and paid into his inmate trust account 
 
 The other privately operated joint ventures at WVCF—the wire shop and the sewing shop—pay inmate workers at rates comparable to non-inmate employees, up to $18.00 per hour. Mr. Clark “met, and meets, all of the qualifications for employment in” the wire shop and the sewing shop. The complaint provides no information about the duties or tasks performed by wire shop and sewing shop workers.
 
-[III. FLSA Claims]{.case-h1}
+[III. FLSA Claims]{.casesection}
 
 The FLSA directs that “[e]very employer shall pay to each of his employees” a minimum wage, which currently stands at $7.25 per hour—nearly five times Mr. Clark’s top wage at the call center. 29 U.S.C. § 206(a). The FLSA further directs that employers must pay a higher rate for overtime work, see 29 U.S.C. § 207(a), and that they may not discharge or discriminate against employees who seek to vindicate their rights under the FLSA, see 29 U.S.C. § 215(a)(3).
 
@@ -32,7 +32,7 @@ If inmates are excluded from the FLSA, it is “only because of presumed legisla
 
 Further, no controlling Seventh Circuit precedent supports the defendants’ position that Mr. Clark’s incarceration alone precludes him from FLSA coverage. In fact, in _Vanskike v. Peters_, 974 F.2d 806 (7th Cir. 1992), the Seventh Circuit held that a worker’s coverage under the FLSA requires a fact-intensive inquiry—an inquiry that the defendants have not undertaken here. Further, in _Vanskike_ and _Bennett_, the Seventh Circuit endorsed decisions holding that incarceration does not preclude FLSA coverage where the prisoner performs work for a third party and the work is unrelated to operation of the prison. Decisions from other courts in this Circuit do not call for a different outcome. Accordingly, this Court denies the defendants’ motion based on the clear guidance provided by the Seventh Circuit in the cases on which the defendants rely.
 
-[A. _Carter v. Dutchess Community College_: “An inmate may be entitled under the law to receive the federal minimum wage.”]{.case-h2}
+[A. _Carter v. Dutchess Community College_: “An inmate may be entitled under the law to receive the federal minimum wage.”]{.casesubsection}
 
 The defendants build their argument that the FLSA never protects prisoners on snippets from three Seventh Circuit decisions: _Vanskike_, _Bennett v. Frank_, 395 F.3d 409 (7th Cir. 2005), and _Sanders v. Hayden_, 544 F.3d 812, 814 (7th Cir. 2008). All three precedents remain good law, but none dealt with the facts of this case. Moreover, _Vanskike_ and _Bennett_ recognize that the Second Circuit provided the correct framework for resolving the facts Mr. Clark alleges in _Carter v. Dutchess Community College_, 735 F.2d 8 (2d Cir. 1984). Therefore, this Court follows the Seventh Circuit’s guidance and begins its analysis with Carter.
 
@@ -40,11 +40,11 @@ Carter was an inmate at a New York state prison. Dutchess Community College offe
 
 The Second Circuit considered “whether prisoners ever may be considered employees for the purposes of the minimum wage provisions of the FLSA.” It squarely rejected the defendants’ assertion that prisoners cannot be FLSA employees and held “that an inmate may be entitled under the law to receive the federal minimum wage from an outside employer.” Incarceration is not dispositive. Rather, to determine whether any worker is a FLSA “employee,” a “full inquiry into the true economic reality is necessary.”[^clark1]
 
-[B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality]{.case-h2}
+[B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality]{.casesubsection}
 
 The defendants correctly note that, in _Vanskike_, _Bennett_, and _Sanders_, the Seventh Circuit held that inmate workers were not employees protected by the FLSA. However, a careful reading of each case reveals that these were fact-specific rulings, not categorical holdings that inmates can never be FLSA employees. Indeed, _Vanskike_ directed courts to assess the totality of the worker’s economic reality when determining FLSA coverage, and both _Vanskike_ and _Bennett_ counseled that _Carter_’s holding that prisoners may be FLSA employees should govern cases where a prisoner performs work unrelated to prison operations.
 
-[1. _Vanskike_: Courts “must examine the ‘economic reality’ of the working relationship.”]{.case-h3}
+[1. _Vanskike_: Courts “must examine the ‘economic reality’ of the working relationship.”]{.casesubsubsection}
 
 _Vanskike_, an Illinois prisoner, sued the director of the Illinois Department of Correction under the FLSA for work he performed in Illinois state prisons. There is no indication that _Vanskike_ performed any of the work at issue for a private enterprise like the one Mr. Clark alleges.
 
@@ -54,7 +54,7 @@ All defendants quote _Vanskike_ for the proposition that the FLSA “does not ap
 
 _Vanskike_’s bottom line is that a prisoner’s status as a FLSA employee is a complicated question requiring a fact-intensive analysis. In _Vanskike_, the Seventh Circuit undertook the analysis in the case of a prisoner performing forced labor for his custodians. But Mr. Clark sues over voluntary work for a commercial enterprise, so there is no basis for finding that _Vanskike_’s fact-intensive analysis would yield the same result. Further, the defendants have not undertaken _Vanskike_’s fact-intensive analysis to the facts of this case, so the Court has no grounds to rely on _Vanskike_ as a basis for dismissal. _Vanskike_ requires that Mr. Clark’s FLSA claims move forward.
 
-[2. _Bennett_: “We have no quarrel with ... _Carter_.”]{.case-h3}
+[2. _Bennett_: “We have no quarrel with ... _Carter_.”]{.casesubsubsection}
 
 Unlike _Vanskike_, _Bennett_ offers almost no factual development. The question at issue was whether inmates of a privately operated Wisconsin prison were FLSA employees. The Court cited _Vanskike_ and cases from other circuits for the broad rule that “[t]he Fair Labor Standards Act is intended for the protection of employees, and prisoners are not employees of their prison, whether it is a public or a private one.” The Court emphasized that it had “no doubt that the cases” it “cited are correct” and that “employment status doesn’t depend on whether the alleged employer is a public or a private body.” 
 
@@ -74,7 +74,7 @@ Fourth, _Bennett_ expressly approved _Carter_ and endorsed the notion that the F
 
  In short, the Seventh Circuit directed in _Vanskike_ that a court faced with the question of the FLSA’s application to an inmate’s work must undertake a detailed factual inquiry. The _Vanskike_ Court completed that inquiry and determined that an inmate performing forced labor for his custodians is not their employee. _Bennett_ deemed _Vanskike_ and the decisions undergirding it correctly decided and extended its application only to prison labor for private entities contracted to provide custodial services. It does not support the broad rule the defendants advance, and it has no bearing on Mr. Clark’s claims that he provided debt collection services for a private enterprise.
 
-[3. _Sanders_: Further Support for _Vanskike_ and _Carter_]{.case-h3}
+[3. _Sanders_: Further Support for _Vanskike_ and _Carter_]{.casesubsubsection}
 
 In _Sanders_, a civilly committed sexually violent person sued state officials under 42 U.S.C. § 1983 for “reducing his pay for the work he performed at” his facility. The Seventh Circuit’s decision provides no information about the work Sanders performed, whether he performed it voluntarily, or whether he performed it for his custodians or a separate corporate enterprise.
 
@@ -82,7 +82,7 @@ The Seventh Circuit _sua sponte_ considered Sanders’ claims under the FLSA and
 
 As with _Bennett_, the defendants have not persuaded the Court that _Sanders_’ isolated statement that “inmates are not covered by the FLSA” dictates that Mr. Clark’s FLSA claims fail. The cases are not factually analogous. Moreover, _Sanders_ supports its proclamation with citations to _Vanskike_, which held that FLSA coverage requires a fact-specific inquiry, and _Bennett_, which built on _Vanskike_ and endorsed Carter. Sanders also cites _Danneskjold_, which upheld _Carter_’s holding that prisoners can be FLSA employees and adopted _Vanskike_’s fact-intensive economic reality analysis. Although _Danneskjold_ held that the FLSA does not cover “prison labor that produces goods or services for the use of the prison,” it explicitly declined to “address the questions that arise when the prison labor is employed to produce goods or services that are sold in commerce.” Those are precisely the questions Mr. Clark has raised, and a decision upholding _Vanskike_, _Carter_, and _Danneskjold_ cannot be the basis for dismissing them.
 
-[C. Other District Court Decisions]{.case-h2}
+[C. Other District Court Decisions]{.casesubsection}
 
 The defendants cite a series of District Court decisions for the proposition that a prisoner paid by a private entity for work performed at a prison is not an FLSA employee. But those precedents do not bind this Court, and, with one exception addressed below, they are not on all fours with Carter or this case.
 
@@ -96,7 +96,7 @@ In _Bridges v. Carter_, the Northern District of Indiana considered a constituti
 
 _Eltzroth v. Klutz_ was another constitutional challenge to pay deductions and was resolved on the same grounds. The factual discussion indicates that Eltzroth was paid at least the minimum wage, and there is no indication he asserted any claim or argument based on FLSA’s wage requirements.
 
-[D. _Vanderpool_: A Respectful Disagreement]{.case-h2}
+[D. _Vanderpool_: A Respectful Disagreement]{.casesubsection}
 
 That leaves _Vanderpool v. Capital Accounts_ (S.D. Ind. Mar. 11, 2024), a lawsuit identical to this one filed by another inmate who worked for pennies at the WVCF call center. Judge Hanlon granted a motion to dismiss by Capital Accounts, finding that _Vanskike_, _Bennett_, and _Sanders_ “hold—broadly as a matter of law—that prisoners are not employees under the FLSA.” For the reasons set out above, the Court respectfully disagrees with that broad reading of those precedents.
 
@@ -104,7 +104,7 @@ Judge Hanlon also relied on _Smith v. Dart_, which echoed _Bennett_ and _Sanders
 
 It is fundamental that “a district court decision does not have stare decisis effect; it is not a precedent.” “The fact of such a decision is not a reason for following it.” For the reasons set out above, the Court respectfully disagrees with the defendants’ interpretation of the Seventh Circuit’s FLSA precedents and, by extension Judge Hanlon’s decision in _Vanderpool_ applying that interpretation.
 
-[E. Conclusion]{.case-h2}
+[E. Conclusion]{.casesubsection}
 
 The Seventh Circuit has not directly confronted the question of whether the FLSA protects an inmate hired, supervised, and paid by a private, for-profit company to work on prison grounds for the exclusive purpose of enriching the private company. The defendants here do not address that question either and instead ask the Court to dismiss Mr. Clark’s FLSA claims for the sole reason that he is a prisoner.
 

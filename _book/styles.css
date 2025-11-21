@@ -172,7 +172,7 @@ img {
 
 /* Styles for cases & readings */
 /* Case section headings */
-.case-h1 {
+.casesection {
 	font-family: "Literata",serif;
 	font-size: 1.1rem;
 	font-style: normal;
@@ -184,7 +184,7 @@ img {
 	display: block;
 	list-style: outside none none !important;
 }
-.case-h2 {
+.casesubsection {
 	font-family: "Literata",serif;
 	font-size: 1rem;
 	font-style: italic;
@@ -196,7 +196,7 @@ img {
 	display: block;
 	list-style: outside none none !important;
 }
-.case-h3 {
+.casesubsubsection {
 	font-family: "Literata",serif;
 	font-size: 1rem;
 	font-style: normal;

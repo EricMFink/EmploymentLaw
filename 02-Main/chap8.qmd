@@ -4,7 +4,7 @@
 
 ### Lawrence M. Friedman, _Work Accidents_ (2013)
 
-#### Act One: The Fellow-Servant Rule 
+[Act One: The Fellow-Servant Rule ]{.casesection}
 
 In the early 1840's, Nicholas Farwell brought a lawsuit against his employer, the Boston & Worcester Rail Road. Farwell was an "engine-man" who earned two dollars a day. One day in 1837, he suffered an accident, was thrown to the ground, and the wheels of a railroad car passed over his right hand and crushed it. The accident was caused (or so Farwell alleged) by the carelessness of other employees.
 
@@ -30,7 +30,7 @@ In a New Jersey case decided in 1865, a railroad bridge gave way when a "heavily
 
 By the end of the century, even though the fellow servant rule was still a major obstacle, tort cases, some of them arising out of industrial accidents, were common in the courts. A certain number of plaintiffs who had suffered injuries at work were actually winning their cases. A steel company in Cleveland, Ohio, according to one study, lost every single lawsuit brought by an injured worker, between 1898 and 2015. Legislatures, too, had begun to chip away at the rule. A number of states, in the late nineteenth century, modified or abolished the rule, either for railroads or more generally. Kansas, for example, enacted a statute in 1874 which made railroads in that state "liable for all damages done to any employee ... in consequence of any negligence" of the railroad's agents. Iowa had a similar statute, and laws of this sort were common by the early twentieth century: laws applying to railroad accidents, or accidents in mines, and (in a few instances) applying more broadly. 
 
-#### Act Two: Worker's Compensation Arrives
+[Act Two: Worker's Compensation Arrives]{.casesection}
 
 In the early twentieth century, in other words, there was increasing pressure on the fellow-servant rule. It became hard to ignore the appalling harvest of industrial accidents. In 1910, Crystal Eastman, supported by the Russell Sage Foundation, published a study of work accidents in Pittsburgh, part of a general "Pittsburgh survey" in six volumes. Eastman in her book, made more vivid with stark photographs of workers and work conditions, laid out clearly and in detail the horrendous nature of work accidents, the crushing impact of these accidents on workers and their families, and the pitiful amounts that workers themselves and their widows and children were generally able to collect. Out of a group of 120 instances in which a married worker was killed, a quarter of the families got nothing at all; and more than half got \$100 or less. Some employers were beginning to realize the "injustice of leaving the whole burden of accidents upon the workmen," and were providing some relief to the injured and their families. But other employers did nothing.
 
@@ -54,7 +54,7 @@ A somewhat similar dynamic helped move the compensation movement forward. Of cou
 
 The first workers' compensation laws, however, were in many ways weaker and more tentative than the compensation laws of today. Kansas, for example, enacted a compensation law in 1911. It was, in the first place, elective: both employers and employees could decide to come under the law; or remain outside. The law applied only to employers with 15 or more employees and it applied only to accidents in dangerous occupations--manufacturing, mining, quarrying, work at natural gas plants for example--along with jobs that made use of dangerous explosives or inflammable materials. There were similar provisions in the Illinois law of 1911, which listed occupations which were "especially dangerous," like quarrying, and work with "explosive materials," posing "extraordinary risks to life and limb" The statute in Washington state (1911) applied to all "inherently hazardous works and occupations" Not all of the statutes were limited in this way: the California law, for example, also enacted in 1911, was elective (like the Kansas law), but it applied to industry in general. The Ohio law, also of 1911, was another elective law; both companies and workers could opt out. But within a few years, the legislature amended the law, and workers' compensation became mandatory for employers. This soon became the norm in state after state.
 
-#### Act Three: The Strange Career of Workers' Compensation
+[Act Three: The Strange Career of Workers' Compensation]{.casesection}
 
 By 1920, most states had adopted a system of compensation; there were a few laggards (mostly in the South), but these too soon fell into line. The last state, Mississippi, enacted its law in 1948 The state laws were hardly static. They were in a constant process of change. In general, the law of workers' compensation evolved along two parallel tracks: a legislative track, steadily expanding coverage; and a judicial track, case-law interpreting the statutes in a more and more inclusive way.
 
@@ -80,7 +80,7 @@ This gap in the welfare system has made its mark on the tort system as a whole. 
 
 Developed countries (other than the United States) all have, as we said, a national health system of one sort or another. That they all have such a system is not a historical accident, any more than the fact that they all provide free public school; or that women vote; or that they have adopted liberal divorce laws. They have all responded to a cluster of economic, political, and cultural factors, which are common to the developed world (and the developed parts of the undeveloped world). In many regards, the United States has gone along with global trends. There is Social Security, and no-fault divorce, and free public education. There are dozens and dozens of health and safety laws. There is deposit insurance and unemployment compensation. But with regard to health care, the country is still something of an outlier. For a variety of reasons, health care remains a complex and controversial issue. America has no national health system, on the British or Canadian model. Yet trends in health care have gone, essentially, in only one direction: edging closer toward a universal system, but never quite getting there (so far). Underlying this trend is a change in the culture: much or most of the public would like such a system; more and more people feel that health care is or should be a right, like public school education. More and more people feel health care should not be left to the whims and winds of the market. It is not easy to say exactly what accounts for this cultural change. Or whether it is likely to continue, to grow, or stay as it is. But the trend, so far, seems clear.
 
-#### Conclusion
+[Conclusion]{.casesection}
 
 A few final comments on this three-act drama. First of all, it illustrates an old but obvious fact: legal change is a function of social change; or perhaps it might be better to say, a function of social context. The fellow servant rule was born in the early railroad days, the early days of industry. The shift to an industrial society in the end destroyed it: the terrible toll of industrial accidents made it politically toxic, and, in the end, the old rules no longer worked. Workers' compensation was a way to solve the problem of the costs of industrial accidents, both for labor and for management. It did solve the problem, to a degree. The system was then caught up in our third act; and it expanded, to do its bit to fill the gaping hole in the health care system.
 
@@ -327,7 +327,7 @@ For purposes of this section, a serious violation shall be deemed to exist in a 
 
 SeaWorld of Florida, LLC, operates a theme park in Orlando, Florida, that is designed to entertain and educate paying customers by displaying and studying marine animals. Following the death of one of SeaWorld's trainers while working in close contact with a killer whale during a performance, the Occupational Safety and Health Review Commission found that SeaWorld had violated the general duty clause, § 5(a)(1) of the Occupational Safety and Health Act of 1970, 29 U.S.C. § 654(a)(1), by exposing the trainers to recognized hazards when working in close contact with killer whales during performances, and that the abatement procedures recommended by the Secretary of Labor were feasible. SeaWorld challenges the order with respect to one citation. Concluding its challenges are unpersuasive, we deny the petition for review.
 
-#### I.
+[I.]{.casesection}
 
 On February 24, 2010, SeaWorld trainer Dawn Brancheau was interacting with Tilikum, a killer whale, during a performance before a live audience in a pool at Shamu Stadium in Orlando. Ms. Brancheau was reclined on her back on a platform a few inches below the water surface. Tilikum was supposed to mimic her behavior by rolling over. Instead, the killer whale grabbed her and pulled her off the platform into the pool, refusing to release her. She suffered traumatic injuries and drowned as a result of Tilikum's actions.
 
@@ -339,7 +339,7 @@ The ALJ also found that the Secretary had established the fourth element of a vi
 
 Although crediting the testimony of a SeaWorld curator of animal training regarding the educational and inspirational justification for continuing "waterwork" with killer whales, the ALJ concluded that justification "must be measured against the risk incurred by allowing trainers to interact closely with killer whales." Observing that OSHA has "no specific standard" regulating employees working in close contact with killer whales, and that the Secretary had presented no evidence SeaWorld had a "heightened awareness of the illegality of its conduct" or manifested "plain indifference to employee safety," the ALJ found that violations were "serious," not "willful," and imposed a fine of $7,000 for the general duty clause violation, emphasizing that his order was limited to show performances. SeaWorld unsuccessfully sought discretionary review by the Commission, whereupon the ALJ's decision and order became final.SeaWorld petitions for review of the general duty violation.
 
-#### II.
+[II.]{.casesection}
 
 The general duty clause, § 5(a)(1) of the Occupational Safety and Health Act, provides: "Each employer  shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees." 29 U.S.C. § 654(a)(1). As explained by the House Committee on Education and Labor, "bearing in mind the fact that there is no automatic penalty for violation of the general duty, this clause enables the Federal Government to provide for the protection of employees who are working under such _unique_ circumstances that no standard has yet been enacted to cover this situation." In a seminal case this court, in turn, observed that "though novel in approach and sweeping in coverage, the legislation is no more drastic than the problem it aims to meet." Notwithstanding the "unqualified and absolute" textual imperative that the workplace be "free" of the recognized hazard, the court further observed that "Congress quite clearly did not intend the general duty clause to impose strict liability: The duty was to be an achievable one". So understood, the court held that "all preventable forms and instances of hazardous conduct must be entirely excluded from the workplace." 
 
@@ -349,7 +349,7 @@ SeaWorld contests only the second and fourth elements regarding recognized hazar
 
 The court must uphold the Commission's decision unless it is "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law." The factual findings of the Commission, "if supported by substantial evidence on the record considered as a whole, shall be conclusive." 29 U.S.C. § 660(a). Under this standard, the court must "uphold Commission findings so long as there is 'such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.'" Likewise, the court "must accept the ALJ's credibility determinations unless they are patently unsupportable." The court will "defer to the Secretary's interpretation of the Act and regulations, upholding such interpretations so long as they are consistent with the statutory language and otherwise reasonable." 
 
-##### A.
+[A.]{.casesubsection}
 
 Whether a work condition poses a recognized hazard is a question of fact. Substantial evidence supports the finding that "drywork" and "waterwork" with killer whales were recognized hazards. Tilikum is a 32-year-old male killer whale with known aggressive tendencies who in 1991 killed a whale trainer at a marine park in Vancouver, British Columbia. SeaWorld had established special protocols for Tilikum, which prohibited "waterwork" and, among other things, required non-killer whale personnel and guests to stay five feet behind pool walls or three feet from Tilikum's head, indicating that SeaWorld recognized the possibility of harm to people standing outside of the pool on land. Although "drywork" with Tilikum continued, SeaWorld limited it to a team of experienced trainers who used extra caution. The caution with which SeaWorld treated Tilikum even when trainers were poolside or on "slideouts" in the pool indicates that it recognized the hazard the killer whale posed, not that it considered its protocols rendered Tilikum safe.
 
@@ -369,7 +369,7 @@ SeaWorld's suggestion that because trainers "formally accepted and controlled th
 
 The Secretary and the Commission could also reasonably determine that the remedy does not go to the essence of SeaWorld's productions. SeaWorld has had no "waterwork" performances since Ms. Brancheau's death in 2010, and it temporarily suspended "waterwork" after other incidents, such as the killing of a trainer by a killer whale in 2009 at a nonSeaWorld park in Spain. With distance and physical barriers between Tilikum and trainers during drywork, Tilikum can still perform almost the same behaviors performed when no barriers were present. The nature of SeaWorld's workplace and the unusual nature of the hazard to its employees performing in close physical contact with killer whales do not remove SeaWorld from its obligation under the General Duty Clause to protect its employees from recognized hazards.
 
-##### C.
+[C.]{.casesubsection}
 
 Substantial evidence supports the ALJ's findings that it was feasible for SeaWorld to abate the hazard to its employees by using barriers or minimum distance between trainers and killer whales, most notably because SeaWorld has implemented many of these measures on its own. When an employer has existing safety procedures, the burden is on the Secretary to show that those procedures are inadequate. The record evidence showed that SeaWorld's training and protocols did not prevent continued incidents, including the submerging and biting of one trainer in 2006, the killing of a trainer by a SeaWorld-trained and—owned killer whale in 2009 at an amusement park in Spain, and Ms. Brancheau's death in 2010. SeaWorld employees repeatedly acknowledged the unpredictability of its killer whales. This record evidence supports the ALJ's finding that existing protocols were inadequate to eliminate or materially reduce the hazard to SeaWorld's trainer employees performing with killer whales.
 
@@ -377,7 +377,7 @@ Abatement is "feasible" when it is "economically and technologically capable of 
 
 To the extent SeaWorld suggests that veterinary care would be less effective and dangers to trainers from killer whales might increase absent close contact during performances, this issue is not properly before the court. SeaWorld's petition to the Commission for review did not include this issue, and SeaWorld presents no extraordinary circumstances to excuse its failure to do so. The court, therefore, lacks jurisdiction to consider it. 
 
-##### D.
+[D.]{.casesubsection}
 
 Facial challenges to the general duty clause have been rejected, and although an as-applied challenge would be possible, courts have long accommodated possible constitutional problems with fair notice in this context by interpreting "recognized hazard" only to include preventable hazards, or applying the clause only "when a reasonably prudent employer in the industry would have known that the proposed method of abatement was required," 
 
@@ -387,7 +387,7 @@ SeaWorld contends the general duty clause is unconstitutionally vague as applied
 
 The Occupational Safety and Health Act of 1970 (Act) prohibits an employer from discharging or discriminating against any employee who exercises "any right afforded by" the Act. The Secretary of Labor (Secretary) has promulgated a regulation providing that, among the rights that the Act so protects, is the right of an employee to choose not to perform his assigned task because of a reasonable apprehension of death or serious injury coupled with a reasonable belief that no less drastic alternative is available. The question presented in the case before us is whether this regulation is consistent with the Act.
 
-#### I
+[I]{.casesection}
 
 The petitioner company maintains a manufacturing plant in Marion, Ohio, for the production of household appliances. Overhead conveyors transport appliance components throughout the plant. To protect employees from objects that occasionally fall from these conveyors, the petitioner has installed a horizontal wire-mesh guard screen approximately 20 feet above the plant floor. This mesh screen is welded to angleiron frames suspended from the building's structural steel skeleton.
 
@@ -407,7 +407,7 @@ Following a bench trial, the District Court found that the regulation in questio
 
 The Court of Appeals for the Sixth Circuit reversed the District Court's judgment. Finding ample support in the record for the District Court's factual determination that the actions of Deemer and Cornwell had been justified under the Secretary's regulation, the appellate court disagreed with the District Court's conclusion that the regulation is invalid. It accordingly remanded the case to the District Court for further proceedings. We granted certiorari, because the decision of the Court of Appeals in this case conflicts with those of two other Courts of Appeals on the important question in issue. That question, as stated at the outset of this opinion, is whether the Secretary's regulation authorizing employee "self-help" in some circumstances, [[29 CFR § 1977.12(b)(2)](https://www.law.cornell.edu/cfr/text/29/1977.12), is permissible under the Act.
 
-#### II
+[II]{.casesection}
 
 The Act itself creates an express mechanism for protecting workers from employment conditions believed to pose an emergent threat of death or serious injury. Upon receipt of an employee inspection request stating reasonable grounds to believe that an imminent danger is present in a workplace, OSHA must conduct an inspection. 29 U.S.C. § 657(f)(1). In the event this inspection reveals workplace conditions or practices that "could reasonably be expected to cause death or serious physical harm immediately or before the imminence of such danger can be eliminated through the enforcement procedures otherwise provided by" the Act, 29 U.S.C. § 662(a), the OSHA inspector must inform the affected employees and the employer of the danger and notify them that he is recommending to the Secretary that injunctive relief be sought. § 662(c). At this juncture, the Secretary can petition a federal court to restrain the conditions or practices giving rise to the imminent danger. By means of a temporary restraining order or preliminary injunction, the court may then require the employer to avoid, correct, or remove the danger or to prohibit employees from working in the area. § 662(a).
 
@@ -421,7 +421,7 @@ Nothing in the Act suggests that those few employees who have to face this dilem
 
 The question before us is whether this interpretative regulation constitutes a permissible gloss on the Act by the Secretary, in light of the Act's language, structure, and legislative history. Our inquiry is informed by an awareness that the regulation is entitled to deference unless it can be said not to be a reasoned and supportable interpretation of the Act. 
 
-##### A
+[A]{.casesubsection}
 
 The regulation clearly conforms to the fundamental objective of the Act—to prevent occupational deaths and serious injuries. The Act, in its preamble, declares that its purpose and policy is "to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to _preserve_ our human resources.." 29 U.S.C. § 651(b). 
 
@@ -431,7 +431,7 @@ Moreover, the Secretary's regulation can be viewed as an appropriate aid to the 
 
 The regulation thus on its face appears to further the over-riding purpose of the Act, and rationally to complement its remedial scheme. In the absence of some contrary indication in the legislative history, the Secretary's regulation must, therefore, be upheld, particularly when it is remembered that safety legislation is to be liberally construed to effectuate the congressional purpose.
 
-##### B
+[B]{.casesubsection}
 
 In urging reversal of the judgment before us, the petitioner relies primarily on two aspects of the Act's legislative history.
 
@@ -459,7 +459,7 @@ As we read the pertinent legislative history, however, the petitioner misconceiv
 
 Neither of these congressional concerns is implicated by the regulation before us. The regulation accords no authority to Government officials. It simply permits private employees of a private employer to avoid workplace conditions that they believe pose grave dangers to their own safety. The employees have no power under the regulation to order their employer to correct the hazardous condition or to clear the dangerous workplace of others. Moreover, any employee who acts in reliance on the regulation runs the risk of discharge or reprimand in the event a court subsequently finds that he acted unreasonably or in bad faith. The regulation, therefore, does not remotely resemble the legislation that Congress rejected.
 
-##### C
+[C]{.casesubsection}
 
 For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by the Secretary in the valid exercise of his authority under the Act. Accordingly, the judgment of the Court of Appeals is affirmed.
 
@@ -594,7 +594,7 @@ Ramji filed suit for interference with her FMLA rights. At the district court, t
 
 But the FMLA does not set up a clash of Titans between itself and workers' compensation. So providing workers' compensation benefits cannot absolve an employer of all obligations under the FMLA. For this reason and others, and with the benefit of oral argument, we vacate the entry of summary judgment and remand for further proceedings.
 
-#### I.
+[I.]{.casesection}
 
 For nearly eleven years, Ramji worked as a housekeeper, cleaning patient-examination rooms, hallways, and bathrooms at Eastside Medical Center in Snellville, Georgia. Her daily tasks included mopping, sweeping, dusting, cleaning walls, removing trash, and making beds.
 
@@ -646,7 +646,7 @@ Ramji and Hospital Housekeeping ultimately agreed to a settlement of her workers
 
 After the settlement, Ramji began working with a physical therapist again. She fully recovered when she was finally able to take twelve continuous weeks of physical-therapy sessions and appropriate treatment. Ramji now maintains that she can perform all duties and functions required of her regular-duty position at Hospital Housekeeping.
 
-#### III.
+[III.]{.casesection}
 
 The FMLA entitles employees to take leave for certain family and medical reasons. 29 U.S.C. §§ 2601 and 2612. Among these, an eligible employee may take up to twelve weeks of leave because of a serious health condition that renders the employee unable to perform the functions of her position. § 2612(a)(1)(D). The FMLA also guarantees an eligible employee the right to be restored to her former position, or an equivalent position, at the end of her leave, provided she can execute the essential functions of her job. § 2614(a)(1). But if, after twelve weeks, the employee cannot perform an essential function of her job, her employer may choose to end her employment. 29 C.F.R. § 825.216(c).
 
@@ -654,7 +654,7 @@ Under the FMLA, a covered employer may not interfere with, restrain, or deny the
 
 To establish an FMLA interference claim, an employee must show she was entitled to a benefit under the FMLA and her employer denied her that benefit. But a technical FMLA violation alone is not enough. Rather, the employee must also "demonstrate some harm" from the alleged interference, and that harm must be "remediable by either "damages' or 'equitable relief.'" Below, we address each of these requirements as they relate to Ramji's claim.
 
-##### A.
+[A.]{.casesubsection}
 
 We begin by considering whether Ramji showed she was entitled to an FMLA benefit. To satisfy this requirement, an eligible employee must demonstrate that she sought leave for a qualifying reason and that she provided notice meeting certain criteria. 
 
@@ -678,7 +678,7 @@ Ramji contends that Hospital Housekeeping had real-time, sufficient notice of bo
 
 So taking the evidence in the light most favorable to Ramji, Ramji has established that she was entitled to an FMLA benefit. For that reason, Ramji meets the first element of an FMLA-interference claim.
 
-##### B.
+[B.]{.casesubsection}
 
 That brings us to the second element of an FMLA interference claim—whether Ramji demonstrated that Hospital Housekeeping denied her a leave benefit under the FMLA. 
 
@@ -698,7 +698,7 @@ So once Dr. Harkins cleared Ramji for a light-duty position instead of the same 
 
 And even assuming Hospital Housekeeping had the best of intentions in adopting a wait-and-see approach after Ramji's September 23 follow-up appointment, an "employer's motives are irrelevant" under the FMLA. We also find no basis to conclude that this reason for Hospital Housekeeping's delay qualifies as an extenuating circumstance justifying its failure to provide Ramji with notice within the five-day period. 29 C.F.R. § 825.300(b)(1). Because Hospital Housekeeping did not give Ramji any FMLA notice whatsoever, it did not satisfy its FMLA notice obligations under 29 C.F.R. § 825.300(b)(1) and (c)(1). It therefore denied her a leave benefit under the FMLA, so Ramji established the second element of the FMLA interference claim.
 
-##### C.
+[C.]{.casesubsection}
 
 Finally, we must determine whether Ramji can demonstrate harm, or prejudice, resulting from the employer's interference with her exercise (or attempted exercise) of an FMLA benefit to which she is entitled. An employee may obtain relief for interference with an FMLA right only if she "has been prejudiced by the violation." So an employee must show that the FMLA violation caused her to suffer injury that could be remedied in a way that the FMLA allows: damages or equitable relief.
 
@@ -835,7 +835,7 @@ Kenneth Frilando then sued the NYCTA and MaBSTOA (collectively, "Defendants"), a
 
 The Court has carefully reviewed the parties' pretrial submissions, the transcript of the trial, the trial exhibits, and the parties' post-trial submissions. In addition, the Court has made credibility determinations based, among other things, on its observation of each witness's demeanor and the consistency and logic of the witness's accounts. Based on all this, the Court now issues its findings of fact and conclusions of law and, for the reasons that follow, grants judgment in favor of Defendants.
 
-#### Findings of Fact
+[Findings of Fact]{.casesection}
 
 Kenneth Frilando is profoundly deaf. With hearing aids, Mr. Frilando can detect environmental noises like car horns, but he cannot understand spoken English and "has extremely poor speech and lip reading skills." Specifically, Mr. Frilando reads English at only a third-grade reading level. Even with the aid of a dictionary or computerized "auto-correct," he can write only hesitantly in English. In contrast, "he is completely fluent in American Sign Language."
 
@@ -867,7 +867,7 @@ On November 21, 2017, Mr. Frilando requested ASL interpretation of the instructi
 
 In late August 2018, the Exams Unit ultimately offered Mr. Frilando 200% of the time otherwise prescribed for taking each exam, as well as ASL interpretation of the spoken and printed exam instructions. However, the Exams Unit maintained that it would "not provide translation or interpretation services of test examination questions for any candidate whose primary language is not English," because "the positions require that the candidate understand and be understood in English." The NYCTA offered Mr. Frilando several late August and early September 2018 test dates for the track worker, train operator, and bus operator exams, but Mr. Frilando did not take any of the three exams.
 
-#### Conclusions of Law
+[Conclusions of Law]{.casesection}
 
 Against this factual background, Mr. Frilando argues that Defendants discriminated against him on the basis of disability in violation of the ADA, the NYSHRL, the NYCHRL, and the Rehabilitation Act by failing to accommodate his request for ASL interpretation of the questions and answers on the track worker, train operator, and bus operator exams. For the reasons that follow, the Court concludes that Defendants are not liable for disability discrimination under any of these laws.
 
@@ -879,7 +879,7 @@ This two-step inquiry follows from the text and structure of the ADA. Title I of
 
 As a result, Mr. Frilando can succeed on his disability discrimination claim if he can prove either of two things: either that he can perform the essential functions of the track worker, train operator, or bus operator jobs with (or without) an accommodation; or, alternatively, that Defendants' preemployment exams do not purport to measure English comprehension and expression. The Court considers each in turn.
 
-#### I. The Essential Functions of the Positions
+[I. The Essential Functions of the Positions]{.casesection}
 
 Mr. Frilando has not proven that he could perform the essential functions of the track worker, train operator, or bus operator jobs. When determining the "essential functions" of a position, courts look to (1) "the employer's judgment as to which functions are essential," (2) "written job descriptions prepared before advertising or interviewing applicants for the job," (3) "the amount of time spent on the job performing the function," and (4) "the work experience of past incumbents in the job." 29 C.F.R. § 1630.2(n)(3). The essential functions of a position "are a matter of judgment and opinion," and "the NYCTA has a statutory responsibility to operate the transit system 'for the safety of the public.'" The NYCTA "may properly deem" a function essential for operating public transport because the function "conduces to the safety of passengers and because it serves to limit NYCTA's tort liability in situations where an impairment might cause an accident as well as where it may be alleged to have done so." 
 
@@ -887,13 +887,13 @@ The NYCTA and MaBSTOA consider both the ability to engage in oral and written co
 
 The job analyses and Notices of Examination indicate that the essential functions of the track worker position include spoken communication with train operators and track workers about track hazards. The essential functions of the train operator position include making announcements in English and responding to bells, whistles, horns, and radio conversation. The essential functions of the bus operator position include writing reports on accidents and defective equipment, hearing horns and buzzers, and understanding verbal warnings in English. These functions are conducive to the safety of passengers, and thus the NYCTA and MaBSTOA have reasonably deemed them essential. Mr. Frilando is not qualified for any of the positions for which he applied, both because, as he concedes, he cannot understand or be understood in spoken English, and because trial testimony shows that Mr. Frilando cannot satisfy the minimum hearing standard for any position. 
 
-#### II. Defendants' Use of Preemployment Exams
+[II. Defendants' Use of Preemployment Exams]{.casesection}
 
 Mr. Frilando also has not proven that Defendants' preemployment exams do not intend to measure English comprehension. While the civil service exams may not have been designed to identify a particular grade level of reading proficiency, the exams are designed to test the written comprehension and expression necessary to perform transit job functions. The Exams Unit determined that the track worker, train operator, and bus operator exams should test "written comprehension" and "written expression." The Notices of Examination for the train operator and track worker exams confirm that the multiple-choice exams may test "the ability to understand written sentences or paragraphs" or "to use English for words or sentences in writing so others will understand." 
 
 The Court's review of the evidence related to the exams—including a review of one of the current examinations—convinces the Court that the tests not only purport to measure English comprehension and expression, but also do in fact function as English comprehension and expression tests. For instance, certain exam questions test only whether applicants can read signs to write accurate reports. Because the exams plainly purport to and do measure comprehension of written English and Mr. Frilando's proposed accommodation would eliminate that very skill, Mr. Frilando cannot prove that Defendants discriminated against him in test selection or administration within the meaning of 42 U.S.C. § 12112(a).
 
-##### Good-Faith Interactive Process
+[Good-Faith Interactive Process]{.casesubsection}
 
 Separate from the above, Mr. Frilando claims that Defendants can be held independently liable for failure to engage in an interactive process to assess his needs. Although federal, city, and state laws envision that employers will "engage in a good faith interactive process that assesses the needs of the disabled individual and the reasonableness of the accommodation requested," the precedents are clear that failure to engage in a good-faith interactive process is evidence tending to show disability discrimination, not an independent cause of action. 
 
@@ -907,7 +907,7 @@ Lauren Searls brings this action against Johns Hopkins Hospital ("JHH"), claimin
 The Rehabilitation Act (1973), 29 U.S.C. § 701 et seq., prohibits disability discrimination by federal government agencies, federally-funded programs, and federal contractors. The employment discrimination standards under the Rehabilitation Act are the same as under the ADA. 29 U.S.C. §§ 791(f) and 794(d).
 :::
 
-#### Background
+[Background]{.casesection}
 
 Searls is a deaf 2012 graduate of the Johns Hopkins School of Nursing. She can read lips but understands better through American Sign Language ("ASL"). When communicating with hearing individuals, she voices for herself. As a nursing student, Searls completed two clinical rotations in the Halsted 8 unit at JHH. During her clinical placements at JHH, the School of Nursing provided a full-time ASL interpreter. At the end of her final rotation, she received a faculty summary of her clinical performance. In the summary, the faculty member wrote that Searls "worked well with others on the team and communicated appropriately and with empathy with the patients and their families." Under "overall performance," the faculty member wrote:
 
@@ -937,7 +937,7 @@ Osborn and Rotman rescinded Searls' job offer in a letter dated September 28. Th
 
 In January 2013, after several months of searching for a new job, Searls began working as a nurse at the University of Rochester Medical Center's Strong Memorial Hospital ("Strong"), where she continues to work today. After Strong offered her the job, Searls requested a full-time ASL interpreter. Strong agreed, and since January 2013, Searls has worked with an ASL interpreter. Searls' supervisor at Strong testified that Searls' deafness and use of an interpreter have never negatively affected patient care, her response to alarms, or her participation in codes. At Strong, Searls has exceeded standards on her performance reviews and has received promotions.
 
-#### Analysis
+[Analysis]{.casesection}
 
 Searls claims that JHH violated the ADA and Section 504 of the Rehabilitation Act by rescinding her job offer even though she was a qualified individual who, with the accommodation of an ASL interpreter, was fully able to perform the essential job functions of a nurse. The ADA makes it illegal for an employer to "discriminate against a qualified individual on the basis of disability." 42 U.S.C. § 12112(a). To establish a prima facie case on her failure-to-accommodate claim, Searls must show that (1) she is an individual with a disability within the meaning of the ADA; (2) JHH had notice of her disability; (3) she could perform the essential functions of her job with a reasonable accommodation; and (4) JHH refused to make such reasonable accommodation. Section 504 of the Rehabilitation Act mandates that "no otherwise qualified individual with a disability shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance." 29 U.S.C. § 794(a). Employment discrimination claims brought under Section 504 are evaluated using the same standards as those "applied under Title I of the Americans with Disabilities Act of 1990."
 
@@ -945,7 +945,7 @@ Even if Searls establishes her prima facie failure-to-accommodate case, JHH may 
 
 The parties do not dispute that Searls is deaf and therefore has a disability within the meaning of the ADA and Section 504. JHH had notice of Searls' disability because she had previously worked at the hospital with ASL interpreters during her clinical rotations, and she formally requested an ASL interpreter during her employee health screening. Furthermore, it is undisputed that JHH declined to provide Searls with her requested accommodation of a full-time ASL interpreter and rescinded her job offer as a result. Thus, whether Searls can make out a prima facie case of disability discrimination depends on whether an ASL interpreter was a reasonable accommodation, which in turn depends on whether hiring an ASL interpreter to work with Searls would have reallocated essential job functions.
 
-#### I. Reasonable Accommodation
+[I. Reasonable Accommodation]{.casesection}
 
 The parties dispute whether Searls' request for a full-time accommodation was reasonable. To defeat an employer's motion for summary judgment, a plaintiff must "present evidence from which a jury may infer that the proposed accommodation is reasonable on its face, i.e., ordinarily or in the run of cases. A reasonable accommodation is one that is feasible or plausible." The reasonableness of an accommodation depends on whether it "enables the employee to perform the essential functions of the job in question." Essential job functions are "functions that bear more than a marginal relationship to the job at issue."
 
@@ -967,7 +967,7 @@ Searls' case is distinguishable from other cases where providing the requested a
 
 Therefore, because it is clear that Searls would retain responsibility for a substantial portion of the duties of communicating and responding to alarms if she were provided an ASL interpreter, the question becomes whether her inability to hear affected her ability to communicate and respond to alarms such that she would be "unable to 'perform' these essential functions within the meaning of the ADA. When the question is thus a matter of degree a plaintiff fails to perform the essential function only if her failure detrimentally affects the purpose of the employment." As noted, with the aid of an interpreter, Searls could perform a substantial portion of the essential job functions of communicating and responding to alarms—most importantly, those portions requiring nursing judgment—so that her inability to hear did not detrimentally affect the purpose of employing her as a nurse. A nurse's duties with respect to communicating and responding to alarms go beyond hearing what patients are saying and hearing an alarm ringing. Searls would have used her own medical expertise and training when speaking to patients, families, and other hospital personnel; providing care based on her exchanges with patients; and taking the appropriate action in response to an alarm after an interpreter communicated the sound of an alarm visually. Therefore, Searls' accommodation request would not have reallocated the essential job functions of communicating with others and responding to alarms. Searls' request for a full-time ASL interpreter was reasonable, and Searls has established a prima facie case of disability discrimination.
 
-#### II. Undue Hardship Defense
+[II. Undue Hardship Defense]{.casesection}
 
 JHH argues that providing Searls with an interpreter would have caused an undue hardship on the hospital's operations. An employer is not liable if it "can demonstrate that the accommodation would impose an undue hardship on the operation of its business." 42 U.S.C. § 12112(b)(5)(A). Title I of the ADA defines "undue hardship" as "an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B)." § 12111(10)(A). Subparagraph (B), in turn, provides a non-exhaustive list of relevant factors to be considered:
 
@@ -981,7 +981,7 @@ JHH essentially argues that it had no money in its budget for reasonable accommo
 
 Additionally, even if it is correct that the salary of a full-time ASL interpreter would be twice the salary of a nurse, that in itself does not establish that an ASL interpreter would be an undue hardship. The EEOC's interpretive guidance on its Title I ADA regulations explains that "simply comparing the cost of the accommodation to the salary of the individual with a disability in need of the accommodation will not suffice." 29 C.F.R. § 1630 app. Furthermore, it is "particularly relevant" that Strong has been able to accommodate deaf nurses. Because Strong has been able to provide Searls with an ASL interpreter, and because JHH seeks to prevail on its undue hardship defense based on its decision to budget $0 for reasonable accommodations, while failing to account for its $1.7 billion budget, JHH has not met its burden of establishing undue hardship. The plaintiff's motion for summary judgment on this defense will be granted.
 
-#### III. Direct Threat Defense
+[III. Direct Threat Defense]{.casesection}
 
 JHH also argues that employing Searls as a nurse would have imposed a direct threat. The ADA defines a "direct threat" as "a significant risk to the health or safety of others that cannot be eliminated by reasonable accommodation." 42 U.S.C. § 12111(3). An "employer must determine whether a reasonable accommodation would either eliminate the risk or reduce it to an acceptable level." In its motion for summary judgment, JHH notes that some alarms were only auditory and argues that "it would have been a significant patient safety risk to rely on an interpreter, without any nursing training, to engage in nursing judgment by determining which alarm was sounding and to rely on the interpreter's judgment to determine when a patient emergency was occurring, requiring nursing assistance." 
 

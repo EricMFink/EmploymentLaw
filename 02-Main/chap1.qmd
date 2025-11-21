@@ -98,11 +98,11 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ### Karen Orren, _Belated Feudalism_ (1991) 
 
-[The Order of the Workplace in Late-Nineteenth-Century America]{.case-h1}
+[The Order of the Workplace in Late-Nineteenth-Century America]{.casesection}
 
 When the United Stated embarked upon full-scale industrialization in the decades following the Civil War, American labor relations were a remnant of the ancient order, in the sense that arrangements established in England in previous centuries were carried forward and enforced in law, often with only slight modification, to form the framework of relations between American employers and their employees. 
 
-[The order of labor]{.case-h2}
+[The order of labor]{.casesubsection}
 
 At the most abstract level, "feudal" refers to the fact that the hierarchical relation of master and servant in nineteenth-century America was a remnant of the larger system of hierarchies that historically had extended up and down medieval society.
 
@@ -118,7 +118,7 @@ Another such principle was _quicquid acquietur servo acquietur domino_ ("whateve
 
 By the late nineteenth century, employers in the United States could sue workers for breach of contract for their earnings in other employment only when it could be shown that the work had been done during hours and activities in which the plaintiff employer had been entitled to the worker's efforts. In an 1877 _Treatise on the Law of Master and Servant_, however, Horace Wood devoted three full pages to Hargrave's "learned note" and concluded that under the rule of _quicquid acquietur servo_ the employer could also retain waged earned by a worker in outside activities if the money somehow came into the employer's hands.[Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).]{.aside} Moreover, even in its diluted American form, the law expressed the employer's proprietary interest not only in the worker's labor performed under the contract but also in all labor that might be performed by the worker's _person_, under a different contract, The remedy went beyond simply dismissing the worker or deducting from his wages for so many hours; it extended to the outside earnings acquired, as if they (as an extension of the worker) belonged to the master. Such a principle would seem incongruous not simply with the market-model morality of enterprising employees, but even with the more sober depictions of nineteenth-century workers as earnest breadwinners for their families. It was eminently compatible, however, with other features, likewise ancient, of the hierarchical structure of employment relations during the period. 
 
-[The judicial governance of master and servant]{.case-h2}
+[The judicial governance of master and servant]{.casesubsection}
 
 The links between past and present may be observed in the line of precedents used by American judges to decide the disputes between masters and servants and third parties that came before the courts. … 
 
@@ -132,7 +132,7 @@ A second principle in nineteenth-century labor law [was] the principle that a co
 
 This rule made it possible for employers to goad employees into quitting near the end of a term or pay period, and thereby benefit from their earlier labor without having to pay. But the "entire" contract principle was also basic to the full range of subject matters in dispute between nineteenth-century employers and employees, because very often other issues presented at law involved the question of whether or not a worker was entitled to, or had been unjustifiably denied, payment for his or her services. The principle was most important during the decades prior to the Civil War, when contracts definite as to term were more common than they would be later, but it retained its vitality after then as well, particularly with respect to salaried workers. The principle of hiring "at will," under which either party could terminate the contract for any reason, began to take hold in the 1880s; but in the meantime many courts continued to apply the English rule of an assumed annual hiring, or else held that the pay period (by the week, month, etc.) would determine the point at which back wages could be accrued and recovered. 
 
-[The province of work]{.case-h2}
+[The province of work]{.casesubsection}
 
 The principles of hierarchy and obedience imply the existence of jurisdictional boundaries within which authority is organized and enforced. ...
 
@@ -154,7 +154,7 @@ Under the rules of liability, ... employees stood in relation to one another as 
 
 Here the worker may be seen to have had less protection than members of the public at large against identical injuries caused by identical accidents. By virtue of one's status as an employee of the company in the course of whose business the injury occurred, one was unprotected against injuries for which the company would have assumed liability had they been inflicted on an ordinary member of the public. The evident injustice of the fellow-servant rule, which adversely affected the families and other associates of injured workers, as well as the workers themselves, would eventually lead to a major revolution in torts through the institution of workmen's compensation laws. Those laws would bring new inroads into the domain of master and servant. However, at a time when court decisions in other areas of the law were moving in the direction of universal contracts, the effect of workers' compensation laws was to enhance the status-based responsibilities of the employment relation. 
 
-[The province and the republic]{.case-h2}
+[The province and the republic]{.casesubsection}
 
 A final barrier against interference in the workplace was constitutional. Labor relations were bounded by the limits of legislative sovereignty. Regular payment of wages, and in money rather than scrip or credit; reasons for discharge, and wages due and service letters upon departure; removal of the fellow-servant defense against liability for injury; shorter hours of employment—these and other changes in the old law were obtained by workers and their political allies in legislation, through the activities of lobbying and elections. However, as is well known, in the majority of instances those statutes were overturned in review by the judiciary. 
 
@@ -234,7 +234,7 @@ The Circuit Court held the statutes under which the case was prosecuted to be un
 
 Florida advances no argument that the presumption section of this statute is constitutional, nor could it plausibly do so in view of our decisions. It contends, however, (1) that we can give no consideration to the presumption section because it was not in fact brought into play in the case, by reason of the plea of guilty; (2) that so severed the section denouncing the crime is constitutional.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 These issues emerge from an historical background against which the Florida legislation in question must be appraised.
 
@@ -252,7 +252,7 @@ These cases decided by this Court under the Act of 1867 came either from Florida
 
 In 1891, the Legislature created an offense of two elements: obtaining money or property upon a false promise to perform service, and abandonment of service without just cause and without restitution of what had been obtained. In 1905, this Court decided _Clyatt v. United States,_ indicating that any person, including public officers, even if acting under state law, might be guilty of violating the Federal Act. In 1907, the Florida Legislature enacted a new statute, nearly identical in terms with that of Alabama. In 1911, in _Bailey v. Alabama,_ this Court held such an act unconstitutional. In 1913, the Florida Legislature repealed the 1907 act, but re-enacted in substance the section denouncing the crime, omitting the presumption of intent from the failure to perform the service or make restitution. In 1919, the Florida Supreme Court held this act, standing alone, void under the authority of _Bailey v. Alabama._ Whereupon, at the session of 1919, the present statute was enacted, including the _prima facie_ evidence provisions, notwithstanding these decisions by the Supreme Court of Florida and by this Court. The Supreme Court of Florida later upheld a conviction under this statute on a plea of guilty, but declined to pass on the presumption section, because, as in the present case, the plea of guilty was thought to make its consideration unnecessary. The statute was re-enacted without substantial change in 1941. Again in 1943 it was re-enacted despite the fact that the year before we held a very similar Georgia statute unconstitutional in its entirety.
 
-[II.]{.case-h1}
+[II.]{.casesection}
 
 The State contends that we must exclude the _prima facie_ evidence provision from consideration because in fact it played no part in producing this conviction. Such was the holding of the State Supreme Court. We are not concluded by that holding, however, but under the circumstances are authorized to make an independent determination.
 
@@ -268,7 +268,7 @@ As we have seen, Florida persisted in putting upon its statute books a provision
 
 In the view we take of the purpose and effect of this _prima facie_ evidence provision it is not material whether as matter of state law it is regarded as an independent and severable provision.
 
-[III.]{.case-h1}
+[III.]{.casesection}
 
 We are induced by the evident misunderstanding of our decisions by the Florida Supreme Court, in what we are convinced was a conscientious and painstaking study of them, to make more explicit the basis of constitutional invalidity of this type of statute.
 

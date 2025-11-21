@@ -6,7 +6,7 @@
 
 Plaintiffs alleged that their former employer, Charter Communications, LLC, falsely accused them of theft after their employment was terminated. Following a weeklong trial, a jury agreed, finding Charter liable for defamation per se. Charter has moved for judgment as a matter of law or a new trial. In the alternative, it seeks reduction of the damage award. For the reasons explained below, the Court will reduce the punitive damages and deny Charter's motion in all other respects.
 
-#### Background
+[Background]{.casesection}
 
 The Court previously summarized the facts of this case as follows:
 
@@ -18,11 +18,11 @@ The Court previously summarized the facts of this case as follows:
 
 The case was tried solely on a theory of defamation per se. At the close of Plaintiffs' case, Charter moved for judgment as a matter of law, arguing that "Printer-gate" could not constitute defamation per se because it had no "objectively understood definition" and was not defamatory on its face; that Plaintiffs had no proof of damages to support a claim of defamation per quod; and that any inference arising from "Printer-gate" was true because the term referred to "an incident involving the unauthorized removal of company printers from Charter's premises." The Court denied that motion and later granted Plaintiffs' motion for judgment as a matter of law on Charter's truth defense, concluding that there was insufficient evidence from which a reasonable jury could find that Plaintiffs' actions constituted criminal theft. The jury ultimately found Charter liable, awarding each plaintiff $350,000 in compensatory damages and $1 million in punitive damages. The Court entered judgment for Plaintiffs in accordance with the jury's verdict, and Charter timely sought relief under Rules 50 and 59 of the Federal Rules of Civil Procedure.
 
-#### Analysis
+[Analysis]{.casesection}
 
 Charter renews its motion for judgment as a matter of law on the issue of whether the term "Printer-gate" can constitute defamation per se. It further argues that it is entitled to a new trial on the grounds that it should have been allowed to present the defenses of truth and qualified privilege; that James Eversole's testimony was admitted in error; and that the jury was required to find malice by clear and convincing evidence in order to award punitive damages. 
 
-##### Defamation Per Se
+[Defamation Per Se]{.casesubsection}
 
 As it has on numerous prior occasions, Charter argues that the term "Printer-gate" cannot constitute defamation per se. Charter first asserts that there was no evidence to support a finding that Simms's presentation imputed criminal conduct to Plaintiffs. It further contends that the Court, not the jury, should have determined whether defamation per se occurred. Neither argument is persuasive.
 
@@ -60,7 +60,7 @@ Clearly, the words "there was more to it than that" are not, on their face, defa
 
 At bottom, the dispute over the characterization of "Printer-gate" is whether it is _actionable_ per se or per quod—i.e., whether Plaintiffs should have been required to prove damages. As explained in _Stringer,_ no proof of damages is required where the statement amounts to an accusation of theft, whether direct or indirect. Charter is thus not entitled to judgment as a matter of law on this ground.
 
-##### Truth Defense
+[Truth Defense]{.casesubsection}
 
 Charter seeks a new trial on the ground that the Court "erred by granting judgment foreclosing the defense of truth." It contends that this "defense should have gone to the jury as long as there was evidence in the record—from any source—sufficient to permit a reasonable jury to conclude that Plaintiffs' actions met the definition of theft." The two cases it cites in support of this contention state no such rule. Charter next cites the Kentucky model jury instruction for theft by unlawful taking, asserting that "proving the defense of truth simply required evidence from which a jury could conclude" that the three statutory elements of theft were met. Those elements, as set out in the criminal pattern instruction, are (1) that Plaintiffs took property that belonged to Charter; (2) that in so doing, they knew the property was not their own and were not acting under a claim of right to it; and (3) that in taking the property, Plaintiffs intended to deprive Charter of it.
 
@@ -74,7 +74,7 @@ Charter's final assertion, that "there was evidence that Plaintiffs knew their c
 
 In sum, there was insufficient evidence for the jury to reasonably find that Plaintiffs intended to steal the printers, and the Court thus did not err in granting judgment as a matter of law on the issue of truth. Charter is not entitled to a new trial on this ground.
 
-##### Qualified Privilege
+[Qualified Privilege]{.casesubsection}
 
 Charter next argues that it should have been permitted to assert the defense of qualified privilege. Charter sought leave to amend its answer to assert qualified privilege after the deadline for amendment of pleadings had passed. Magistrate Judge Dave Whalin denied the motion, and the Court overruled Charter's objection to that ruling. In its post-trial motion, Charter argues for the first time that amendment was not required, and it again challenges the denial of its request to amend. 
 
@@ -84,17 +84,17 @@ The Court recognizes that availability of the qualified-privilege defense could 
 
 ### Arku v. Wells Fargo Bank, 621 F.Supp.3d 602 (W.D.N.C. 2022)
 
-#### Factual Background
+[Factual Background]{.casesection}
 
 Plaintiff Josephine Arku filed this action against Defendant Wells Fargo Bank, National Association (“Wells Fargo”) seeking compensatory damages for allegedly informing Plaintiff’s prospective employers that she owed Wells Fargo an overpayment which caused her to lose several job opportunities. 
 
 Accepting the well-pleaded factual allegations of the Complaint as true, Plaintiff worked for Wells Fargo for more than twenty years when she needed to take paid leave from work. Thereafter, in February 2016, she was subject to a corporate layoff and received a severance package which included continuation of her salary for eleven months. Wells Fargo calculated the number of benefits that Plaintiff received. In August 2016, Plaintiff accepted short-term employment for five months through Wells Fargo and then started to apply for other job opportunities. Potential employers notified Plaintiff that Wells Fargo reported her as owing an overpayment to Wells Fargo. Once Plaintiff became aware of the overpayment, she contacted Wells Fargo and paid back the overpayment with the understanding that Wells Fargo would remove the overpayment information from her record. After receiving payment, Wells Fargo failed to remove the overpayment information from Plaintiff’s record, despite numerous requests to do so. Between 2018 and 2020, Plaintiff applied to employers and believes, due to the overpayment listing on her record, that she lost various job opportunities. Plaintiff alleges that Wells Fargo’s failure to correct the adverse employment information caused her to lose $135,000 in income and resulted in a $100,000 increase in interest payments regarding her home and vehicle loans. 
 
-#### Discussion
+[Discussion]{.casesection}
 
 In the Motion to Dismiss, Wells Fargo argues (1) it is immune from civil liability; and (4) Plaintiff did not meet the heightened pleading standard for a negligent misrepresentation claim.
 
-##### Civil Immunity
+[Civil Immunity]{.casesubsection}
 
 Under [N.C. Gen. Stat. § 1-539.12](#ncgs-1-539-12), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
 
@@ -110,7 +110,7 @@ Moreover, the facts do not show that Wells Fargo disclosed the overpayment infor
 
 Regardless, even if the statute does apply to information about an employee’s failure to pay back an overpayment, it does not provide immunity when the information is false. Here, Plaintiff alleges that Wells Fargo failed to remove the overpayment information even after she repaid it, and that she lost potential employment because of this. Plaintiff thus alleges that she lost employment opportunities because of false information that Wells Fargo provided. This precludes civil immunity.
 
-##### Negligent Misrepresentation
+[Negligent Misrepresentation]{.casesubsection}
 
 Wells Fargo asserts that Plaintiff failed to meet the heightened pleading standard for a negligent misrepresentation claim. North Carolina has adopted the definition of negligent misrepresentation set forth in the Restatement (Second) of Torts under which:
 
@@ -165,7 +165,7 @@ Defendants moved for summary judgment on all the claims. The motion was heard on
 
 Plaintiff appealed the claims of slander _per se,_ malicious interference with contractual rights, and blacklisting, as to both defendants.
 
-#### I.
+[I.]{.casesection}
 
 Plaintiff contends that Angell's statements to Parker and Horton were slander _per se_ because they impeached her in her profession.
 
@@ -179,11 +179,11 @@ We find that plaintiff has not met the second element of this cause of action. P
 
 We note that defendant's statements to Parker and Horton may well have been in breach of the settlement agreement between plaintiff and defendant Angell Care, Inc. However, because plaintiff voluntarily dismissed her claim for breach of contract, issues relating to performance of that contract are not before us today.
 
-#### II.
+[II.]{.casesection}
 
 Plaintiff next contends that defendant maliciously interfered with her right to enter into an employment contract with Meyressa Schoonmaker and the North Carolina Center for Laws Affecting Women. In order to state a claim for malicious interference with contract, plaintiff must establish that the defendant's actions were malicious in the legal sense. To establish legal malice, a plaintiff must show that defendant interfered "with design of injury to plaintiff or gaining some advantage at his expense." Plaintiff never established that defendant intended to injure her or gain some advantage at her expense. The only evidence of malice plaintiff put forth is her belief that Angell felt ill will toward her because after she testified adversely to defendants in the _Bowling Green Health Care_ case, Angell raised his voice and exhibited anger toward the other party (not toward her). Plaintiff's speculation, without any facts to support it, is clearly insufficient to meet her burden of proof. A party cannot prevail against a motion for summary judgment by relying on "conclusory allegations, unsupported by facts." We affirm summary judgment for defendant on the malicious interference with contract claim.
 
-#### III.
+[III.]{.casesection}
 
 Plaintiff's third claim is that defendant Angell's conversations with Parker and Horton violated [N.C.Gen.Stat. § 14-355](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_14/GS_14-355.pdf), which prohibits blacklisting employees. Under this statute, an employer may be liable if, after discharging someone from employment, it prevents or attempts to prevent that person from obtaining employment:
 
@@ -197,7 +197,7 @@ Kadlec Medical Center and its insurer, Western Professional Insurance Company, f
 
 While under the influence of Demerol at Kadlec, Dr. Berry's negligent performance led to the near-death of a patient, resulting in a lawsuit against Kadlec. Plaintiffs claim here that the defendants' misleading referral letters were a legal cause of plaintiffs' financial injury, i.e., having to pay over $8 million to defend and settle the lawsuit. The jury found in favor of the plaintiffs and judgment followed. We reverse the judgment against Lakeview Medical, vacate the remainder of the judgment, and remand.
 
-#### Factual Background
+[Factual Background]{.casesection}
 
 Dr. Berry was a licensed anesthesiologist in Louisiana and practiced with Drs. William Preau, Mark Dennis, David Baldone, and Allan Parr at LAA. From November 2000 until his termination on March 13, 2001, Dr. Berry was a shareholder of LAA, the exclusive provider of anesthesia services to Lakeview Medical (a Louisiana hospital).
 
@@ -241,15 +241,15 @@ Dr. Berry's nurse went directly to her supervisor the next morning and expressed
 
 Jones's family sued Dr. Berry and Kadlec in Washington. Dr. Berry's insurer settled the claim against him. After the Washington court ruled that Kadlec would be responsible for Dr. Berry's conduct under _respondeat superior,_ Western, Kadlec's insurer, settled the claim against Kadlec.
 
-#### Procedural History
+[Procedural History]{.casesection}
 
 Kadlec and Western filed this suit in Louisiana district court against LAA, Dr. Dennis, Dr. Preau, Dr. Baldone, Dr. Parr, and Lakeview Medical, asserting Louisiana state law claims for intentional misrepresentation, negligent misrepresentation, strict responsibility misrepresentation, and general negligence. Plaintiffs alleged that defendants' tortious activity led to Kadlec's hiring of Dr. Berry and the resulting millions of dollars it had to expend settling the Jones lawsuit. Plaintiffs' claim against LAA for negligence, based on a negligent monitoring and investigation theory, was dismissed before trial.
 
 Plaintiffs' surviving claims for intentional and negligent misrepresentation arise out of the alleged misrepresentations in, and omissions from, the defendants' referral letters for Dr. Berry. These claims were tried to a jury, which returned a verdict in favor of the plaintiffs on both claims. The jury awarded plaintiffs $8.24 million, which is approximately equivalent to the amount Western spent settling the Jones lawsuit ($7.5 million) plus the amount it spent on attorneys fees, costs, and expenses (approximately $744,000) associated with the Jones lawsuit. The jury also found Kadlec and Dr. Berry negligent. The jury apportioned fault as follows: Dr. Dennis 20%; Dr. Preau 5%; Lakeview Medical 25%; Kadlec 17%; and Dr. Berry 33%. The judgments against Dr. Dennis and Dr. Preau were _in solido_ with LAA. Because defendants were found liable for intentional misrepresentation, plaintiffs' recovery was not reduced by the percentage of fault ascribed to Kadlec. But the amount was reduced to $5.52 million to account for Dr. Berry's 33% of the fault. The district court entered judgment against Lakeview Medical and LAA.
 
-#### Discussion
+[Discussion]{.casesection}
 
-##### The Intentional and Negligent Misrepresentation Claims
+[The Intentional and Negligent Misrepresentation Claims]{.casesubsection}
 
 The plaintiffs allege that the defendants committed two torts: intentional misrepresentation and negligent misrepresentation. The elements of a claim for _intentional_ misrepresentation in Louisiana are: (1) a misrepresentation of a material fact; (2) made with intent to deceive; and (3) causing justifiable reliance with resultant injury. To establish a claim for intentional misrepresentation when it is by silence or inaction, plaintiffs also must show that the defendant owed a duty to the plaintiff to disclose the information. To make out a _negligent_ misrepresentation claim in Louisiana: (1) there must be a legal duty on the part of the defendant to supply correct information; (2) there must be a breach of that duty, which can occur by omission as well as by affirmative misrepresentation; and (3) the breach must have caused damages to the plaintiff based on the plaintiff's reasonable reliance on the misrepresentation.
 
@@ -313,7 +313,7 @@ Mr. Pham initiated this civil action on March 9, 2021, raising three claims unde
 
 Aeva filed the instant Motion for Summary Judgment on February 10, 2022, seeking judgment in its favor on Plaintiff's FCRA claim. 
 
-#### Undisputed Material Facts
+[Undisputed Material Facts]{.casesection}
 
 The below material facts are drawn from the Parties' briefing and are undisputed unless otherwise noted.
 
@@ -331,13 +331,13 @@ The below material facts are drawn from the Parties' briefing and are undisputed
 
 7\. At some point after Mr. Pham submitted to a background check, Aeva decided not to hire Mr. Pham.
 
-#### Analysis
+[Analysis]{.casesection}
 
 The Fair Credit Reporting Act was enacted "to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information." 15 U.S.C. § 1681(b). The FCRA "enables consumers to protect their reputations, and to protect themselves against the dissemination of false or misleading credit information." "The FCRA places distinct obligations on three types of entities: (1) consumer reporting agencies; (2) users of consumer reports; and (3) furnishers of information." 
 
 Under the FCRA, users of consumer reports—like Aeva—must, "in using a consumer report for employment purposes," and "before taking any adverse action based in whole or in part on the report, provide to the consumer to whom the report relates (i) a copy of the report; and (ii) a description in writing of the rights of the consumer under this subchapter." "Congress intended applicants to have a real opportunity to contest an adverse employment decision based on a consumer report," and an applicant "must have enough time between the notice and the final decision to meaningfully contest or explain the contents of the report." 
 
-##### The Applicability of the FCRA
+[The Applicability of the FCRA]{.casesubsection}
 
 In its Motion for Summary Judgment, Aeva first argues that the FCRA is not applicable to this case because its decision to not hire Plaintiff was unrelated to and did not rely upon Plaintiff's background check. Aeva states that it is undisputed that "at no time was Mr. Pham told he was not hired based on the background report's improper red flag regarding a felony criminal case on an interim background check." Instead, Aeva asserts, Mr. Pham testified that he has "no evidence" that Aeva made its hiring decision based on the background report. Aeva supports its position by citing evidence to Ms. Deinet's deposition testimony, wherein Ms. Deinet testified that the decision to not hire Plaintiff was unrelated to the background report and that Ms. Deinet, "who made the hiring decision," never saw the background report until this lawsuit was filed. 
 
@@ -345,7 +345,7 @@ But Mr. Pham _has_ submitted evidence, in the form of his own testimony, that Ms
 
 The fact that Mr. Pham testified that he has "no evidence" that the hiring decision was based on his background check does not change the Court's conclusion. Mr. Pham, a non-lawyer, simply could have meant that he has no tangible evidence of the reasoning for the decision, i.e., a recording of the telephone call with Ms. Pendergrass. But Mr. Pham's testimony is evidence, and the Court must draw all reasonable inferences from that evidence in Mr. Pham's favor. Because a reasonable jury could conclude, based on Mr. Pham's testimony, that Aeva's decision to not hire Mr. Pham was based on the results of the background check, genuine issues of material fact preclude summary judgment on this basis.
 
-##### Actual Damages
+[Actual Damages]{.casesubsection}
 
 In the alternative, Aeva argues that Plaintiff cannot establish that he was actually damaged by Aeva's actions, which necessitates summary judgment in its favor. The FCRA establishes separate categories of damages for willful and negligent violations of the FCRA. A company that willfully fails to comply with FCRA requirements may be held liable for "any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000," as well as punitive damages and attorney's fees and costs. Therefore, a "consumer need not prove actual damages if the FCRA violation is willful, but may recover punitive damages and statutory damages ranging from $100 to $1,000." Meanwhile, an employer who negligently fails to comply with the FCRA may be liable for "any actual damages sustained by the consumer as a result of the failure" and fees and costs. Mr. Pham seeks "actual damages, statutory damages, costs, and attorney's fees," as well as punitive damages, pursuant to 15 U.S.C. § 1681n. 
 
@@ -357,7 +357,7 @@ Second, Aeva has not cited any legal authority suggesting that a settlement with
 
 Third, while Defendant suggests that Mr. Pham cannot demonstrate actual damages because he obtained alternative employment within 20 days of his interview with Aeva, the Court respectfully disagrees. Mr. Pham argues in his Response that he can establish actual damages because he "was unable to earn wages that he otherwise would have earned had he been permitted to begin working at Aeva." Indeed, Mr. Pham confirmed at his deposition that he "did not receive wages that he otherwise would have earned had he been offered employment with Aeva and begun working for Aeva." Although Plaintiff testified that he "had not been harmed" by Aeva's actions, which may contradict his statement, credibility determinations and resolution of conflicts in the evidence are issues reserved for the jury. Lost income is one type of actual damages available under the FCRA, and because Mr. Pham has produced evidence that of potentially lost income, the jury must assess its strength. But as Mr. Pham has already adduced evidence of actual damages, the Court is unpersuaded by Defendant's argument that Mr. Pham can produce no such evidence.
 
-##### Willful Violation of the FCRA
+[Willful Violation of the FCRA]{.casesubsection}
 
 Finally, Aeva argues that Plaintiff's request for statutory or punitive damages fails as a matter of law because he has presented no evidence that Aeva acted willfully or with reckless disregard in its purported FCRA violations. For this reason, it asserts that it is entitled to judgment in its favor on Plaintiff's FCRA claim. 
 
@@ -377,7 +377,7 @@ In sum, Mr. Pham has established genuine disputes of material fact concerning (1
 
 Plaintiff Henry Franklin, on behalf of himself and a putative class of similarly situated job applicants, has sued Defendants Vertex Global Solutions, Inc. ("Vertex") and Fresh Direct, LLC ("Fresh Direct," and collectively, "Defendants") for their alleged use of a pre-employment screening policy that discriminates against job applicants with criminal histories in violation of the New York City Human Rights Law (the "NYCHRL"), N.Y.C. Admin. Code §§ 8-101 to 8-131, as amended by the Fair Chance Act (the "FCA"), N.Y.C. Local Law 63 (2015). Vertex and Fresh Direct have each moved to dismiss Plaintiff's claims, contending that their hiring practices comply with New York City law and do not discriminate against individuals with criminal histories. Fresh Direct additionally argues that Plaintiff's claims should fail because he has not alleged Fresh Direct's participation in any facet of Plaintiff's employment application with Vertex. For the reasons outlined in the remainder of this Opinion, the Court denies Defendants' motions in full.
 
-#### Factual Background
+[Factual Background]{.casesection}
 
 Plaintiff Henry Franklin is a citizen of New York and a man with a criminal record. Defendant Vertex Global Solutions is a staffing agency headquartered in New York. Defendant Fresh Direct is a Delaware corporation specializing in direct-to-consumer food delivery, with its principal place of business in New York. 
 
@@ -391,9 +391,9 @@ Plaintiff alleges that his employment application was for a job with both Vertex
 
 As further evidence of the symbiotic relationship between Defendants, Plaintiff contends that Vertex touts that it offers customized services tailored to the specific requirements of individual employers like Fresh Direct. According to its website, Vertex advertises to prospective employer-clients that it "strives to understand your business, culture, and needs, to ensure we deliver candidates that fit your unique requirements." Vertex describes the value it adds to its clients' hiring process by characterizing itself as "a partner and an extension of your Human Resources Department." Notably, Vertex regularly conducted interviews for prospective Fresh Direct employees on-site at a Fresh Direct facility, as evidenced by an online job posting and Plaintiff's personal experience.
 
-#### Discussion
+[Discussion]{.casesection}
 
-##### New York City's Fair Chance Act [^Franklin5]
+[New York City's Fair Chance Act [^franklin5]]{.casesubsection}
 
 The FCA, which went into effect on October 27, 2015, amended the NYCHRL to provide additional protection from employment discrimination to individuals with criminal histories. _See_ N.Y.C. Local Law 63 (2015); _see also_ N.Y.C. Comm'n on Human Rights, [Legal Enforcement Guidance on the Fair Chance Act](https://www.nyc.gov/site/cchr/law/fair-chance-act.page) ("Enforcement Guidance") at 1 (June 24, 2016) ("The FCA is intended to level the playing field so that New Yorkers who are part of the approximately 70 million adults residing in the United States who have been arrested or convicted of a crime are 'not overlooked during the hiring process simply because they have to check a box.'"). With the aim of preventing an applicant's criminal history from tainting initial hiring decisions, the FCA regulates precisely when in the hiring process an employer may seek and use information regarding an applicant's criminal background. To this end, the FCA deems it an "unlawful employment practice" for most employers to "make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant." The FCA defines "any inquiry" as "any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information." The law further defines "any statement" as "a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check." The NYCCHR defined "conditional offer of employment" in the Enforcement Guidance as:
 
@@ -409,7 +409,7 @@ NYCCHR regulations interpreting the NYCHRL, as amended by the FCA, outline six h
 
 The NYCHRL affords a private right of action to "any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined by the NYCHRL." The NYCHRL defines a "person aggrieved" to include one whose "only injury is the deprivation of a right granted or protected by this chapter." In light of this statutory directive, courts are to assess NYCHRL claims "broadly in favor of discrimination plaintiffs to the extent that such a construction is reasonably possible." 
 
-##### Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA
+[Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA]{.casesubsection}
 
 Plaintiff asserts that Defendants' hiring practices violated his rights under the NYCHRL, as amended by the FCA, because Defendants (i) conducted a background check prior to extending a conditional offer of employment; (ii) declared that a background check would be conducted without first making a conditional offer of employment; and (iii) denied him employment without adhering to the Fair Chance Process. Plaintiff's central allegation is that the document that Defendants labeled a "conditional offer of employment" was a contrivance designed to circumvent the FCA and permit Defendants to scrutinize applicants' criminal histories prematurely in the hiring process. Defendants maintain the legitimacy of their conditional offer of employment and insist that their hiring practices accorded with the FCA. Defendants further argue that Franklin lost his right to an Article 23-A analysis before they rescinded their conditional offer because Franklin misrepresented his criminal history in executing the Background Check Release. The Court finds that Plaintiff has plausibly alleged that Defendants feigned a conditional offer of employment before inquiring into his criminal background. Accordingly, Plaintiff has stated a claim pursuant to the NYCHRL, as amended by the FCA.
 
@@ -427,7 +427,7 @@ In the enforcement guidance that was in effect at the time of Plaintiff's job ap
 
 Accordingly, the Court concludes that Plaintiff has plausibly alleged that Defendants failed to make him a genuine conditional offer of employment prior to inquiring into his criminal background, which constitutes an actionable violation of the NYCHRL, as amended by the FCA.
 
-##### Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer
+[Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer]{.casesubsection}
 
 Independent of whether Plaintiff has plausibly alleged a primary violation of the FCA, Fresh Direct asserts that Plaintiff has failed to allege a basis to hold Fresh Direct liable for the hiring practices instituted by Vertex. Fresh Direct argues that Plaintiff's theory of Fresh Direct's liability is premised entirely on speculation and that the Amended Complaint is bereft of factual allegations tying Fresh Direct to Plaintiff's application for employment with Vertex. Plaintiff rejoins that his allegations suggest that Fresh Direct facilitated Vertex's hiring of employees in an illegal manner and that Vertex employees were subject to Fresh Direct's control. Thus, Plaintiff contends, Fresh Direct may be held liable as either a joint employer or as an aider and abettor of Vertex's discriminatory conduct. The Court concludes that, at the pleading stage, Plaintiff has plausibly alleged that Fresh Direct both acted as Plaintiff's prospective joint employer and aided and abetted Vertex's discriminatory conduct.
 
@@ -449,7 +449,7 @@ In _Duff,_ the court concluded that a subcontracting company was not a plaintiff
 
 The Court finds there to be a critical distinction between the putative joint employer relationships in _Conde_ and _Duff_ and that between Fresh Direct and Vertex: Individuals hired by Vertex operated with the expectation that satisfactory performance would lead to a full-time offer from Fresh Direct. This puts the employer relationship between Vertex and Fresh Direct on a fundamentally different plane than those in _Conde_ and _Duff_. In _Conde,_ there was no allegation that a protracted period of good work at the cosmetics counter could get someone hired at the department store. Likewise in _Duff,_ good performance for the general contractor would not be expected to lead to a full-time employment opportunity with the subcontractor. Where the plaintiffs in those cases could have been moved to different department stores or worksites and still maintain their jobs with their formal employers, the job to which Plaintiff applied was restricted at all times to providing services to Fresh Direct. Furthermore, the first three months of an individual's employment with Vertex constituted a "probationary period" that could lead to a full-time offer with Fresh Direct. While it is true that Plaintiff would have been aided by additional allegations of precisely how Fresh Direct exercised control over Vertex hires and the extent to which Fresh Direct possessed the power to terminate Vertex employees, these matters are appropriate subjects of inquiry in discovery. Plaintiff has plausibly alleged that Fresh Direct exercised more control over Vertex's employees than that "minimal level of oversight" incident to any individual working on an employer's premises. Accordingly, the Court concludes that Fresh Direct and Vertex were Plaintiff's prospective joint employers and, therefore, that Fresh Direct may be held liable for Vertex's alleged NYCHRL violations.
 
-[^Franklin5]: (n. 5 in opinion) The FCA is one of a spate of so-called "ban the box" laws that have proliferated in jurisdictions across the United States; these laws generally prohibit the inclusion of questions related to conviction and arrest histories on job applications and delay criminal background checks until later in the hiring process. _See_ Beth Avery & Han Lu, [_Ban the Box: U.S. Cities, Counties, and States Adopt Fair Hiring Policies_](https://www.nelp.org/publication/ban-the-box-fair-chance-hiring-state-and-local-guide/), Nat'l Emp. L. Project (Oct. 1, 2021). 
+[^franklin5]: (n. 5 in opinion) The FCA is one of a spate of so-called "ban the box" laws that have proliferated in jurisdictions across the United States; these laws generally prohibit the inclusion of questions related to conviction and arrest histories on job applications and delay criminal background checks until later in the hiring process. _See_ Beth Avery & Han Lu, [_Ban the Box: U.S. Cities, Counties, and States Adopt Fair Hiring Policies_](https://www.nelp.org/publication/ban-the-box-fair-chance-hiring-state-and-local-guide/), Nat'l Emp. L. Project (Oct. 1, 2021). 
 
 ### Karraker v. Rent-A-Center, Inc., 411 F.3d 831 (7th Cir. 2005)
 
@@ -527,7 +527,7 @@ Dr. Koransky claims, for example, that the Pa scale "does not diagnose or detect
 
 Employers are in no way general insurers of acts committed by their employees, but as recognized by our precedent, an employer may owe a duty of care to a victim of an employee's intentional tort when there is a nexus between the employment relationship and the injury. Here, when the evidence is viewed in the light most favorable to the plaintiffs, plaintiffs, who are an elderly infirm couple that contracted with a company to provide them a personal care aide in their home, have shown a nexus between their injury and the employment relationship. The employee was inadequately screened and supervised, being placed in a position of opportunity to commit crimes against vulnerable plaintiffs after her employer suspected her of stealing from plaintiffs. Therefore, we conclude that the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding for entry of a judgment notwithstanding the verdict in favor of defendant. Further, the Court of Appeals misinterpreted North Carolina precedent, and thus erred by holding the trial court erred by denying defendant's requested instructions.
 
-#### Background
+[Background]{.casesection}
 
 On 29 September 2016, plaintiffs Thomas and Teresa Keith (Mr. and Mrs. Keith), an elderly married couple with health and mobility issues, were the victims of a home invasion and armed robbery orchestrated by a personal care aide working for defendant Health-Pro Home Care Services, Inc. (Health-Pro). The aide, Deitra Clark, was assigned to assist the Keiths in their home. Clark subsequently pleaded guilty to first-degree burglary and second-degree kidnapping for her conduct.
 
@@ -571,9 +571,9 @@ The dissent acknowledged that reasonable minds may reach different conclusions c
 
 The Keiths appealed based on the dissent . 
 
-#### Analysis
+[Analysis]{.casesection}
 
-##### Health-Pro's Rule 50 Motions
+[Health-Pro's Rule 50 Motions]{.casesubsection}
 
 To address the issues before us, we must summarize the relevant aspects of the law of this State concerning negligence and negligent hiring. The common law claim of negligence has three elements: (1) a legal duty owed by the defendant to the plaintiff, (2) a breach of that legal duty, and (3) injury proximately caused by the breach. Precedent decided by this Court further defines the contours of these three elements. For instance, this Court has recognized that "no legal duty exists unless the injury to the plaintiff was foreseeable and avoidable through due care." 
 
@@ -687,6 +687,6 @@ In this matter, Health-Pro acknowledged that it must discipline employees when H
 
 Thus, in this case, the jury, not the court, must decide the outcome of the Keiths' claim. The Court of Appeals in this matter erred by not considering the evidence in the light most favorable to the Keiths, just as Health-Pro's arguments urge us to do. Health-Pro contends that Clark's actions bore no relationship to her employment and no action or inaction by Health-Pro proximately caused the Keiths' injuries because "any information Clark learned about the Keiths' home on the job could have been ascertained just as easily by others watching the home from the street." The jury could have agreed with Health-Pro and weighed the evidence in its favor but given the testimony and evidence before the trial court supporting a contrary interpretation of the facts, this argument cannot justify judgment in Health-Pro's favor as a matter of law. We must view all of the evidence which supports the Keith's claim as true and consider the evidence in the light most favorable to the Keiths, giving them the benefit of every reasonable inference that may legitimately be drawn therefrom and resolving contradictions, conflicts, and inconsistencies in their favor. Therefore, we conclude that the Court of Appeals erred by reversing the trial court and remanding for entry of judgment in favor of Health-Pro.
 
-#### Conclusion
+[Conclusion]{.casesection}
 
 We agree with the Court of Appeals that plaintiffs' negligence claim was dependent on a theory of negligent hiring, which is commonly plead as a negligent hiring claim. However, the evidence, taken in the light most favorable to plaintiffs, was sufficient as a matter of law to be presented to the jury. There was evidence to support each element of the claim, the _Medlin_ elements, and the _Little_ nexus requirement. Therefore, the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding to the trial court for entry of an order granting defendant's motion for judgment notwithstanding the verdict. Further, the Court of Appeals misinterpreted precedent from _Little,_ and under a proper reading of that case and other precedent, the jury instruction requested by defendant was not an accurate statement of the law. Therefore, the Court of Appeals also erred by holding that the trial court erred by denying defendant's requested instruction. Accordingly, we reverse the Court of Appeals' decision.

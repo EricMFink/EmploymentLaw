@@ -93,7 +93,7 @@
   {}
   [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
 
-% Case, etc. first heading
+% Case - Judge Name
 \titleformat{\subsubsection}
   [block]
   {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
@@ -102,7 +102,7 @@
   {}
   []
 
-% Case, etc. second heading
+
 \titleformat{\paragraph}
   [block]
   {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
@@ -110,6 +110,14 @@
   {0em}
   {}
   []
+
+
+% Case, etc. first heading
+\newcommand{\casesection}[1]{\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
+% Case, etc. second heading
+\newcommand{\casesubsection}[1]{\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
+% Case, etc. third heading
+\newcommand{\casesubsubsection}[1]{\begin{center}\rmfamily\normalsize{#1}\end{center}}
 
 %\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}

@@ -114,7 +114,7 @@ For the above reasons I vote to allow the infant plaintiff to pursue his common 
 
 Five participants in internship programs offered by defendant Hearst Corporation ("Hearst") sue for minimum wage under the Fair Labor Standards Act ("FLSA") and the New York Labor Law ("NYLL"). At issue is whether the unpaid interns were "employees" of Hearst for the purposes of the FLSA under [Glatt v. Fox Searchlight Pictures, Inc.](https://scholar.google.com/scholar_case?case=8101135012881799928), 811 F.3d 528 (2d Cir. 2016). We affirm the judgment of the United States District Court for the Southern District of New York, for the reasons stated in Judge Oetken's thorough opinion.
 
-#### I
+[I]{.casesection}
 
 The question is whether Hearst furnishes bona fide for-credit internships or whether it exploits student-interns to avoid hiring and compensating entry-level employees. The factual record is voluminous and advances multiple narratives, some of them contradictory; but the following essentials are undisputed.
 
@@ -130,7 +130,7 @@ In February 2012, lead plaintiff Xuedan Wang filed suit alleging that she and a 
 
 Hearst moved for summary judgment against the six remaining plaintiffs under the Glatt test. The district court granted the motion, and five plaintiffs filed a timely appeal. 
 
-#### II
+[II]{.casesection}
 
 The FLSA defines "employee" by tautology: an "individual employed by an employer." 29 U.S.C. § 203(e)(1). The standard for "employee" is broad, but the Supreme Court has long recognized that not every individual who performs a service for an employer qualifies as an "employee" under the FLSA. "Employee" status depends upon the "economic reality" of the relationship between the putative employer and employee. 
 
@@ -156,13 +156,13 @@ The totality of the circumstances should be considered in view of the "purpose o
 
 Judge Oetken analyzed each Glatt factor and determined that all of them except the sixth (displacement of paid employees) either favored Hearst to some degree or were neutral. In assessing the totality of the circumstances, the court concluded that the "Plaintiffs were interns rather than employees as a matter of law."
 
-#### III
+[III]{.casesection}
 
-##### A. Factors One and Seven
+[A. Factors One and Seven]{.casesubsection}
 
 The appellants concede that factors one and seven (expectation of payment and entitlement to a job, respectively) favor Hearst. They argue, however, that these factors bear little weight because FLSA rights cannot be waived. The interns' reading of these factors defies the clear mandate of Glatt, which explained that "any promise of compensation, express or implied, suggests that the intern is an employee—_and vice versa._". These factors are crucial to understanding the "economic reality" of the internship relationship; where, as here, the programs were described specifically as unpaid internships for students—and students applied to the internships with that unambiguous understanding—the relationship is far less likely to take on an abusive quality.
 
-##### B. Factors Two and Five
+[B. Factors Two and Five]{.casesubsection}
 
 The second factor (training) is at the heart of the dispute on appeal. The interns argue forcefully that Judge Oetken misconstrued this factor by broadening the ambit of "training" to include "practical skills." Wagster contends that the experience of having "sat in on marketing meetings" should have been discounted by his assignment to "take meeting minutes." Similarly, appellants argue that we should disregard Spencer's experience "learning about photo shoots" because she already knew how to use a camera. The interns would thus limit the discussion of beneficial training under the second factor to education that resembles university pedagogy to the exclusion of tasks that apply specific skills to the professional environment.
 
@@ -170,7 +170,7 @@ Appellants' interpretation ignores our instruction in Glatt that a key element o
 
 The interns argue that the district court "ignored" evidence that Hearst's internships were a poor substitute for classroom learning. In fact, the court accepted the complaints as true, and for that reason, concluded that the factor weighed only "slightly" in favor of Hearst. At the same time, it recognized that those complaints do not wholly offset the undisputed fact that the internships _did_ provide beneficial training. For this reason, the appellants also misread the closely related fifth Glatt factor (valuable duration) in arguing that the interns were not receiving "beneficial learning" when they performed repetitive or similar tasks they had already "learned." As exemplified by the meeting minutes and photoshoots, practical skill may entail practice, and an intern gains familiarity with an industry by day to day professional experience. 
 
-##### C. Factors Three and Four
+[C. Factors Three and Four]{.casesubsection}
 
 The third and fourth Glatt factors relate to the integration of the internship to the student-intern's academic program and academic calendar, respectively. Both parties and the district court acknowledge that the interns' experiences diverge with respect to these factors. In general, however, the internships were arranged to fit the academic calendar and required academic credit as a prerequisite.
 
@@ -180,13 +180,13 @@ It is argued that "there was no connection between a formal education program an
 
 For the majority of the interns here, the undisputed evidence also favors Hearst with respect to the fourth factor (academic calendar). Rappaport, Spencer, and Wheels interned during their college summer breaks in accordance with the school calendar. Wang had deferred her studies to intern between school years, and Wagster was not an active student during his internship. Hearst did not fail to accommodate their academic schedules when they had no schedules to accommodate.
 
-##### D. Factor Six
+[D. Factor Six]{.casesubsection}
 
 The sixth factor (displacement) considers the extent to which an intern's work complements the work of paid employees or displaces it. An intern's work is complementary if it requires some level of oversight or involvement by an employee, who may still bear primary responsibility. The district court considered that the sixth factor favored the interns because the interns completed some work regularly performed by paid employees.
 
 This factor alone is not dispositive. An intern may perform complementary tasks and in doing so confer tangible benefits on supervisors. The Glatt factors intentionally omitted a criteria that had been advanced by the Department of Labor that the alleged employer derive no immediate advantage from the activities of the intern. It is no longer a problem that an intern was useful or productive.
 
-#### IV
+[IV]{.casesection}
 
 The facts of this case permit inferences that support Hearst with respect to certain Glatt factors, and inferences that support particular interns with respect to other factors. The interns and amici urge that such mixed inferences foreclose a ruling on summary judgment. We disagree, for the reasons explained by the district court, which weighed all factors under the totality of the circumstances, and concluded that the interns are not "employees" for the purposes of the FLSA.
 
@@ -204,11 +204,11 @@ This case originated in 2019 when athletes at several National Collegiate Athlet
 
 For the reasons stated below, we will affirm in part the District Court's decision denying Appellants' motion to dismiss. But because the District Court erred by applying the test from _Glatt v. Fox Searchlight Pictures, Inc.,_ 811 F.3d 528 (2d Cir. 2016), to determine whether college athletes can be employees under the FLSA, we will vacate and remand for application of an economic realities analysis grounded in common-law agency principles.
 
-#### I. Background
+[I. Background]{.casesection}
 
 Appellees contend that they are entitled to minimum wage under the FLSA for time spent on their sport-related activities. Appellants are thirteen colleges and universities that are members of the NCAA. The NCAA regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and some 500,000 athletes. The NCAA has multi-year, multi-billion-dollar contracts with ESPN, CBS, and Turner Sports to broadcast athletic competitions between D-I schools, and it distributes shares of those broadcasting fees to its member institutions. In addition to shares of broadcasting fees, D-I. schools receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered, either individually or as part of an NCAA conference, to broadcast their athletic competitions. To understand how collegiate sport generates these revenues, a brief historical survey is instructive.
 
-##### A. College Athletics in Historical Context
+[A. College Athletics in Historical Context]{.casesubsection}
 
 American intercollegiate athletics began when a group of Yale students formed a boat club in 1843; undergraduates at Harvard followed suit the next year. In 1852, the two clubs staged our nation's first intercollegiate athletic competition (The Race) on a lake in New Hampshire. From that first contest, the spectacle of college sports has grown steadily to become a multi-billion-dollar industry.
 
@@ -228,7 +228,7 @@ The colleges are not alone in profiting. One study reported that 45 million Amer
 
 By far the most obvious beneficiaries of college sports are a select few administrators, athletic directors, and coaches. The recently retired Alabama football coach, Nick Saban, earned over $11.4 million in his last year leading the Crimson Tide, making him the highest-paid coach in college sports and the eighth-highest-paid football coach in America. In fact, seven-teen of the 37 highest-paid coaches in _any_ sport in the United States make their living in college football or basketball. By contrast, university professors and administrators make far less. The University of Virginia, for example, pays $900,000 each year to its president and $600,000 to its law school dean while its basketball coach receives $5.2 million. This is not abnormal; in forty states, the highest-paid public employee is a D-I coach. Ohio State president E. Gordon Gee summarized this upside-down world when, asked whether he would consider firing his embattled football coach, he quipped, "I'm just hoping the coach doesn't dismiss me."
 
-##### B. Amateurism and the "Student-Athlete" in College Athletics
+[B. Amateurism and the "Student-Athlete" in College Athletics]{.casesubsection}
 
 We have opted against using a term both parties employ liberally in briefing: "student-athlete." Like "band-aid" or "laundromat," "student-athlete" is essentially a brand name that has become synonymous with its product. As scholars have noted, the term is an NCAA marketing invention designed to "conjure the nobility of amateurism," assert "the precedence of scholarship over athletics," and "obfuscate the nature of the legal relationship at the heart of a growing commercial enterprise." Context makes this vividly apparent.
 
@@ -246,7 +246,7 @@ Justice Kavanaugh, in an oft-cited concurrence, noted that the NCAA's remaining 
 
  Appellants raise similarly circular arguments. But as the Supreme Court recently suggested, such rationales no longer hold the weight they once did. The National Labor Relations Board (NLRB), likely in response to _Alston,_ is for the first time taking the position that college athletes are employees for purposes of the National Labor Relations Act (NLRA). In the midst of these changes, our Court is the first to consider whether college athletes may also be employees under the ambit of the related FLSA.
 
-##### C. The Athletes at Bar
+[C. The Athletes at Bar]{.casesubsection}
 
 The plaintiffs allege that although the NCAA and its member schools profit from their efforts, the NCAA's bylaws prohibit member schools from offering wages and forbid students from accepting them. To enforce these rules, the bylaws prescribe sanctions for violating schools and students, including suspension or termination of athletes, suspension of coaching staff, and disqualification of teams from competitions. The NCAA and defendant schools argue that, although athletes do not earn wages, the benefits of participation include payment in other forms, such as increased discipline, a stronger work ethic, improved strategic thinking, time management, leadership, and goal setting skills, and a greater ability to work collaboratively.
 
@@ -256,7 +256,7 @@ In their First Amended Complaint, the athletes asserted claims under the FLSA fo
 
 On August 25, 2021, the District Court rejected this argument. In the absence of controlling authority providing a specific multifactor test to evaluate whether athletes can be considered "employees" under the FLSA, the District Court applied the Court of Appeals for the Second Circuit's multifactor test from _Glatt,_ where the Court considered whether unpaid interns must be deemed employees under the FLSA and therefore compensated for their work. The District Court determined that _Glatt_ required it to assess the "economic reality" of the relationship by identifying whether the athletes or the NCAA and schools were the primary beneficiary of the relationship. After balancing and considering the seven _Glatt_ factors, the District Court concluded that the athletes had plausibly pleaded that they may be employees and denied the motion to dismiss. Subsequently, the District Court granted the Appellants' motion to certify an interlocutory appeal from the denial of their motion to dismiss. The question certified for appeal was: "Whether NCAA Division I athletes can be employees of the colleges and universities they attend for purposes of the Fair Labor Standards Act solely by virtue of their participation in interscholastic athletics."
 
-#### II. Discussion
+[II. Discussion]{.casesection}
 
 The FLSA protects "the rights of those who toil, of those who sacrifice a full measure of their freedom and talents to the use and profit of others." Accordingly, it gives specific, non-waivable minimum protections to individuals to ensure that each covered employee receives "a fair day's pay for a fair day's work," and is protected from "the evil of 'overwork' as well as 'underpay,
 
@@ -270,7 +270,7 @@ Importantly, in determining that the _Alamo_ "volunteers" were actually employee
 
 Since _McComb,_ we and other courts of appeal have adopted multifactor tests to analyze, based on the circumstances of the whole relationship between the parties, whether individuals are employees or independent contractors, whether entities are joint employers, and whether individuals are employees or interns. Here, we confront circumstances unlike those previously addressed, but core principles that traditionally define an employee-employer relationship are no less applicable.
 
-##### A. Determining the Employment Status of College Athletes
+[A. Determining the Employment Status of College Athletes]{.casesubsection}
 
 In looking to "the economic realities of the relationship" between college athletes and their schools or the NCAA, we begin by noting that athletes in the collegiate context are _sui generis._ After all, merely playing sports, even at the college level, cannot always be considered commercial _work_ integral to the employer's business in the same way that the activities performed by independent contractors or interns are assumed to be in previously mentioned multifactor tests. The Supreme Court has acknowledged this possibility, explaining that the FLSA does not cover a person who, "without promise or expectation of compensation, but solely for his personal purpose or pleasure" performs "activities carried on by other persons either for their pleasure or profit." The Department of Labor (DOL) makes the same distinction. But just as intuitively, with professional athletes as the clearest indicators, playing sports can certainly constitute compensable work. Any test to determine college athlete employee status under the FLSA must therefore be able to identify athletes whose play is _also_ work.
 
@@ -288,7 +288,7 @@ Indeed, the facts that animate _Glatt_ are not sufficiently analogous to the cas
 
 We therefore hold that college athletes may be employees under the FLSA when they (a) perform services for another party, (b) "necessarily and primarily for the other party's benefit," and (d) in return for "express" or "implied" compensation or "in-kind benefits," If so, the athlete in question may plainly fall within the meaning of "employee" as defined in 29 U.S.C. § 203(e)(1). Ultimately, the touchstone remains whether the cumulative circumstances of the relationship between the athlete and college or NCAA reveal an economic reality that is that of an employee-employer.
 
-##### B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims
+[B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims]{.casesubsection}
 
 Appellants argue that the history and tradition of amateurism is sufficient not only to remove college athletes from the general population of people whose FLSA employment status is routinely determined through the application of multifactor tests, but also compels dismissal of this suit. We disagree. Although the Supreme Court remarked in _Board of Regents_ dicta that "the NCAA plays a critical role in the maintenance of a revered tradition of amateurism in college sports," it has since unanimously clarified that _Board of Regents_ did not expressly approve of _every_ NCAA limit on athlete compensation or foreclose "any meaningful review of those limits today." The NCAA's athlete compensation rules, after all, were not even at issue in _Board of Regents._ That case instead concerned the NCAA's attempt to exercise monopoly control over television broadcast agreements.
 
@@ -304,7 +304,7 @@ We disagree with our sister circuit court's comparison of college athletes to pr
 
 In sum, for the purposes of the FLSA, we will not use a "frayed tradition" of amateurism with such dubious history to define the economic reality of athletes' relationships to their schools. Instead, we believe that the amateurism that Judge Hamilton calls into question in his "note of caution" highlights the need for an economic realities framework that distinguishes college athletes who "play" their sports for predominantly recreational or noncommercial reasons from those whose play crosses the legal line into work protected by the FLSA. Accordingly, we also hold that college athletes cannot be barred as a matter of law from asserting FLSA claims simply by virtue of a "revered tradition of amateurism" in D-I athletics.
 
-#### III. Conclusion
+[III. Conclusion]{.casesection}
 
 In light of the foregoing, we will vacate the District Court's order, remand for further proceedings in compliance with this opinion, and direct the District Court to grant leave to amend.
 
@@ -312,13 +312,13 @@ In light of the foregoing, we will vacate the District Court's order, remand for
 
 I write separately to explain why I concur only in the judgment.
 
-#### III. Traditional multifactor tests and the amateurism principle are unhelpful guides.
+[III. Traditional multifactor tests and the amateurism principle are unhelpful guides.]{.casesection}
 
 I agree with the majority's rejection of the tests in cases distinguishing employee workers from independent-contractor workers or interns. In those cases, the analysis began with the undisputed premise that individuals performed "work" that was necessary and integral to their employer's business. Here, the critical antecedent question is whether student-athletes are "workers" providing "services" to an employer.
 
 I do not question the existence or virtue of amateurism in college athletics. But a combination of market forces, decades-spanning behavior of the NCAA and some Division I teams and athletes, and the Supreme Court's relevant antitrust decisions have enervated that concept, at least for some student-athletes. Whatever legal force amateurism once had in the Division I context, it is now insufficient to decide cases like this one. Instead, we must look to the language and rules provided by statute and Supreme Court decisions.
 
-#### IV. Play is not work.
+[IV. Play is not work.]{.casesection}
 
 The FLSA applies only to "employees" who perform "work" for an "employer." So an obvious starting point is to ask whether a student-athlete may play her chosen sport because she wants to play, not to work primarily for her university's benefit. Play is arguably a basic human good that many pursue for its own sake. It is not work, even though it may involve sustained, regulated, physical, or intellectual exertion and combine with other goals such as competition, teamwork, fitness, or personal glory.
 
@@ -334,7 +334,7 @@ Plaintiffs alleged that their college athletic experiences constitute work. But 
 
 The majority opinion helpfully acknowledges this nettlesome issue. But in my view, its definitional test does not adequately probe the distinction between play and work, nor explain how district courts should do so. In the following sections, I will explain my other scruples about the majority's proposed test and offer some affirmative thoughts.
 
-#### V. The economic-reality test continues to apply in FLSA cases.
+[V. The economic-reality test continues to apply in FLSA cases.]{.casesection}
 
 Congress and the Supreme Court have created a patchwork of tests for determining employee status under federal labor and employment laws. Initially, the Court used an "economic realities" test in cases applying the National Labor Relations Act (NLRA), FLSA, and Social Security Act (SSA). Almost immediately, Congress passed a joint resolution (the "Gearhart Resolution") rejecting the economic-realities test for the NLRA and SSA, and reiterating its intention that employee status under those statutes should be determined by traditional agency law principles. But Congress did not similarly amend the FLSA.
 
@@ -348,11 +348,11 @@ Other courts wrestling with the FLSA-employee question in the specific context o
 
 So while I appreciate the majority's attempt to fashion a test using common-law agency principles from NLRA cases, I respectfully decline to join that analysis without clearer direction from the Supreme Court. Instead, I think that the proper test for this case is to determine the economic reality of the parties' relationships considering the circumstances of the whole activity.
 
-#### VI. The majority's test raises but does not answer some important questions.
+[VI. The majority's test raises but does not answer some important questions.]{.casesection}
 
 In addition to my doubts about relying on common-law agency principles in the FLSA context, I find the majority's four-part test wanting in some respects.
 
-##### a
+[a]{.casesubsection}
 
 The test begins by asking whether the student-athlete performs "services" for his college or university. The majority does not define "services," but its test largely tracks the Restatement (Third) of Agency's definition of servant. That definition has not materially changed since the first Restatement of Agency (1933):
 
@@ -364,17 +364,17 @@ Webster's New International Dictionary 2288 (2d ed. 1950) defines "service" as t
 
 So the first part of the majority's test immediately raises—but does not clarify— the critical distinction between "service," "labor," or "work," as distinguished from play or sport. In a general sense, student-athletes serve the teams for which they play. But that is true of anyone who has ever played on a team: each player contributes her measure of skill and effort— her services, as it were—for the good of the entire team. That's the whole point of team sports. But one's contribution in the service of teamwork does not necessarily create an employment relationship.
 
-##### b
+[b]{.casesubsection}
 
 The second part of the majority's test asks whether the student-athlete's team participation is necessarily and primarily for the university's benefit. Again, there is a sense in which student-athletes obviously play for the benefit of their university's team. The NCAA Transfer Portal offers student-athletes the flexibility each year to choose where they wish to play. Once the student-athlete chooses, he enrolls in his chosen college or university and becomes a member of its team. But that has little or nothing to do with employment status; it's a basic correlate of matriculation and team membership. Naturally, the student's athletic prowess benefits his chosen team and university because that is how team sports operate. Division I student-athletes play or provide athletic "services" for the benefit of their team just as Division II, Division III, and high school athletes play or provide athletic "services" for the benefit of their respective teams. But something more is required to convert the majority's university-as-beneficiary factor into a useful indicia of employment.
 
 For example, in _Alamo Foundation,_ the religious foundation doubled as a commercial enterprise through its operation of profit-seeking "businesses serving the general public in competition with ordinary commercial enterprises." The enterprise included "service stations, retail clothing and grocery outlets, hog farms, roofing and electrical construction companies, a recordkeeping company, a motel, and companies engaged in the production and distribution of candy." The putative volunteers' work for those "ordinary commercial businesses" produced economic benefits for the foundation, so it was appropriate to characterize them as employees. Here, the factfinder should consider whether a university's sports team is (a) economically comparable to one of the Alamo Foundation's profit-seeking businesses, or (b) essentially an extra-curricular activity creating at best indirect and attenuated economic benefit for the university.
 
-##### c
+[c]{.casesubsection}
 
 The third factor of the majority's test asks whether the student-athlete plays under the university's control or right of control. This principle of agency law is not particularly helpful in the context of intercollegiate sports. High school students do not set their own rules for recruitment and college students do not set their own rules for eligibility and participation. Such autonomy would invite chaos, undermine teamwork, and destroy competition. Because team sports are collective actions, all teams have coaches and administrators that evaluate players, assemble rosters, allocate playing time, make personnel changes, determine strategy, call plays, set practice and game schedules, arrange transportation, and so forth. The players do not act independently of each other and the coaches because, again, team sports are collective actions requiring significant direction and coordination. The control or right-of-control factor does not go very far to distinguish Division I athletes from Division II athletes, Division III athletes, or other organized team-sport participants.
 
-##### d
+[d]{.casesubsection}
 
 The fourth factor of the majority's test asks whether the student-athlete provides services "in return for 'express' or 'implied' compensation of 'in-kind benefits.'" I agree that this factor is relevant to the work/play and employee/non-employee distinctions. The Supreme Court declared so in _Walling,_ and _Alamo Found._
 
@@ -390,7 +390,7 @@ Compared to FBS schools, the revenue vs. nonrevenue issue is presumably even mor
 
 I tend to agree with Judge Hamilton's intuition that the economic-reality question probably shakes out differently for FBS football players and March Madness-level men's basketball players than it does for other student-athletes. _See_ _Berger v. NCAA,_ 843 F.3d 285, 294 (7th Cir. 2016) (Hamilton, J., concurring). _See also_ _NCAA v. Alston,_ 594 U.S. 69, 141 S. Ct. 2141, 2166-69, 210 L.Ed.2d 814 (2021) (Kavanaugh, J., concurring) (focusing on the "enormous sums of money" generated in college athletics and noting distinction between revenue and "nonrevenue-raising sports"); _Agnew v. NCAA,_ 683 F.3d 328, 340-41 (7th Cir. 2012) (positing a relevant labor market, for purposes of the Sherman Act, consisting of "big-time college football programs"). That is a factual matter that the parties can develop in discovery. But any test that purports to gauge "economic reality" must be sensitive to the glaring difference between revenue generating and nonrevenue intercollegiate sports.
 
-#### VII. The FLSA-employee test should account for longstanding precedent and existing law.
+[VII. The FLSA-employee test should account for longstanding precedent and existing law.]{.casesection}
 
 For over 65 years, courts across the country have determined that student-athletes do not qualify as employees of their universities. 
 
@@ -398,7 +398,7 @@ As the Supreme Court emphasized in the antitrust context, changing market realit
 
 This case also presents difficult collateral legal issues that should give us pause. For example, the related-statutes canon requires harmonious interpretation of statutes. Employee-employer relationships are governed by Title VII, among other things, but Title VII's prohibition against employment discrimination because of sex sits uneasily with Title IX regulations and policy interpretations mandating equal "participation opportunities" (read, "participants") between the two sexes. FLSA employee status for student-athletes would also roil the percolating debate under Title IX over transgender athletes' participation on opposite-sex teams because Title VII, which would apply to collegiate athletics if student-athletes have employee status under FLSA, prohibits employment discrimination on the basis of gender identity. The notion that sports are integral to a university's educational purpose, rather than employment programs themselves, is the basis for several tax-advantageous rules benefitting universities and student-athletes, such as unrelated business income tax, and the taxation of athletic scholarships. And our disposition of this interlocutory appeal could impact student-athletes' eligibility for federal student aid, state worker's compensation regimes, student-athletes' immigration status, and the employment status of students participating in other college-supervised extracurricular activities. These potentially disruptive collateral effects implicate many other statutory schemes, revealing the legislative rather than adjudicative nature of plaintiffs' claims and providing another reason to slow down and proceed warily.
 
-#### VIII. Conclusion
+[VIII. Conclusion]{.casesection}
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
@@ -448,7 +448,7 @@ Until 2020, Baltimore County sent incarcerated people from its detention center 
 
 Courts—including this one—are generally skeptical of Fair Labor Standards Act claims brought by incarcerated workers. But there is no categorical rule that such workers cannot be covered by the Act when they work outside their detention facility's walls and for someone other than their immediate detainer. Having clarified the nature of the required analysis, we remand for a fresh look at the facts under those standards.
 
-[I.]{.case-h1}
+[I.]{.casesection}
 
 Baltimore County operates its own recycling center. The Department of Public Works (DPW) oversees the facility, where residential recycling from throughout the County is sorted. After being separated from non-recyclable waste, recyclable materials are further sorted into bales of "scrap metal, cardboard, mixed paper," "tin," "aluminum," and "four types" of plastic. The bales are then sold at auction to "commercial purchasers."
 
@@ -462,7 +462,7 @@ The district court conditionally certified a collective action to litigate the f
 
 The district court granted the County's motion for summary judgment and dismissed Scott's suit. The court concluded that Scott's claims all "failed as a matter of law" because neither he nor the people he represented were "employees" under the Act or its state law equivalents.
 
-[III.]{.case-h1}
+[III.]{.casesection}
 
 The Fair Labor Standards Act requires "a minimum wage and overtime pay for all covered employees." This appeal comes down to a single question: Were Scott and other members of the work detail at the recycling center "employees" under the Act?
 
@@ -478,7 +478,7 @@ At the same time, we reject Scott's assertion that _Harker_'s entire approach is
 
 Under _Harker,_ we consider three "factors" in deciding whether a particular detained worker is covered by the Act. Although _Harker_ and _Matherly_ discussed the factors in a different order, we arrange them as we do here because it allows us to begin with what looks like our previous cases before turning to what looks different. We start by asking whether the relationship between the workers and their putative employer had the hallmarks of "a true employer-employee relationship." We next consider whether the purposes of the Fair Labor Standards Act call for its application. Finally, we reach what turns out to be the critical question here: whether the putative employer had "a rehabilitative, rather than pecuniary, interest in" Scott's and his fellow plaintiffs' labor.
 
-[1.]{.case-h2}
+[1.]{.casesubsection}
 
 This Court has concluded that detainees who "have the opportunity" to work "solely at the prerogative of the custodian" "do not deal at arms' length" with their putative employer like the typical worker in the national economy. Such workers, the Court has explained, "have not made the bargained-for exchange of labor for mutual economic gain that occurs in a true employer-employee relationship" and the custodian "wields virtually absolute control over them to a degree simply not found in the free labor situation of true employment." 
 
@@ -496,7 +496,7 @@ A comparison between detainees on work release (who the County admits are employ
 
 To sum up: Because Scott needed DOC's approval to work at the recycling center, he did not bargain at arms' length with his putative employer under this Court's precedent. At the same time, however, there are—at minimum—genuine disputes of material fact that bear on whether Scott's putative employer exercised so much control as to prevent Scott from qualifying as an employee. Especially where "no single factor is dispositive," this factor alone is not enough to win this case for the County.
 
-[2.]{.case-h2}
+[2.]{.casesubsection}
 
 We next ask whether the purposes of the Act call for covering workers like Scott. Here too, our analysis points in both directions, but this time it tends to favor Scott.
 
@@ -518,7 +518,7 @@ That brings us to the second reason it matters that this work was done outside t
 
 That risk was realized here, too. The record contains evidence that the County sought to "get rid of the temp workers" at the recycling center—thereby eliminating what would have been at least minimum wage paying jobs—and thus "decrease costs" by getting "more consistent inmate numbers" to do the work instead. Perhaps the best proof that the use of incarcerated workers kept other workers from getting these jobs is that after the County stopped using incarcerated workers at the onset of the COVID-19 pandemic (and this lawsuit), it hired more temporary workers for the recycling center and paid them the minimum wage.[^scott2]
 
-[3.]{.case-h2}
+[3.]{.casesubsection}
 
 We arrive now at the last _Harker_ factor—whether the "inmates perform work... to turn profits for their supposed employer" or instead "as a means of rehabilitation and job training." 
 
@@ -552,7 +552,7 @@ To once again sum up: The question under this _Harker_ factor is whether DPW's p
 
 The district court, of course, did not have before it our analysis of these issues when it considered the County's motion for summary judgment. For that reason, it is understandable that the court's framing of the relevant legal standards differed from those set out in this opinion in various important respects. True, the de novo standard of review means we could apply those standards ourselves to decide whether to affirm the district court's grant of summary judgment to the County. But "we remain mindful that we are a court of review, not of first view", and we think it better to follow our usual practice of allowing the district court to conduct the required analysis in the first instance. Such an approach seems especially appropriate here given the inherently fact-intensive nature of the relevant inquiry. To be sure, the "_ultimate_ conclusion" about whether a given worker is an employee under the Act presents "a legal question." But many of the subsidiary questions that guide that analysis are, unsurprisingly, "factual questions." So while we do not foreclose the possibility of renewed summary judgment proceedings on remand, we emphasize that any factual disputes—including those bearing on the degree of control exercised at the recycling center and DPW's primary purpose in using incarcerated workers— must be viewed in the light most favorable to the non-moving party.
 
-[* * *]{.case-h1}
+[* * *]{.casesection}
 
 Congress may well not have had workers like Scott in mind when it enacted the Fair Labor Standards Act. "But ... it is ultimately the provisions of our laws rather than the principal concerns of our legislators by which we are governed." And "the fact that a statute can be applied in situations not expressly anticipated by Congress does not demonstrate ambiguity. It demonstrates breadth." These observations ring especially true for this statute—one "whose striking breadth" courts have long recognized. 
 
@@ -582,7 +582,7 @@ Capital Accounts set Mr. Clark’s wages and paid into his inmate trust account 
 
 The other privately operated joint ventures at WVCF—the wire shop and the sewing shop—pay inmate workers at rates comparable to non-inmate employees, up to $18.00 per hour. Mr. Clark “met, and meets, all of the qualifications for employment in” the wire shop and the sewing shop. The complaint provides no information about the duties or tasks performed by wire shop and sewing shop workers.
 
-[III. FLSA Claims]{.case-h1}
+[III. FLSA Claims]{.casesection}
 
 The FLSA directs that “[e]very employer shall pay to each of his employees” a minimum wage, which currently stands at $7.25 per hour—nearly five times Mr. Clark’s top wage at the call center. 29 U.S.C. § 206(a). The FLSA further directs that employers must pay a higher rate for overtime work, see 29 U.S.C. § 207(a), and that they may not discharge or discriminate against employees who seek to vindicate their rights under the FLSA, see 29 U.S.C. § 215(a)(3).
 
@@ -594,7 +594,7 @@ If inmates are excluded from the FLSA, it is “only because of presumed legisla
 
 Further, no controlling Seventh Circuit precedent supports the defendants’ position that Mr. Clark’s incarceration alone precludes him from FLSA coverage. In fact, in _Vanskike v. Peters_, 974 F.2d 806 (7th Cir. 1992), the Seventh Circuit held that a worker’s coverage under the FLSA requires a fact-intensive inquiry—an inquiry that the defendants have not undertaken here. Further, in _Vanskike_ and _Bennett_, the Seventh Circuit endorsed decisions holding that incarceration does not preclude FLSA coverage where the prisoner performs work for a third party and the work is unrelated to operation of the prison. Decisions from other courts in this Circuit do not call for a different outcome. Accordingly, this Court denies the defendants’ motion based on the clear guidance provided by the Seventh Circuit in the cases on which the defendants rely.
 
-[A. _Carter v. Dutchess Community College_: “An inmate may be entitled under the law to receive the federal minimum wage.”]{.case-h2}
+[A. _Carter v. Dutchess Community College_: “An inmate may be entitled under the law to receive the federal minimum wage.”]{.casesubsection}
 
 The defendants build their argument that the FLSA never protects prisoners on snippets from three Seventh Circuit decisions: _Vanskike_, _Bennett v. Frank_, 395 F.3d 409 (7th Cir. 2005), and _Sanders v. Hayden_, 544 F.3d 812, 814 (7th Cir. 2008). All three precedents remain good law, but none dealt with the facts of this case. Moreover, _Vanskike_ and _Bennett_ recognize that the Second Circuit provided the correct framework for resolving the facts Mr. Clark alleges in _Carter v. Dutchess Community College_, 735 F.2d 8 (2d Cir. 1984). Therefore, this Court follows the Seventh Circuit’s guidance and begins its analysis with Carter.
 
@@ -602,11 +602,11 @@ Carter was an inmate at a New York state prison. Dutchess Community College offe
 
 The Second Circuit considered “whether prisoners ever may be considered employees for the purposes of the minimum wage provisions of the FLSA.” It squarely rejected the defendants’ assertion that prisoners cannot be FLSA employees and held “that an inmate may be entitled under the law to receive the federal minimum wage from an outside employer.” Incarceration is not dispositive. Rather, to determine whether any worker is a FLSA “employee,” a “full inquiry into the true economic reality is necessary.”[^clark1]
 
-[B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality]{.case-h2}
+[B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality]{.casesubsection}
 
 The defendants correctly note that, in _Vanskike_, _Bennett_, and _Sanders_, the Seventh Circuit held that inmate workers were not employees protected by the FLSA. However, a careful reading of each case reveals that these were fact-specific rulings, not categorical holdings that inmates can never be FLSA employees. Indeed, _Vanskike_ directed courts to assess the totality of the worker’s economic reality when determining FLSA coverage, and both _Vanskike_ and _Bennett_ counseled that _Carter_’s holding that prisoners may be FLSA employees should govern cases where a prisoner performs work unrelated to prison operations.
 
-[1. _Vanskike_: Courts “must examine the ‘economic reality’ of the working relationship.”]{.case-h3}
+[1. _Vanskike_: Courts “must examine the ‘economic reality’ of the working relationship.”]{.casesubsubsection}
 
 _Vanskike_, an Illinois prisoner, sued the director of the Illinois Department of Correction under the FLSA for work he performed in Illinois state prisons. There is no indication that _Vanskike_ performed any of the work at issue for a private enterprise like the one Mr. Clark alleges.
 
@@ -616,7 +616,7 @@ All defendants quote _Vanskike_ for the proposition that the FLSA “does not ap
 
 _Vanskike_’s bottom line is that a prisoner’s status as a FLSA employee is a complicated question requiring a fact-intensive analysis. In _Vanskike_, the Seventh Circuit undertook the analysis in the case of a prisoner performing forced labor for his custodians. But Mr. Clark sues over voluntary work for a commercial enterprise, so there is no basis for finding that _Vanskike_’s fact-intensive analysis would yield the same result. Further, the defendants have not undertaken _Vanskike_’s fact-intensive analysis to the facts of this case, so the Court has no grounds to rely on _Vanskike_ as a basis for dismissal. _Vanskike_ requires that Mr. Clark’s FLSA claims move forward.
 
-[2. _Bennett_: “We have no quarrel with ... _Carter_.”]{.case-h3}
+[2. _Bennett_: “We have no quarrel with ... _Carter_.”]{.casesubsubsection}
 
 Unlike _Vanskike_, _Bennett_ offers almost no factual development. The question at issue was whether inmates of a privately operated Wisconsin prison were FLSA employees. The Court cited _Vanskike_ and cases from other circuits for the broad rule that “[t]he Fair Labor Standards Act is intended for the protection of employees, and prisoners are not employees of their prison, whether it is a public or a private one.” The Court emphasized that it had “no doubt that the cases” it “cited are correct” and that “employment status doesn’t depend on whether the alleged employer is a public or a private body.” 
 
@@ -636,7 +636,7 @@ Fourth, _Bennett_ expressly approved _Carter_ and endorsed the notion that the F
 
  In short, the Seventh Circuit directed in _Vanskike_ that a court faced with the question of the FLSA’s application to an inmate’s work must undertake a detailed factual inquiry. The _Vanskike_ Court completed that inquiry and determined that an inmate performing forced labor for his custodians is not their employee. _Bennett_ deemed _Vanskike_ and the decisions undergirding it correctly decided and extended its application only to prison labor for private entities contracted to provide custodial services. It does not support the broad rule the defendants advance, and it has no bearing on Mr. Clark’s claims that he provided debt collection services for a private enterprise.
 
-[3. _Sanders_: Further Support for _Vanskike_ and _Carter_]{.case-h3}
+[3. _Sanders_: Further Support for _Vanskike_ and _Carter_]{.casesubsubsection}
 
 In _Sanders_, a civilly committed sexually violent person sued state officials under 42 U.S.C. § 1983 for “reducing his pay for the work he performed at” his facility. The Seventh Circuit’s decision provides no information about the work Sanders performed, whether he performed it voluntarily, or whether he performed it for his custodians or a separate corporate enterprise.
 
@@ -644,7 +644,7 @@ The Seventh Circuit _sua sponte_ considered Sanders’ claims under the FLSA and
 
 As with _Bennett_, the defendants have not persuaded the Court that _Sanders_’ isolated statement that “inmates are not covered by the FLSA” dictates that Mr. Clark’s FLSA claims fail. The cases are not factually analogous. Moreover, _Sanders_ supports its proclamation with citations to _Vanskike_, which held that FLSA coverage requires a fact-specific inquiry, and _Bennett_, which built on _Vanskike_ and endorsed Carter. Sanders also cites _Danneskjold_, which upheld _Carter_’s holding that prisoners can be FLSA employees and adopted _Vanskike_’s fact-intensive economic reality analysis. Although _Danneskjold_ held that the FLSA does not cover “prison labor that produces goods or services for the use of the prison,” it explicitly declined to “address the questions that arise when the prison labor is employed to produce goods or services that are sold in commerce.” Those are precisely the questions Mr. Clark has raised, and a decision upholding _Vanskike_, _Carter_, and _Danneskjold_ cannot be the basis for dismissing them.
 
-[C. Other District Court Decisions]{.case-h2}
+[C. Other District Court Decisions]{.casesubsection}
 
 The defendants cite a series of District Court decisions for the proposition that a prisoner paid by a private entity for work performed at a prison is not an FLSA employee. But those precedents do not bind this Court, and, with one exception addressed below, they are not on all fours with Carter or this case.
 
@@ -658,7 +658,7 @@ In _Bridges v. Carter_, the Northern District of Indiana considered a constituti
 
 _Eltzroth v. Klutz_ was another constitutional challenge to pay deductions and was resolved on the same grounds. The factual discussion indicates that Eltzroth was paid at least the minimum wage, and there is no indication he asserted any claim or argument based on FLSA’s wage requirements.
 
-[D. _Vanderpool_: A Respectful Disagreement]{.case-h2}
+[D. _Vanderpool_: A Respectful Disagreement]{.casesubsection}
 
 That leaves _Vanderpool v. Capital Accounts_ (S.D. Ind. Mar. 11, 2024), a lawsuit identical to this one filed by another inmate who worked for pennies at the WVCF call center. Judge Hanlon granted a motion to dismiss by Capital Accounts, finding that _Vanskike_, _Bennett_, and _Sanders_ “hold—broadly as a matter of law—that prisoners are not employees under the FLSA.” For the reasons set out above, the Court respectfully disagrees with that broad reading of those precedents.
 
@@ -666,7 +666,7 @@ Judge Hanlon also relied on _Smith v. Dart_, which echoed _Bennett_ and _Sanders
 
 It is fundamental that “a district court decision does not have stare decisis effect; it is not a precedent.” “The fact of such a decision is not a reason for following it.” For the reasons set out above, the Court respectfully disagrees with the defendants’ interpretation of the Seventh Circuit’s FLSA precedents and, by extension Judge Hanlon’s decision in _Vanderpool_ applying that interpretation.
 
-[E. Conclusion]{.case-h2}
+[E. Conclusion]{.casesubsection}
 
 The Seventh Circuit has not directly confronted the question of whether the FLSA protects an inmate hired, supervised, and paid by a private, for-profit company to work on prison grounds for the exclusive purpose of enriching the private company. The defendants here do not address that question either and instead ask the Court to dismiss Mr. Clark’s FLSA claims for the sole reason that he is a prisoner.
 
@@ -682,7 +682,7 @@ The Seventh Circuit has held, unambiguously, that “status as an ‘employee’
 
 This case is an appeal from a grant of summary judgment on the question of whether drivers for UberBLACK are employees or independent contractors within the meaning of the Fair Labor Standards Act ("FLSA"), 29 U.S.C. §§ 201-219, and similar Pennsylvania state laws. For the following reasons, we will vacate the District Court's grant of summary judgment and remand for further proceedings.
 
-#### I. Facts
+[I. Facts]{.casesection}
 
 Plaintiffs Ali Razak, Kenan Sabani, and Khaldoun Cherdoud are Pennsylvania drivers who utilize Defendant Uber Technologies' ride-sharing mobile phone application ("Driver App"). Plaintiffs bring this action on behalf of a putative class of all persons who provide limousine services, now known as UberBLACK, through Defendant's Driver App in Philadelphia, Pennsylvania.Plaintiffs bring individual and representative claims against Uber Technologies, Inc. and its wholly-owned subsidiary, Gegen, LLC, ("Gegen," and collectively, "Uber") for violations of the federal minimum wage and overtime requirements under the FLSA, the Pennsylvania Minimum Wage Act ("PMWA"), and the Pennsylvania Wage Payment and Collection Law ("WPCL").
 
@@ -706,7 +706,7 @@ Uber asserts that it places no restrictions on drivers' ability to engage in per
 
 Alternatively, Plaintiffs claim that they are "employees" under the FLSA because they are controlled by Uber when they are online and perform an integral role for Uber's business. The District Court agreed with Uber's position, and granted Uber's Motion for Summary Judgment on the question of whether Plaintiffs qualify as "employees" of Uber under the FLSA and PMWA. Plaintiffs now appeal from the summary judgment order.
 
-#### III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._
+[III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._]{.casesection}
 
 The minimum wage and overtime wage provisions at issue all require that Plaintiffs prove that they are "employees." Although Plaintiffs' case includes claims under the PMWA, Pennsylvania state courts have looked to federal law regarding the FLSA for guidance in applying the PMWA. The FLSA defines "employer" as "including any person acting directly or indirectly in the interest of an employer in relation to an employee," and "employee" as "any individual employed by an employer." 29 U.S.C. §§ 203(d), (e)(1). Given the circularity of the definitions, federal courts, with guidance from the Department of Labor, have established standards to determine how to define employee and employer.
 
@@ -716,7 +716,7 @@ The Third Circuit utilizes the test out-lined in _Donovan v. DialAmerica Marketi
 
 Our decision in _DialAmerica_ is consistent with the Supreme Court's general guidance in _Rutherford Food Corp. v. McComb,_ 331 U.S. 722 (1947). In _Rutherford,_ the Supreme Court first determined "employee" status under the FLSA. And in _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
 
-#### IV. The District Court Opinion
+[IV. The District Court Opinion]{.casesection}
 
 The District Court granted summary judgment to Uber ruling that drivers for UberBLACK are independent contractors within the meaning of the FLSA and similar Pennsylvania laws. The District Court, in applying the six factors, relied heavily on the analysis in _DialAmerica_ and other cases that had examined the use of internet or app-based programs for acquiring work.
 
@@ -724,9 +724,9 @@ The District Court applied all six factors in _DialAmerica,_ and on balance, fou
 
 The District Court determined that only two factors militated in Plaintiffs' favor. As limousine drivers, the service they render does not really require a special skill. Second, the limousine driving service rendered to Uber by UberBLACK drivers is an essential part of Uber's business as a transportation company. The District Court held that the movant demonstrated that there was no genuine dispute as to any material fact, and that a majority of the _DialAmerica_ factors leaned against employment status. The District Court granted Uber's motion for summary judgment and determined that Plaintiffs were independent contractors.
 
-#### VI. Analysis
+[VI. Analysis]{.casesection}
 
-##### A. Genuine Disputes of Material Fact Exist
+[A. Genuine Disputes of Material Fact Exist]{.casesubsection}
 
 For summary judgment to have been appropriate, there must have been no genuine disputes as to any material facts on the record, entitling Uber to judgment as a matter of law. As such, if there is a genuine dispute of material fact, the question of which _DialAmerica_ factors favor employee status is a question of fact that should go to a fact-finder. Here, the ultimate question of law is whether Plaintiffs are employees or independent contractors, which is for a judge to decide. But, if a court finds that there are any issues of material fact that remain in genuine dispute, it must resolve those disputes prior to granting summary judgment. In _DialAmerica,_ the parties stipulated to some facts and reserved the right to present testimony on any remaining disputed issues. Then, the district court held an evidentiary hearing on the remaining disputed issues of fact:
 
@@ -744,7 +744,7 @@ These factual issues refer directly to the factors which determine whether someo
 
 _DialAmerica_ teaches that where there are genuine questions of material fact that need resolution, these questions must go to a fact-finder. This case presents such genuine disputes of material facts. Uber submitted a Statement of Undisputed Material Facts to which Plaintiffs responded with almost a hundred pages of disputes. For example, disputed facts include whether Plaintiffs are operating within Uber's system and under Uber's rules, and whether Plaintiffs or their corporations contracted directly with Uber. Although the District Court states that its decision derived from undisputed facts, the disputes presented by the parties go to the core of the _DialAmerica_ factors and present a genuine dispute of material facts. Accordingly, we will remand to the District Court as summary judgment was inappropriate.
 
-##### B. The "Right to Control" Factor
+[B. The "Right to Control" Factor]{.casesubsection}
 
 To illustrate that there are genuine disputes remaining, we look to the first _DialAmerica_ factor: "the degree of the alleged employer's right to control the manner in which the work is to be performed." While not dispositive, this factor is highly relevant to the FLSA analysis. The District Court in this case held that the first factor supported a finding of independent contractor status. Actual control of the manner of work is not essential; rather, it is the right to control which is determinative. 
 
@@ -758,19 +758,19 @@ Further, these and other disputed facts regarding control demonstrate why this c
 
 Although both parties argue that there are no genuine disputes regarding control, the facts adduced show otherwise. While Uber determines what drivers are paid and directs drivers where to drop off passengers, it lacks the right to control when drivers must drive. UberBLACK drivers exercise a high level of control, as they can drive as little or as much as they desire, without losing their ability to drive for UberBLACK. However, Uber deactivates drivers who fall short of the 4.7-star Uber-BLACK driver rating and limits the number of consecutive hours that a driver may work.
 
-##### C. Opportunity for Profit or Loss Depending on Managerial Skill
+[C. Opportunity for Profit or Loss Depending on Managerial Skill]{.casesubsection}
 
 As with the right to control, the District Court held that there was no genuine dispute as to another factor—the opportunity for profit or loss depending on managerial skill. Again, we disagree with the District Court's conclusion. The District Court, in this case, ruled that this factor strongly favored independent contractor status because drivers could be strategic in determining when, where, and how to utilize the Driver App to obtain more lucrative trip requests and to generate more profits. Plaintiffs could also work for competitors and transport private clients.[^Razak9]
 
 However, other material facts reveal that there was and still is a genuine dispute. For example, Uber decides (1) the fare; (2) which driver receives a trip request; (3) whether to refund or cancel a passenger's fare; and (4) a driver's territory, which is subject to change without notice. Moreover, Plaintiffs can drive for competitors, but Uber may attempt to frustrate those who try, and most of the factors that determine an UberBLACK driver's Uber-profit, like advertising and price setting, are also controlled by Uber.[^Razak10] Under the circumstances, we believe that a reasonable fact-finder could rule in favor of Plaintiffs.[^Razak11] Thus, summary judgment was inappropriate.
 
-##### D. Remaining _DialAmerica_ Factor Analysis
+[D. Remaining _DialAmerica_ Factor Analysis]{.casesubsection}
 
 Of the remaining factors, some do not require further factfinding, while others still do. The fifth factor, degree of permanence of the working relationship, has genuine disputes of material fact. On one hand, Uber can take drivers offline, and on the other hand, Plaintiffs can drive whenever they choose to turn on the Driver App, with no minimum amount of driving time required.
 
 Alternatively, the fourth factor, whether the service rendered requires a special skill, is clearer. It is generally accepted that "driving" is not itself a "special skill." Although there may be a distinction between "driving" and "replicating the limousine experience," as noted by the District Court, it is not enough to overcome the presumption that driving is not a special skill. This fourth factor certainly weighs in favor of finding that Plaintiffs are employees.
 
-#### VII. Conclusion
+[VII. Conclusion]{.casesection}
 
 In reviewing the District Court decision _de novo,_ we determine summary judgment was inappropriate because genuine disputes of material facts remained. For the foregoing reasons, we will remand the matter for further proceedings.
 
@@ -794,9 +794,9 @@ Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, e
 
 Plaintiffs bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
-#### II. Analysis
+[II. Analysis]{.casesection}
 
-##### A. Title VII
+[A. Title VII]{.casesubsection}
 
 Title VII prohibits an "employer" from engaging in certain "unlawful employment practices." The term "employer" means "a person engaged in an industry affecting commerce who has fifteen or more employees and any agent of such a person."
 
@@ -842,7 +842,7 @@ Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismis
 
 Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in NCAA Division 1 ("D1") interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants" or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named D1 universities (the "Non Attended School Defendants" or "NASD"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA; the Pennsylvania Minimum Wage Act (the "PMWA"); the New York Labor Law ("NYLL"); and the Connecticut Minimum Wage Act ("CMWA"). The Complaint also asserts three common law unjust enrichment claims. The NCAA and NASD (together the "Moving Defendants") have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) on the ground that Plaintiffs lack standing to sue them under Article III because they are not joint employers of Plaintiffs. For the reasons that follow, the Motion is granted in part and denied in part.
 
-#### I. Factual Background
+[I. Factual Background]{.casesection}
 
 The Complaint alleges the following facts. The NCAA is an association that regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and nearly 500,000 student athletes. The NCAA has entered into multi-year, multi-billion-dollar contracts with broadcasters ESPN, CBS, and Turner Sports to show athletic competitions between NCAA D1 member schools, and it distributes shares of those broadcasting fees to its member schools. In addition to shares of those broadcasting fees, NCAA D1 member schools also receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered into, either individually or as part of an NCAA conference, to broadcast athletic competitions between NCAA D1 member schools.
 
@@ -858,7 +858,7 @@ Based upon these factual allegations, the Complaint asserts that Plaintiffs are 
 
 The Attended Schools Defendants brought a Motion to Dismiss the Complaint as against them on the ground that it did not plausibly allege that they employed Plaintiffs, a requirement for liability under the FLSA. We denied that Motion on August 25, 2021, concluding that the Complaint plausibly alleges that Plaintiffs are employees of the ASD for purposes of the FLSA. The NCAA and the Non-Attended Schools Defendants have moved to dismiss all claims against them for lack of Article III standing on the ground that the Complaint does not plausibly allege that they are also employers of Plaintiffs, specifically that the Complaint does not plausibly allege that they are joint employers of Plaintiffs with the ASD.
 
-#### III. Discussion
+[III. Discussion]{.casesection}
 
 In Count I of the Complaint, Plaintiffs seek the payment of minimum wages from Defendants, including the NCAA and the NASD, for the hours they spent in connection with NCAA D1 intercollegiate athletics pursuant to Section 206 of the FLSA. "The minimum wage provision at issue requires that Plaintiffs prove that they are 'employees.'" The Moving Defendants argue in their Motion to Dismiss that Plaintiffs have failed to meet their burden of establishing "'the irreducible constitutional minimum' of Article III standing" because they are not employees of the Moving Defendants. To establish standing under Article 3, the Plaintiffs must establish the following three elements:
 
@@ -872,7 +872,7 @@ The FLSA defines the term "employee" as "any individual employed by an employer.
 
 Thus, we can grant the Moving Defendants' Motion to Dismiss for lack of subject matter jurisdiction only if the Complaint does not plausibly allege that the Moving Defendants are Plaintiffs' joint employers.
 
-##### A. The NCAA as a Regulatory Body
+[A. The NCAA as a Regulatory Body]{.casesubsection}
 
 The Moving Defendants argue that the NCAA cannot be a joint employer of Plaintiffs because it merely regulates Plaintiffs' participation in intercollegiate athletics. The Moving Defendants rely on _Dawson v. National Collegiate Athletic Association_, 932 F.3d 905 (9th Cir. 2019), in which the United States Court of Appeals for the Ninth Circuit affirmed a lower court decision holding that college student athletes who play football for schools in the NCAA D1 Football Bowl Subdivision are not employees of the NCAA and the PAC-12 Conference for purposes of the FLSA and California labor law. In _Dawson_, the Ninth Circuit considered three factors: (1) whether the plaintiff expected to be paid by the NCAA or the PAC-12 Conference, (2) whether the NCAA and the PAC-12 Conference had the power to hire or fire the plaintiff; and (3) whether there was "evidence that an arrangement was conceived or carried out to evade the law." The _Dawson_ court found that the plaintiff had no expectation of a scholarship or other compensation from the NCAA or the PAC-12 Conference and that "there was no evidence that the NCAA rules were 'conceived or carried out' to evade the law." The _Dawson_ court also determined that the complaint in that case alleged that the NCAA functioned solely as a regulator and not as an employer because, while the complaint alleged that "the NCAA Bylaws pervasively regulate college athletics," it did not allege that the NCAA hired or fired "or exercised any other analogous control, over student-athletes," or that the NCAA "chose the players on any Division I football team," or "engaged in the actual supervision of the players' performance." Rather, the complaint merely alleged that "the NCAA functions as a regulator, and that the NCAA member schools, for whom the student-athletes allegedly render services, enforce regulations." While the Moving Defendants urge us to simply adopt and apply _Dawson_'s analysis and conclusion in the instant case, the complaint in _Dawson_ is not identical to the Complaint in this case and, accordingly, we must engage in our own independent analysis of the instant Complaint.
 
@@ -882,7 +882,7 @@ The Moving Defendants also rely on _Callahan v. City of Chicago_, 813 F.3d 658 (
 
 However, as the Moving Defendants recognize, the NCAA, unlike the City of Chicago, is not a governmental entity. Moreover, _Callahan_, as a Seventh Circuit case, is not controlling authority in this district and, in any event, concerns a different set of factual allegations than are at issue in the instant case. Accordingly, instead of relying on either _Dawson_ or _Callahan_, we will analyze the Complaint using the factors developed by the Third Circuit to determine whether an entity is a joint employer.
 
-##### B. The Joint Employer Test
+[B. The Joint Employer Test]{.casesubsection}
 
 The Moving Defendants argue that the Complaint fails to plausibly allege that the NCAA and the NASD are joint employers of Plaintiffs under the four-factor test originally developed by the Ninth Circuit in _Bonnette v. California Health and Welfare Agency_, 704 F.2d 1465 (9th Cir. 1983), and subsequently adopted in part by the Third Circuit in _In re Enterprise Rent-A-Car_, 683 F.3d 462 (3d Cir. 2012). The Third Circuit announced in Enterprise Rent-A-Car that courts should use the following four factors, referred to as the _Enterprise_ test, when determining whether two entities are joint employers of the same individual or individuals:
 
@@ -926,7 +926,7 @@ As we have concluded that the facts alleged in the Complaint satisfy all four fa
 
 In contrast, we have concluded that the facts alleged in the Complaint do not satisfy any of the four factors of the Enterprise test as to the NASD. Accordingly, application of that test does not support a conclusion that the NASD are joint employers of Plaintiffs. Plaintiffs also argue, however, that the Complaint plausibly alleges that the NASD are joint employers of Plaintiffs under a "Sports League Joint Employment" theory that was developed and applied by the United States Court of Appeals for the Fifth Circuit in _North American Soccer League v. NLRB_, 613 F.2d 1379 (5th Cir. 1980). We will therefore consider whether the NASD can be considered joint employers under this alternative theory.
 
-##### C. The Sports League Joint Employment Theory
+[C. The Sports League Joint Employment Theory]{.casesubsection}
 
 In _North American Soccer League_, the Fifth Circuit examined whether the _North American Soccer League_ (the "League") and all of its member clubs were joint employers of all of the soccer players who played for clubs in the League in order to determine the "correct collective bargaining unit for the players in the League." The National Labor Relations Board ("NLRB") had concluded that the League and its member clubs were joint employers of the players and the Fifth Circuit determined that the record contained sufficient evidence to support that conclusion. The Fifth Circuit began its analysis with the proposition that "the existence of a joint employer relationship depends on the control which one employer exercises, or potentially exercises, over the labor relations policy of the other." The Fifth Circuit based its determination that the NLRB had properly deemed the League and the clubs to be joint employers on the following facts: (1) the League exercised "a significant degree of control over essential aspects of the clubs' labor relations, including but not limited to the selection, retention, and termination of the players, the terms of individual player contracts, dispute resolution and player discipline;" (2) "each club granted the League authority over not only its own labor relations but also, on its behalf, authority over the labor relations of the other member clubs;" (3) the clubs' activities were governed by the League's constitution and regulations, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club; (4) the League's regulations governed interclub trades and allowed the commissioner "to void trades not deemed to be in the best interest of the League;" (5) the League's regulations governed the termination of player contracts; (6) all player contracts were submitted to the League and the commissioner could "disapprove a contract deemed not in the best interest of the League;" (7) "disputes between a club and a player were required to be submitted to the commissioner for final and binding arbitration;" and (8) "control over player discipline was divided between the League and the clubs." 
 
