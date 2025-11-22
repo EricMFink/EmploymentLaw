@@ -2,7 +2,7 @@
 
 ::: {.sources}
 
-## Cases
+## Cases {.unnumbered}
 
 ### Federal
 
@@ -19,7 +19,7 @@
 ::: {#refs_othercases}
 :::
 
-## Statutes
+## Statutes {.unnumbered}
 
 ### Federal
 
@@ -36,7 +36,7 @@
 ::: {#refs_otherstatutes}
 :::
 
-## Books, Articles, & Other Publications
+## Books, Articles, & Other Publications {.unnumbered}
 
 ::: {#refs_other}
 :::

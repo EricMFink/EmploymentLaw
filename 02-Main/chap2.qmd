@@ -2,7 +2,7 @@
 
 ## Concerted Activity as Illegal Conspiracy 
 
-### Commonwealth v. Pullis (Phila. 1806), 3 Doc. Hist. of Am. Ind. Soc. 59 (2d ed. Commons 1910)
+### @CommonwealthPullis_Phila1806
 
 Indictment for common law conspiracy, tried before a jury consisting of two inn-keepers, a tavern-keeper, three grocers, a merchant, a hatter, a tobacconist, a watchmaker, a tailor, a bottler.
 
@@ -22,11 +22,11 @@ Consider it on the footing of the general commerce of the city. Is there any man
 
 What is the case now before us? A combination of workmen to raise their wages may be considered in a two fold point of view; one is to benefit themselves the other is to injure those who do not join their society. The rule of law condemns both. If the rule be clear, we are bound to conform to it even though we do not comprehend the principle upon which it is founded. We are not to reject it because we do not see the reason of it. It is enough, that is the will of the majority. It is law because it is their will—if it is law, there may be good reasons for it though we cannot find them out. But the rule in this case is pregnant with sound sense and all the authorities are clear upon the subject. 
 
-It is adopted by Blackstone,[William Blackstone (1723-1780) was a British lawyer, judge, and legal scholar. His treatise on the common law, [_Commentaries on the Laws of England_](https://www.gutenberg.org/files/30802/30802-h/30802-h.htm), was frequently cited as an authority by 19th century U.S. courts. William Murray, 1st Earl of Mansfield (1705-1793) was a prominent British lawyer and judge.]{.aside} and laid down as the law by Lord Mansfield, that an act innocent in an individual, is rendered criminal by a confederacy to effect it. One man determines not to work under a certain price and it may be individually the opinion of all; in such a case it would be lawful in each to refuse to do so, for if each stands, alone, either may extract from his determination when he pleases. In the turn-out["turn-out": an archaic word for a labor strike.]{.aside} of last fall, if each member of the body had stood alone, fettered by no promises to the rest, many of them might have changed their opinion as to the price of wages and gone to work; but it has been given to you in evidence, that they were bound down by their agreement, and pledged by mutual engagements, to persist in it, however contrary to their own judgment. The continuance in improper conduct may therefore well be attributed to the combination. The good sense of those individuals was prevented by this agreement, from having its free exercise.
+It is adopted by Blackstone,[William Blackstone (1723-1780) & William Murray, 1st Earl of Mansfield (1705-1793) were prominent British jurists.]{.aside} and laid down as the law by Lord Mansfield, that an act innocent in an individual, is rendered criminal by a confederacy to effect it. One man determines not to work under a certain price and it may be individually the opinion of all; in such a case it would be lawful in each to refuse to do so, for if each stands, alone, either may extract from his determination when he pleases. In the turn-out["turn-out": an archaic word for a labor strike.]{.aside} of last fall, if each member of the body had stood alone, fettered by no promises to the rest, many of them might have changed their opinion as to the price of wages and gone to work; but it has been given to you in evidence, that they were bound down by their agreement, and pledged by mutual engagements, to persist in it, however contrary to their own judgment. The continuance in improper conduct may therefore well be attributed to the combination. The good sense of those individuals was prevented by this agreement, from having its free exercise.
 
 The defendants were found guilty and were fined eight dollars each plus costs. 
 
-### Commonwealth v Hunt, 45 Mass. 111 (1842)
+### @CommonwealthHunt_Mass1842
 
 The general rule of the common law is, that it is a criminal and indictable offence, for two or more to confederate and combine together, by concerted means, to do that which is unlawful or criminal, to the injury of the public, or portions or classes of the community, or even to the rights of an individual. This rule of law may be equally in force as a rule of the common law, in England and in this Commonwealth; and yet it must depend upon the local laws of each country to determine, whether the purpose to be accomplished by the combination, or the concerted means of accomplishing it, be unlawful or criminal in the respective countries. 
 
@@ -74,11 +74,15 @@ Whatever illegal purpose can be found in the constitution of the Bootmakers' Soc
 
 ## Labor Injunctions and Yellow Dog Contracts 
 
-In the early 20th century, employers turned to a new weapon against organized labor: the [Sherman Antitrust Act of 1890](https://www.law.cornell.edu/uscode/text/15/1), 15 U.S.C. § 1, which outlaws "conspiracies in restraint of trade or commerce among the several States". The Supreme Court endorsed the application of the Sherman Act against labor union activity in the Danbury Hatters' case, [_Loewe v. Lawlor_](https://scholar.google.com/scholar_case?case=14933135668531662668), 208 U.S. 274 (1908). The case arose out of organizing efforts by the United Hatters of North America. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 union members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But the Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. On remand, the trial judge directed a verdict in favor of the company. After another appeal and retrial, which the union again lost, the case finally returned to the Supreme Court, which affirmed the judgment against the union. [_Lawlor v. Loewe_](https://scholar.google.com/scholar_case?case=55426214379828551), 235 U.S. 522 (1915).
+In the early 20th century, employers turned to a new weapon against organized labor: the @ShermanAntitrustAct1890, which outlaws "conspiracies in restraint of trade or commerce among the several States". The Supreme Court endorsed the application of the Sherman Act against labor union activity in the Danbury Hatters' case, @LoeweLawlor_US1908. The case arose out of organizing efforts by the United Hatters of North America. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 union members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But the Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. On remand, the trial judge directed a verdict in favor of the company. After another appeal and retrial, which the union again lost, the case finally returned to the Supreme Court, which affirmed the judgment against the union. @LawlorLoewe_US1915.
 
-> _The impact of Danbury Hatters was devastating for organized labor. The unions, and many others, felt that the statute had been interpreted improperly, inasmuch as organized labor was not the focal point of congressional debate that took place prior to the enactment of antitrust legislation. Moreover, because the Sherman Antitrust Act provides for treble damages rather than the actual amount of the losses incurred (as well as criminal sanctions), the final judgment after fourteen years of litigation in Danbury Hatters awarded a substantial amount of money ($250,000). What was particularly troublesome about the judgment was that the members of the union were individually and personally liable. Though the case was settled in 1917 for slightly over $234,000_^[Equivalent to about $6.5 million in 2023.] _and the AFL was able to obtain $216,000 in voluntary contributions from union members, the fact that labor had to "pass the hat" to avoid the foreclosure of members’ homes made the case unforgettable._ [@GouldIV2004, 14-15]
+> _The impact of Danbury Hatters was devastating for organized labor. The unions, and many others, felt that the statute had been interpreted improperly, inasmuch as organized labor was not the focal point of congressional debate that took place prior to the enactment of antitrust legislation. Moreover, because the Sherman Antitrust Act provides for treble damages rather than the actual amount of the losses incurred (as well as criminal sanctions), the final judgment after fourteen years of litigation in Danbury Hatters awarded a substantial amount of money ($250,000). What was particularly troublesome about the judgment was that the members of the union were individually and personally liable. Though the case was settled in 1917 for slightly over $234,000_^[Equivalent to about $6.5 million in 2023.] _and the AFL was able to obtain $216,000 in voluntary contributions from union members, the fact that labor had to "pass the hat" to avoid the foreclosure of members’ homes made the case unforgettable._[^gould1]
+ 
+[^gould1]: [@Gould2004, 14-15].
 
-In 1914, Congress amended federal antitrust law with the Clayton Antitrust Act, 15 U.S.C. § 1 et seq., which included provisions that union leader Samuel Gompers hailed as "labor's Magna Carta and Bill of Rights and the most important legislation since the abolition of slavery." [@GouldIV2004, 15-16]
+In 1914, Congress amended federal antitrust law with the @ClaytonAntitrustAct1914, which included provisions that union leader Samuel Gompers hailed as "labor's Magna Carta and Bill of Rights and the most important legislation since the abolition of slavery."[^gould2]
+
+[^gould2]: [@Gould2004, 15-16].
 
 Section 6 of the Clayton Act sought to exempt labor activity from antitrust liability: 
 
@@ -90,7 +94,7 @@ Section 20 of the Clayton Act sought to restrict the use of injunctions in lab
 > 
 > And no such restraining order or injunction shall prohibit any person or persons, whether singly or in concert, from terminating any relation of employment, or from ceasing to perform any work or labor, or from recommending, advising, or persuading others by peaceful means so to do; or from attending at any place where any such person or persons may lawfully be, for the purpose of peacefully obtaining or communicating information, or from peacefully persuading any person to work or to abstain from working; or from ceasing to patronize or to employ any party to such dispute, or from recommending, advising, or persuading others by peaceful and lawful means so to do; or from paying or giving to, or withholding from, any person engaged in such dispute, any strike benefits or other moneys or things of value; or from peaceably assembling in a lawful manner, and for lawful purposes; or from doing any act or thing which might lawfully be done in the absence of such dispute by any party thereto; nor shall any of the acts specified in this paragraph be considered or held to be violations of any law of the United States.
 
-But in [_Duplex Printing Press Co. v. Deering_](https://scholar.google.com/scholar_case?case=2440261841066410970), 254 U.S. 443 (1921), the Supreme Court, interpreting these provisions narrowly, held that they did not prohibit the issuance of injunctions against secondary boycotts (i.e. where a union has a dispute with an employer, the "primary" target, and calls for strikes or boycotts of the employer's customers, the "secondary" targets, so that they will cease doing business with the primary target). Like the Danbury Hatters' case, _Duplex Printing_ involved an organizing campaign in which the company resisted the union's demand for a closed shop. 
+But in @DuplexPrintingPressCo_US1921, the Supreme Court, interpreting these provisions narrowly, held that they did not prohibit the issuance of injunctions against secondary boycotts (i.e. where a union has a dispute with an employer, the "primary" target, and calls for strikes or boycotts of the employer's customers, the "secondary" targets, so that they will cease doing business with the primary target). Like the Danbury Hatters' case, _Duplex Printing_ involved an organizing campaign in which the company resisted the union's demand for a closed shop. 
 
 > _When only a few of the workers joined in the union’s efforts, the union attempted to boycott the company’s products by warning customers that it would be better for them not to purchase from the company, threatening customers with sympathetic strikes, and inciting the employees of customers to strike against their employers. It also notified repair shops not to do repair work on Duplex presses and threatened union men with the loss of their union cards if they assisted in the installation of Duplex presses. The Duplex company brought an antitrust action against the union for unlawful restraint of trade._
 >
@@ -98,28 +102,29 @@ But in [_Duplex Printing Press Co. v. Deering_](https://scholar.google.com/schol
 > 
 > > The section assumes the normal objects of a labor organization to be legitimate, and declares that nothing in the antitrust laws shall be construed to forbid the existence and operation of such organizations, or to forbid their members from lawfully carrying out their legitimate objects; and that such an organization shall not be held in itself—merely because of its existence and operation—to be an illegal combination or conspiracy in restraint of trade. But there is nothing in the section to exempt such an organization or its members from accountability where it or they depart from its normal and legitimate objects and engage in an actual combination of conspiracy in restraint of trade.
 >
-> _The Court then focused on section 20 of the Clayton Act, noting that the provision specifically forbade the issuance of restraining orders or injunctions in U.S. courts where there was a labor dispute between an "employer and employees" and that the first paragraph’s prohibition of orders in such circumstances "unless necessary to prevent irreparable injury to property, or to a property right" where there was no adequate remedy of law (that is to say, where the wronged party could not be adequately compensated through damages) was merely "declaratory of the law as it stood before." ...  The Court noted that the second paragraph referred to cases where the parties were "standing in proximate relation to a controversy" of the kind designated in the first paragraph. Noting that the majority of the circuit courts of appeals had previously concluded that the words "employers and employees" should be treated as referring to "the business class or clan to which the parties litigant respectively belong," the Court nevertheless concluded that any construction of the statute that would preclude employer relief where union secondary activity was involved against employers "wholly unconnected" with the Battle Creek factory was a statutory construction "altogether inadmissible." ... Significantly, the Court made clear its condemnation of the damage done to "many innocent people"—secondary employees and employees who were "far remote" from the "original" dispute._ [@GouldIV2004, 16-18]
+> _The Court then focused on section 20 of the Clayton Act, noting that the provision specifically forbade the issuance of restraining orders or injunctions in U.S. courts where there was a labor dispute between an "employer and employees" and that the first paragraph’s prohibition of orders in such circumstances "unless necessary to prevent irreparable injury to property, or to a property right" where there was no adequate remedy of law (that is to say, where the wronged party could not be adequately compensated through damages) was merely "declaratory of the law as it stood before." ... The Court noted that the second paragraph referred to cases where the parties were "standing in proximate relation to a controversy" of the kind designated in the first paragraph. Noting that the majority of the circuit courts of appeals had previously concluded that the words "employers and employees" should be treated as referring to "the business class or clan to which the parties litigant respectively belong," the Court nevertheless concluded that any construction of the statute that would preclude employer relief where union secondary activity was involved against employers "wholly unconnected" with the Battle Creek factory was a statutory construction "altogether inadmissible." ... Significantly, the Court made clear its condemnation of the damage done to "many innocent people"—secondary employees and employees who were "far remote" from the "original" dispute._[^gould3]
+ 
+[^gould3]: [@Gould2004, 16-18].
 
-
-Another legal strategy employers used against labor organizing was the "yellow dog" contract, in which employees promised not to join or remain a member of a union. Labor opposition led to the adoption of statutes outlawing yellow dog contracts. But, following [_Lochner v. New York_](https://scholar.google.com/scholar_case?case=10760991087928264675), 198 U.S. 45 (1905), the Supreme Court struck down those statutes as unconstitutional infringements on liberty of contract. [_Adair v. United States_](https://scholar.google.com/scholar_case?case=3072585965506695672) 208 U.S. 161 (1908) (striking down federal statute making it a criminal offense for a railroad to fire an employee because of union membership); [_Coppage v. Kansas_](https://scholar.google.com/scholar_case?case=14346855548018950039) 236 U.S. 1 (1915) (striking down state statute making it a crime for employers to require yellow dog contracts as a condition of employment). 
+Another legal strategy employers used against labor organizing was the "yellow dog" contract, in which employees promised not to join or remain a member of a union. Labor opposition led to the adoption of statutes outlawing yellow dog contracts. But, following @LochnerNewYork_US1905, the Supreme Court struck down those statutes as unconstitutional infringements on liberty of contract. @AdairUnitedStates_US1908 (striking down federal statute making it a criminal offense for a railroad to fire an employee because of union membership); @CoppageKansas_US1915 (striking down state statute making it a crime for employers to require yellow dog contracts as a condition of employment). 
 
 ## Legal Protection for Concerted Activity
 
 In the 1930s, the landscape of U.S. labor law changed dramatically with the passage of two federal statutes. 
 
-First, the Norris-LaGuardia Act (1932), 29 U.S.C. §§ 101 et seq., declared "yellow dog" contracts unenforceable and significantly limited the ability of federal courts to issue injuctions in cases involving labor disputes. Many states followed suit by adopting "Little Norris-LaGuardia Acts" restricting labor injunctions in state court. 
+First, the @NorrisLaGuardiaAct1932, declared "yellow dog" contracts unenforceable and significantly limited the ability of federal courts to issue injunctions in cases involving labor disputes. Many states followed suit by adopting "Little Norris-LaGuardia Acts" restricting labor injunctions in state court. 
 
-Second, the National Labor Relations Act (1935), 29 U.S.C. §§ 151 et seq., enshrined the right of employees to organize and engage in collective bargaining and other concerted activity (§ 7), prohibited unfair labor practices by employers (§ 8), established a framework for union representation based on majority support of employees (§ 9), and created the National Labor Relations Board to administer and enforce the Act (§§ 3-6, 10-11). The Labor-Management Relations Act (1947) amended the NLRA, including the addition of § 8(b) prohibiting unfair labor practices by unions. 
+Second, the @NationalLaborRelations1935,[NLRA (1935): Also known as the Wagner Act.]{.aside} enshrined the right of employees to organize and engage in collective bargaining and other concerted activity (§ 7), prohibited unfair labor practices by employers (§ 8), established a framework for union representation based on majority support of employees (§ 9), and created the National Labor Relations Board to administer and enforce the Act (§§ 3-6, 10-11). The Labor-Management Relations Act (1947)[LMRA (1947): Also known as the Taft-Hartley Act.]{.aside} amended the NLRA, including the addition of § 8(b) prohibiting unfair labor practices by unions. 
 
 Under the NLRA, once a majority of employees within a designated bargaining unit have opted for union representation, the union becomes the exclusive bargaining agent for all employees within the unit. The union owes a duty of fair representation to all bargaining unit employees, regardless of whether or not they are union members. 
 
 Even where employees are not represented by a union, NLRA § 7 protects their right to engage in "concerted activities for the purpose of collective bargaining or other mutual aid or protection". 
 
-### National Labor Relations Act, 29 U.S.C. §§ 151 et seq.
+### @NationalLaborRelations1935
 
 ::: {.legalcode}
 
-#### Section 1—Declaration of Policy 
+**Section 1—Declaration of Policy **
 
 The denial by some employers of the right of employees to organize and the refusal by some employers to accept the procedure of collective bargaining lead to strikes and other forms of industrial strife or unrest, which have the intent or the necessary effect of burdening or obstructing commerce by (a) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (b) occurring in the current of commerce; (c) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods from or into the channels of commerce, or the prices of such materials or goods in commerce; or (d) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing from or into the channels of commerce.
 
@@ -131,7 +136,7 @@ Experience has further demonstrated that certain practices by some labor organiz
 
 It is hereby declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
-#### Section 2—Definitions 
+**Section 2—Definitions **
 
 (2) The term “employer” includes any person acting as an agent of an employer, directly or indirectly, but shall not include the United States or any wholly owned Government corporation, or any Federal Reserve Bank, or any State or political subdivision thereof, or any person subject to the Railway Labor Act, as amended from time to time, or any labor organization (other than when acting as an employer), or anyone acting in the capacity of officer or agent of such labor organization.
 
@@ -141,11 +146,11 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 (9) The term “labor dispute” includes any controversy concerning terms, tenure or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
 
-#### Section 7—Right of employees as to organization, collective bargaining, etc.
+**Section 7—Right of employees as to organization, collective bargaining, etc.**
 
 Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158(a)(3) of this title.
 
-#### Section 8—Unfair labor practices 
+**Section 8—Unfair labor practices **
 
 (a) Unfair labor practices by employer
 
@@ -170,7 +175,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 For the purposes of this section, to bargain collectively is the performance of the mutual obligation of the employer and the representative of the employees to meet at reasonable times and confer in good faith with respect to wages, hours, and other terms and conditions of employment, or the negotiation of an agreement, or any question arising thereunder, and the execution of a written contract incorporating any agreement reached if requested by either party, but such obligation does not compel either party to agree to a proposal or require the making of a concession 
 
-#### Section 9—Representatives and elections
+**Section 9—Representatives and elections**
 
 (a) Exclusive representatives; employees’ adjustment of grievances directly with employer
 
@@ -180,13 +185,13 @@ Representatives designated or selected for the purposes of collective bargaining
 
 The Board shall decide in each case whether, in order to assure to employees the fullest freedom in exercising the rights guaranteed by this subchapter, the unit appropriate for the purposes of collective bargaining shall be the employer unit, craft unit, plant unit, or subdivision thereof.
 
-#### Section 13—Right to strike preserved
+**Section 13—Right to strike preserved**
 
 Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
 
 :::
 
-### NLRB v. Washington Aluminum, 370 U.S. 9 (1962)
+### @NLRBWashingtonAluminumCo_US1962
 
 The Court of Appeals for the Fourth Circuit, with Chief Judge Sobeloff dissenting, refused to enforce an order of the National Labor Relations Board directing the respondent Washington Aluminum Company to reinstate and make whole seven employees whom the company had discharged for leaving their work in the machine shop without permission on claims that the shop was too cold to work in. Because that decision raises important questions affecting the proper administration of the National Labor Relations Act, we granted certiorari. 
 
@@ -210,7 +215,7 @@ It is of course true that § 7 does not protect all concerted activities, but th
 
 We hold therefore that the Board correctly interpreted and applied the Act to the circumstances of this case and it was error for the Court of Appeals to refuse to enforce its order. The judgment of the Court of Appeals is reversed and the cause is remanded to that court with directions to enforce the order in its entirety.
 
-### NLRB v. City Disposal Systems, 465 U.S. 822 (1984)
+### @NLRBCityDisposalSystems_US1984
 
 James Brown, a truck driver employed by respondent, was discharged when he refused to drive a truck that he honestly and reasonably believed to be unsafe because of faulty brakes. Article XXI of the collective-bargaining agreement between respondent and Local 247 of the International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America, which covered Brown, provides:
 
@@ -242,7 +247,7 @@ Section 7 of the NLRA provides that "employees shall have the right to join or a
 
 We have often reaffirmed that the task of defining the scope of § 7 "is for the Board to perform in the first instance as it considers the wide variety of cases that come before it," and, on an issue that implicates its expertise in labor relations, a reasonable construction by the Board is entitled to considerable deference. The question for decision today is thus narrowed to whether the Board's application of § 7 to Brown's refusal to drive truck No. 244 is reasonable. Several reasons persuade us that it is.
 
-[A]{.legalcode}
+[A]{.casesubsection}
 
 Neither the Court of Appeals nor respondent appears to question that an employee's invocation of a right derived from a collective-bargaining agreement meets § 7's requirement that an employee's action be taken "for purposes of collective bargaining or other mutual aid or protection." As the Board first explained in the _Interboro_ case, a single employee's invocation of such rights affects all the employees that are covered by the collective-bargaining agreement. This type of generalized effect, as our cases have demonstrated, is sufficient to bring the actions of an individual employee within the "mutual aid or protection" standard, regardless of whether the employee has his own interests most immediately in mind. 
 
@@ -268,7 +273,7 @@ In practice, however, there is unlikely to be a bright-line distinction between 
 
 The fact that an activity is concerted, however, does not necessarily mean that an employee can engage in the activity with impunity. An employee may engage in concerted activity in such an abusive manner that he loses the protection of § 7. Furthermore, if an employer does not wish to tolerate certain methods by which employees invoke their collectively bargained rights, he is free to negotiate a provision in his collective-bargaining agreement that limits the availability of such methods. No-strike provisions, for instance, are a common mechanism by which employers and employees agree that the latter will not invoke their rights by refusing to work. In general, if an employee violates such a provision, his activity is unprotected even though it may be concerted. Whether Brown's action in this case was unprotected, however, is not before us.
 
-[B]{.legalcode}
+[B]{.casesubsection}
 
 Respondent argues that the _Interboro_ doctrine undermines the arbitration process by providing employees with the possibility of provoking a discharge and then filing an unfair labor practice claim. This argument, however, misses the mark for several reasons. First, an employee who purposefully follows this route would run the risk that the Board would find his actions concerted but nonetheless unprotected, as discussed above.
 

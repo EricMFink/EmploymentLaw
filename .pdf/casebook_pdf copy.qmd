@@ -1,0 +1,61 @@
+---
+title: "Employment Law"
+author: "Eric M. Fink"
+version: "4.1"
+repo: "EmploymentLaw"
+
+epigraph: Workin' 9 to 5, what a way to make a livin'. Barely gettin' by, it's all takin' and no givin'. They just use your mind and they never give you credit. It's enough to drive you crazy if you let it.
+epigraph-author: Dolly Parton 
+epigraph-source: 9 to 5
+
+format:
+  pdf:
+    documentclass: scrbook
+    classoption: [letterpaper, 11pt, DIV=9, openright]
+    has-frontmatter: true
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: true
+    number-depth: 1
+    template-partials:
+      - "partials/before-body.tex"
+    include-in-header:
+      - "partials/in-header.tex"
+    include-after-body:
+      - "partials/after-body.tex"
+    linkcolor: HopkinsBlue
+    citecolor: HopkinsBlue
+    urlcolor: HopkinsBlue
+    pdftitle: "Employment Law: An Open-Source Casebook"
+    pdfauthor: Eric M. Fink
+    pdfcreator: LaTeX via pandoc
+    colorlinks: true
+    urlstyle: tt
+    keep-tex: true
+    output-file: EmploymentLawCasebook
+filters:
+  - latex-environment
+  - citetools
+environments: [legalcode]
+commands: [casesection,casesubsection,casesubsubsection]
+bibliography_fedcases: ../refs/fedcases.yaml
+bibliography_statecases: ../refs/statecases.yaml
+bibliography_othercases: ../refs/othercases.yaml
+bibliography_fedstatutes: ../refs/fedstatutes.yaml
+bibliography_statestatutes: ../refs/statestatutes.yaml
+bibliography_otherstatutes: ../refs/otherstatutes.yaml
+bibliography_other: ../refs/other.yaml
+csl: ../refs/casebook.csl
+nocite: |
+  @*
+---
+
+{{< include ../02-Main/chap1.qmd >}}
+
+{{< include ../02-Main/chap2.qmd >}}
+
+\pagestyle{plain.scrheadings}
+
+{{< include ../03-Back/references.qmd >}}
+

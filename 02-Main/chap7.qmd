@@ -2,180 +2,180 @@
 
 ## Legislative Regulation of Wages and Hours 
 
-
 The Fair Labor Standards Act, enacted in 1938, establishes minimum wage and overtime pay requirements for covered employees.[The FLSA also regulates child labor. Those provisions are not covered here.]{.aside} Many states (and some local governments) have laws setting a higher minimum wage or requiring overtime payment on both a daily and weekly basis. State laws also commonly require timely payment of wages at regular intervals, regulate withholding of and deductions from wages, and authorize courts to award liquidated damages and attorney's fees as additional remedies in suits to recover unpaid wages.[_See_ U.S. Department of Labor Wage & Hour Division, [State Minimum Wage Laws](https://www.dol.gov/agencies/whd/minimum-wage/state)]{.aside}
 
-### Fair Labor Standards Act, 29 U.S.C. §§ 201 et seq.
+### @FairLaborStandards1938
 
 ::: {.legalcode}
 
 #### § 202. Congressional finding and declaration of policy
 
-(a\) The Congress finds that the existence, in industries engaged in commerce or in the production of goods for commerce, of labor conditions detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being of workers (1) causes commerce and the channels and instrumentalities of commerce to be used to spread and perpetuate such labor conditions among the workers of the several States; (2) burdens commerce and the free flow of goods in commerce; (3) constitutes an unfair method of competition in commerce; (4) leads to labor disputes burdening and obstructing commerce and the free flow of goods in commerce; and (5) interferes with the orderly and fair marketing of goods in commerce. That Congress further finds that the employment of persons in domestic service in households affects commerce.
-
-(b\) It is declared to be the policy of this chapter, through the exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct and as rapidly as practicable to eliminate the conditions above referred to in such industries without substantially curtailing employment or earning power.
+- (a\) The Congress finds that the existence, in industries engaged in commerce or in the production of goods for commerce, of labor conditions detrimental to the maintenance of the minimum standard of living necessary for health, efficiency, and general well-being of workers (1) causes commerce and the channels and instrumentalities of commerce to be used to spread and perpetuate such labor conditions among the workers of the several States; (2) burdens commerce and the free flow of goods in commerce; (3) constitutes an unfair method of competition in commerce; (4) leads to labor disputes burdening and obstructing commerce and the free flow of goods in commerce; and (5) interferes with the orderly and fair marketing of goods in commerce. That Congress further finds that the employment of persons in domestic service in households affects commerce.
+- (b\) It is declared to be the policy of this chapter, through the exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct and as rapidly as practicable to eliminate the conditions above referred to in such industries without substantially curtailing employment or earning power.
 
 #### § 203. Definitions
 
-As used in this chapter—
-
-(a\) "Person" means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
-
-(d\) "Employer" includes any person acting directly or indirectly in the interest of an employer in relation to an employee and includes a public agency, but does not include any labor organization (other than when acting as an employer) or anyone acting in the capacity of officer or agent of such labor organization.
-
-(e\)(1) Except as provided in paragraphs (2), (3), and (4), the term "employee" means any individual employed by an employer.
-
-(g\) "Employ" includes to suffer or permit to work.
-
-(m\)(1) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: _Provided_, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: _Provided further_, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
-
-> (2\)(a\) In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
-
-> > (i\) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
-
-> > (ii\) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in clause (i\) and the wage in effect under section 206(a\)(1) of this title.
-
-> The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
-
-> (b\) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees' tips, regardless of whether or not the employer takes a tip credit.
-
-(o\) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
+- As used in this chapter—
+- (a\) "Person" means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
+- (d\) "Employer" includes any person acting directly or indirectly in the interest of an employer in relation to an employee and includes a public agency, but does not include any labor organization (other than when acting as an employer) or anyone acting in the capacity of officer or agent of such labor organization.
+- (e\)
+	- (1) Except as provided in paragraphs (2), (3), and (4), the term "employee" means any individual employed by an employer.
+- (g\) "Employ" includes to suffer or permit to work.
+- (m\) 
+	- (1) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: _Provided_, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: _Provided further_, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
+	- (2\)
+		- (a\) In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
+			- (i\) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
+			- (ii\) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in clause (i\) and the wage in effect under section 206(a\)(1) of this title.
+			- The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
+		- (b\) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees' tips, regardless of whether or not the employer takes a tip credit.
+- (o\) Hours Worked.—In determining for the purposes of sections 206 and 207 of this title the hours for which an employee is employed, there shall be excluded any time spent in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee.
 
 #### § 206. Minimum wage
 
-(a\) Employees engaged in commerce; home workers in Puerto Rico and Virgin Islands; employees in American Samoa; seamen on American vessels; agricultural employees
-
-Every employer shall pay to each of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, wages at the following rates:
-
-> (1\) except as otherwise provided in this section, not less than—
-
-> > (a\) $5.85 an hour, beginning on the 60th day after May 25, 2007;
-
-> > (b\) $6.55 an hour, beginning 12 months after that 60th day; and
-
-> > (c\) $7.25 an hour, beginning 24 months after that 60th day;
-
-(d\) Prohibition of sex discrimination
-
-> (1\) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i\) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: _Provided_, That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
-
-> (2\) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
-
-> (3\) For purposes of administration and enforcement, any amounts owing to any employee which have been withheld in violation of this subsection shall be deemed to be unpaid minimum wages or unpaid overtime compensation under this chapter.
-
-> (4\) As used in this subsection, the term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+- (a\) Employees engaged in commerce; home workers in Puerto Rico and Virgin Islands; employees in American Samoa; seamen on American vessels; agricultural employees
+- Every employer shall pay to each of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, wages at the following rates:
+	- (1\) except as otherwise provided in this section, not less than—
+		- (a\) $5.85 an hour, beginning on the 60th day after May 25, 2007;
+		- (b\) $6.55 an hour, beginning 12 months after that 60th day; and
+		- (c\) $7.25 an hour, beginning 24 months after that 60th day;
+- (d\) Prohibition of sex discrimination
+	- (1\) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i\) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: _Provided_, That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
+	- (2\) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
+	- (3\) For purposes of administration and enforcement, any amounts owing to any employee which have been withheld in violation of this subsection shall be deemed to be unpaid minimum wages or unpaid overtime compensation under this chapter.
+	- (4\) As used in this subsection, the term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
 #### § 207. Maximum hours
 
-(a\) Employees engaged in interstate commerce; additional applicability to employees pursuant to subsequent amendatory provisions
+- (a\) Employees engaged in interstate commerce; additional applicability to employees pursuant to subsequent amendatory provisions
+	- (1\) Except as otherwise provided in this section, no employer shall employ any of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, for a workweek longer than forty hours unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he is employed.
+- (e\) "Regular rate" defined
+- As used in this section the "regular rate" at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include— [ ... ]
+- (f\) Employment necessitating irregular hours of work
+- No employer shall be deemed to have violated subsection (a\) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a\) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a\) or (b\) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+- (g\) Employment at piece rates
+- No employer shall be deemed to have violated subsection (a\) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under such subsection if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, the amount paid to the employee for the number of hours worked by him in such workweek in excess of the maximum workweek applicable to such employee under such subsection—
+	- (1\) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
+	- (2\) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
+	- (3\) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: _Provided_, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
+- and if (i\) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e\) are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
+- (r\) Reasonable break time for nursing mothers
+	- 1\) An employer shall provide—
+		- (a\) a reasonable break time for an employee to express breast milk for her nursing child for 1 year after the child's birth each time such employee has need to express the milk; and
+		- b\) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
+	- 2\) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
+	- 3\) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer's business.
+	- 4\) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
 
-> (1\) Except as otherwise provided in this section, no employer shall employ any of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, for a workweek longer than forty hours unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he is employed.
+#### § 213. Exemptions
 
-(e\) "Regular rate" defined
-
-As used in this section the "regular rate" at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include— [ ... ]
-
-(f\) Employment necessitating irregular hours of work
-
-No employer shall be deemed to have violated subsection (a\) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a\) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a\) or (b\) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
-
-(g\) Employment at piece rates
-
-No employer shall be deemed to have violated subsection (a\) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under such subsection if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, the amount paid to the employee for the number of hours worked by him in such workweek in excess of the maximum workweek applicable to such employee under such subsection—
-
-> (1\) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
-
-> (2\) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
-
-> (3\) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: _Provided_, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
- 
-and if (i\) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e\) are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
-
-(r\) Reasonable break time for nursing mothers
-
-> (1\) An employer shall provide—
-
-> > (a\) a reasonable break time for an employee to express breast milk for her nursing child for 1 year after the child's birth each time such employee has need to express the milk; and
-
-> > (b\) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
-
-> (2\) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
-
-> (3\) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer's business.
-
-> (4\) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
+- (a\) Minimum wage and maximum hour requirements
+- The provisions of sections 206 (except subsection (d\) in the case of paragraph (1) of this subsection) and 207 of this title shall not apply with respect to—
+	- (1\) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman [ … ]; or
+	- (3\) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (a\) it does not operate for more than seven months in any calendar year, or (b\) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+	- (5\) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
+	- (6\) any employee employed in agriculture (a) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (b) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (c) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (d) if such employee (other than an employee described in clause (c) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (e) if such employee is principally engaged in the range production of livestock; or
+	- (7\) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
+	- (8\) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+	- (10\) any switchboard operator employed by an independently owned public telephone company which has not more than seven hundred and fifty stations; or
+	- (12\) any employee employed as a seaman on a vessel other than an American vessel; or
+	- (15\) any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
+	- (16\) a criminal investigator who is paid availability pay under section 5545a of title 5;
+	- (17\) any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
+		- (a\) the application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software, or system functional specifications;
+		- (b\) the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
+		- (c\) the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
+		- (d\) a combination of duties described in subparagraphs (a\), (b\), and (c\) the performance of which requires the same level of skills, and
+	- who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour; or
+	- (18\) any employee who is a border patrol agent [ … ]; or
+	- (19\) any employee employed to play baseball who is compensated pursuant to a contract that provides for a weekly salary for services performed during the league's championship season (but not spring training or the off season) at a rate that is not less than a weekly salary equal to the minimum wage under section 206(a\) of this title for a workweek of 40 hours, irrespective of the number of hours the employee devotes to baseball related activities.
+- (b\) Maximum hour requirements
+- The provisions of section 207 of this title shall not apply with respect to—
+	- (1\) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service [ … ]; or
+	- (2\) any employee of an employer engaged in the operation of a rail carrier [ … ]; or
+	- (3\) any employee of a carrier by air subject to the provisions of title II of the Railway Labor Act [ … ]; or
+	- (5\) any individual employed as an outside buyer of poultry, eggs, cream, or milk, in their raw or natural state; or
+	- (6\) any employee employed as a seaman; or
+	- (9\) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (a) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (b) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+	- (10\)
+		- (a) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
+		- (b\) any salesman primarily engaged in selling trailers, boats, or aircraft, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling trailers, boats, or aircraft to ultimate purchasers; or
+	- (11\) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a\) of this title; or
+	- (12\) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
+	- (13\) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (a) is primarily employed during his workweek in agriculture by such farmer, and (b) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a\)(1) of this title; or
+	- (14\) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+	- (15\) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
+	- (16\) any employee engaged (a) in the transportation and preparation for transportation of fruits or vegetables, whether or not performed by the farmer, from the farm to a place of first processing or first marketing within the same State, or (b) in transportation, whether or not performed by the farmer, between the farm and any point within the same State of persons employed or to be employed in the harvesting of fruits or vegetables; or
+	- (17\) any driver employed by an employer engaged in the business of operating taxicabs; or
+	- (20\) any employee of a public agency who in any workweek is employed in fire protection activities or any employee of a public agency who in any workweek is employed in law enforcement activities (including security personnel in correctional institutions), if the public agency employs during the workweek less than 5 employees in fire protection or law enforcement activities, as the case may be; or
+	- (21\) any employee who is employed in domestic service in a household and who resides in such household; or
+	- (24\) any employee who is employed with his spouse by a nonprofit educational institution to serve as the parents of children—
+		- (a\) who are orphans or one of whose natural parents is deceased, or
+		- (b\) who are enrolled in such institution and reside in residential facilities of the institution,
+	- while such children are in residence at such institution, if such employee and his spouse reside in such facilities, receive, without cost, board and lodging from such institution, and are together compensated, on a cash basis, at an annual rate of not less than $10,000; or
+	- (27\) any employee employed by an establishment which is a motion picture theater; or
+	- (28\) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
+	- (29\) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (a\) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (b\) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
+	- (30\) a criminal investigator who is paid availability pay under section 5545a of title 5.
+- (d\) Delivery of newspapers and wreathmaking
+- The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
+- (f\) Employment in foreign countries and certain United States territories
+- The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
 
 :::
 
 ![Federal Minimum Wage, 1938-2021](../img/minimum-wage-inflation-adjusted.png)
 
-### North Carolina Wage & Hour Act
+### @NCWageHour_nd
 
 ::: {.legalcode}
 
 #### § 95-25.6. Wage payment.
 
-Every employer shall pay every employee all wages and tips accruing to the employee on the regular payday. Pay periods may be daily, weekly, bi-weekly, semi-monthly, or monthly. Wages based upon bonuses, commissions, or other forms of calculation may be paid as infrequently as annually if prescribed in advance. 
+- Every employer shall pay every employee all wages and tips accruing to the employee on the regular payday. Pay periods may be daily, weekly, bi-weekly, semi-monthly, or monthly. Wages based upon bonuses, commissions, or other forms of calculation may be paid as infrequently as annually if prescribed in advance. 
 
 #### § 95-25.7. Payment to separated employees.
 
-Employees whose employment is discontinued for any reason shall be paid all wages due on or before the next regular payday either through the regular pay channels or by trackable mail if requested by the employee in writing. Wages based on bonuses, commissions or other forms of calculation shall be paid on the first regular payday after the amount becomes calculable when a separation occurs. Such wages may not be forfeited unless the employee has been notified in accordance with G.S. 95-25.13 of the employer's policy or practice which results in forfeiture. Employees not so notified are not subject to such loss or forfeiture. 
+- Employees whose employment is discontinued for any reason shall be paid all wages due on or before the next regular payday either through the regular pay channels or by trackable mail if requested by the employee in writing. Wages based on bonuses, commissions or other forms of calculation shall be paid on the first regular payday after the amount becomes calculable when a separation occurs. Such wages may not be forfeited unless the employee has been notified in accordance with G.S. 95-25.13 of the employer's policy or practice which results in forfeiture. Employees not so notified are not subject to such loss or forfeiture. 
 
 #### § 95-25.7A. Wages in dispute.
 
-(a\) If the amount of wages is in dispute, the employer shall pay the wages, or that part of the wages, which the employer concedes to be due without condition, within the time set by this Article. The employee retains all remedies that the employee might otherwise be entitled to regarding any balance of wages claimed by the employee, including those remedies provided under this Article.
-
-(b\) Acceptance of a partial payment of wages under this section by an employee does not constitute a release of the balance of the claim. Further, any release of the claim required by an employer as a condition of partial payment is void.
+- (a\) If the amount of wages is in dispute, the employer shall pay the wages, or that part of the wages, which the employer concedes to be due without condition, within the time set by this Article. The employee retains all remedies that the employee might otherwise be entitled to regarding any balance of wages claimed by the employee, including those remedies provided under this Article.
+- (b\) Acceptance of a partial payment of wages under this section by an employee does not constitute a release of the balance of the claim. Further, any release of the claim required by an employer as a condition of partial payment is void.
 
 #### § 95-25.8. Withholding of wages.
 
-(a\) An employer may withhold or divert any portion of an employee's wages when:
-
-- (1\) The employer is required or empowered to do so by State or federal law;
-- (2\) When the amount or rate of the proposed deduction is known and agreed upon in advance, the employer must have written authorization from the employee which (i) is signed on or before the payday(s) for the pay period(s) from which the deduction is to be made; (ii) indicates the reason for the deduction; and (iii) states the actual dollar amount or percentage of wages which shall be deducted from one or more paychecks. Provided, that if the deduction is for the convenience of the employee, the employee shall be given a reasonable opportunity to withdraw the authorization; or
-- (3\) When the amount of the proposed deduction is not known and agreed upon in advance, the employer must have written authorization from the employee which (i) is signed on or before the payday(s) for the pay period(s) from which the deduction is to be made; and (ii) indicates the reason for the deduction. Prior to any deductions being made under this section, the employee must (i) receive advance written notice of the actual amount to be deducted; (ii) receive written notice of their right to withdraw the authorization; and (iii) be given a reasonable opportunity to withdraw the authorization in writing.
-
-(b\) The withholding or diversion of wages owed for the employer's benefit must comply with the following requirements:
-
-- (1\) In nonovertime workweeks, an employer may reduce wages to the minimum wage level.
-- (2\) In overtime workweeks, employers may reduce wages to the minimum wage level for nonovertime hours.
-- (3\) No reductions may be made to overtime wages owed.
-
-(c\) In addition to complying with the requirements in subsections (a) and (b) of this section, an employer may withhold or divert a portion of an employee's wages for cash shortages, inventory shortages, or loss or damage to an employer's property after giving the employee written notice of the amount to be deducted seven days prior to the payday on which the deduction is to be made, except that when a separation occurs the seven-day notice is not required.
-
-(d\) Notwithstanding subsections (a) and (b), above, an overpayment of wages to an employee as a result of a miscalculation or other bona fide error, advances of wages to an employee or to a third party at the employee's request, and the principal amount of loans made by an employer to an employee are considered prepayment of wages and may be withheld or deducted from an employee's wages. Deductions for interest and other charges related to loans by an employer to an employee shall require written authorization in accordance with subsection (a), above.
-
-(e\) Notwithstanding subsections (a) and (c), above, if criminal process has issued against an employee, an employee has been indicted, or an employee has been arrested pursuant to Articles 17, 20, and 32 of Chapter 15A of the General Statutes for a charge incident to a cash shortage, inventory shortage, or damage to an employer's property, an employer may withhold or divert a portion of the employee's wages in order to recoup the amount of the cash shortage, inventory shortage, or damage to the employer's property, without the written authorization required by this section, but the amount of such withholdings shall comply with the provisions of subsection (b) of this section. If the employee is not found guilty, then the amount deducted shall be reimbursed to the employee by the employer.
-
-(f\) For purposes of this section, a written authorization or written notice may be in the form of an electronic record in compliance with Article 40 of Chapter 66 (the Uniform Electronic Transactions Act).
-
-(g\) Nothing in this Article shall preclude an employer from bringing a civil action in the General Court of Justice to collect any amounts due the employer from the employee. 
+- (a\) An employer may withhold or divert any portion of an employee's wages when:
+	- (1\) The employer is required or empowered to do so by State or federal law;
+	- (2\) When the amount or rate of the proposed deduction is known and agreed upon in advance, the employer must have written authorization from the employee which (i) is signed on or before the payday(s) for the pay period(s) from which the deduction is to be made; (ii) indicates the reason for the deduction; and (iii) states the actual dollar amount or percentage of wages which shall be deducted from one or more paychecks. Provided, that if the deduction is for the convenience of the employee, the employee shall be given a reasonable opportunity to withdraw the authorization; or
+	- (3\) When the amount of the proposed deduction is not known and agreed upon in advance, the employer must have written authorization from the employee which (i) is signed on or before the payday(s) for the pay period(s) from which the deduction is to be made; and (ii) indicates the reason for the deduction. Prior to any deductions being made under this section, the employee must (i) receive advance written notice of the actual amount to be deducted; (ii) receive written notice of their right to withdraw the authorization; and (iii) be given a reasonable opportunity to withdraw the authorization in writing.
+- (b\) The withholding or diversion of wages owed for the employer's benefit must comply with the following requirements:
+	- (1\) In nonovertime workweeks, an employer may reduce wages to the minimum wage level.
+	- (2\) In overtime workweeks, employers may reduce wages to the minimum wage level for nonovertime hours.
+	- (3\) No reductions may be made to overtime wages owed.
+- (c\) In addition to complying with the requirements in subsections (a) and (b) of this section, an employer may withhold or divert a portion of an employee's wages for cash shortages, inventory shortages, or loss or damage to an employer's property after giving the employee written notice of the amount to be deducted seven days prior to the payday on which the deduction is to be made, except that when a separation occurs the seven-day notice is not required.
+- (d\) Notwithstanding subsections (a) and (b), above, an overpayment of wages to an employee as a result of a miscalculation or other bona fide error, advances of wages to an employee or to a third party at the employee's request, and the principal amount of loans made by an employer to an employee are considered prepayment of wages and may be withheld or deducted from an employee's wages. Deductions for interest and other charges related to loans by an employer to an employee shall require written authorization in accordance with subsection (a), above.
+- (e\) Notwithstanding subsections (a) and (c), above, if criminal process has issued against an employee, an employee has been indicted, or an employee has been arrested pursuant to Articles 17, 20, and 32 of Chapter 15A of the General Statutes for a charge incident to a cash shortage, inventory shortage, or damage to an employer's property, an employer may withhold or divert a portion of the employee's wages in order to recoup the amount of the cash shortage, inventory shortage, or damage to the employer's property, without the written authorization required by this section, but the amount of such withholdings shall comply with the provisions of subsection (b) of this section. If the employee is not found guilty, then the amount deducted shall be reimbursed to the employee by the employer.
+- (f\) For purposes of this section, a written authorization or written notice may be in the form of an electronic record in compliance with Article 40 of Chapter 66 (the Uniform Electronic Transactions Act).
+- (g\) Nothing in this Article shall preclude an employer from bringing a civil action in the General Court of Justice to collect any amounts due the employer from the employee. 
 
 #### § 95-25.22. Recovery of unpaid wages.
 
-(a\) Any employer who violates the provisions of G.S. 95-25.3 (Minimum Wage), G.S. 95-25.4 (Overtime), or G.S. 95-25.6 through 95-25.12 (Wage Payment) shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, their unpaid overtime compensation, or their unpaid amounts due under G.S. 95-25.6 through 95-25.12, as the case may be, plus interest at the legal rate set forth in G.S. 24-1, from the date each amount first came due.
-
-(a1) In addition to the amounts awarded pursuant to subsection (a) of this section, the court shall award liquidated damages in an amount equal to the amount found to be due as provided in subsection (a) of this section, provided that if the employer shows to the satisfaction of the court that the act or omission constituting the violation was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of this Article, the court may, in its discretion, award no liquidated damages or may award any amount of liquidated damages not exceeding the amount found due as provided in subsection (a) of this section.
-
-(b\) Action to recover such liability may be maintained in the General Court of Justice by any one or more employees.
-
-(c\) Action to recover such liability may also be maintained in the General Court of Justice by the Commissioner at the request of the employees affected. Any sums thus recovered by the Commissioner on behalf of an employee shall be held in a special deposit account and shall be paid directly to the employee or employees affected.
-
-(d\) The court, in any action brought under this Article may, in addition to any judgment awarded plaintiff, order costs and fees of the action and reasonable attorneys' fees to be paid by the defendant. In an action brought by the Commissioner in which a default judgment is entered, the clerk shall order attorneys' fees of three hundred dollars ($300.00) to be paid by the defendant.
-
-The court may order costs and fees of the action and reasonable attorneys' fees to be paid by the plaintiff if the court determines that the action was frivolous.
-
-(e\) The Commissioner is authorized to determine and supervise the payment of the amounts due under this section, including interest at the legal rate set forth in G.S. 24-1, from the date each amount first came due, and the agreement to accept such amounts by the employee shall constitute a waiver of the employee's right to bring an action under subsection (b) of this section.
-
-(f\) Actions under this section must be brought within two years pursuant to G.S. 1-53.
-
-(g\) Prior to initiating any action under this section, the Commissioner shall exhaust all administrative remedies, including giving the employer the opportunity to be heard on the matters at issue and giving the employer notice of the pending action.
+- (a\) Any employer who violates the provisions of G.S. 95-25.3 (Minimum Wage), G.S. 95-25.4 (Overtime), or G.S. 95-25.6 through 95-25.12 (Wage Payment) shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, their unpaid overtime compensation, or their unpaid amounts due under G.S. 95-25.6 through 95-25.12, as the case may be, plus interest at the legal rate set forth in G.S. 24-1, from the date each amount first came due.
+- (a1\) In addition to the amounts awarded pursuant to subsection (a) of this section, the court shall award liquidated damages in an amount equal to the amount found to be due as provided in subsection (a) of this section, provided that if the employer shows to the satisfaction of the court that the act or omission constituting the violation was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of this Article, the court may, in its discretion, award no liquidated damages or may award any amount of liquidated damages not exceeding the amount found due as provided in subsection (a) of this section.
+- (b\) Action to recover such liability may be maintained in the General Court of Justice by any one or more employees.
+- (c\) Action to recover such liability may also be maintained in the General Court of Justice by the Commissioner at the request of the employees affected. Any sums thus recovered by the Commissioner on behalf of an employee shall be held in a special deposit account and shall be paid directly to the employee or employees affected.
+- (d\) The court, in any action brought under this Article may, in addition to any judgment awarded plaintiff, order costs and fees of the action and reasonable attorneys' fees to be paid by the defendant. In an action brought by the Commissioner in which a default judgment is entered, the clerk shall order attorneys' fees of three hundred dollars ($300.00) to be paid by the defendant.
+- The court may order costs and fees of the action and reasonable attorneys' fees to be paid by the plaintiff if the court determines that the action was frivolous.
+- (e\) The Commissioner is authorized to determine and supervise the payment of the amounts due under this section, including interest at the legal rate set forth in G.S. 24-1, from the date each amount first came due, and the agreement to accept such amounts by the employee shall constitute a waiver of the employee's right to bring an action under subsection (b) of this section.
+- (f\) Actions under this section must be brought within two years pursuant to G.S. 1-53.
+- (g\) Prior to initiating any action under this section, the Commissioner shall exhaust all administrative remedies, including giving the employer the opportunity to be heard on the matters at issue and giving the employer notice of the pending action.
 
 :::
 
 ## Minimum Wage
 
-### Glaxiola v. Williams Seafood of Arapahoe, Inc., 776 F.Supp.2d 117 (E.D.N.C. 2011)
+### @GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
 
 This is an action alleging claims under the Fair Labor Standards Act, 29 U.S.C. §§ 201 _et seq._ ("FLSA") and the North Carolina Wage and Hour Act, N.C. Gen. Stat. §§ 95-25.1 _et seq._ ("NCWHA"). Gaxiola is a former employee of defendants who was recruited in Mexico to work as a crab picker at defendants' seafood processing facility in Arapahoe, North Carolina. Gaxiola alleges that she and other individuals employed by defendants on H-2B guestworker visas from 2005 through 2008 were not paid minimum wage for all hours worked in violation of the FLSA. Specifically, Gaxiola alleges: (1) that she and other employees were paid on a piece-rate basis (by weight of crab picked) even when the weekly pay earned through a piece rate was less than the minimum wage mandated by federal law; and (2) that defendants reduced her wages and the wages of her coworkers below minimum wage by deducting from their paychecks costs incurred for the benefit of defendants, such as visa, transportation and border crossing expenses. Additionally, Gaxiola brings a claim pursuant to NCWHA alleging defendants failed to pay plaintiff and members of the proposed NCWHA class at least he promised wage each week in which they performed work for defendants. Gaxiola alleges that defendants also violated NCWHA by making unauthorized deductions from her pay and the pay of the proposed plaintiff class members for transportation, visa and border crossing expenses.
 
@@ -241,7 +241,7 @@ Defendants attempt to make an argument, albeit a weak one, that they should be e
 
 ## Compensible Hours
 
-### Walsh v. East Penn Manufacturing, Inc., 555 F.Supp.3d 89 (E.D. Pa. 2021) 
+### @WalshEastPennManufacturing_EDPa2021
 
 The Secretary of Labor initiated this action against East Penn Manufacturing Co., Inc., a battery manufacturer, alleging that East Penn has failed to compensate its employees for time spent changing into and out of uniforms and personal protective equipment and showering at the end of a work shift. East Penn does not dispute that the time spent donning, doffing, and showering is compensable under the Fair Labor Standards Act of 1938, 29 U.S.C. §§ 203 _et seq._ The crux of the dispute is whether East Penn's pay policies, which compensate employees based on what it deems a "reasonable" time for these tasks, are sound as a matter of law and sufficient as a matter of fact. Contrary to the Secretary's contentions, East Penn disputes that it is legally required to compensate for the actual time expended by any given employee. But to the extent that such compensation as it pays is deficient, East Penn then maintains that the difference between what is "reasonable" and what would be "actual" is de minimis. Like the Energizer Bunny, the parties have pounded their steady drumbeats, with each side steadfast in its belief that it poses the correct standard of measurement.
 
@@ -417,7 +417,7 @@ In particular, Dr. Radwin estimated an average of 11 minutes and a median 10.8 m
 
 Notwithstanding the Court's finding that regularity of the work has been established, factual issues prevent the Court from granting summary judgment as to this claim. The Court finds a genuine issue of material fact remains as to the size of the aggregate claim as well as whether East Penn can practically record the time spent, given the variation of time needed in the record. The Court finds that East Penn may present a de minimis defense at trial, which will be a critical factual issue for the jury to resolve. 
 
-### Clayton v. Delmarva Community Services, Inc., 447 F.Supp.3d 404 (D. Md. 2020)
+### @ClaytonDelmarvaCommunityServices_DMd2020
 
 Plaintiffs Sharon Clayton, Vivian Thomas, Linda Carr, Consowillo Travers, and Jamez Justice (collectively, "Plaintiffs") have brought this action against Defendants Delmarva Community Services, Inc. and Santo Grande (collectively, "Defendants"), alleging violations of the Fair Labor Standards Act, 29 U.S.C. § 203, _et seq._ ("FLSA"). Presently pending are the parties' cross-motions for summary judgment. 
 
@@ -497,7 +497,7 @@ This Court is not persuaded that the First Circuit's understanding of "extended 
 
 In any event, the circuit split on this issue is not dispositive here in light of the separate and independent basis for this Court's decision. Accordingly, because this Court found that Plaintiffs' time spent sleeping is not compensable on a separate basis, this Court need not resolve whether Plaintiffs resided on Defendants' premises for "extended periods of time" as required by 29 C.F.R. § 785.23.
 
-### Modise v. CareOne Health Services, LLC, 638 F.Supp.3d 159 (D. Conn. Nov. 1, 2022)
+### @ModiseCareOneHealthServices_DConn2022
 
 Individual Plaintiffs Motlalepula Modise, Morwesi Mmolawa, and Tirelo Mmolawa were formerly employed by CareOne Health Services, LLC (“CareOne”), as personal care assistants (“PCAs”) providing live-in care for elderly clients. They brought this collective action against CareOne and Abel Osagie (“Defendant”), the sole owner of the company. Plaintiffs claim that Defendant violated the Fair Labor Standards Act (“FLSA”) and the Connecticut Minimum Wage Act (“CMWA”) by failing to properly compensate them for overtime hours worked, including time their sleep was interrupted by the clients’ needs.
 
@@ -565,7 +565,7 @@ The DOL regulations provide that, if an employer of a live-in domestic service e
 
 As noted above, here Defendant’s records indicate that he credited Plaintiffs’ wages with weekly food and housing expenses that ranged between $300 and $470 per week. Defendant’s documents supporting the present motion do not place beyond genuine dispute that he properly recorded the actual cost or fair market value of the food and housing credited to Plaintiffs’ wages. Indeed, Defendant’s own argument raises disputes as to how he calculated the food and housing credit. With respect to his client Ann, he represented that he examined her bills when calculating the food and housing credit, but he later argued that he did not have a way of obtaining the clients’ bills directly to calculate the actual costs because the clients contracted for the services through DSS rather than CareOne. Moreover, to the extent that Defendant calculated this weekly food and housing credit by relying on the actual cost or fair market value of those expenses, he did not submit evidence of that actual cost or fair market value in support of his motion to substantiate his calculations. Nor did he submit evidence indicating that he confirmed which calculation, the actual cost or the fair market value, was less, as required by the DOL regulations. 29 C.F.R. §§ 552.100(c), 552.100(d) (permitting the employer to credit “the actual cost or fair market value” of furnishing food and lodging, “whichever is less”).
 
-The regulations and case law make clear that the burden to demonstrate proper calculation of the § 203(m) credit is on the employer, not the employee. Here, a reasonable jury could find that Defendant failed to maintain the records required by the DOL regulations to justify use of an amount beyond the otherwise maximum credit allowed by 29 C.F.R. § 552.100(d). Although there are few cases in the Second Circuit addressing this issue, courts in other circuits have held that an employer is not entitled to a § 203(m) credit greater than the regulatory maximum if they fail to meet the recordkeeping requirements to justify the greater credit.  
+The regulations and case law make clear that the burden to demonstrate proper calculation of the § 203(m) credit is on the employer, not the employee. Here, a reasonable jury could find that Defendant failed to maintain the records required by the DOL regulations to justify use of an amount beyond the otherwise maximum credit allowed by 29 C.F.R. § 552.100(d). Although there are few cases in the Second Circuit addressing this issue, courts in other circuits have held that an employer is not entitled to a § 203(m) credit greater than the regulatory maximum if they fail to meet the recordkeeping requirements to justify the greater credit. 
 
 Defendant has not proved as a matter of law that he kept sufficient records, such that he was entitled to claim more than the otherwise applicable regulatory maximum. If a jury were to find that Defendant failed to maintain adequate records to substantiate his § 203(m) credit, he would not be entitled to such credit. Thus, this genuine dispute is material to Defendant’s liability under the FLSA, and the Court denies his motion for summary judgment regarding the food and housing credit.
 
@@ -595,83 +595,13 @@ In addition, the DOL regulations permit an agreement to exclude sleep time only 
 
 In sum, the Court finds genuine disputes of material fact regarding Plaintiffs’ overtime compensation, with respect to both the overtime work they indisputably performed and the alleged work they performed during sleep periods, and thus summary judgment is improper at this stage. The Court thus denies Defendant’s motion for summary judgment with respect to Plaintiffs’ overtime compensation claim under the FLSA.
 
-## FLSA Exemptions
+## Exemptions
 
 The FLSA exempts certain employees from coverage under the minimum wage and overtime provisions. Some state and local minimum wage and overtime laws cover employees who are exempt under the FLSA. 
 
-Some of the FLSA exemptions, notably those for agricultural and domestic service employees, were included in the statute when it was originally enacted in 1938; others have been added over the years. Most recently, the "Save America's Pastime Act" (2018) amended the FLSA to add an exemption for professional baseball players. § 213(a)(19). As you read this section of the statute, consider what the rationale might have been for exempting these particular categories of employees.  
+Some of the FLSA exemptions, notably those for agricultural and domestic service employees, were included in the statute when it was originally enacted in 1938; others have been added over the years. Most recently, the "Save America's Pastime Act" (2018) amended the FLSA to add an exemption for professional baseball players. § 213(a)(19). As you read this section of the statute, consider what the rationale might have been for exempting these particular categories of employees. 
 
-### Fair Labor Standards Act, § 213
-
-::: {.legalcode}
-
-#### Exemptions
-
-(a\) Minimum wage and maximum hour requirements
-
-The provisions of sections 206 (except subsection (d\) in the case of paragraph (1) of this subsection) and 207 of this title shall not apply with respect to—
-
-- (1\) any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman [ … ]; or
-- (3\) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (a\) it does not operate for more than seven months in any calendar year, or (b\) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
-- (5\) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
-- (6\) any employee employed in agriculture (a) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (b) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (c) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (d) if such employee (other than an employee described in clause (c) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (e) if such employee is principally engaged in the range production of livestock; or
-- (7\) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
-- (8\) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
-- (10\) any switchboard operator employed by an independently owned public telephone company which has not more than seven hundred and fifty stations; or
-- (12\) any employee employed as a seaman on a vessel other than an American vessel; or
-- (15\) any employee employed on a casual basis in domestic service employment to provide babysitting services or any employee employed in domestic service employment to provide companionship services for individuals who (because of age or infirmity) are unable to care for themselves (as such terms are defined and delimited by regulations of the Secretary); or
-- (16\) a criminal investigator who is paid availability pay under section 5545a of title 5;
-- (17\) any employee who is a computer systems analyst, computer programmer, software engineer, or other similarly skilled worker, whose primary duty is—
-	- (a\) the application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software, or system functional specifications;
-	- (b\) the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
-	- (c\) the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
-	- (d\) a combination of duties described in subparagraphs (a\), (b\), and (c\) the performance of which requires the same level of skills, and
-- who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour; or
-- (18\) any employee who is a border patrol agent [ … ]; or
-- (19\) any employee employed to play baseball who is compensated pursuant to a contract that provides for a weekly salary for services performed during the league's championship season (but not spring training or the off season) at a rate that is not less than a weekly salary equal to the minimum wage under section 206(a\) of this title for a workweek of 40 hours, irrespective of the number of hours the employee devotes to baseball related activities.
-
-(b\) Maximum hour requirements
-
-The provisions of section 207 of this title shall not apply with respect to—
-
-- (1\) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service [ … ]; or
-- (2\) any employee of an employer engaged in the operation of a rail carrier  [ … ]; or
-- (3\) any employee of a carrier by air subject to the provisions of title II of the Railway Labor Act  [ … ]; or
-- (5\) any individual employed as an outside buyer of poultry, eggs, cream, or milk, in their raw or natural state; or
-- (6\) any employee employed as a seaman; or
-- (9\) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (a) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (b) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
-- (10\)
-	- (a) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
-	- (b\) any salesman primarily engaged in selling trailers, boats, or aircraft, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling trailers, boats, or aircraft to ultimate purchasers; or
-- (11\) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a\) of this title; or
-- (12\) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
-- (13\) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (a) is primarily employed during his workweek in agriculture by such farmer, and (b) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a\)(1) of this title; or
-- (14\) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
-- (15\) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
-- (16\) any employee engaged (a) in the transportation and preparation for transportation of fruits or vegetables, whether or not performed by the farmer, from the farm to a place of first processing or first marketing within the same State, or (b) in transportation, whether or not performed by the farmer, between the farm and any point within the same State of persons employed or to be employed in the harvesting of fruits or vegetables; or
-- (17\) any driver employed by an employer engaged in the business of operating taxicabs; or
-- (20\) any employee of a public agency who in any workweek is employed in fire protection activities or any employee of a public agency who in any workweek is employed in law enforcement activities (including security personnel in correctional institutions), if the public agency employs during the workweek less than 5 employees in fire protection or law enforcement activities, as the case may be; or
-- (21\) any employee who is employed in domestic service in a household and who resides in such household; or
-- (24\) any employee who is employed with his spouse by a nonprofit educational institution to serve as the parents of children—
-	- (a\) who are orphans or one of whose natural parents is deceased, or
-	- (b\) who are enrolled in such institution and reside in residential facilities of the institution,
-- while such children are in residence at such institution, if such employee and his spouse reside in such facilities, receive, without cost, board and lodging from such institution, and are together compensated, on a cash basis, at an annual rate of not less than $10,000; or
-- (27\) any employee employed by an establishment which is a motion picture theater; or
-- (28\) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
-- (29\) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (a\) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (b\) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
-- (30\) a criminal investigator who is paid availability pay under section 5545a of title 5.
-
-(d\) Delivery of newspapers and wreathmaking
-
-The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
-
-(f\) Employment in foreign countries and certain United States territories
-
-The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
-
-:::
-
-### Greene v. Tyler Technologies, Inc., 526 F.Supp.3d 1325 (N.D. Ga. 2021)
+### @GreeneTylerTechnologiesInc_NDGa2021
 
 Plaintiff Suzanne Greene brings this suit against her former employer, Defendant Tyler Technologies, Inc. ("Tyler"), alleging that Tyler misclassified her as an exempt employee and failed to pay her legally required overtime pay under the Fair Labor Standards Act ("FLSA"), 29 U.S.C. §§ 207 and 215(a)(2). Both Parties move for summary judgment as to whether Ms. Greene, an "implementation consultant," was subject to the FLSA's administrative exemption. 
 
@@ -863,7 +793,7 @@ As detailed thoroughly herein, Tyler has not supplied the Court with any concret
 
 ## Wage Payment & Deductions
 
-### Glaxiola v. Williams Seafood of Arapahoe, Inc., 776 F.Supp.2d 117 (E.D.N.C. 2011)
+### @GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
 
 This is an action alleging claims under the Fair Labor Standards Act, 29 U.S.C. §§ 201 _et seq._ ("FLSA") and the North Carolina Wage and Hour Act, N.C. Gen. Stat. §§ 95-25.1 _et seq._ ("NCWHA"). Gaxiola is a former employee of defendants who was recruited in Mexico to work as a crab picker at defendants' seafood processing facility in Arapahoe, North Carolina. Gaxiola alleges that she and other individuals employed by defendants on H-2B guestworker visas from 2005 through 2008 were not paid minimum wage for all hours worked in violation of the FLSA. Specifically, Gaxiola alleges: (1) that she and other employees were paid on a piece-rate basis (by weight of crab picked) even when the weekly pay earned through a piece rate was less than the minimum wage mandated by federal law; and (2) that defendants reduced her wages and the wages of her coworkers below minimum wage by deducting from their paychecks costs incurred for the benefit of defendants, such as visa, transportation and border crossing expenses. Additionally, Gaxiola brings a claim pursuant to NCWHA alleging defendants failed to pay plaintiff and members of the proposed NCWHA class at least he promised wage each week in which they performed work for defendants. Gaxiola alleges that defendants also violated NCWHA by making unauthorized deductions from her pay and the pay of the proposed plaintiff class members for transportation, visa and border crossing expenses.
 
@@ -963,7 +893,7 @@ As to the good faith defense argument made by defendants regarding the NCWHA vio
 
 Therefore, the court GRANTS plaintiffs' motion for summary judgment as to defendants' liability for violation of the NCWHA.
 
-### Garcia v. Frog Island Seafood, Inc., 644 F.Supp.2d 696 (E.D.N.C. 2009)
+### @GarciaFrogIslandSeafood_EDNC2009
 
 This lawsuit arises from Defendants' alleged underpayment of wages and record-keeping violations during Plaintiffs' employment with Defendants. Plaintiffs are citizens of Mexico who were admitted as temporary foreign workers under the H-2B provisions of the Immigration and Nationality Act, to work in Defendants' seafood processing plant as "crab pickers." During 2004-2006, Defendants sought permission to bring Mexican nationals to work in their seafood processing plant by filing annually an Application for Alien Employment Certification ("Clearance Orders") with the United States DOL. Each Clearance Order set forth the number of workers requested by Defendants, the period of employment, the type of work and rate of pay being offered by Defendants. The DOL approved the terms of work described in Defendants' Clearance Orders, and granted their request for H-2B visas to allow Plaintiffs to fill the jobs described in those orders.
 
@@ -987,7 +917,7 @@ Despite Defendants' contention to the contrary, liability under the FLSA is not 
 
 ## Training Repayment Provisions
 
-### Ketner v. Branch Banking and Trust Company, 143 F.Supp.3d 370 (M.D.N.C. 2015)
+### @KetnerBranchBankingTrust_MDNC2015
 
 Plaintiffs, R. Andrew Ketner ("Ketner") and Stephen Baker ("Baker"), bring this putative collective action, individually and on behalf of similarly situated individuals, against their former employer, Defendant Branch Banking and Trust Company ("BB & T"), for damages and declaratory relief, alleging violations of The Fair Labor Standards Act, 29 U.S.C. §§ 201-219 (2012) ("FLSA" or "Act"). Before the Court is BB & T's Partial Motion to Dismiss pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure. The Court heard oral argument on this motion on September 3, 2015. For the reasons that follow, the Court denies BB & T's motion.
 
@@ -1060,90 +990,87 @@ Moreover, unlike in _Heder_ and _Gordon,_ where the plaintiffs received a certif
 
 ::: {.callout-note}
 
-Like non-compete agreements, training reimbursement provisions have been criticized for inhibiting employee mobility by imposing a substantial cost on those who wish to change jobs, while leaving employers free to discharge those employees at-will without any liability. _See_ Stuart Lichten & Eric M. Fink, [‘Just When I Thought I was Out …’: Post-Employment Repayment Obligations](https://www.emfink.net/assets/pdf/Fink2018.pdf), 25 Washington & Lee Journal of Civil Rights & Social Justice 51 (2018); Jonathan F. Harris, [Unconscionability in Contracting for Worker Training](https://www.law.ua.edu/lawreview/files/2021/05/2-Harris-723-783.pdf), 72 Ala. L. Rev. 723 (2021); Student Borrower Protection Center, [Trapped at Work: How Big Business Uses Student Debt to Restrict Worker Mobility](https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf) (July 2022).
+Like non-compete agreements, training reimbursement provisions have been criticized for inhibiting employee mobility by imposing a substantial cost on those who wish to change jobs, while leaving employers free to discharge those employees at-will without any liability. _See_ @Lichten2018; @Harris2021; @StudentBorrowerProtectionCenter2022.
 
 In 2024, NLRB General Counsel Jennifer Abruzzo issued a memorandum declaring "that certain 'stay-or-pay' provisions, under which an employee must pay their employer if they separate from employment, infringe on employees’ Section 7 rights in many of the same ways that non-compete agreements do and that such provisions therefore also violate Section 8(a)(1) of the Act unless narrowly tailored to minimize that infringement." [Memorandum GC 25-01](../exhibits/GC25-01), "Remedying the Harmful Effects of Non-Compete and “Stay-or-Pay” Provisions that Violate the National Labor Relations Act" (Oct. 7, 2024). In early 2025, the new Acting General Counsel, William Cowen, rescinded that memorandum. [NLRB GC 25-05](../exhibits/GC-25-05) (Feb. 14, 2025). 
 
 The issue of training reimbursement provisions has also drawn the attention of state legislatures. California and New York have enacted statutes prohibiting such provisions, while Colorado and Washington have adopted measures regulating their use. Similar bills are pending in other states. 
 
-#### California--Employment: Contracts in Restraint of Trade
+:::
+
+### @ContractsRestraintTrade_nd
 
 ::: {.legalcode}
 
-[Cal. Business & Professions Code § 16608.]{.casesubsection}
+#### § 16608
 
-(a) For purposes of this section, the following definitions apply:
-
-- (1) “Contract” includes a promise, undertaking, contract, or agreement, whether written or oral, express or implied.
-- (2) “Debt” means money, personal property, or their equivalent that is due or owing or alleged to be due or owing from a natural person to another person, including, but not limited to, for employment-related costs, education-related costs, or a consumer financial product or service, regardless of whether the debt is certain, contingent, or incurred voluntarily.
-- (3) “Debt collector” has the same meaning as defined in subdivision (c) of Section 1788.2 of the Civil Code.
-- (4) “Employer” means any person or entity that employs workers. “Employer” includes any parent company, subsidiary, division, affiliate, contractor, hiring party, or third-party agent of an employer.
-- (5) “Freelance worker” has the same meaning as defined in subdivision (a) of Section 18101.
-- (6) “Misconduct” has the same meaning as in Section 1256 of the Unemployment Insurance Code.
-- (7) “Penalty, fee, or cost” includes, but is not limited to, a replacement hire fee, retraining fee, replacement fee, quit fee, reimbursement for immigration or visa-related costs, liquidated damages, lost goodwill, and lost profit.
-- (8) “Person” means a natural person or an entity, including, but not limited to, a corporation, partnership, association, trust, limited liability company, cooperative, or other organization.
-- (9) “Training provider” means an entity, whether or not affiliated with an employer, that provides an education program, as defined in Section 94837 of the Education Code, a job training program, or a skills training program.
-- (10) “Transferable credential” means a degree that is offered by a third-party institution that is accredited and authorized to operate in the state, is not required for a worker’s current employment, and is transferable and useful for employment beyond the worker’s current employer.
-- (11) “Worker” means a natural person who is permitted to work for or on behalf of an employer or business entity, or who is permitted to participate in any other work relationship, job training program, or skills training program. “Worker” includes, but is not limited to, an employee or prospective employee.
-
-(b) 
-
-- (1) Except as provided in paragraph (2), for contracts entered into on or after January 1, 2026, it shall be unlawful to include in any employment contract, or to require a worker to execute as a condition of employment or a work relationship a contract that includes, a contract term that does any of the following:
-	- (A) Requires the worker to pay an employer, training provider, or debt collector for a debt if the worker’s employment or work relationship with a specific employer terminates.
-	- (B) Authorizes the employer, training provider, or debt collector to resume or initiate collection of or end forbearance on a debt if the worker’s employment or work relationship with a specific employer terminates.
-	- (C) Imposes any penalty, fee, or cost on a worker if the worker’s employment or work relationship with a specific employer terminates.
-- (2) This section does not apply to any of the following:
-	- (A) A contract entered into under any loan repayment assistance program or loan forgiveness program provided by a federal, state, or local governmental agency.
-	- (B) A contract related to the repayment of the cost of tuition for a transferable credential that meets all of the following requirements:
-		- (i) The contract is offered separately from any contract for employment.
-		- (ii) The contract does not require obtaining the transferable credential as a condition of employment.
-		- (iii) The contract specifies the repayment amount before the worker agrees to the contract, and the repayment amount does not exceed the cost to the employer of the transferable credential received by the worker.
-		- (iv) The contract provides for a prorated repayment amount during any required employment period that is proportional to the total repayment amount and the length of the required employment period and does not require an accelerated payment schedule if the worker separates from the employment.
-		- (v) The contract does not require repayment to the employer by the worker if the worker is terminated, except if the worker is terminated for misconduct.
-	- (C) A contract related to enrollment in an apprenticeship program approved by the Division of Apprenticeship Standards.
-	- (D) A contract for the receipt of a discretionary or unearned monetary payment, including a financial bonus, at the outset of employment that is not tied to specific job performance, provided that all of the following conditions are met:
-		- (i) The terms of any repayment obligation are set forth in a separate agreement from the primary employment contract.
-		- (ii) The employee is notified that they have the right to consult an attorney regarding the agreement and provided with a reasonable time period of not less than five business days to obtain advice of counsel prior to executing the agreement.
-		- (iii) Any repayment obligation for early separation from employment is not subject to interest accrual and is prorated based on the remaining term of any retention period, which shall not exceed two years from the receipt of payment.
-		- (iv) The worker has an option to defer receipt of the payment to the end of a fully served retention period without any repayment obligation.
-		- (v) Separation from employment prior to the retention period was at the sole election of the employee, or at the election of the employer for misconduct.
-	- (E) A contract related to the lease, financing, or purchase of residential property, including, but not limited to, a contract pursuant to the California Residential Mortgage Lending Act (Division 20 (commencing with Section 50000) of the Financial Code).
-	
-(c) A contract that is unlawful under subdivision (b) is a contract restraining a person from engaging in a lawful profession, trade, or business, and is void under Section 16600 only if the contract was entered into on or after January 1, 2026.
-
-(d) The rights, remedies, and penalties established by this section are cumulative and shall not be construed to supersede or limit the rights, remedies, or penalties established under other laws, or to limit the ability of any other person or entity to pursue enforcement of rights, remedies, or penalties established under other laws, including, but not limited to:
-
-- (1) Obligations of employers under Section 2802 of the Labor Code.
-- (2) Article 1.5 (commencing with Section 2775) of Chapter 2 of Division 3 of the Labor Code.
-- (3) The Unfair Competition Law (Chapter 5 (commencing with Section 17200)).
-
-[Cal. Labor Code §926.]{.casesubsection}
-
-(a) A contract or contract term that violates Section 16608 of the Business and Professions Code is void as contrary to public policy only if entered into on or after January 1, 2026.
-
-(b) A worker who has been subjected to the conduct prohibited by subdivision (b) of Section 16608 of the Business and Professions Code or a worker representative may bring a civil action on behalf of that worker, other persons similarly situated, or both, in any court of competent jurisdiction.
-
-(c) Any person found liable for a violation of this section shall be liable for actual damages sustained by the worker or workers on whose behalf the case is brought, or five thousand dollars ($5,000) per worker, whichever is greater, in addition to injunctive relief, and reasonable attorney’s fees and costs.
-
-(d) This section does not limit the remedies available to a worker or other natural person specified in Section 16608 of the Business and Professions Code.
+- (a) For purposes of this section, the following definitions apply:
+	- (1) “Contract” includes a promise, undertaking, contract, or agreement, whether written or oral, express or implied.
+	- (2) “Debt” means money, personal property, or their equivalent that is due or owing or alleged to be due or owing from a natural person to another person, including, but not limited to, for employment-related costs, education-related costs, or a consumer financial product or service, regardless of whether the debt is certain, contingent, or incurred voluntarily.
+	- (3) “Debt collector” has the same meaning as defined in subdivision (c) of Section 1788.2 of the Civil Code.
+	- (4) “Employer” means any person or entity that employs workers. “Employer” includes any parent company, subsidiary, division, affiliate, contractor, hiring party, or third-party agent of an employer.
+	- (5) “Freelance worker” has the same meaning as defined in subdivision (a) of Section 18101.
+	- (6) “Misconduct” has the same meaning as in Section 1256 of the Unemployment Insurance Code.
+	- (7) “Penalty, fee, or cost” includes, but is not limited to, a replacement hire fee, retraining fee, replacement fee, quit fee, reimbursement for immigration or visa-related costs, liquidated damages, lost goodwill, and lost profit.
+	- (8) “Person” means a natural person or an entity, including, but not limited to, a corporation, partnership, association, trust, limited liability company, cooperative, or other organization.
+	- (9) “Training provider” means an entity, whether or not affiliated with an employer, that provides an education program, as defined in Section 94837 of the Education Code, a job training program, or a skills training program.
+	- (10) “Transferable credential” means a degree that is offered by a third-party institution that is accredited and authorized to operate in the state, is not required for a worker’s current employment, and is transferable and useful for employment beyond the worker’s current employer.
+	- (11) “Worker” means a natural person who is permitted to work for or on behalf of an employer or business entity, or who is permitted to participate in any other work relationship, job training program, or skills training program. “Worker” includes, but is not limited to, an employee or prospective employee.
+- (b) 
+	- (1) Except as provided in paragraph (2), for contracts entered into on or after January 1, 2026, it shall be unlawful to include in any employment contract, or to require a worker to execute as a condition of employment or a work relationship a contract that includes, a contract term that does any of the following:
+		- (A) Requires the worker to pay an employer, training provider, or debt collector for a debt if the worker’s employment or work relationship with a specific employer terminates.
+		- (B) Authorizes the employer, training provider, or debt collector to resume or initiate collection of or end forbearance on a debt if the worker’s employment or work relationship with a specific employer terminates.
+		- (C) Imposes any penalty, fee, or cost on a worker if the worker’s employment or work relationship with a specific employer terminates.
+	- (2) This section does not apply to any of the following:
+		- (A) A contract entered into under any loan repayment assistance program or loan forgiveness program provided by a federal, state, or local governmental agency.
+		- (B) A contract related to the repayment of the cost of tuition for a transferable credential that meets all of the following requirements:
+			- (i) The contract is offered separately from any contract for employment.
+			- (ii) The contract does not require obtaining the transferable credential as a condition of employment.
+			- (iii) The contract specifies the repayment amount before the worker agrees to the contract, and the repayment amount does not exceed the cost to the employer of the transferable credential received by the worker.
+			- (iv) The contract provides for a prorated repayment amount during any required employment period that is proportional to the total repayment amount and the length of the required employment period and does not require an accelerated payment schedule if the worker separates from the employment.
+			- (v) The contract does not require repayment to the employer by the worker if the worker is terminated, except if the worker is terminated for misconduct.
+		- (C) A contract related to enrollment in an apprenticeship program approved by the Division of Apprenticeship Standards.
+		- (D) A contract for the receipt of a discretionary or unearned monetary payment, including a financial bonus, at the outset of employment that is not tied to specific job performance, provided that all of the following conditions are met:
+			- (i) The terms of any repayment obligation are set forth in a separate agreement from the primary employment contract.
+			- (ii) The employee is notified that they have the right to consult an attorney regarding the agreement and provided with a reasonable time period of not less than five business days to obtain advice of counsel prior to executing the agreement.
+			- (iii) Any repayment obligation for early separation from employment is not subject to interest accrual and is prorated based on the remaining term of any retention period, which shall not exceed two years from the receipt of payment.
+			- (iv) The worker has an option to defer receipt of the payment to the end of a fully served retention period without any repayment obligation.
+			- (v) Separation from employment prior to the retention period was at the sole election of the employee, or at the election of the employer for misconduct.
+		- (E) A contract related to the lease, financing, or purchase of residential property, including, but not limited to, a contract pursuant to the California Residential Mortgage Lending Act (Division 20 (commencing with Section 50000) of the Financial Code).
+- (c) A contract that is unlawful under subdivision (b) is a contract restraining a person from engaging in a lawful profession, trade, or business, and is void under Section 16600 only if the contract was entered into on or after January 1, 2026.
+- (d) The rights, remedies, and penalties established by this section are cumulative and shall not be construed to supersede or limit the rights, remedies, or penalties established under other laws, or to limit the ability of any other person or entity to pursue enforcement of rights, remedies, or penalties established under other laws, including, but not limited to:
+	- (1) Obligations of employers under Section 2802 of the Labor Code.
+	- (2) Article 1.5 (commencing with Section 2775) of Chapter 2 of Division 3 of the Labor Code.
+	- (3) The Unfair Competition Law (Chapter 5 (commencing with Section 17200)).
 
 :::
 
-#### New York--Trapped at Work Act
+### @ContractsPublicPolicy_nd
 
 ::: {.legalcode}
 
-[NY Labor Law Art. 37]{.casesubsection}
+- (a) A contract or contract term that violates Section 16608 of the Business and Professions Code is void as contrary to public policy only if entered into on or after January 1, 2026.
+- (b) A worker who has been subjected to the conduct prohibited by subdivision (b) of Section 16608 of the Business and Professions Code or a worker representative may bring a civil action on behalf of that worker, other persons similarly situated, or both, in any court of competent jurisdiction.
+- (c) Any person found liable for a violation of this section shall be liable for actual damages sustained by the worker or workers on whose behalf the case is brought, or five thousand dollars ($5,000) per worker, whichever is greater, in addition to injunctive relief, and reasonable attorney’s fees and costs.
+- (d) This section does not limit the remedies available to a worker or other natural person specified in Section 16608 of the Business and Professions Code.
 
-§ 1050. Definitions. For purposes of this article:
+:::
+
+### @TrappedWorkAct2025
+
+::: {.legalcode}
+
+#### § 1050. Definitions. For purposes of this article:
 
 - 1\. "Employer" means an individual, partnership, association, corporation, limited liability company, trust, government or government subdivision, or any organized group that hires or contracts with a worker to work for the employer. For the purposes of this article, this term shall also include any subsidiary of an employer and any individual, partnership, association, corporation, limited liability company, trust, government or government subdivision, or any organized group associated with an employer that provides training to workers.
 - 2\. "Worker" means an individual who is permitted to work for or on behalf of an employer. the term "worker" includes an employee, independent contractor, extern, intern, volunteer, apprentice, sole proprietor who provides a service or services to an employer or to a client or customer of an employer on behalf of such employer, and an individual who provides service through a business or nonprofit entity or association. "Worker" does not include an individual, even if the individual performs incidental service for the employer, whose sole relationship with the employer is as a vendor of goods.
 - 3\. "Employment promissory note" means any instrument, agreement, or contract provision that requires a worker to pay the employer, or the employer's agent or assignee, a sum of money if the worker leaves such employment before the passage of a stated period of time. "Employment promissory note" includes any such instrument, agreement, or contract provision which states such payment of moneys constitutes reimbursement for training provided to the worker by the employer or by a third party.
 
-§ 1051. Scope. The rights and remedies provided pursuant to this article shall not supersede any other rights and remedies provided by statute or common law.
+#### § 1051. Scope. 
 
-§ 1052. Prohibiting the use of employment promissory notes and other similar provisions. 
+- The rights and remedies provided pursuant to this article shall not supersede any other rights and remedies provided by statute or common law.
+
+#### § 1052. Prohibiting the use of employment promissory notes and other similar provisions. 
 
 - 1\. Beginning on the effective date of this article, no employer may require, as a condition of employment, any worker or prospective worker to execute an employment promissory note. The execution of an employment promissory note as a condition of employment is unconscionable, against public policy, and unenforceable, and any such note shall be void. If any such note is part of a larger agreement, the invalidity of such note shall not affect the other provisions of such agreement.
 - 2\. Nothing in this section shall prohibit or render void or unenforceable any agreement between a worker and an employer that:
@@ -1152,11 +1079,9 @@ The issue of training reimbursement provisions has also drawn the attention of s
 	- (C\) Requires educational personnel to comply with any terms or conditions of sabbatical leaves granted by their employers; or
 	- (D\) Is entered into as part of a program agreed to by the employer and its workers' collective bargaining representative.
 
-§ 1053. Enforcement.
+#### § 1053. Enforcement.
 
 - 1\. Any employer found to have violated this article shall be fined by the commissioner not less than one thousand dollars and not more than five thousand dollars for each violation. Each worker or prospective worker whom an employer required to execute an employment promissory note or against whom an employer seeks to enforce such a note shall constitute a separate violation of this article.
 - 2\. Any worker or prospective worker for whom an employer requires execution of an employment promissory note as a condition of employment or against whom an employer seeks to enforce such a note may bring an action against such employer to recover actual damages or five thousand dollars, whichever is greater, and injunctive relief. In the event of a successful action, the court shall award any plaintiff reasonable costs and attorney fees.
-
-:::
 
 :::

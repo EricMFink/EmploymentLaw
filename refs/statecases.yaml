@@ -65,7 +65,6 @@ references:
   container-title: Doc. His. of Am. Ind. Soc.
   issued:
     - year: 1806
-  note: (2d ed. Commons 1910)
   page: '59'
   title: Commonwealth v. Pullis
   type: legal_case
@@ -92,6 +91,17 @@ references:
   title: Deem v. Treadway
   type: legal_case
   volume: '543'
+
+- id: FarwellBostonWorcesterRailroad_Mass1842
+  authority: Mass.
+  citation-key: FarwellBostonWorcesterRailroad_Mass1842
+  container-title: Mass.
+  issued:
+    - year: 1842
+  page: '42'
+  title: Farwell v. Boston & Worcester Railroad Co
+  type: legal_case
+  volume: '45'
 
 - id: FrielAngellCareInc_NCApp1994
   authority: N.C. Ct. App.

@@ -51,6 +51,9 @@ h3 {
 	padding: 0 0 0 0;
 	border-bottom: 1px solid #800000;
 }
+h3 a:link {
+	color: #800000;
+}
 h4 {
 	font-family: "Literata",serif;
 	font-size: 1.1rem;
@@ -785,7 +788,6 @@ hr {
 */
 .citation a {
 	text-decoration: none;
-	font-size: smaller;
 }
 .column-margin.column-container > :not(.collapse):first-child {
 	padding-top: 1.5em;

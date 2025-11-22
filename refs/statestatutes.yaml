@@ -1,5 +1,12 @@
 ---
 references:
+- id: ContractsPublicPolicy_nd
+  citation-key: ContractsPublicPolicy_nd
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy
+  type: legislation
+
 - id: ContractsRestraintTrade_nd
   citation-key: ContractsRestraintTrade_nd
   container-title: Cal. Bus. & Prof. Code
@@ -32,8 +39,22 @@ references:
   citation-key: LawfulUseLawful1992
   container-title: N.C.G.S.
   section: 95-28.2
-  title: Lawful Use of Lawful Products
+  title: >-
+    Discrimination against persons for lawful use of lawful products during
+    nonworking hours prohibited.
   type: legislation
+
+- id: MassachusettsNoncompetitionAgreement_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 22
+  citation-key: MassachusettsNoncompetitionAgreement_nd
+  container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
+  title: Massachusetts Noncompetition Agreement Act
+  type: legislation
+  URL: >-
+    https://malegislature.gov/Laws/GeneralLaws/Parti/Titlexxi/Chapter149/Section24L
 
 - id: MontanaWrongfulDischarge_nd
   citation-key: MontanaWrongfulDischarge_nd
@@ -47,28 +68,28 @@ references:
   container-title: N.C. Gen. Stat.
   language: en-US
   section: 99A-2
-  title: NC Property Protection Act
+  title: North Carolina Property Protection Act
   type: legislation
 
 - id: NCRetaliatoryEmployment_nd
   citation-key: NCRetaliatoryEmployment_nd
   container-title: N.C.G.S.
   section: 95-240 et seq.
-  title: NC Retaliatory Employment Discrimination Act
+  title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
 
 - id: NCWageHour_nd
   citation-key: NCWageHour_nd
   container-title: N.C.G.S.
   section: 95-25.1 et seq.
-  title: NC Wage & Hour Act
+  title: North Carolina Wage & Hour Act
   type: legislation
 
 - id: NCWorkersCompensation_nd
   citation-key: NCWorkersCompensation_nd
   container-title: N.C.G.S.
   section: 97-1 et seq.
-  title: NC Workers' Compensation Act
+  title: North Carolina Workers' Compensation Act
   type: legislation
 
 - id: TrappedWorkAct2025
@@ -78,12 +99,5 @@ references:
     - year: 2025
   section: 1050 et seq.
   title: Trapped at Work Act
-  type: legislation
-
-- id: zotero-item-7396
-  citation-key: zotero-item-7396
-  container-title: Cal. Labor Code
-  section: '926'
-  title: Contracts Against Public Policy
   type: legislation
 ...

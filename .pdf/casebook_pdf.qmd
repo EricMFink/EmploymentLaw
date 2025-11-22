@@ -3,6 +3,8 @@ title: "Employment Law"
 author: "Eric M. Fink"
 version: "4.1"
 repo: "EmploymentLaw"
+frontispiece: "Der Ackermann"
+description: This book presents judicial opinions, statutes and regulations, and other material pertaining to the law governing employment and labor relations. Topics covered include establishing an employment relationship; recruitment and hiring; supervisory control and employee autonomy; union representation and concerted activity; confidentiality and competition; wages and hours; employee health and workplace injuries; and termination of employment.
 
 epigraph: Workin' 9 to 5, what a way to make a livin'. Barely gettin' by, it's all takin' and no givin'. They just use your mind and they never give you credit. It's enough to drive you crazy if you let it.
 epigraph-author: Dolly Parton 
@@ -36,8 +38,19 @@ format:
     output-file: EmploymentLawCasebook
 filters:
   - latex-environment
+  - citetools
 environments: [legalcode]
 commands: [casesection,casesubsection,casesubsubsection]
+bibliography_fedcases: ../refs/fedcases.yaml
+bibliography_statecases: ../refs/statecases.yaml
+bibliography_othercases: ../refs/othercases.yaml
+bibliography_fedstatutes: ../refs/fedstatutes.yaml
+bibliography_statestatutes: ../refs/statestatutes.yaml
+bibliography_otherstatutes: ../refs/otherstatutes.yaml
+bibliography_other: ../refs/other.yaml
+csl: ../refs/casebook.csl
+nocite: |
+  @*
 ---
 
 {{< include ../02-Main/chap1.qmd >}}
@@ -57,3 +70,7 @@ commands: [casesection,casesubsection,casesubsubsection]
 {{< include ../02-Main/chap8.qmd >}}
 
 {{< include ../02-Main/chap9.qmd >}}
+
+\pagestyle{plain.scrheadings}
+
+{{< include ../03-Back/references.qmd >}}

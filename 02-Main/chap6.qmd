@@ -2,7 +2,7 @@
 
 ## Confidentiality Policies
 
-### Lowe’s Home Centers, LLC v. NLRB, 850 Fed.Appx. 886 (5th Cir. March 15, 2021)
+### @LowesHomeCentersLLC_NLRB2021
 
 Lowe’s workplace policy prohibits disclosure of confidential information, and an employee challenged the policy under Section 8(a)(1) of the National Labor Relations Act, which prevents employers from limiting employees’ discussions of their wages. The administrative law judge (“ALJ”) concluded that Lowe’s policy violated the Act. Lowe’s appealed to the National Labor Relations Board, and the Board affirmed. We AFFIRM.
 
@@ -40,7 +40,7 @@ The Board reasonably construed Lowe’s policy as limiting the exercise of NLRA 
 
 We find no error in the Board’s analysis. Lowe’s policy falls within the Category 3 rules contemplated by _Boeing_ because the policy can be reasonably construed to limit employees’ wages and because Lowe’s justification does not save the policy. The policy is too broad to be justified by Lowe’s interest in preventing employees from sharing confidential information.
 
-### Tesla, Inc., 370 NLRB No. 101 (March 25, 2021)
+### @TeslaInc_NLRB2021
 
 For the reasons discussed below, we find that the Respondent violated Section 8(a)(1) by maintaining a media-contact provision in its Confidentiality Agreement.
 
@@ -111,12 +111,12 @@ We acknowledge that the Respondent has a legitimate and, indeed, weighty interes
 Based on the foregoing, we find that the media-contact provision in the Respondent’s Confidentiality Agreement is unlawful and that the Respondent therefore violated Section 8(a)(1) by maintaining it. Further, we place rules that prohibit employees from communicating with the media regardless of whether the communications concern confidential information or the employees purport to speak on the employer’s behalf in _Boeing_ Category 3.
 
 ::: {.callout-note}
-In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confidentiality policies under the standard adopted in _Boeing Co._, 365 NLRB No. 154 (2017) and _LA Specialty Produce Co._, 368 NLRB No. 93 (2019). In _Stericycle, Inc_., 372 NLRB No. 113 (N.L.R.B. Aug. 2, 2023) (see Chap. 4), the NLRB overruled _Boeing_ and "adopt[ed] a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act." Because the standard under _Stericycle_ is less deferential to employer interests and more protective of employee rights, the outcome in cases like _Lowe's Home Centers_ and _Tesla_, holding employer rules illegal under _Boeing_, would likely be the same.
+In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confidentiality policies under the standard adopted in  @BoeingCompany_NLRB2017 and @SpecialtyProduce_NLRB2019. In @StericycleInc_NLRB2023 (see Chap. 4), the NLRB overruled _Boeing_ and "adopt[ed] a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act." Because the standard under _Stericycle_ is less deferential to employer interests and more protective of employee rights, the outcome in cases like _Lowe's Home Centers_ and _Tesla_, holding employer rules illegal under _Boeing_, would likely be the same.
 :::
 
-## Confidential Settlement Agreements  
+## Confidential Settlement Agreements 
 
-### Zorn-Hill v. A2B Taxi, LLC, Nos. 19-CV-1058 & 18-CV-11165 (S.D.N.Y. September 17, 2020)
+### @ZornHillA2BTaxiLLC_SDNY2020
 
 Plaintiff Kenneth Zorn-Hill ("Zorn-Hill") filed a Complaint against A2B Taxi LLC ("A2B"), Everald Gilliard, and Trevonne Gilliard (collectively, "Defendants"), pursuant to the Fair Labor Standards Act of 1938 ("FLSA") and New York Labor Law Article 6 § 190 _et seq_ ("NYLL"). 
 
@@ -160,7 +160,7 @@ The Court finds that the restriction on use of social media is impermissible. Si
 
 For the foregoing reasons, the Parties' request for approval of their Proposed Settlement is denied without prejudice. The Parties may reapply for approval of a settlement that eliminates or tailors the provision restricting use of social media.
 
-### Maclaren Macomb, 372 NLRB No. 58 (Feb. 21, 2023)
+### @MaclarenMacomb_NLRB
 
 The main issue presented is whether the Respondent violated Section 8(a)(1) of the National Labor Relations Act (Act) by offering a severance agreement to 11 bargaining unit employees it permanently furloughed. The agreement broadly prohibited them from making statements that could disparage or harm the image of the Respondent and further prohibited them from disclosing the terms of the agreement. Agreements that contain broad proscriptions on employee exercise of Section 7 rights have long been held unlawful because they purport to create an enforceable legal obligation to forfeit those rights. Proffers of such agreements to employee have also been held to be unlawfully coercive. The Board in _Baylor University Medical Center_ and _IGT d/b/a International Game Technology_ reversed this long-settled precedent and replaced it with a test that fails to recognize that unlawful provisions in a severance agreement proffered to employees have a reasonable tendency to interfere with, restrain, or coerce the exercise of employee rights under Section 7 of the Act. We accordingly overrule _Baylor_ and _IGT_ and, upon careful analysis of the terms of the nondisparagement and confidentiality provisions at issue here, we find them to be unlawful, and thus find the severance agreement proffered to employees unlawful.
 
@@ -188,7 +188,7 @@ In none of these cases was the presence of additional unlawful conduct by the em
 
 In _Baylor_, the Board abandoned examination and analysis of the severance agreement at issue. _Baylor_ shifted focus instead to the circumstances under which the agreement was presented to employees. The _Baylor_ Board held that the Respondent did not violate the Act by the "mere proffer" of a severance agreement that required the signer to agree not to "pursue, assist, or participate in any claim" against Baylor and to keep a broad swath of information confidential. The Board reasoned that the agreement was not mandatory, pertained exclusively to post-employment activities and, therefore, had no impact on terms and conditions of employment, and there was no allegation that anyone offered the agreement had been unlawfully discharged or that the agreement was proffered under circumstances that would tend to infringe on Section 7 rights. The _Baylor_ Board overruled prior decisions to the extent they held to the contrary.
 
-Only a few months later, in _IGT_, the Board again dismissed an allegation that the respondent maintained an unlawful nondisparagement provision in the severance agreement it offered to separated employees. The provision required the signer to agree not to "disparate or discredit IGT or any of its affiliates, officers, directors and employees." Citing _Baylor_, the Board again reasoned that the agreement was "entirely voluntary, does not affect pay or benefits that were established as terms of employment, and has not been proffered coercively."  The _IGT_ Board underscored that _Baylor_ had "overruled" _Shamrock Foods_, _Clark Distribution Systems_, and _Metro Networks_.
+Only a few months later, in _IGT_, the Board again dismissed an allegation that the respondent maintained an unlawful nondisparagement provision in the severance agreement it offered to separated employees. The provision required the signer to agree not to "disparate or discredit IGT or any of its affiliates, officers, directors and employees." Citing _Baylor_, the Board again reasoned that the agreement was "entirely voluntary, does not affect pay or benefits that were established as terms of employment, and has not been proffered coercively." The _IGT_ Board underscored that _Baylor_ had "overruled" _Shamrock Foods_, _Clark Distribution Systems_, and _Metro Networks_.
 
 As discussed below, _Baylor_ and _IGT_ are flawed in multiple respects. We therefore overrule both decisions and return to the prior, well-established principle that a severance agreement is unlawful if its terms have a reasonable tendency to interfere with, restrain, or coerce employees in the exercise of their Section 7 rights, and that employers' proffer of such agreements to employees is unlawful. In making that determination we will examine, as pre-_Baylor_ precedent did, the language of the agreement, including whether any relinquishment of Section 7 rights is narrowly tailored.
 
@@ -231,9 +231,9 @@ The confidentiality provision would also prohibit the subject employee from disc
 Two states, California and Washington, have enacted legislation against provisions in settlement agreements that restrict disclosure of factual information related to sexual assault, sexual harassment, and other workplace discrimination and harassment. [Cal. Code of Civil Procedure, § 1001](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=&title=14.&part=2.&chapter=3.5.&article=); [Wash, Sess. Laws, Chapter 133, Laws of 2022](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1795-S.SL.pdf). The Washington law also applies to settlement agreements related to wage and hour violations. Similar legislation has been introduced in the U.S. Congress. Accountability for [Workplace Misconduct Act](https://www.govinfo.gov/app/details/BILLS-118hr4802ih), H.R. 4802. 
 :::
 
-### Trade Secrets 
+## Trade Secrets 
 
-### TSG Finishing, LLC v. Bollinger (I), 767 S.E.2d 870 (N.C. Ct. App. 2014)
+### @TSGFinishingLLCBollinger_NCApp2014
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
@@ -327,7 +327,7 @@ Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of 
 
 ## Employee Disloyalty
 
-### MikLin Enterprises, Inc. v. NLRB, 861 F.3d 812 (8th Cir. 2017)
+### @MiklinEnterprisesIncNLRB_8thCircuit2016
 
 MikLin Enterprises, Inc. ("MikLin") petitions for review of a National Labor Relations Board ("Board") Order holding that MikLin violated Sections 8(a)(1) and 8(a)(3) of the National Labor Relations Act ("NLRA" or "the Act") when it (i) discharged and disciplined employees who publicly distributed posters suggesting that MikLin's "Jimmy John's" sandwiches posed a health risk to consumers; (ii) solicited employees to aid in removing the posters; (iii) encouraged employees to disparage a union supporter; and (iv) removed union literature from in-store bulletin boards. MikLin argues that the Board misapplied governing law and its decision is not supported by substantial evidence. The Board cross-petitions for enforcement of its Order. A divided panel enforced the Order in its entirety. We granted rehearing en banc and vacated the panel decision. We now conclude that the means the disciplined employees used in their poster attack were so disloyal as to exceed their right to engage in concerted activities protected by the NLRA, as construed in a controlling Supreme Court precedent, _NLRB v. Local Union No. 1229, IBEW_, 346 U.S. 464 (1953) ("Jefferson Standard"). We therefore decline to enforce the determination that MikLin violated the Act by disciplining and discharging those employees and by soliciting removal of the unprotected posters. We enforce the remainder of the Order, as so modified.
 
@@ -405,7 +405,7 @@ E\. After learning that IWW supporters were about to "plaster" the area surround
 
 The ALJ concluded this post violated Section 8(a)(1) because its target, the sandwich posters, was concerted activity protected by Section 7. The Board affirmed the ALJ, one member dissenting. Section 8(a)(1) forbids employers to "interfere with, restrain, or coerce" employees in the exercise of their Section 7 rights. Because we conclude the posters were not protected Section 7 activity, substantial evidence does not support the Board's decision. Soliciting employees to remove unprotected public communications did not "interfere with, restrain or coerce" employees in their exercise of Section 7 rights. We decline to enforce this portion of the Board's Order.
 
-### Food Lion, Inc. v. Capital Cities/ABC, Inc., 951 F.Supp. 1224 (M.D.N.C. 1996)
+### @FoodLionIncCapital_MDNC1996
 
 This matter is before the Court on Defendants' Renewed Motion to Dismiss Plaintiff's Claims of Breach of Fiduciary Duty/Constructive Fraud and Unfair or Deceptive Trade Practices, or in the Alternative, for Summary Judgment For the reasons stated below, Defendants' Motion is DENIED.
 
@@ -435,7 +435,13 @@ Plaintiff seems to contemplate a very broad duty of loyalty. For instance, Plain
 
 In addition to the claims that Litt and Barnett were substandard employees because of their loyalty to ABC and that they disclosed information learned during the time they held their Food Lion positions, Food Lion also claims that Litt and Barnett "staged" many of the scenes which appear in the hidden camera tapes and which subsequently were broadcast on the _PrimeTime Live_ broadcast. Plaintiff claims that such "staging" was a further breach of the duty of loyalty. The essence of the duty of loyalty contemplated here is that an employee has a duty to use her efforts, while on the job, in the furtherance of her employer's objectives and that a factual question may be created if the employee is attempting to serve two masters at the same time. Evidence of "staging" may be relevant to the jury's determination of whether Litt and Barnett were devoting their best efforts to Food Lion or were in fact more interested in serving the interests of ABC. Examples of conduct where Litt or Barnett disobeyed instructions or failed to adequately perform the duties of their Food Lion jobs, if they occurred, could show a breach of the duty of loyalty owed to Food Lion. Further, if these episodes were subsequently broadcast, then the jury could find part of the damage Food Lion suffered as a result of the _PrimeTime Live_ story resulted from Litt's and Barnett's violation of fiduciary duty.
 
-### Dalton v. Camp, 548 S.E.2d 704 (N.C. 2001)
+::: {.callout-note}
+
+In addition to breach of their duty of loyalty as employees, Litt and Barnett were also found liable for trespass. Food Lion was awarded a total of $2 in damages for those claims. See @FoodLionIncCapital_4thCircuit1999 (affirming in part and reversing in part). 
+
+:::
+
+### @DaltonCamp_NC2001
 
 This case arises out of an employer's allegations of unfair competitive activity by former employees and a new corporation formed by them. Plaintiff Robert Earl Dalton d/b/a B. Dalton & Company ("Dalton") produced, under a thirty-six month contract, an employee newspaper for Klaussner Furniture Industries ("KFI"). Dalton hired defendant David Camp ("Camp") to produce the publication and subsequently hired Nancy Menius ("Menius") to assist in the production of the employee newspaper. Near the conclusion of the contract period, Dalton began negotiations with KFI to continue publication. After the contract had expired, Dalton continued to publish the employee newspaper without benefit of a contract while talks between the parties continued. During this period, Camp, who was contemplating leaving Dalton's employ, established a competing publications entity, Millennium Communication Concepts, Inc. ("MCC"), and discussed with KFI officials the possibility of replacing Dalton as publisher of KFI's employee newspaper. Soon thereafter, Camp entered into a contract with KFI to produce the newspaper. He resigned from Dalton's employment approximately two weeks later.
 
@@ -493,49 +499,34 @@ We also find no evidence of attendant circumstances to indicate that Camp's cond
 
 As a consequence of concluding that employee Camp was without fiduciary duty, that his position was not one "in or affecting commerce," and that his business actions were neither aggravating nor egregious, we conclude that the trial court properly granted summary judgment as to employer Dalton's claim under N.C.G.S. § 75-1.1. Therefore, with regard to both appellants Camp and MCC, we reverse the Court of Appeals on this issue.
 
-###  N.C.G.S. § 99-A-2
+### @NCPropertyProtection2016
 
 ::: {.legalcode}
 
-**Recovery of Damages for Exceeding the Scope of Authorized Access to Property. **
+**Recovery of Damages for Exceeding the Scope of Authorized Access to Property.**
 
-(a) Any person who intentionally gains access to the nonpublic areas of another's premises and engages in an act that exceeds the person's authority to enter those areas is liable to the owner or operator of the premises for any damages sustained. For the purposes of this section, "nonpublic areas" shall mean those areas not accessible to or not intended to be accessed by the general public.
-
-(b) For the purposes of this section, an act that exceeds a person's authority to enter the nonpublic areas of another's premises is any of the following:
-
-- (1) An employee who enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization captures or removes the employer's data, paper, records, or any other documents and uses the information to breach the person's duty of loyalty to the employer.
-
-- (2) An employee who intentionally enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization records images or sound occurring within an employer's premises and uses the recording to breach the person's duty of loyalty to the employer.
-
-- (3) Knowingly or intentionally placing on the employer's premises an unattended camera or electronic surveillance device and using that device to record images or data.
-
-- (4) Conspiring in organized retail theft, as defined in Article 16A of Chapter 14 of the General Statutes.
-
-- (5) An act that substantially interferes with the ownership or possession of real property.
-
-(c) Any person who intentionally directs, assists, compensates, or induces another person to violate this section shall be jointly liable.
- 
-(d) A court may award to a party who prevails in an action brought pursuant to this section one or more of the following remedies:
-
-- (1) Equitable relief.
-
-- (2) Compensatory damages as otherwise allowed by State or federal law.
-
-- (3) Costs and fees, including reasonable attorneys' fees.
-
-- (4) Exemplary damages as otherwise allowed by State or federal law in the amount of five thousand dollars ($5,000) for each day, or portion thereof, that a defendant has acted in violation of subsection (a) of this section.
-
-(e) Nothing in this section shall be construed to diminish the protections provided to employees under Article 21 of Chapter 95 or Article 14 of Chapter 126 of the General Statutes, nor may any party who is covered by these Articles be liable under this section.
-
-(f) This section shall not apply to any governmental agency or law enforcement officer engaged in a lawful investigation of the premises or the owner or operator of the premises.
-
-(g) Nothing in this section shall be construed to limit any other remedy available at common law or provided by the General Statutes. 
+- (a) Any person who intentionally gains access to the nonpublic areas of another's premises and engages in an act that exceeds the person's authority to enter those areas is liable to the owner or operator of the premises for any damages sustained. For the purposes of this section, "nonpublic areas" shall mean those areas not accessible to or not intended to be accessed by the general public.
+- (b) For the purposes of this section, an act that exceeds a person's authority to enter the nonpublic areas of another's premises is any of the following:
+	- (1) An employee who enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization captures or removes the employer's data, paper, records, or any other documents and uses the information to breach the person's duty of loyalty to the employer.
+	- (2) An employee who intentionally enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization records images or sound occurring within an employer's premises and uses the recording to breach the person's duty of loyalty to the employer.
+	- (3) Knowingly or intentionally placing on the employer's premises an unattended camera or electronic surveillance device and using that device to record images or data.
+	- (4) Conspiring in organized retail theft, as defined in Article 16A of Chapter 14 of the General Statutes.
+	- (5) An act that substantially interferes with the ownership or possession of real property.
+- (c) Any person who intentionally directs, assists, compensates, or induces another person to violate this section shall be jointly liable.
+- (d) A court may award to a party who prevails in an action brought pursuant to this section one or more of the following remedies:
+	- (1) Equitable relief.
+	- (2) Compensatory damages as otherwise allowed by State or federal law.
+	- (3) Costs and fees, including reasonable attorneys' fees.
+	- (4) Exemplary damages as otherwise allowed by State or federal law in the amount of five thousand dollars ($5,000) for each day, or portion thereof, that a defendant has acted in violation of subsection (a) of this section.
+- (e) Nothing in this section shall be construed to diminish the protections provided to employees under Article 21 of Chapter 95 or Article 14 of Chapter 126 of the General Statutes, nor may any party who is covered by these Articles be liable under this section.
+- (f) This section shall not apply to any governmental agency or law enforcement officer engaged in a lawful investigation of the premises or the owner or operator of the premises.
+- (g) Nothing in this section shall be construed to limit any other remedy available at common law or provided by the General Statutes. 
 
 ::: 
 
 ::: {.callout-note}
 
-1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. [_People for the Ethical Treatment of Animals v. North Carolina Farm Bureau Federation, Inc._](https://scholar.google.com/scholar_case?case=9857645331694642470), 60 F.4th 815 (4th Cir. 2023). In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
+1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. @PeopleEthicalTreatmentAnimals_4thCir2023. In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
 
 2\. Recall that in _Dalton v. Camp_, the North Carolina Supreme Court stated that "the federal district court in _Food Lion_ incorrectly interpreted our state case law" and held that, absent a fiduciary relationship between an employer and employee, "there is no basis for recognizing an independent tort claim for a breach of duty of loyalty". What implications does this have for claims under §§ 99-A-2(b)(1) & (2), which impose liability on employees who use information collected or recordings made without authorization "to breach the person's duty of loyalty to the employer"?
 
@@ -543,7 +534,7 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 However, the statute does not exempt employee conduct that is protected under federal law. The National Labor Relations Act protects concerted activity by employees regarding their terms and conditions of employment. This protection may apply to unauthorized recording of workplace conditions and communications, and to sharing the information recorded with co-workers and the public. Other federal laws also sometimes protect the use of unauthorized recordings to document illegal workplace conditions or activity, for example in connection with a complaint to a federal agency with investigatory or enforcement authority, or as evidence in an employee's lawsuit. 
 
-The NLRA generally preempts state law (criminal and civil) regulating or imposing liability for employee or employer conduct that is “arguably subject” to the NLRA. [_San Diego Building Trades Council v. Garmon_](https://scholar.google.com/scholar_case?case=4204950691768143719), 359 U.S. 236 (1959). This means that if an employer sues an employee or labor union for conduct that is arguably protected under Section 7, the court (state or federal) must normally dismiss the claim for lack of subject matter jurisdiction.There is an exception for claims involving matters of special state interest, such as trespassing or "conduct marked by violence and imminent threats to the public order". _Garmon_, 359 U.S. at 247. It is an unfair labor practice under § 8(a)(1) for an employer to bring such a preempted suit against an employee or union. [_Can-Am Plumbing, Inc. v. NLRB_](https://scholar.google.com/scholar_case?case=9226620398790808405), 321 F.3d 145 (D.C. Cir. 2003)
+The NLRA generally preempts state law (criminal and civil) regulating or imposing liability for employee or employer conduct that is “arguably subject” to the NLRA.@SanDiegoBuildingTrades_US1959. This means that if an employer sues an employee or labor union for conduct that is arguably protected under Section 7, the court (state or federal) must normally dismiss the claim for lack of subject matter jurisdiction.There is an exception for claims involving matters of special state interest, such as trespassing or "conduct marked by violence and imminent threats to the public order". _Garmon_, 359 U.S. at 247. It is an unfair labor practice under § 8(a)(1) for an employer to bring such a preempted suit against an employee or union. @CanAmPlumbingIncNLRB_DCCir2003.
 
 Consider how labor preemtion might apply to suits under N.C.G.S. § 99-A-2 against employees for workplace recording or other activity arguably protected under the NLRA. 
 
@@ -551,7 +542,7 @@ Consider how labor preemtion might apply to suits under N.C.G.S. § 99-A-2 again
 
 ## Non-Compete Agreements 
 
-### TSG Finishing, LLC v. Bollinger (II), 767 S.E.2d 870 (N.C. Ct. App. 2014)
+### @TSGFinishingLLCBollinger_NCApp2014
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
@@ -611,50 +602,39 @@ We also find TSG's policy arguments in this case persuasive. TSG employs around 
 
 In sum, we hold that the non-compete was validly assigned to plaintiff through bankruptcy reorganization, the non-compete itself is reasonable to protect TSG's legitimate business interests, and the equities weigh in favor of enforcement under these facts. Therefore, because it is undisputed that defendant is in breach of the non-compete by working for ACF, a direct competitor of TSG, we hold that TSG has demonstrated a likelihood of success on the merits of its claim for breach of contract.
 
-### Cal. Bus. & Prof. Code §§ 16600 et seq.
+### @ContractsRestraintTrade_nd
 
 ::: {.legalcode}
 
 #### § 16600
 
-(a) Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.
-
-(b) 
-
-- (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937, to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
-- (2) This subdivision does not constitute a change in, but is declaratory of, existing law.
- 
-(c) This section shall not be limited to contracts where the person being restrained from engaging in a lawful profession, trade, or business is a party to the contract.
+- (a) Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.
+- (b) 
+	- (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937, to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
+	- (2) This subdivision does not constitute a change in, but is declaratory of, existing law.
+- (c) This section shall not be limited to contracts where the person being restrained from engaging in a lawful profession, trade, or business is a party to the contract.
 
 #### § 16600.1
 
-(a) It shall be unlawful to include a noncompete clause in an employment contract, or to require an employee to enter a noncompete agreement, that does not satisfy an exception in this chapter.
-
-(b) 
-
-- (1) For current employees, and for former employees who were employed after January 1, 2022, whose contracts include a noncompete clause, or who were required to enter a noncompete agreement, that does not satisfy an exception to this chapter, the employer shall, by February 14, 2024, notify the employee that the noncompete clause or noncompete agreement is void.
-- (2) Notice made under this subdivision shall be in the form of a written individualized communication to the employee or former employee, and shall be delivered to the last known address and the email address of the employee or former employee.
-
-(c) A violation of this section constitutes an act of unfair competition within the meaning of [Chapter 5](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=2.&chapter=5.&article=) (commencing with Section 17200).
+- (a) It shall be unlawful to include a noncompete clause in an employment contract, or to require an employee to enter a noncompete agreement, that does not satisfy an exception in this chapter.
+- (b) 
+	- (1) For current employees, and for former employees who were employed after January 1, 2022, whose contracts include a noncompete clause, or who were required to enter a noncompete agreement, that does not satisfy an exception to this chapter, the employer shall, by February 14, 2024, notify the employee that the noncompete clause or noncompete agreement is void.
+	- (2) Notice made under this subdivision shall be in the form of a written individualized communication to the employee or former employee, and shall be delivered to the last known address and the email address of the employee or former employee.
+- (c) A violation of this section constitutes an act of unfair competition within the meaning of [Chapter 5](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=7.&title=&part=2.&chapter=5.&article=) (commencing with Section 17200).
 
 #### § 16600.5
 
-(a) Any contract that is void under this chapter is unenforceable regardless of where and when the contract was signed.
-
-(b) An employer or former employer shall not attempt to enforce a contract that is void under this chapter regardless of whether the contract was signed and the employment was maintained outside of California.
-
-(c) An employer shall not enter into a contract with an employee or prospective employee that includes a provision that is void under this chapter.
-
-(d) An employer that enters into a contract that is void under this chapter or attempts to enforce a contract that is void under this chapter commits a civil violation.
-
-(e) 
-
-- (1) An employee, former employee, or prospective employee may bring a private action to enforce this chapter for injunctive relief or the recovery of actual damages, or both.
-- (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
+- (a) Any contract that is void under this chapter is unenforceable regardless of where and when the contract was signed.
+- (b) An employer or former employer shall not attempt to enforce a contract that is void under this chapter regardless of whether the contract was signed and the employment was maintained outside of California.
+- (c) An employer shall not enter into a contract with an employee or prospective employee that includes a provision that is void under this chapter.
+- (d) An employer that enters into a contract that is void under this chapter or attempts to enforce a contract that is void under this chapter commits a civil violation.
+- (e) 
+	- (1) An employee, former employee, or prospective employee may bring a private action to enforce this chapter for injunctive relief or the recovery of actual damages, or both.
+	- (2) In addition to the remedies described in paragraph (1), a prevailing employee, former employee, or prospective employee in an action based on a violation of this chapter shall be entitled to recover reasonable attorney’s fees and costs.
 
 :::
 
-### Massachusetts Noncompetition Agreement Act, Mass. Gen. Laws ch. 149, § 24L
+### @MassachusettsNoncompetitionAgreement_nd
 
 ::: {.legalcode}
 
@@ -695,7 +675,7 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 
 :::
 
-### Draftkings, Inc. v. Hermalyn, No. 24-1443 (1st Cir. Sept. 26, 2024)
+### @DraftkingsIncHermalyn_1stCir2024
 
 [Stage-Setting]{.casesection}
 

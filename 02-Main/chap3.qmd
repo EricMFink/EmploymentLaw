@@ -2,7 +2,7 @@
 
 ## "Employee" as a Legal Status
 
-### Lemmerman v. A.T. Williams Oil Co., 350 S.E.2d 83 (N.C. 1986)
+### @LemmermanWilliamsOilCo_NC1986
 
 #### Frye, Justice.
 
@@ -110,7 +110,7 @@ For the above reasons I vote to allow the infant plaintiff to pursue his common 
 
 ## Distinguishing Employment from Non-Economic Relationships
 
-### Wang v. Hearst Corp., 877 F.3d 69 (2d Cir. 2017)
+### @WangHearstCorp_2ndCir2017
 
 Five participants in internship programs offered by defendant Hearst Corporation ("Hearst") sue for minimum wage under the Fair Labor Standards Act ("FLSA") and the New York Labor Law ("NYLL"). At issue is whether the unpaid interns were "employees" of Hearst for the purposes of the FLSA under [Glatt v. Fox Searchlight Pictures, Inc.](https://scholar.google.com/scholar_case?case=8101135012881799928), 811 F.3d 528 (2d Cir. 2016). We affirm the judgment of the United States District Court for the Southern District of New York, for the reasons stated in Judge Oetken's thorough opinion.
 
@@ -194,7 +194,7 @@ As the interns observe, these cases do involve a "fact specific" and case-by-cas
 
 There are contested issues that bear on the quality of each intern's experience. The crucial point is that a district court may rule on summary judgment if it can weigh the Glatt factors on the basis of facts that are not in dispute. As the district court recognized, the internships "involved varying amounts of rote work and could have been more ideally structured to maximize their educational potential," but concluded that these critiques did not give rise to a material factual dispute.
 
-### Johnson v. NCAA, 108 F.4th 163 (3d Cir. 2024)
+### @JohnsonNatlCollegiateAthletic_3rdCir2024
 
 #### Restrepo, Circuit Judge.
 
@@ -402,7 +402,7 @@ This case also presents difficult collateral legal issues that should give us pa
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
-### Ndambi v. CoreCivic, Inc., 990 F.3d 369 (4th Cir. 2021)
+### @NdambiCoreCivicInc_4thCircuit2021
 
 Appellants are former Immigration and Customs Enforcement civil detainees who allege that they are owed wages under the Fair Labor Standards Act, 29 U.S.C. §§ 201, _et seq.,_ for work performed while detained. The district court dismissed the case on the grounds that this circuit and others have declined to extend the FLSA to custodial settings. For the reasons that follow, we think that task is best left to Congress and thus affirm.
 
@@ -442,7 +442,7 @@ Our point is emphatically not one of advocacy for any method of detention or cus
 
 [^ndambi1]: (n.1 in opinion) The parties agree that the NMMWA should be interpreted in accordance with the FLSA and that the appellants' unjust enrichment claim depends on the success of their FLSA claim. Thus, our discussion is limited to interpreting the FLSA.
 
-### Scott v. Baltimore County, 101 F.4th 336 (4th Cir. 2024)
+### @ScottBaltimoreCountyMaryland_4thCircuit2024
 
 Until 2020, Baltimore County sent incarcerated people from its detention center to work at a facility where the County sorts its recycling. Some of those workers sued the County, alleging violations of the Fair Labor Standards Act and two Maryland statutes. The district court granted summary judgment against the workers, concluding no reasonable adjudicator could view the facts in a way that would make them "employees" under the Act. We vacate the district court's decision and remand for further proceedings.
 
@@ -560,7 +560,7 @@ We reiterate this Court's previous holdings that "work done by inmates behind pr
 
 [^scott2]: _Harker_ also reasoned that the purposes of the Act did not warrant its application "to work done by inmates behind prison walls for any type of prison-operated industry" because another federal statute—the Ashurst-Sumners Act—"dealt more specifically" with the unfair competition risks posed by "prison-made goods." [_Harker,_ 990 F.2d at 134-35](https://scholar.google.com/scholar_case?case=14146309549685620226&q=101+F.4th+336&hl=en&as_sdt=6,34). Perhaps recognizing that we are not dealing with "prison-made goods," the County's brief barely mentions this aspect of _Harker,_ relegating it to a brief reference in a single footnote. See County Br. 46 n.12. One other possible reason for the County's reluctance to emphasize Ashurst-Sumners: if that law applied to the sort of work being done here, the County may have spent years violating it by selling bundles of recycled material produced using incarcerated labor.
 
-### Clark v. Carter, 768 F.Supp.3d 927 (S.D. Ind. Feb. 27, 2025)
+### @ClarkCarter_DistCourt2025
 
 Ponie Clark is a prisoner at Wabash Valley Correctional Facility (WVCF). While incarcerated at WVCF, he worked in a call center operated on the prison grounds by a private company. He is pursuing claims against agents of the Indiana Department of Correction (IDOC) and the call center under the Fair Labor Standards Act’s (FLSA) minimum wage, overtime, and retaliation provisions.
 
@@ -678,7 +678,7 @@ The Seventh Circuit has held, unambiguously, that “status as an ‘employee’
 
 ## Distinguishing Employees from Independent Contractors
 
-### Razak v. Uber Technologies, Inc., 951 F.3d 137 (3d Cir. 2020)
+### @RazakUberTechnologiesInc_3rdCir2020
 
 This case is an appeal from a grant of summary judgment on the question of whether drivers for UberBLACK are employees or independent contractors within the meaning of the Fair Labor Standards Act ("FLSA"), 29 U.S.C. §§ 201-219, and similar Pennsylvania state laws. For the following reasons, we will vacate the District Court's grant of summary judgment and remand for further proceedings.
 
@@ -790,7 +790,7 @@ Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, e
 
 ## Joint Employers
 
-### Ries v. McDonald's USA, LLC, No. 1:20-cv-2 (W.D. Mich. Dec. 6, 2021)
+### @RiesMcdonaldsUsaLlc_WDMich2021
 
 Plaintiffs bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
@@ -838,7 +838,7 @@ In short, construing the evidence in a light most favorable to Plaintiffs, there
 
 Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismiss similar claims against it because the franchisor was involved in creating personnel policies or provided training to the franchisee's employees. Those cases are distinguishable. There, courts concluded that the plaintiffs had alleged sufficient facts in their complaints to state a plausible claim against the franchisor and proceed to discovery. The question facing this Court is a different one. The Court is not assessing the allegations in Plaintiffs' complaint. At this stage, Plaintiffs must support their allegations with evidence sufficient to demonstrate that they can proceed to trial against McDonald's. They have not done so. They have not shown that there is a genuine dispute of fact about whether McDonald's was a joint employer with Franchisee.
 
-### Johnson v. NCAA (II), 561 F.Supp.3d 490 (E.D. Pa. 2021)
+### @JohnsonNatlCollegiateAthletic_EDPa2021
 
 Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in NCAA Division 1 ("D1") interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants" or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named D1 universities (the "Non Attended School Defendants" or "NASD"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA; the Pennsylvania Minimum Wage Act (the "PMWA"); the New York Labor Law ("NYLL"); and the Connecticut Minimum Wage Act ("CMWA"). The Complaint also asserts three common law unjust enrichment claims. The NCAA and NASD (together the "Moving Defendants") have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) on the ground that Plaintiffs lack standing to sue them under Article III because they are not joint employers of Plaintiffs. For the reasons that follow, the Motion is granted in part and denied in part.
 

@@ -36,6 +36,17 @@ references:
   type: legal_case
   volume: '365'
 
+- id: CanAmPlumbingIncNLRB_DCCir2003
+  authority: D.C. Cir.
+  citation-key: CanAmPlumbingIncNLRB_DCCir2003
+  container-title: F.3d
+  issued:
+    - year: 2003
+  page: '145'
+  title: Can-Am Plumbing, Inc. v. NLRB
+  type: legal_case
+  volume: '321'
+
 - id: ClarkCarter_DistCourt2025
   authority: Dist. Court
   citation-key: ClarkCarter_DistCourt2025
@@ -572,6 +583,17 @@ references:
   number: No. 5:19-CV-00086-KDB-DSC
   title: Smith v. Manheim Remarketing, Inc.
   type: legal_case
+
+- id: SpecialtyProduce_NLRB2019
+  authority: N.L.R.B.
+  citation-key: SpecialtyProduce_NLRB2019
+  container-title: N.L.R.B.
+  issued:
+    - year: 2019
+  page: '93'
+  title: L.A. Specialty Produce
+  type: legal_case
+  volume: '368'
 
 - id: StarbucksCorp_NLRB2023
   authority: N.L.R.B.

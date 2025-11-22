@@ -1,5 +1,3 @@
-%\usepackage[left=0.7in,marginparwidth=2in,textwidth=5.0in,marginparsep=0.3in]{geometry}
-
 \usepackage{scrlayer-scrpage}
 \usepackage{needspace}
 \usepackage{titlesec}
@@ -9,7 +7,6 @@
 \usepackage{sidenotes}
 \usepackage{booktabs}
 \usepackage{pdfpages}
-
 %\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
@@ -41,7 +38,7 @@
 
 % smaller sizes for footnotes & captions
 \renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\small\itshape}
+\renewcommand{\captionsize}{\small}
 
 % smaller font size, more space between rows, for tables 
 \newcommand{\tablefont}{\footnotesize} 
@@ -57,9 +54,12 @@
   \setlist[itemize]{
     label={},
     itemindent=0em,
-    leftmargin=1.5em,
+    leftmargin=1em,
   }
   \renewcommand{\labelitemi}{}}
+
+\renewcommand{\tightlist}{%
+  \setlength{\topsep}{0em}\setlength{\partopsep}{1em}\setlength{\itemsep}{1em}\setlength{\parskip}{0em}}
 
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
@@ -102,7 +102,6 @@
   {}
   []
 
-
 \titleformat{\paragraph}
   [block]
   {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
@@ -111,13 +110,12 @@
   {}
   []
 
-
 % Case, etc. first heading
-\newcommand{\casesection}[1]{\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
+\newcommand{\casesection}[1]{\needspace{3\baselineskip}\vspace{.5em}\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
 % Case, etc. second heading
-\newcommand{\casesubsection}[1]{\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
+\newcommand{\casesubsection}[1]{\needspace{3\baselineskip}\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
 % Case, etc. third heading
-\newcommand{\casesubsubsection}[1]{\begin{center}\rmfamily\normalsize{#1}\end{center}}
+\newcommand{\casesubsubsection}[1]{\needspace{3\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
 
 %\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
@@ -128,13 +126,6 @@
 {\itshape{#1}}
 \begin{flushright}\noindent{\color{Maroon}{\faPenNib}} ~{#2}, {\itshape{#3}} \end{flushright}}
 }
-
-% set margin and font for quote
-%\renewenvironment{quote}{
-%  \list{}{\leftmargin=3.5cm\topsep=0pt}
-%  \item\relax\small\itshape
-%}
-%{\endlist}
 
 \renewenvironment{quote}{
   \list{}{\leftmargin=2em\rightmargin=2em}

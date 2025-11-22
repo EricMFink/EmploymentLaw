@@ -101,11 +101,11 @@ references:
   URL: https://scholarlycommons.law.hofstra.edu/hlelj/vol40/iss2/5/
   volume: '40'
 
-- id: GouldIV2004
+- id: Gould2004
   author:
-    - family: Gould IV
+    - family: Gould
       given: William B.
-  citation-key: GouldIV2004
+  citation-key: Gould2004
   edition: 4th
   ISBN: 978-1-108-59750-0
   issued:
@@ -115,6 +115,45 @@ references:
   publisher: MIT Press
   title: A Primer on American Labor Law
   type: book
+
+- id: Harris2021
+  author:
+    - family: Harris
+      given: Jonathan F
+  citation-key: Harris2021
+  container-title: Alabama Law Review
+  issued:
+    - year: 2021
+  language: en
+  page: '723'
+  source: Zotero
+  title: Unconscionability in Contracting for Worker Training
+  type: article-journal
+  volume: '72'
+
+- id: Lichten2018
+  author:
+    - family: Lichten
+      given: Stuart
+    - family: Fink
+      given: Eric M
+  citation-key: Lichten2018
+  container-title: Washington and Lee Journal of Civil Rights and Social Justice
+  issue: '1'
+  issued:
+    - year: 2018
+  language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  note: 'Select: zotero://select/library/items/DH3WM96G'
+  page: 51–97
+  source: Zotero
+  title: >-
+    “Just When I Thought I Was Out . . . .”: Post-Employment Repayment
+    Obligations
+  type: article-journal
+  volume: '25'
 
 - id: LondonRadicalHistories2016
   author:
@@ -166,6 +205,19 @@ references:
     States
   title-short: Belated Feudalism
   type: book
+
+- id: StudentBorrowerProtectionCenter2022
+  author:
+    - family: Student Borrower Protection Center
+      given: ''
+  citation-key: StudentBorrowerProtectionCenter2022
+  issued:
+    - year: 2022
+      month: 7
+  title: Trapped at Work
+  type: report
+  URL: >-
+    https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf
 
 - id: Summers2000
   author:

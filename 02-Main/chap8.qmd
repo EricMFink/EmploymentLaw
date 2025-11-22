@@ -2,7 +2,7 @@
 
 ## Workers' Compensation 
 
-### Lawrence M. Friedman, _Work Accidents_ (2013)
+### @Friedman2023
 
 [Act One: The Fellow-Servant Rule ]{.casesection}
 
@@ -86,35 +86,34 @@ A few final comments on this three-act drama. First of all, it illustrates an ol
 
 Is a fourth act possible? Yes: possible and even likely. The structure of the work force seems to be changing. Thousands of workers are part of the so-called gig economy. Millions of people are no longer "employees;" they need health insurance (which can cost them dearly). For millions of people, the cost of medicine and drugs can even push them into bankruptcy. Millions are still without any health insurance. Health care is or can be a major issue. A national system might develop. In that case, it would no longer matter very much, where and when an accident occurred. A broken leg would be a broken leg, any time and any place. The United States would march in step with the rest of the developed world. Or, conceivably, time could flow backward: back to the days when there was no relief for "pure accidents" This seems less likely. But the future is, as always, dark and unknown.
 
-### North Carolina Workers' Compensation Act, N.C. Gen. Stat. chap. 97, art. 1
+### @NCWorkersCompensation_nd
 
 ::: {.legalcode}
 
 #### § 97-2. Definitions.
 
-When used in this Article, unless the context otherwise requires:
-
-- (6\) Injury.--"Injury and personal injury" shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except where it results naturally and unavoidably from the accident. With respect to back injuries, however, where injury to the back arises out of and in the course of the employment and is the direct result of a specific traumatic incident of the work assigned, "injury by accident" shall be construed to include any disabling physical injury to the back arising out of and causally related to such incident. Injury shall include breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for unless injury to them is incidental to a compensable injury.
+- When used in this Article, unless the context otherwise requires:
+	- (6\) Injury.--"Injury and personal injury" shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except where it results naturally and unavoidably from the accident. With respect to back injuries, however, where injury to the back arises out of and in the course of the employment and is the direct result of a specific traumatic incident of the work assigned, "injury by accident" shall be construed to include any disabling physical injury to the back arising out of and causally related to such incident. Injury shall include breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for unless injury to them is incidental to a compensable injury.
 
 #### § 97-3. Presumption that all employers and employees have come under provisions of Article.
 
-[E]very employer and employee, as hereinbefore defined and except as herein stated, shall be presumed to have accepted the provisions of this Article respectively to pay and accept compensation for personal injury or death by accident arising out of and in the course of his employment and shall be bound thereby.
+- [E]very employer and employee, as hereinbefore defined and except as herein stated, shall be presumed to have accepted the provisions of this Article respectively to pay and accept compensation for personal injury or death by accident arising out of and in the course of his employment and shall be bound thereby.
 
 #### § 97-5. Presumption as to contract of service.
 
-Every contract of service between any employer and employee covered by this Article, written or implied, now in operation or made or implied prior to July 1, 1929, shall, after that date, be presumed to continue, subject to the provisions of this Article; and every such contract made subsequent to that date shall be presumed to have been made subject to the provisions of this Article.
+- Every contract of service between any employer and employee covered by this Article, written or implied, now in operation or made or implied prior to July 1, 1929, shall, after that date, be presumed to continue, subject to the provisions of this Article; and every such contract made subsequent to that date shall be presumed to have been made subject to the provisions of this Article.
 
 #### § 97-10.1. Other rights and remedies against employer excluded.
 
-If the employee and the employer are subject to and have complied with the provisions of this Article, then the rights and remedies herein granted to the employee, his dependents, next of kin, or personal representative shall exclude all other rights and remedies of the employee, his dependents, next of kin, or representative as against the employer at common law or otherwise on account of such injury or death. 
+- If the employee and the employer are subject to and have complied with the provisions of this Article, then the rights and remedies herein granted to the employee, his dependents, next of kin, or personal representative shall exclude all other rights and remedies of the employee, his dependents, next of kin, or representative as against the employer at common law or otherwise on account of such injury or death. 
 
-#### § 97-10.2.  Rights under Article not affected by liability of third party; rights and remedies against third parties.
+#### § 97-10.2. Rights under Article not affected by liability of third party; rights and remedies against third parties.
 
-(a\) The right to compensation and other benefits under this Article for disability, disfigurement, or death shall not be affected by the fact that the injury or death was caused under circumstances creating a liability in some person other than the employer to pay damages therefor, such person hereinafter being referred to as the "third party." The respective rights and interests of the employee-beneficiary under this Article, the employer, and the employer's insurance carrier, if any, in respect of the common-law cause of action against such third party and the damages recovered shall be as set forth in this section.
+- (a\) The right to compensation and other benefits under this Article for disability, disfigurement, or death shall not be affected by the fact that the injury or death was caused under circumstances creating a liability in some person other than the employer to pay damages therefor, such person hereinafter being referred to as the "third party." The respective rights and interests of the employee-beneficiary under this Article, the employer, and the employer's insurance carrier, if any, in respect of the common-law cause of action against such third party and the damages recovered shall be as set forth in this section.
 
 :::
 
-### McGrady v. Olsten Corp., 583 S.E.2d 371 (N.C. Ct. App. 2003)
+### @McGradyOlstenCorp_NCCtApp2003
 
 Defendants (Olsten Corporation and ITT Specialty Risk Services, Inc.) appeal from a divided opinion of the Industrial Commission, awarding plaintiff (Alice McGrady) medical benefits and temporary total disability. We affirm.
 
@@ -150,7 +149,7 @@ Because defendants do not assign as error any of the Industrial Commission's fin
 
 We next determine whether the Industrial Commission correctly applied the law to these facts when it reached the following conclusion: "On July 26, 1999, plaintiff sustained a compensable injury by accident arising out of and in the course of her employment with defendant-employer when she fell from a pear tree while picking a pear for the consumption of her employer's patient."
 
-Defendants argue that plaintiff's injury is not compensable. They contend that, because plaintiff was not authorized to climb a tree in order to obtain a pear for Ms. Withers, plaintiff's injury did not result from "a risk which might have been contemplated by a reasonable person familiar with the whole situation as incidental to the service when he entered the employment." _Bartlett v. Duke University,_ 284 N.C. 230 (1973) (denying compensation to claimant who aspirated food while dining out during a business trip). Defendants frame the issue of compensability primarily in terms of whether plaintiff was authorized to obtain a pear by climbing a tree, which defendants term "the critical issue  in this case."
+Defendants argue that plaintiff's injury is not compensable. They contend that, because plaintiff was not authorized to climb a tree in order to obtain a pear for Ms. Withers, plaintiff's injury did not result from "a risk which might have been contemplated by a reasonable person familiar with the whole situation as incidental to the service when he entered the employment." _Bartlett v. Duke University,_ 284 N.C. 230 (1973) (denying compensation to claimant who aspirated food while dining out during a business trip). Defendants frame the issue of compensability primarily in terms of whether plaintiff was authorized to obtain a pear by climbing a tree, which defendants term "the critical issue in this case."
 
 However, a review of relevant appellate law indicates that a plaintiff's entitlement to workers' compensation generally is not defeated by his negligence, or by evidence that at the time of injury the plaintiff was engaged in a foolish, even forbidden, activity:
 
@@ -164,7 +163,7 @@ We conclude that the Industrial Commission's findings of fact easily establish t
 
 Defendants' arguments are not without force. However, bearing in mind that we are bound by the Industrial Commission's findings of fact, we are constrained to conclude that plaintiff suffered a compensable injury.
 
-### Deem v. Treadway & Sons Painting & Wallcovering, Inc., 543 S.E.2d 209 (N.C. Ct. App. 2001)
+### @DeemTreadway_NCCtApp2001
 
 Robert Deem ("plaintiff") appeals the trial court's grant of defendants' motions to dismiss pursuant to Rules 12(b)(1) and 12(b)(6). We agree with the trial court that the North Carolina Industrial Commission ("Industrial Commission") has exclusive jurisdiction over plaintiff's claims. Thus, we affirm.
 
@@ -198,7 +197,7 @@ From both his complaint and his brief to this Court, we can clearly glean that _
 
 However, plaintiff further argues that his current claims should be allowed in the general court of justice because they are claims of "intentional conduct." Thus, plaintiff contends that as such, the "actions fall within the North Carolina Supreme Court's exception of intentional conduct from the exclusivity rule" as set out in _Woodson v. Rowland_. Again, we disagree.
 
-It is well established that the "substantially certain" standard set out in _Woodson_ creates an exception to the exclusivity provision of the Act. However, it is also well established that the exception is extremely narrow in that plaintiff's "forecast of evidence" must show the "employer intentionally engaged in the misconduct complained of knowing it was substantially certain to cause serious injury or death to the employee  and the employee was injured or killed by that misconduct." Since plaintiff does not contend, neither is there evidence of record to support a finding that defendants' actions were _"substantially certain to cause serious injury or death"_ to plaintiff, plaintiff's claims do not rise to the level of a _Woodson_ claim. Thus, the trial court's dismissal of plaintiff's claims for lack of subject matter jurisdiction is affirmed, as the Industrial Commission has sole jurisdiction over all the issues raised. We specifically note that the Industrial Commission has the exclusive jurisdiction over workers' compensation agreements and employee claims of fraud, misrepresentation, undue influence, mutual mistake, intentional infliction of emotional distress, and unfair and deceptive trade practices with respect to those agreements. Our Supreme Court has long held that:
+It is well established that the "substantially certain" standard set out in _Woodson_ creates an exception to the exclusivity provision of the Act. However, it is also well established that the exception is extremely narrow in that plaintiff's "forecast of evidence" must show the "employer intentionally engaged in the misconduct complained of knowing it was substantially certain to cause serious injury or death to the employee and the employee was injured or killed by that misconduct." Since plaintiff does not contend, neither is there evidence of record to support a finding that defendants' actions were _"substantially certain to cause serious injury or death"_ to plaintiff, plaintiff's claims do not rise to the level of a _Woodson_ claim. Thus, the trial court's dismissal of plaintiff's claims for lack of subject matter jurisdiction is affirmed, as the Industrial Commission has sole jurisdiction over all the issues raised. We specifically note that the Industrial Commission has the exclusive jurisdiction over workers' compensation agreements and employee claims of fraud, misrepresentation, undue influence, mutual mistake, intentional infliction of emotional distress, and unfair and deceptive trade practices with respect to those agreements. Our Supreme Court has long held that:
 
 > "If a plaintiff desires to attack a workers' compensation agreement for fraud, misrepresentation, undue influence, or mutual mistake, and has evidence to support such an attack, he may make application in due time for a further hearing for that purpose. In such event, the Industrial Commission shall hear the evidence offered by the parties, find the facts with respect thereto, and upon such findings determine whether the agreement was erroneously executed due to fraud, misrepresentation, undue influence or mutual mistake. If such error is found, the Commission may set aside the agreement, and determine whether a further award is justified and, if so, the amount thereof."
 
@@ -206,124 +205,89 @@ Thus, plaintiff's sole remedy in this case was to petition the Industrial Commis
 
 Having held that the trial court properly dismissed plaintiff's claims for lack of subject matter jurisdiction, we need not address the issue of whether plaintiff's claims were properly dismissed pursuant to N.C. Gen.Stat. § 1-1A, Rule 12(b)(6).
 
-## Occupational Health & Safety Act
+## Employee Safety & Health
 
-### Occupational Safety & Health Act, 29 U.S.C. § 641 et seq.
+### @OccupationalSafetyHealth_nd
 
 ::: {.legalcode}
 
 #### § 651--Congressional statement of findings and declaration of purpose and policy
 
-(a\) The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
-
-(b\) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
-
-- (1\) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
-- (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
-- (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
+- (a\) The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
+- (b\) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
+	- (1\) by encouraging employers and employees in their efforts to reduce the number of occupational safety and health hazards at their places of employment, and to stimulate employers and employees to institute new and to perfect existing programs for providing safe and healthful working conditions;
+	- (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
+	- (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
 #### § 654--Duties of employers and employees
 
-(a\) Each employer—
-
-- (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
-- (2\) shall comply with occupational safety and health standards promulgated under this chapter.
-
-(b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
+- (a\) Each employer—
+	- (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
+	- (2\) shall comply with occupational safety and health standards promulgated under this chapter.
+- (b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
 #### § 655--Standards
 
-**(a\) Promulgation by Secretary of national consensus standards and established Federal standards;**
-
-[T]he Secretary shall, [ … ], by rule promulgate as an occupational safety or health standard any national consensus standard, and any established Federal standard, unless he determines that the promulgation of such a standard would not result in improved safety or health for specifically designated employees. In the event of conflict among any such standards, the Secretary shall promulgate the standard which assures the greatest protection of the safety or health of the affected employees.
+- (a\) Promulgation by Secretary of national consensus standards and established Federal standards;
+- [T]he Secretary shall, [ … ], by rule promulgate as an occupational safety or health standard any national consensus standard, and any established Federal standard, unless he determines that the promulgation of such a standard would not result in improved safety or health for specifically designated employees. In the event of conflict among any such standards, the Secretary shall promulgate the standard which assures the greatest protection of the safety or health of the affected employees.
 
 #### § 657--Inspections, investigations, and recordkeeping
 
-**(a\) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner**
-
-In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
-
-- (1\) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
-- (2\) to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee.
-
-**(f\) Request for inspection by employees or representative of employees; [ … ]**
-
-- (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
-- (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
+- (a\) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner
+- In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
+	- (1\) to enter without delay and at reasonable times any factory, plant, establishment, construction site, or other area, workplace or environment where work is performed by an employee of an employer; and
+	- (2\) to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any such employer, owner, operator, agent, or employee.
+- (f\) Request for inspection by employees or representative of employees; [ … ]
+	- (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
+	- (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
 
 #### § 658--Citations
 
-**(a\) Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations**
-
-If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title, of any standard, rule or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
+- (a\) Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations
+- If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title, of any standard, rule or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
 
 #### § 659--Enforcement procedures
 
-**(a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation;**
-
-If, after an inspection or investigation, the Secretary issues a citation under section 658(a) of this title, he shall, within a reasonable time after the termination of such inspection or investigation, notify the employer by certified mail of the penalty, if any, proposed to be assessed under section 666 of this title and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the citation or proposed assessment of penalty. If, within fifteen working days from the receipt of the notice issued by the Secretary the employer fails to notify the Secretary that he intends to contest the citation or proposed assessment of penalty, and no notice is filed by any employee or representative of employees under subsection (c) within such time, the citation and the assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
-
-**(b\) Notification of employer of failure to correct in allotted time period violation for which citation was issued and proposed assessment of penalty for failure to correct;**
-
-If the Secretary has reason to believe that an employer has failed to correct a violation for which a citation has been issued within the period permitted for its correction (which period shall not begin to run until the entry of a final order by the Commission in the case of any review proceedings under this section initiated by the employer in good faith and not solely for delay or avoidance of penalties), the Secretary shall notify the employer by certified mail of such failure and of the penalty proposed to be assessed under section 666 of this title by reason of such failure, and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the Secretary’s notification or the proposed assessment of penalty. If, within fifteen working days from the receipt of notification issued by the Secretary, the employer fails to notify the Secretary that he intends to contest the notification or proposed assessment of penalty, the notification and assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
-
-**(c\) Advisement of Commission by Secretary of notification of contest by employer of citation or notification or of filing of notice by any employee or representative of employees; hearing by Commission; orders of Commission and Secretary; rules of procedure**
-
-If an employer notifies the Secretary that he intends to contest a citation issued under section 658(a) of this title or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under section 658(a) of this title, any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing [ … ]. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
+- (a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation;
+- If, after an inspection or investigation, the Secretary issues a citation under section 658(a) of this title, he shall, within a reasonable time after the termination of such inspection or investigation, notify the employer by certified mail of the penalty, if any, proposed to be assessed under section 666 of this title and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the citation or proposed assessment of penalty. If, within fifteen working days from the receipt of the notice issued by the Secretary the employer fails to notify the Secretary that he intends to contest the citation or proposed assessment of penalty, and no notice is filed by any employee or representative of employees under subsection (c) within such time, the citation and the assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
+- (b\) Notification of employer of failure to correct in allotted time period violation for which citation was issued and proposed assessment of penalty for failure to correct;
+- If the Secretary has reason to believe that an employer has failed to correct a violation for which a citation has been issued within the period permitted for its correction (which period shall not begin to run until the entry of a final order by the Commission in the case of any review proceedings under this section initiated by the employer in good faith and not solely for delay or avoidance of penalties), the Secretary shall notify the employer by certified mail of such failure and of the penalty proposed to be assessed under section 666 of this title by reason of such failure, and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the Secretary’s notification or the proposed assessment of penalty. If, within fifteen working days from the receipt of notification issued by the Secretary, the employer fails to notify the Secretary that he intends to contest the notification or proposed assessment of penalty, the notification and assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
+- (c\) Advisement of Commission by Secretary of notification of contest by employer of citation or notification or of filing of notice by any employee or representative of employees; hearing by Commission; orders of Commission and Secretary; rules of procedure
+- If an employer notifies the Secretary that he intends to contest a citation issued under section 658(a) of this title or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under section 658(a) of this title, any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing [ … ]. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
 
 #### § 660--Judicial review
 
-**(c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief**
+- (c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief
+	- (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
+	- (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
+	- (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
-- (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
-- (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
-- (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
+#### § 666--Civil and criminal penalties
 
-####  § 666--Civil and criminal penalties
-
-**(a\) Willful or repeated violation**
-
-Any employer who willfully or repeatedly violates the requirements of section 654 of this title, any standard, rule, or order promulgated pursuant to section 655 of this title, or regulations prescribed pursuant to this chapter may be assessed a civil penalty of not more than $70,000 for each violation, but not less than $5,000 for each willful violation.
-
-**(b\) Citation for serious violation**
-
-Any employer who has received a citation for a serious violation of the requirements of section 654 of this title, of any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, shall be assessed a civil penalty of up to $7,000 for each such violation.
-
-**(c\) Citation for violation determined not serious**
-
-Any employer who has received a citation for a violation of the requirements of section 654 of this title, of any standard, rule, or order promulgated pursuant to section 655 of this title, or of regulations prescribed pursuant to this chapter, and such violation is specifically determined not to be of a serious nature, may be assessed a civil penalty of up to $7,000 for each such violation.
-
-**(d\) Failure to correct violation**
-
-Any employer who fails to correct a violation for which a citation has been issued under section 658(a) of this title within the period permitted for its correction [ … ], may be assessed a civil penalty of not more than $7,000 for each day during which such failure or violation continues.
-
-**(e\) Willful violation causing death to employee**
-
-Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, and that violation caused death to any employee, shall, upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishment shall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
-
-**(f\) Giving advance notice of inspection**
-
-Any person who gives advance notice of any inspection to be conducted under this chapter, without authority from the Secretary or his designees, shall, upon conviction, be punished by a fine of not more than $1,000 or by imprisonment for not more than six months, or by both.
-
-**(g\) False statements, representations or certification**
-
-Whoever knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained pursuant to this chapter shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than six months, or by both.
-
-**(i\) Violation of posting requirements**
-
-Any employer who violates any of the posting requirements, as prescribed under the provisions of this chapter, shall be assessed a civil penalty of up to $7,000 for each violation.
-
-**(j\) Authority of Commission to assess civil penalties**
-
-The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations.
-
-**(k\) Determination of serious violation**
-
-For purposes of this section, a serious violation shall be deemed to exist in a place of employment if there is a substantial probability that death or serious physical harm could result from a condition which exists, or from one or more practices, means, methods, operations, or processes which have been adopted or are in use, in such place of employment unless the employer did not, and could not with the exercise of reasonable diligence, know of the presence of the violation.
+- (a\) Willful or repeated violation
+- Any employer who willfully or repeatedly violates the requirements of section 654 of this title, any standard, rule, or order promulgated pursuant to section 655 of this title, or regulations prescribed pursuant to this chapter may be assessed a civil penalty of not more than $70,000 for each violation, but not less than $5,000 for each willful violation.
+- (b\) Citation for serious violation
+- Any employer who has received a citation for a serious violation of the requirements of section 654 of this title, of any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, shall be assessed a civil penalty of up to $7,000 for each such violation.
+- (c\) Citation for violation determined not serious
+- Any employer who has received a citation for a violation of the requirements of section 654 of this title, of any standard, rule, or order promulgated pursuant to section 655 of this title, or of regulations prescribed pursuant to this chapter, and such violation is specifically determined not to be of a serious nature, may be assessed a civil penalty of up to $7,000 for each such violation.
+- (d\) Failure to correct violation
+- Any employer who fails to correct a violation for which a citation has been issued under section 658(a) of this title within the period permitted for its correction [ … ], may be assessed a civil penalty of not more than $7,000 for each day during which such failure or violation continues.
+- (e\) Willful violation causing death to employee
+- Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, and that violation caused death to any employee, shall, upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishment shall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
+- (f\) Giving advance notice of inspection
+- Any person who gives advance notice of any inspection to be conducted under this chapter, without authority from the Secretary or his designees, shall, upon conviction, be punished by a fine of not more than $1,000 or by imprisonment for not more than six months, or by both.
+- (g\) False statements, representations or certification
+- Whoever knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained pursuant to this chapter shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than six months, or by both.
+- (i\) Violation of posting requirements
+- Any employer who violates any of the posting requirements, as prescribed under the provisions of this chapter, shall be assessed a civil penalty of up to $7,000 for each violation.
+- (j\) Authority of Commission to assess civil penalties
+- The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations.
+- (k\) Determination of serious violation
+- For purposes of this section, a serious violation shall be deemed to exist in a place of employment if there is a substantial probability that death or serious physical harm could result from a condition which exists, or from one or more practices, means, methods, operations, or processes which have been adopted or are in use, in such place of employment unless the employer did not, and could not with the exercise of reasonable diligence, know of the presence of the violation.
 
 :::
 
-### Seaworld of Florida, LLC v. Perez, 748 F.3d 1202 (D.C. Cir. 2014)
+### @SeaworldFlorida_DCCir2014
 
 SeaWorld of Florida, LLC, operates a theme park in Orlando, Florida, that is designed to entertain and educate paying customers by displaying and studying marine animals. Following the death of one of SeaWorld's trainers while working in close contact with a killer whale during a performance, the Occupational Safety and Health Review Commission found that SeaWorld had violated the general duty clause, § 5(a)(1) of the Occupational Safety and Health Act of 1970, 29 U.S.C. § 654(a)(1), by exposing the trainers to recognized hazards when working in close contact with killer whales during performances, and that the abatement procedures recommended by the Secretary of Labor were feasible. SeaWorld challenges the order with respect to one citation. Concluding its challenges are unpersuasive, we deny the petition for review.
 
@@ -341,7 +305,7 @@ Although crediting the testimony of a SeaWorld curator of animal training regard
 
 [II.]{.casesection}
 
-The general duty clause, § 5(a)(1) of the Occupational Safety and Health Act, provides: "Each employer  shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees." 29 U.S.C. § 654(a)(1). As explained by the House Committee on Education and Labor, "bearing in mind the fact that there is no automatic penalty for violation of the general duty, this clause enables the Federal Government to provide for the protection of employees who are working under such _unique_ circumstances that no standard has yet been enacted to cover this situation." In a seminal case this court, in turn, observed that "though novel in approach and sweeping in coverage, the legislation is no more drastic than the problem it aims to meet." Notwithstanding the "unqualified and absolute" textual imperative that the workplace be "free" of the recognized hazard, the court further observed that "Congress quite clearly did not intend the general duty clause to impose strict liability: The duty was to be an achievable one". So understood, the court held that "all preventable forms and instances of hazardous conduct must be entirely excluded from the workplace." 
+The general duty clause, § 5(a)(1) of the Occupational Safety and Health Act, provides: "Each employer shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees." 29 U.S.C. § 654(a)(1). As explained by the House Committee on Education and Labor, "bearing in mind the fact that there is no automatic penalty for violation of the general duty, this clause enables the Federal Government to provide for the protection of employees who are working under such _unique_ circumstances that no standard has yet been enacted to cover this situation." In a seminal case this court, in turn, observed that "though novel in approach and sweeping in coverage, the legislation is no more drastic than the problem it aims to meet." Notwithstanding the "unqualified and absolute" textual imperative that the workplace be "free" of the recognized hazard, the court further observed that "Congress quite clearly did not intend the general duty clause to impose strict liability: The duty was to be an achievable one". So understood, the court held that "all preventable forms and instances of hazardous conduct must be entirely excluded from the workplace." 
 
 "To establish a violation of the General Duty Clause, the Secretary must establish that: (1) an activity or condition in the employer's workplace presented a hazard to an employee, (2) either the employer or the industry recognized the condition or activity as a hazard, (3) the hazard was likely to or actually caused death or serious physical harm, and (4) a feasible means to eliminate or materially reduce the hazard existed." Tempering the range of potential remedies that might be imposed upon finding a violation of the clause, the court explained: "In other words, 'the _Secretary_ must prove that a reasonably prudent employer familiar with the circumstances of the industry would have protected against the hazard in the manner specified by the Secretary's citation."' 
 
@@ -383,7 +347,7 @@ Facial challenges to the general duty clause have been rejected, and although an
 
 SeaWorld contends the general duty clause is unconstitutionally vague as applied because it lacked fair notice that the abatement measures would be required. But the administrative record establishes that SeaWorld did not lack fair notice because the hazard arising from trainers' close contact with killer whales in performance is preventable. Given evidence of continued incidents of aggressive behavior by killer whales toward trainers notwithstanding SeaWorld's training, operant conditioning practices, and emergency measures, SeaWorld could have anticipated that abatement measures it had applied after other incidents would be required. SeaWorld suggests that it was entitled to rely on the fact that the State of California's Division of Occupational Safety and Health ("Cal/OSHA") did not issue a citation for killer whale hazards after a killer whale bit and dragged a trainer underwater during a performance, puncturing the trainer's skin on both feet and breaking the metatarsal in his left foot. Cal/OSHA, however, inspected a different SeaWorld facility (in San Diego) and it, not the federal OSHA, resolved the citation question. In any event, the State inspection report included a warning on point. Although noting that SeaWorld had been following industry standards and was a recognized leader in training killer whales for performance, and that its employees were well-trained and followed emergency procedures, Cal/OSHA concluded that SeaWorld of San Diego's procedures "were not entirely effective at stopping the unwanted behaviors of the killer whale during this attack" and that "short of eliminating all of the water interactions with the killer whales, there is no guarantee that employees can be kept safe from an attack by the killer whale once they get in the water with the animal." 
 
-### Whirlpool Corp. v. Marshall, 445 U.S. 1 (1980)
+### @WhirlpoolCorpMarshall_US1980
 
 The Occupational Safety and Health Act of 1970 (Act) prohibits an employer from discharging or discriminating against any employee who exercises "any right afforded by" the Act. The Secretary of Labor (Secretary) has promulgated a regulation providing that, among the rights that the Act so protects, is the right of an employee to choose not to perform his assigned task because of a reasonable apprehension of death or serious injury coupled with a reasonable belief that no less drastic alternative is available. The question presented in the case before us is whether this regulation is consistent with the Act.
 
@@ -463,126 +427,107 @@ Neither of these congressional concerns is implicated by the regulation before u
 
 For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by the Secretary in the valid exercise of his authority under the Act. Accordingly, the judgment of the Court of Appeals is affirmed.
 
-## Family & Medical Leave
+## Medical Leave
 
-### Family and Medical Leave Act, 29 U.S.C. § 2601 et seq.
+### @FamilyMedicalLeave_nd
 
 ::: {.legalcode}
 
 #### § 2601--Definitions
 
-**(2\) Eligible employee**
-
-- **(A\) In general**
-
-- The term “eligible employee” means an employee who has been employed—
-	- (i\) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
-	- (ii\) for at least 1,250 hours of service with such employer during the previous 12-month period.
-- (B\) Exclusions
-- The term “eligible employee” does not include—
-	- (i\)  [ ... ]
-	- (ii\) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
-
-**(4\) Employer**
-
-- (A\) In general
-- The term “employer”—
-	- (i\) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
-	- (ii\) includes—
-	- (I\) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
-	- (II\) any successor in interest of an employer;
-	- [ ... ] 
-
-**(11\) Serious health condition**
-
-The term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
-
-- (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
-- (B\) continuing treatment by a health care provider.
+- (2\) Eligible employee
+	- (A\) In general
+	- The term “eligible employee” means an employee who has been employed—
+		- (i\) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
+		- (ii\) for at least 1,250 hours of service with such employer during the previous 12-month period.
+	- (B\) Exclusions
+	- The term “eligible employee” does not include—
+		- (i\) [ ... ]
+		- (ii\) any employee of an employer who is employed at a worksite at which such employer employs less than 50 employees if the total number of employees employed by that employer within 75 miles of that worksite is less than 50.
+- (4\) Employer
+	- (A\) In general
+	- The term “employer”—
+		- (i\) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
+		- (ii\) includes—
+		- (I\) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
+		- (II\) any successor in interest of an employer;
+		- [ ... ] 
+- (11\) Serious health condition
+- The term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
+	- (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
+	- (B\) continuing treatment by a health care provider.
 
 #### § 2602--Leave requirement
 
-**(a\) In general**
-
-- (1\) Entitlement to leave
-- Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:
-	- (A\) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
-	- (B\) Because of the placement of a son or daughter with the employee for adoption or foster care.
-	- (C\) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
-	- (D\) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
-	- (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
-	- (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
-
-- **(4\) Combined leave total**
-
-- Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
+- (a\) In general
+	- (1\) Entitlement to leave
+	- Subject to section 2613 of this title and subsection (d)(3), an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period for one or more of the following:
+		- (A\) Because of the birth of a son or daughter of the employee and in order to care for such son or daughter.
+		- (B\) Because of the placement of a son or daughter with the employee for adoption or foster care.
+		- (C\) In order to care for the spouse, or a son, daughter, or parent, of the employee, if such spouse, son, daughter, or parent has a serious health condition.
+		- (D\) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
+		- (E\) Because of any qualifying exigency [ ... ] arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
+		- (F\) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
+	- (4\) Combined leave total
+	- Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
 #### § 2614--Employment and benefits protection
 
-(a\) Restoration to position
-
-- (1\) In general
-- Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
-	- (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
-	- (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
-- (2\) Loss of benefits
-- The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
-- (3\) Limitations
-- Nothing in this section shall be construed to entitle any restored employee to—
-	- (A\) the accrual of any seniority or employment benefits during any period of leave; or
-	- (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
-- (4\) Certification
-- As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
-- (5\) Construction
-- Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
-
-(b\) Exemption concerning certain highly compensated employees
-
-- (1\) Denial of restoration
-- An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
-	- (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
-	- (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
-	- (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
-- (2\) Affected employees
-- An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
-
-(c\) Maintenance of health benefits
-
-- (1\) Coverage
-- Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
-- (2\) Failure to return from leave
-- The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
-	- (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
-	- (B\) the employee fails to return to work for a reason other than—
-	- (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
-	- (ii\)other circumstances beyond the control of the employee.
-- (3\) Certification
-	- (A\) Issuance
-	- An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
-	- (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
-	- (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
-	- (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
+- (a\) Restoration to position
+	- (1\) In general
+	- Except as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—
+		- (A\) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
+		- (B\) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
+	- (2\) Loss of benefits
+	- The taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
+	- (3\) Limitations
+	- Nothing in this section shall be construed to entitle any restored employee to—
+		- (A\) the accrual of any seniority or employment benefits during any period of leave; or
+		- (B\) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
+	- (4\) Certification
+	- As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
+	- (5\) Construction
+	- Nothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
+- (b\) Exemption concerning certain highly compensated employees
+	- (1\) Denial of restoration
+	- An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
+		- (A\) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
+		- (B\) the employer notifies the employee of the intent of the employer to deny restoration on such basis at the time the employer determines that such injury would occur; and
+		- (C\) in any case in which the leave has commenced, the employee elects not to return to employment after receiving such notice.
+	- (2\) Affected employees
+	- An eligible employee described in paragraph (1) is a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed.
+- (c\) Maintenance of health benefits
+	- (1\) Coverage
+	- Except as provided in paragraph (2), during any period that an eligible employee takes leave under section 2612 of this title, the employer shall maintain coverage under any “group health plan” (as defined in section 5000(b)(1) of title 26) for the duration of such leave at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.
+	- (2\) Failure to return from leave
+	- The employer may recover the premium that the employer paid for maintaining coverage for the employee under such group health plan during any period of unpaid leave under section 2612 of this title if—
+		- (A\) the employee fails to return from leave under section 2612 of this title after the period of leave to which the employee is entitled has expired; and
+		- (B\) the employee fails to return to work for a reason other than—
+		- (i\) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
+		- (ii\)other circumstances beyond the control of the employee.
+	- (3\) Certification
+		- (A\) Issuance
+		- An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
+		- (i\) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
+		- (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
+		- (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 #### § 2615--Prohibited acts
 
-(a\) Interference with rights
-
-- (1) Exercise of rights
-- It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
-- (2\) Discrimination
-- It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
-
-(b\) Interference with proceedings or inquiries
-
-It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
-
-- (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
-- (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
-- (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
+- (a\) Interference with rights
+	- (1) Exercise of rights
+	- It shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter.
+	- (2\) Discrimination
+	- It shall be unlawful for any employer to discharge or in any other manner discriminate against any individual for opposing any practice made unlawful by this subchapter.
+- (b\) Interference with proceedings or inquiries
+- It shall be unlawful for any person to discharge or in any other manner discriminate against any individual because such individual—
+	- (1\) has filed any charge, or has instituted or caused to be instituted any proceeding, under or related to this subchapter;
+	- (2\) has given, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this subchapter; or
+	- (3\) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
 :::
 
-### Ramji v. Hospital Housekeeping Systems, LLC, 992 F.3d 1233 (11th Cir. 2021)
+### @RamjiHospitalHousekeepingSystems_11thCir2021
 
 The Family Medical Leave Act ("FMLA") is a federal statute that entitles eligible workers who need to recover from a serious injury to take up to twelve weeks of unpaid leave during any twelve-month period. Employers are prohibited from interfering with, restraining, or denying an employee's efforts to exercise any FMLA right. Separately, most states require employers to provide their employees with workers' compensation benefits. Workers' compensation allows an employee who is injured in a work-related incident to receive payments for all reasonable medical care and lost wages resulting from that injury.
 
@@ -732,7 +677,7 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 ## Disability Discrimination
 
-### Americans with Disabilities Act, 42 U.S.C. § 12101 et seq.
+### @AmericansDisabilitiesAct_nd
 
 ::: {.legalcode}
 
@@ -740,43 +685,33 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 As used in this chapter-number:
 
-(1\) Disability
-
-The term “disability” means, with respect to an individual—
-
-- (A\) a physical or mental impairment that substantially limits one or more major life activities of such individual;
-- (B\) a record of such an impairment; or
-- (C\) being regarded as having such an impairment (as described in paragraph (3)) .
-
-(2\) Major life activities
-
-- (A\) In general
-- For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
-- (B\) Major bodily functions
-- For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
-
-(3\) Regarded as having such an impairment
-
-For purposes of paragraph (1)(C):
-
-- (A\) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
-- (B\) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
-
-(4\) Rules of construction regarding the definition of disability
-
-The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
-
-- (A\) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
-- (B\) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
-- (C\) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
-- (D\) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
-- (E\) 
-	- (i\) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
-		- (I\) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses\) , prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
-		- (II\) use of assistive technology;
-		- (III\) reasonable accommodations or auxiliary aids or services; or
-		- (IV\) learned behavioral or adaptive neurological modifications.
-	- (ii\) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
+- (1\) Disability
+- The term “disability” means, with respect to an individual—
+	- (A\) a physical or mental impairment that substantially limits one or more major life activities of such individual;
+	- (B\) a record of such an impairment; or
+	- (C\) being regarded as having such an impairment (as described in paragraph (3)) .
+- (2\) Major life activities
+	- (A\) In general
+	- For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
+	- (B\) Major bodily functions
+	- For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
+- (3\) Regarded as having such an impairment
+- For purposes of paragraph (1)(C):
+	- (A\) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
+	- (B\) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
+- (4\) Rules of construction regarding the definition of disability
+- The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
+	- (A\) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
+	- (B\) The term “substantially limits” shall be interpreted consistently with the findings and purposes of the ADA Amendments Act of 2008.
+	- (C\) An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
+	- (D\) An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
+	- (E\) 
+		- (i\) The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
+			- (I\) medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses\) , prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
+			- (II\) use of assistive technology;
+			- (III\) reasonable accommodations or auxiliary aids or services; or
+			- (IV\) learned behavioral or adaptive neurological modifications.
+		- (ii\) The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
 
 [ ... ] 
 
@@ -784,50 +719,36 @@ The definition of “disability” in paragraph (1) shall be construed in accord
 
 As used in this subchapter-number:
 
-**(1\) Commission**
-
-The term “Commission” means the Equal Employment Opportunity Commission [ ... ].
-
-**(2\) Covered entity**
-
-The term “covered entity” means an employer, employment agency, labor organization, or joint labor-management committee.
-
-**(3\) Direct threat**
-
-The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by reasonable accommodation.
-
-**(8\) Qualified individual**
-
-The term “qualified individual” means an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires. For the purposes of this subchapter, consideration shall be given to the employer’s judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.
-
-**(9\) Reasonable accommodation**
-
-The term “reasonable accommodation” may include—
-
-- (A\) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
-
-- (B\) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
-
-**(10\) Undue hardship**
-
-- (A\) In general
-- The term “undue hardship” means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).
-- (B\) Factors to be considered
-- In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—
-	- (i\) the nature and cost of the accommodation needed under this chapter;
-	- (ii\) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
-	- (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
-	- (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
+- (1\) Commission
+- The term “Commission” means the Equal Employment Opportunity Commission [ ... ].
+- (2\) Covered entity
+- The term “covered entity” means an employer, employment agency, labor organization, or joint labor-management committee.
+- (3\) Direct threat
+- The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by reasonable accommodation.
+- (8\) Qualified individual
+- The term “qualified individual” means an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires. For the purposes of this subchapter, consideration shall be given to the employer’s judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.
+- (9\) Reasonable accommodation
+- The term “reasonable accommodation” may include—
+	- (A\) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
+	- (B\) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+- (10\) Undue hardship
+	- (A\) In general
+	- The term “undue hardship” means an action requiring significant difficulty or expense, when considered in light of the factors set forth in subparagraph (B).
+	- (B\) Factors to be considered
+	- In determining whether an accommodation would impose an undue hardship on a covered entity, factors to be considered include—
+		- (i\) the nature and cost of the accommodation needed under this chapter;
+		- (ii\) the overall financial resources of the facility or facilities involved in the provision of the reasonable accommodation; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such accommodation upon the operation of the facility;
+		- (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
+		- (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
 #### § 12112--Discrimination
 
-**(a\) General rule**
-
-No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
+- (a\) General rule
+- No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
 
 :::
 
-### Frilando v. New York City Transit Authority, 513 F.Supp.3d 356 (S.D.N.Y. 2021)
+### @FrilandoNewYorkCity_SDNY2021
 
 Kenneth Frilando is a profoundly deaf man whose primary language is American Sign Language ("ASL"). Between 2016 and 2018, Mr. Frilando applied for three civil service positions: bus operator with the Manhattan and Bronx Surface Transit Operating Authority ("MaBSTOA"), train operator with the New York City Transit Authority (the "NYCTA"), and track worker with the NYCTA. Each position required applicants to pass a multiple-choice exam and "to understand and be understood in English." The Department of Citywide Administrative Services ("DCAS") regulates the examination procedures for the train operator, bus operator, and track worker exams and—as a matter of DCAS policy—the exams are not offered in languages other than English. For each exam, Mr. Frilando sought additional time and ASL interpretation of the oral instructions, exam questions, and exam answer choices. The NYCTA and MaBSTOA offered Mr. Frilando extra time and ASL interpretation of oral exam instructions, but denied Mr. Frilando's request for ASL interpretation of exam questions and answers. Mr. Frilando did not ultimately take the exams for any of the three positions.
 
@@ -899,7 +820,7 @@ Separate from the above, Mr. Frilando claims that Defendants can be held indepen
 
 Separately, the Court also finds that Defendants did in fact engage in a good faith interactive process with Mr. Frilando, at least to the extent reasonably required at the early stage before Mr. Frilando chose not to take the exams. An adequate interactive process can involve "meeting with the employee who requests an accommodation, requesting information about the condition and what limitations the employee has, asking the employee what he or she specifically wants, showing some sign of having considered the employee's request, and offering and discussing available alternatives when the request is too burdensome." Defendants corresponded with Mr. Frilando over sixteen months, sought details and documentation about Mr. Frilando's disability and resulting limitations, repeatedly attempted to clarify Mr. Frilando's requests, considered the requests, and discussed alternative accommodations. This lengthy exchange satisfies the interactive process requirement.
 
-### Searls v. Johns Hopkins Hospital, 158 F.Supp.3d 427 (D. Md. 2016)
+### @SearlsJohnsHopkinsHospital_DMd2016
 
 Lauren Searls brings this action against Johns Hopkins Hospital ("JHH"), claiming that the defendant discriminated against her on the basis of disability in violation of Title I of the Americans with Disabilities Act, 42 U.S.C. §§ 12112(a) (the "ADA" or "Title I") and Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 794 ("Section 504"). She seeks declaratory and injunctive relief, compensatory damages, attorneys' fees and costs, and other appropriate equitable and legal relief. The plaintiff has filed a motion for partial summary judgment on the issue of liability under the ADA and Section 504, leaving the issue of damages to be resolved at trial. The defendant has filed a cross-motion for summary judgment on all of the plaintiff's claims. For the reasons stated below, the court will grant the plaintiff's motion for partial summary judgment, and deny the defendant's cross-motion for summary judgment.
 
@@ -919,7 +840,7 @@ JHH's job description of the Nurse Clinician I position states that a nurse is r
 
 Searls applied for the Nurse Clinician I position, and JHH offered her an interview. She interviewed with Rotman on August 15 and was offered the Nurse Clinician I position on Halsted 8 the next day. Searls accepted the offer that same day. Her offer letter included the provision that "the offer of employment and start date are contingent upon successful completion of a health screening and clearance by the Office of Occupational Health Services." The annual salary for the position was $59,508.80. 
 
-After Searls received the offer, she asked Rotman whom to contact to request an ASL interpreter. Rotman told her to notify the Department of Occupational Health during her pre-employment screening. Searls told a staff member from the Department of Occupational Health that she would require full-time ASL interpretation as an accommodation. The staff member told Searls that Rhodora Osborn, JHH's ADA Compliance Specialist, would be in touch with her to discuss the request.  Mary Henderson from the Department of Occupational Health sent Osborn an email informing her that Searls "has a hearing deficit since age 2 and has bilateral hearing aids" and that she was "requesting a sign language interpreter." Osborn then notified Kate Demers, the ADA/Accessibility Consultant at JHH at the time, and spoke with Henderson about Searls' request for an interpreter. 
+After Searls received the offer, she asked Rotman whom to contact to request an ASL interpreter. Rotman told her to notify the Department of Occupational Health during her pre-employment screening. Searls told a staff member from the Department of Occupational Health that she would require full-time ASL interpretation as an accommodation. The staff member told Searls that Rhodora Osborn, JHH's ADA Compliance Specialist, would be in touch with her to discuss the request. Mary Henderson from the Department of Occupational Health sent Osborn an email informing her that Searls "has a hearing deficit since age 2 and has bilateral hearing aids" and that she was "requesting a sign language interpreter." Osborn then notified Kate Demers, the ADA/Accessibility Consultant at JHH at the time, and spoke with Henderson about Searls' request for an interpreter. 
 
 Demers investigated the cost of providing one or two interpreters and determined that the average annual salary of an ASL interpreter proficient in medical terminology would be between $40,000 and $60,000 and concluded that Searls would require a team of two interpreters with her at all times at an annual cost of $240,000. In 2012, Halsted 8 had an operational budget of $3.4 million. Halsted 8 was a part of JHH's Department of Medicine, which had an operational budget of $88 million in 2012. JHH had an overall operational budget of $1.7 billion in 2012. 
 

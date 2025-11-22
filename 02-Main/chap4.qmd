@@ -2,7 +2,7 @@
 
 ## Employment References 
 
-### Desai v. Charter Communications, LLC, 381 F.Supp.3d 774 (W.D. Ky. 2019)
+### @DesaiCharterCommunicationsLLC_WDKy2019
 
 Plaintiffs alleged that their former employer, Charter Communications, LLC, falsely accused them of theft after their employment was terminated. Following a weeklong trial, a jury agreed, finding Charter liable for defamation per se. Charter has moved for judgment as a matter of law or a new trial. In the alternative, it seeks reduction of the damage award. For the reasons explained below, the Court will reduce the punitive damages and deny Charter's motion in all other respects.
 
@@ -82,7 +82,7 @@ The court held that "Charter waived the defense of qualified privilege by failin
 
 The Court recognizes that availability of the qualified-privilege defense could have drastically altered the outcome of this case. An inexplicable oversight or strategic error on Charter's part, however, does not justify altering the litigation schedule or depriving Plaintiffs of necessary discovery in disregard of Sixth Circuit law and the Federal Rules of Civil Procedure. Given Charter's failure to assert qualified privilege in its answer, a timely amended answer, or a motion to dismiss, it is reasonable to conclude that omission of the defense earlier in the case was intentional. Yet Charter now essentially asks the Court to allow it the benefit of hindsight—to benefit both from asserting the defense, and from not asserting it. Charter is not entitled to a new trial on this ground.
 
-### Arku v. Wells Fargo Bank, 621 F.Supp.3d 602 (W.D.N.C. 2022)
+### @ArkuWellsFargoBank_WDNC2022
 
 [Factual Background]{.casesection}
 
@@ -124,11 +124,9 @@ Moreover, the Complaint meets the heightened pleading standard under Rule 9(b) b
 
 Moreover, “there is no requirement that any precise formula be followed or that any certain language be used,” and “it is sufficient if, upon a liberal construction of the whole pleading, the charge of fraud might be supported by proof of the alleged constitutive facts.” “Significantly, a court should not dismiss a complaint pursuant to Rule 9(b) if the court is satisfied that the defendant has been made aware of the particular circumstances for which he will have to prepare a defense at trial.” In this respect, Wells Fargo has been made aware of the negligent misrepresentation claim against it that stems from its failure to remove the notice after Plaintiff repaid the overpayment, resulting in lost employment opportunities for Plaintiff. Accordingly, Defendant’s motion to dismiss the negligent misrepresentation claim is denied.
 
-### NCGS § 1-539.12
+### @ImmunityCivilLiability2021
 
 ::: {.legalcode}
-
-#### Immunity from civil liability for employers disclosing information.
 
 (a\) An employer who discloses information about a current or former employee's job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure. This immunity shall not apply when a claimant shows by a preponderance of the evidence both of the following:
 
@@ -147,7 +145,7 @@ Moreover, “there is no requirement that any precise formula be followed or tha
 
 :::
 
-### Friel v. Angell Care, Inc., 440 S.E.2d 111 (N.C. Ct. App. 1994)
+### @FrielAngellCareInc_NCApp1994
 
 Plaintiff Patricia W. Friel was employed as a secretary by defendant company Angell Care Incorporated ("Angell Care") from July 1982 until 17 April 1987. She held several positions within the company before being assigned to be the personal secretary to Bruce Smith, a new vice-president of the company. On or about 18 March 1987, plaintiff alleged that Smith had sexually harassed her. On 17 April 1987, plaintiff entered into a settlement agreement signed by Angell Care's president, Dennis Young, on behalf of Angell Care. Under the terms of the agreement, plaintiff would leave the company and would not discuss the terms and contents of the agreement. Angell Care would pay plaintiff $9566.63; would not discuss the terms or contents of the agreement with plaintiff's prospective employers; and would provide her prospective employers with neutral employment references.
 
@@ -191,7 +189,7 @@ Plaintiff's third claim is that defendant Angell's conversations with Parker and
 
 However, statements made about a former employee in response to a request from a prospective employer are privileged under § 14-355. For the statute to be violated, the statements to the prospective employer would have had to have been unsolicited. Plaintiff admits here that Don Angell's statements came only upon inquiry from people he believed to be prospective employers of his former employee. We therefore hold that N.C.Gen.Stat. § 14-355 does not apply as a matter of law and uphold summary judgment for defendants.
 
-### Kadlec Medical Center v. Lakeview Anesthesia Assocs., 527 F.3d 412 (5th Cir. 2008)
+### @KadlecMedicalLakeviewAnesthesia_5thCir2008
 
 Kadlec Medical Center and its insurer, Western Professional Insurance Company, filed this diversity action in Louisiana district court against Louisiana Anesthesia Associates (LAA), its shareholders, and Lakeview Regional Medical Center (Lakeview Medical). The LAA shareholders worked with Dr. Robert Berry—an anesthesiologist and former LAA shareholder—at Lakeview Medical, where the defendants discovered his on-duty use of narcotics. In referral letters written by the defendants and relied on by Kadlec, his future employer, the defendants did not disclose Dr. Berry's drug use.
 
@@ -305,7 +303,7 @@ Indeed, both plaintiffs' and defendants' witnesses agreed at trial that narcotic
 
 ## Background Checks & Testing
 
-### Pham v. Aeva Specialty Pharmacy, No. 21-cv-00703-NYW-STV (D. Colo. Dec. 8, 2022)
+### @PhamAevaSpecialtyPharmacy_DColo2022
 
 Plaintiff Khanh Pham ("Plaintiff" or "Mr. Pham") alleges that in 2020, he applied for an open pharmacist employment position at Aeva Specialty Pharmacy ("Defendant" or "Aeva"), and received a conditional offer of employment. According to Plaintiff, Aeva submitted Plaintiff's information to Clear Screening Technologies LLC ("Clear Screening"), a former defendant in this case, for a routine background check. Mr. Pham asserts that the background screening report erroneously reported that he had been charged with a federal crime in 2018, though he had never been charged with a federal crime. He also alleges that as a result of the incorrect Clear Screening report, Aeva revoked its conditional offer of employment. 
 
@@ -373,7 +371,7 @@ Aeva asserts in its Reply that Aeva's policies, or lack thereof, "have no relati
 
 In sum, Mr. Pham has established genuine disputes of material fact concerning (1) whether Aeva rescinded his conditional offer of employment due to the background check results; (2) whether Mr. Pham was actually damaged by Aeva's actions; and (3) whether Aeva acted willfully or recklessly. Summary judgment is thus not appropriate at this juncture, and Defendant's Motion will be denied.
 
-### Franklin v. Vertex Global Solutions, Inc., No. 20 Civ. 10495 (KPF) (S.D.N.Y. Feb. 9, 2022)
+### @FranklinVertexGlobalSolutions_SDNY2022
 
 Plaintiff Henry Franklin, on behalf of himself and a putative class of similarly situated job applicants, has sued Defendants Vertex Global Solutions, Inc. ("Vertex") and Fresh Direct, LLC ("Fresh Direct," and collectively, "Defendants") for their alleged use of a pre-employment screening policy that discriminates against job applicants with criminal histories in violation of the New York City Human Rights Law (the "NYCHRL"), N.Y.C. Admin. Code §§ 8-101 to 8-131, as amended by the Fair Chance Act (the "FCA"), N.Y.C. Local Law 63 (2015). Vertex and Fresh Direct have each moved to dismiss Plaintiff's claims, contending that their hiring practices comply with New York City law and do not discriminate against individuals with criminal histories. Fresh Direct additionally argues that Plaintiff's claims should fail because he has not alleged Fresh Direct's participation in any facet of Plaintiff's employment application with Vertex. For the reasons outlined in the remainder of this Opinion, the Court denies Defendants' motions in full.
 
@@ -451,7 +449,7 @@ The Court finds there to be a critical distinction between the putative joint em
 
 [^franklin5]: (n. 5 in opinion) The FCA is one of a spate of so-called "ban the box" laws that have proliferated in jurisdictions across the United States; these laws generally prohibit the inclusion of questions related to conviction and arrest histories on job applications and delay criminal background checks until later in the hiring process. _See_ Beth Avery & Han Lu, [_Ban the Box: U.S. Cities, Counties, and States Adopt Fair Hiring Policies_](https://www.nelp.org/publication/ban-the-box-fair-chance-hiring-state-and-local-guide/), Nat'l Emp. L. Project (Oct. 1, 2021). 
 
-### Karraker v. Rent-A-Center, Inc., 411 F.3d 831 (7th Cir. 2005)
+### @KarrakerRentACenterInc_7thCir2005
 
 To prove their worth prior to the annual college draft, NFL teams test aspiring professional football players' ability to run, catch, and throw. But that's not all. In addition to the physical tests, a draft prospect also takes up to 15 personality and knowledge tests, answering questions such as:
 
@@ -523,7 +521,7 @@ Dr. Koransky claims, for example, that the Pa scale "does not diagnose or detect
 
 ## Negligent Hiring 
 
-### Keith v. Health-Pro Home Care Services, Inc., 873 S.E.2d 567 (N.C. 2022)
+### @KeithHealthProHomeCare_NC2022
 
 Employers are in no way general insurers of acts committed by their employees, but as recognized by our precedent, an employer may owe a duty of care to a victim of an employee's intentional tort when there is a nexus between the employment relationship and the injury. Here, when the evidence is viewed in the light most favorable to the plaintiffs, plaintiffs, who are an elderly infirm couple that contracted with a company to provide them a personal care aide in their home, have shown a nexus between their injury and the employment relationship. The employee was inadequately screened and supervised, being placed in a position of opportunity to commit crimes against vulnerable plaintiffs after her employer suspected her of stealing from plaintiffs. Therefore, we conclude that the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding for entry of a judgment notwithstanding the verdict in favor of defendant. Further, the Court of Appeals misinterpreted North Carolina precedent, and thus erred by holding the trial court erred by denying defendant's requested instructions.
 
