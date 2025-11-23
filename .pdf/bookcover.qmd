@@ -3,7 +3,7 @@ title: Employment Law
 subtitle: An Open-Source Casebook
 author: Eric M. Fink
 affiliation: Elon Law School
-pub-date: "August 2025"
+pub-date: "November 2025"
 
 format:
   pdf: 
@@ -18,28 +18,21 @@ format:
 
 \clearpage
 \thispagestyle{empty}
+\pagecolor{PenguinRed}
 
-\begin{flushleft}
+\begin{flushright}
+\coverfont\bfseries\color{OffBlack}\huge{Eric M. Fink}
+
+\vspace{5mm}
+
+\coverfont\bfseries\color{White}{\fontsize{2cm}{2cm}\selectfont Employment Law}
+\end{flushright}
 
 \vspace*{\fill}
-
-{\sffamily\bfseries\color{Maroon}\Huge{Employment Law}} 
-
-\vspace{3mm}
-
-{\sffamily\color{Maroon}\Large{An Open-Source Casebook}} 
-
-\vspace{6mm}
-
 \begin{figure}[h!]
-\centering
-\includegraphics[width=1\textwidth]{../img/cover.png}
+\noindent\includegraphics[width=\paperwidth]{../img/cover.png}
 \end{figure}
-
-\end{flushleft}
-
 \clearpage
-
+\pagecolor{White}
 \blankpage
-
 \blankpage

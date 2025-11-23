@@ -50,11 +50,7 @@ We also agree with the trial judge's conclusion that plaintiff Shane was defenda
 
 > An employee is one who works for another for wages or salary, and the right to demand pay for his services from his employer would seem to be essential to his right to receive compensation under the Workmen's Compensation Act.
 
-The statutory definition (N.C.G.S. § 97-2(2)) adds nothing to the common law definition. The trial judge found that Schneiderman had hired the child, that he had authority to hire and fire employees for defendant, and that the jobs Shane did were in the course of defendant's business and that he was engaged in doing them when he fell. We believe these facts, taken together, will support the conclusion that the plaintiff Shane was an employee of defendant at the time of the accident.
-
-::: {.aside}
-N.C.G.S. § 97-2(2): "The term 'employee' means every person engaged in an employment under any appointment or contract of hire or apprenticeship, express or implied, oral or written, including aliens, and also minors, whether lawfully or unlawfully employed, but excluding persons whose employment is both casual and not in the course of the trade, business, profession, or occupation of his employer."
-:::
+The statutory definition (N.C.G.S. § 97-2(2)) adds nothing to the common law definition.[N.C.G.S. § 97-2(2): "The term 'employee' means every person engaged in an employment under any appointment or contract of hire or apprenticeship, express or implied, oral or written, including aliens, and also minors, whether lawfully or unlawfully employed, but excluding persons whose employment is both casual and not in the course of the trade, business, profession, or occupation of his employer."]{.aside} The trial judge found that Schneiderman had hired the child, that he had authority to hire and fire employees for defendant, and that the jobs Shane did were in the course of defendant's business and that he was engaged in doing them when he fell. We believe these facts, taken together, will support the conclusion that the plaintiff Shane was an employee of defendant at the time of the accident.
 
 Plaintiffs, however, contend that the evidence does not support the facts and the facts do not support the conclusion.
 

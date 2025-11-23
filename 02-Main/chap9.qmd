@@ -530,11 +530,7 @@ Next, Summit contends that REDA doesn’t protect internal complaints to one’s
 
 Whether REDA protects Driskell’s complaints is a question of law, which we review de novo. We agree with the district court that, while REDA doesn’t protect every internal complaint about workplace safety, it does protect Driskell’s complaints to Mr. Padgett.
 
-By its terms, REDA protects employees who “initiate any inquiry or investigation or provide information to any person with respect to” OSHANC. “The Supreme Court of North Carolina has not ruled whether an internal complaint is a protected activity under REDA.” 
-
-::: {.aside}
-"OSHNC": NC Occupational Safety & Health Act, N.C.G.S. Chap. 95, Art. 16, one of the statutes referenced in the Retaliatory Employment Discrimination Act, N.C.G.S. § 95-241(a).
-:::
+By its terms, REDA protects employees who “initiate any inquiry or investigation or provide information to any person with respect to” OSHANC.["OSHNC": NC Occupational Safety & Health Act, N.C.G.S. Chap. 95, Art. 16, one of the statutes referenced in the Retaliatory Employment Discrimination Act, N.C.G.S. § 95-241(a).]{.aside} “The Supreme Court of North Carolina has not ruled whether an internal complaint is a protected activity under REDA.” 
 
 The Court of Appeals of North Carolina, however, has indicated that some internal complaints are protected. In _Pierce v. Atlantic Grp., Inc._, 219 N.C.App. 19 (2012), the court found “persuasive” a district court holding that REDA protected a plaintiff’s communications to an internal auditor about an ongoing investigation into health and safety practices. 
 
@@ -1214,11 +1210,7 @@ The district court denied the defendants' motions for directed verdict. The jury
 
 [III]{.casesection}
 
-Monarch raises three issues, each attacking the district court's exercise of discretion in sending the case to the jury and entering judgment on its verdict. First, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, and new trial on Wilson's claim for intentional infliction of emotional distress. Second, Monarch argues that the district court erred in denying its similar motions on Wilson's age discrimination claim. Finally, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, new trial, and remittitur with respect to the amount of back pay awarded on the age discrimination claim. With respect to the emotional distress claim, neither the quantum of actual damages or the award of punitive damages are appealed.
-
-::: {.aside}
-The court's discussion of the age discrimination claim is omitted here.
-:::
+Monarch raises three issues, each attacking the district court's exercise of discretion in sending the case to the jury and entering judgment on its verdict. First, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, and new trial on Wilson's claim for intentional infliction of emotional distress. Second, Monarch argues that the district court erred in denying its similar motions on Wilson's age discrimination claim.[The court's discussion of the age discrimination claim is omitted here.]{.aside} Finally, Monarch argues that the district court erred in denying its motions for directed verdict, JNOV, new trial, and remittitur with respect to the amount of back pay awarded on the age discrimination claim. With respect to the emotional distress claim, neither the quantum of actual damages or the award of punitive damages are appealed.
 
 The standard of review for motions for directed verdict and for JNOV \[is\] that
 

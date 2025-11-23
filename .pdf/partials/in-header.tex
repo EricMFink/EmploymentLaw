@@ -16,6 +16,8 @@
 \definecolor{Maroon}{HTML}{800000}
 \definecolor{HopkinsBlue}{HTML}{002D72}
 \definecolor{RacingGreen}{HTML}{004225}
+\definecolor{LightGrey}{HTML}{d5d8dc}
+\definecolor{PenguinRed}{HTML}{e23e35}
 
 \usepackage{fontspec}
 %\setmainfont{Literata}[Mapping=tex-text]
@@ -31,6 +33,12 @@
     ItalicFont     = adelle-sans-light-italic.otf ,
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
+
+\newfontface\coverfont{FrutigerCE-Roman.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = FrutigerCE-Black.ttf ,
+    ItalicFont     = FrutigerCE-Italic.ttf ,
+    BoldItalicFont = FrutigerCE-BoldItalic.ttf ]
 
 % font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
@@ -56,10 +64,8 @@
     itemindent=0em,
     leftmargin=1em,
   }
-  \renewcommand{\labelitemi}{}}
-
-\renewcommand{\tightlist}{%
-  \setlength{\topsep}{0em}\setlength{\partopsep}{1em}\setlength{\itemsep}{1em}\setlength{\parskip}{0em}}
+  \renewcommand{\labelitemi}{}
+  \renewcommand{\tightlist}{\setlength{\topsep}{0em}\setlength{\partopsep}{.5em}\setlength{\itemsep}{.5em}\setlength{\parskip}{0em}}}
 
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}

@@ -24,8 +24,6 @@ format:
       - "partials/before-body.tex"
     include-in-header:
       - "partials/in-header.tex"
-    include-after-body:
-      - "partials/after-body.tex"
     linkcolor: HopkinsBlue
     citecolor: HopkinsBlue
     urlcolor: HopkinsBlue
@@ -71,6 +69,12 @@ nocite: |
 
 {{< include ../02-Main/chap9.qmd >}}
 
+\backmatter
+
 \pagestyle{plain.scrheadings}
 
 {{< include ../03-Back/references.qmd >}}
+
+{{< include ../03-Back/ack.qmd >}}
+
+{{< include ../03-Back/colophon.qmd >}}
