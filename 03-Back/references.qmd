@@ -2,41 +2,17 @@
 
 ::: {.sources}
 
-## Cases {.unnumbered}
+### Cases
 
-### Federal
-
-::: {#refs_fedcases}
+::: {#refs_cases}
 :::
 
-### State
+### Statutes
 
-::: {#refs_statecases}
+::: {#refs_statutes}
 :::
 
-### Other
-
-::: {#refs_othercases}
-:::
-
-## Statutes {.unnumbered}
-
-### Federal
-
-::: {#refs_fedstatutes}
-:::
-
-### State
-
-::: {#refs_statestatutes}
-:::
-
-### Other
-
-::: {#refs_otherstatutes}
-:::
-
-## Books, Articles, & Other Publications {.unnumbered}
+### Books, Articles, & Other Publications
 
 ::: {#refs_other}
 :::

@@ -23,6 +23,17 @@ references:
   type: legal_case
   volume: '621'
 
+- id: AustinMaintenanceCrowderConstruction_NCCtApp2012
+  authority: N.C. Ct. App.
+  citation-key: AustinMaintenanceCrowderConstruction_NCCtApp2012
+  container-title: S.E.2d
+  issued:
+    - year: 2012
+  page: '535'
+  title: Austin Maintenance v. Crowder Construction
+  type: legal_case
+  volume: '742'
+
 - id: BoeingCompany_NLRB2017
   authority: N.L.R.B.
   citation-key: BoeingCompany_NLRB2017
@@ -35,6 +46,29 @@ references:
   title: The Boeing Company
   type: legal_case
   volume: '365'
+
+- id: BrunnerAttar_TexApp1990
+  authority: Tex. App.
+  citation-key: BrunnerAttar_TexApp1990
+  container-title: S.W.2d
+  issued:
+    - year: 1990
+  jurisdiction: Tex
+  page: '784'
+  title: Brunner v. Al Attar
+  type: legal_case
+  volume: '786'
+
+- id: BurroughsGreenAppleLLC_NCCtApp2019
+  authority: N.C. Ct. App.
+  citation-key: BurroughsGreenAppleLLC_NCCtApp2019
+  container-title: S.E.2d
+  issued:
+    - year: 2019
+  page: '267'
+  title: Burroughs v. Green Apple, LLC
+  type: legal_case
+  volume: '832'
 
 - id: CanAmPlumbingIncNLRB_DCCir2003
   authority: D.C. Cir.
@@ -83,6 +117,42 @@ references:
   type: legal_case
   volume: '390'
 
+- id: ComanThomasMfgCo_NC1989
+  authority: N.C.
+  citation-key: ComanThomasMfgCo_NC1989
+  container-title: S.E.2d
+  issued:
+    - year: 1989
+      month: 7
+      day: 26
+  jurisdiction: NC
+  page: '445'
+  title: Coman v. Thomas Mfg. Co., Inc.
+  type: legal_case
+  volume: '381'
+
+- id: CommonwealthHunt_Mass1842
+  authority: Mass.
+  citation-key: CommonwealthHunt_Mass1842
+  container-title: Mass.
+  issued:
+    - year: 1842
+  page: '111'
+  title: Commonwealth v. Hunt
+  type: legal_case
+  volume: '45'
+
+- id: CommonwealthPullis_Phila1806
+  authority: Phila.
+  citation-key: CommonwealthPullis_Phila1806
+  container-title: Doc. His. of Am. Ind. Soc.
+  issued:
+    - year: 1806
+  page: '59'
+  title: Commonwealth v. Pullis
+  type: legal_case
+  volume: '3'
+
 - id: CoppageKansas_US1915
   authority: U.S.
   citation-key: CoppageKansas_US1915
@@ -93,6 +163,28 @@ references:
   title: Coppage v. Kansas
   type: legal_case
   volume: '236'
+
+- id: DaltonCamp_NC2001
+  authority: N.C.
+  citation-key: DaltonCamp_NC2001
+  container-title: N.C.
+  issued:
+    - year: 2001
+  page: '647'
+  title: Dalton v. Camp
+  type: legal_case
+  volume: '353'
+
+- id: DeemTreadway_NCCtApp2001
+  authority: N.C. Ct. App.
+  citation-key: DeemTreadway_NCCtApp2001
+  container-title: S.E.2d
+  issued:
+    - year: 2001
+  page: '209'
+  title: Deem v. Treadway
+  type: legal_case
+  volume: '543'
 
 - id: DesaiCharterCommunicationsLLC_WDKy2019
   authority: W.D. Ky.
@@ -163,6 +255,28 @@ references:
   type: legal_case
   volume: '961'
 
+- id: EnterpriseWireCo1966
+  authority: Carroll R. Daugherty, Arbitrator
+  citation-key: EnterpriseWireCo1966
+  container-title: L.A.
+  issued:
+    - year: 1966
+  page: '359'
+  title: Enterprise Wire Co.
+  type: legal_case
+  volume: '46'
+
+- id: FarwellBostonWorcesterRailroad_Mass1842
+  authority: Mass.
+  citation-key: FarwellBostonWorcesterRailroad_Mass1842
+  container-title: Mass.
+  issued:
+    - year: 1842
+  page: '42'
+  title: Farwell v. Boston & Worcester Railroad Co
+  type: legal_case
+  volume: '45'
+
 - id: FoodLionIncCapital_4thCircuit1999
   authority: 4th Circuit
   citation-key: FoodLionIncCapital_4thCircuit1999
@@ -197,6 +311,18 @@ references:
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
 
+- id: FrielAngellCareInc_NCApp1994
+  authority: N.C. Ct. App.
+  citation-key: FrielAngellCareInc_NCApp1994
+  container-title: S.E.2d
+  issued:
+    - year: 1994
+  jurisdiction: NC
+  page: '111'
+  title: Friel v. Angell Care Inc.
+  type: legal_case
+  volume: '440'
+
 - id: FrilandoNewYorkCity_SDNY2021
   authority: S.D.N.Y.
   citation-key: FrilandoNewYorkCity_SDNY2021
@@ -219,6 +345,17 @@ references:
   type: legal_case
   volume: '644'
 
+- id: GarnerRentenbach_NC1999
+  authority: N.C.
+  citation-key: GarnerRentenbach_NC1999
+  container-title: S.E.2d
+  issued:
+    - year: 1999
+  page: '438'
+  title: Garner v. Rentenbach
+  type: legal_case
+  volume: '515'
+
 - id: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
   authority: E.D.N.C.
   citation-key: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
@@ -240,6 +377,51 @@ references:
   title: Greene v. Tyler Technologies, Inc.
   type: legal_case
   volume: '526'
+
+- id: HansenAmericaOnline_Utah2004
+  authority: Utah
+  citation-key: HansenAmericaOnline_Utah2004
+  container-title: P.3d
+  issued:
+    - year: 2004
+  page: '950'
+  title: Hansen v. America Online
+  type: legal_case
+  volume: '96'
+
+- id: HaskinsRoyster_NC1874
+  authority: N.C.
+  citation-key: HaskinsRoyster_NC1874
+  container-title: N.C.
+  issued:
+    - year: 1874
+  page: '600'
+  title: Haskins v. Royster
+  type: legal_case
+  volume: '70'
+
+- id: HoganForsythCountryClub_NCApp1986
+  authority: N.C. Ct. App.
+  citation-key: HoganForsythCountryClub_NCApp1986
+  container-title: S.E.2d
+  issued:
+    - year: 1986
+  jurisdiction: NC
+  page: '116'
+  title: Hogan v. Forsyth Country Club Co.
+  type: legal_case
+  volume: '340'
+
+- id: JacksonNCDepartmentCommerce_NCCtApp2015
+  authority: N.C. Ct. App.
+  citation-key: JacksonNCDepartmentCommerce_NCCtApp2015
+  container-title: S.E.2d
+  issued:
+    - year: 2015
+  page: '687'
+  title: Jackson v. N.C. Department of Commerce
+  type: legal_case
+  volume: '775'
 
 - id: JespersenHarrahsOperatingCo_9thCir2006
   authority: 9th Cir.
@@ -296,6 +478,18 @@ references:
   type: legal_case
   volume: '411'
 
+- id: KeithHealthProHomeCare_NC2022
+  authority: N.C.
+  citation-key: KeithHealthProHomeCare_NC2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+  jurisdiction: NC
+  page: '567'
+  title: Keith v. Health-Pro Home Care Services
+  type: legal_case
+  volume: '873'
+
 - id: KetnerBranchBankingTrust_MDNC2015
   authority: M.D.N.C.
   citation-key: KetnerBranchBankingTrust_MDNC2015
@@ -307,6 +501,29 @@ references:
   type: legal_case
   volume: '143'
 
+- id: KMartCorpStoreNo_TexApp1984
+  authority: Tex. App.
+  citation-key: KMartCorpStoreNo_TexApp1984
+  container-title: S.W.2d
+  issued:
+    - year: 1984
+  jurisdiction: Tex
+  page: '632'
+  title: K-Mart Corp. Store No. 7441 v. Trotti
+  type: legal_case
+  volume: '677'
+
+- id: KurtzmanAppliedAnalyticalIndustries_NC1997
+  authority: N.C.
+  citation-key: KurtzmanAppliedAnalyticalIndustries_NC1997
+  container-title: S.E.2d
+  issued:
+    - year: 1997
+  page: '420'
+  title: Kurtzman v. Applied Analytical Industries, Inc
+  type: legal_case
+  volume: '493'
+
 - id: LawlorLoewe_US1915
   authority: U.S.
   citation-key: LawlorLoewe_US1915
@@ -317,6 +534,18 @@ references:
   title: Lawlor v. Loewe
   type: legal_case
   volume: '235'
+
+- id: LemmermanWilliamsOilCo_NC1986
+  authority: N.C.
+  citation-key: LemmermanWilliamsOilCo_NC1986
+  container-title: S.E.2d
+  issued:
+    - year: 1986
+  jurisdiction: NC
+  page: '83'
+  title: Lemmerman v. A.T. Williams Oil Co.
+  type: legal_case
+  volume: '350'
 
 - id: LochnerNewYork_US1905
   authority: U.S.
@@ -366,6 +595,28 @@ references:
   type: legal_case
   volume: '372'
 
+- id: MatterLennane_NC2022
+  authority: N.C.
+  citation-key: MatterLennane_NC2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+  page: '243'
+  title: Matter of Lennane
+  type: legal_case
+  volume: '869'
+
+- id: McGradyOlstenCorp_NCCtApp2003
+  authority: N.C. Ct. App.
+  citation-key: McGradyOlstenCorp_NCCtApp2003
+  container-title: S.E.2d
+  issued:
+    - year: 2003
+  page: '371'
+  title: McGrady v. Olsten Corp.
+  type: legal_case
+  volume: '583'
+
 - id: MexicanRadioCorpNLRB_2dCir2019
   accessed:
     - year: 2025
@@ -405,6 +656,17 @@ references:
   type: legal_case
   volume: '638'
 
+- id: MyersHowmedicaOsteonicsCorp_DMont2016
+  authority: D. Mont.
+  citation-key: MyersHowmedicaOsteonicsCorp_DMont2016
+  issued:
+    - year: 2016
+      month: 3
+      day: 30
+  number: No. CV 14-248-M-DLC
+  title: Myers v. Howmedica Osteonics Corp
+  type: legal_case
+
 - id: NdambiCoreCivicInc_4thCircuit2021
   authority: 4th Circuit
   citation-key: NdambiCoreCivicInc_4thCircuit2021
@@ -417,6 +679,17 @@ references:
   title: Ndambi v. CoreCivic, Inc.
   type: legal_case
   volume: '990'
+
+- id: NelsonKnight_Iowa2013
+  authority: Iowa
+  citation-key: NelsonKnight_Iowa2013
+  container-title: N.W.2d
+  issued:
+    - year: 2013
+  page: '64'
+  title: Nelson v. Knight
+  type: legal_case
+  volume: '834'
 
 - id: NLRBCityDisposalSystems_US1984
   authority: U.S.
@@ -504,6 +777,16 @@ references:
   type: legal_case
   volume: '322'
 
+- id: PughSeesCandiesInc1981
+  citation-key: PughSeesCandiesInc1981
+  container-title: Cal. App. 3d
+  issued:
+    - year: 1981
+  page: '311'
+  title: Pugh v. See's Candies, Inc.
+  type: legal_case
+  volume: '116'
+
 - id: RamjiHospitalHousekeepingSystems_11thCir2021
   authority: 11th Cir.
   citation-key: RamjiHospitalHousekeepingSystems_11thCir2021
@@ -525,6 +808,41 @@ references:
   title: Razak v. Uber Technologies, Inc.
   type: legal_case
   volume: '951'
+
+- id: RiesMcdonaldsUsaLlc_WDMich2021
+  authority: W.D. Mich.
+  citation-key: RiesMcdonaldsUsaLlc_WDMich2021
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  jurisdiction: WD Michigan
+  number: No. 1:20-cv-2
+  title: Ries v. Mcdonald's USA, LLC
+  type: legal_case
+
+- id: RulonMillerInternationalBusMachines_CalApp1984
+  authority: Cal. App.
+  citation-key: RulonMillerInternationalBusMachines_CalApp1984
+  container-title: Cal. App. 3d
+  issued:
+    - year: 1984
+  jurisdiction: Cal
+  page: '241'
+  title: Rulon-Miller v. International Bus. Machines Corp.
+  type: legal_case
+  volume: '162'
+
+- id: SaltAppliedAnalyticalInc_NCCtApp1991
+  authority: N.C. Ct. App.
+  citation-key: SaltAppliedAnalyticalInc_NCCtApp1991
+  container-title: S.E.2d
+  issued:
+    - year: 1991
+  page: '97'
+  title: Salt v. Applied Analytical, Inc.
+  type: legal_case
+  volume: '412'
 
 - id: SanDiegoBuildingTrades_US1959
   authority: U.S.
@@ -551,6 +869,17 @@ references:
   type: legal_case
   volume: '101'
 
+- id: ScudderWoodbridge_Georgia1846
+  authority: Georgia
+  citation-key: ScudderWoodbridge_Georgia1846
+  container-title: Ga.
+  issued:
+    - year: 1846
+  page: '195'
+  title: Scudder v Woodbridge
+  type: legal_case
+  volume: '1'
+
 - id: SearlsJohnsHopkinsHospital_DMd2016
   authority: D. Md.
   citation-key: SearlsJohnsHopkinsHospital_DMd2016
@@ -572,6 +901,17 @@ references:
   title: Seaworld of Florida v. Perez
   type: legal_case
   volume: '748'
+
+- id: SkagerbergBlandinPaperCo_Minn1936
+  authority: Minn.
+  citation-key: SkagerbergBlandinPaperCo_Minn1936
+  container-title: N.W.
+  issued:
+    - year: 1936
+  page: '872'
+  title: Skagerberg v. Blandin Paper Co.
+  type: legal_case
+  volume: '266'
 
 - id: SmithManheimRemarketingInc_WDNC2019
   authority: W.D.N.C.
@@ -618,6 +958,30 @@ references:
   number: No. 14--CA--295813
   title: Starbucks Corp.
   type: legal_case
+
+- id: StateWalMartStores_NYAppDiv3rdDept1995
+  authority: N.Y. App. Div.
+  citation-key: StateWalMartStores_NYAppDiv3rdDept1995
+  container-title: A.D.2d
+  issued:
+    - year: 1995
+  jurisdiction: NY
+  page: '150'
+  title: State v. Wal-Mart Stores
+  type: legal_case
+  volume: '207'
+
+- id: StengartLovingCareAgency_NJ2010
+  authority: N.J.
+  citation-key: StengartLovingCareAgency_NJ2010
+  container-title: A.2d
+  issued:
+    - year: 2010
+  jurisdiction: NJ
+  page: '650'
+  title: Stengart v. Loving Care Agency
+  type: legal_case
+  volume: '990'
 
 - id: StericycleInc_NLRB2023
   authority: N.L.R.B.
@@ -679,6 +1043,17 @@ references:
   type: legal_case
   volume: '52'
 
+- id: TSGFinishingLLCBollinger_NCApp2014
+  authority: N.C. Ct. App.
+  citation-key: TSGFinishingLLCBollinger_NCApp2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+  page: '870'
+  title: TSG Finishing, LLC v. Bollinger
+  type: legal_case
+  volume: '767'
+
 - id: WalshEastPennManufacturing_EDPa2021
   authority: E.D. Pa.
   citation-key: WalshEastPennManufacturing_EDPa2021
@@ -711,6 +1086,17 @@ references:
   title: West Coast Hotel Co. v. Parrish
   type: legal_case
   volume: '300'
+
+- id: WhichardCHMortgageCompany_NCCtApp2016
+  authority: N.C. Ct. App.
+  citation-key: WhichardCHMortgageCompany_NCCtApp2016
+  container-title: N.C. App.
+  issued:
+    - year: 2016
+  page: '123'
+  title: Whichard v. CH Mortgage Company, Inc.
+  type: legal_case
+  volume: '248'
 
 - id: WhirlpoolCorpMarshall_US1980
   authority: U.S.
@@ -759,6 +1145,17 @@ references:
   type: legal_case
   volume: '30'
 
+- id: WoolleyHoffmannLaRocheInc_NJ1985
+  authority: N.J.
+  citation-key: WoolleyHoffmannLaRocheInc_NJ1985
+  container-title: N.J.
+  issued:
+    - year: 1985
+  page: '284'
+  title: Woolley v. Hoffmann-La Roche, Inc.
+  type: legal_case
+  volume: '99'
+
 - id: WorkmanUnitedParcelService_7thCir2000
   authority: 7th Cir.
   citation-key: WorkmanUnitedParcelService_7thCir2000
@@ -769,6 +1166,17 @@ references:
   title: Workman v. United Parcel Service, Inc.
   type: legal_case
   volume: '234'
+
+- id: YanowitzLOrealUSAInc_Cal2005
+  authority: Cal.
+  citation-key: YanowitzLOrealUSAInc_Cal2005
+  container-title: P.3d
+  issued:
+    - year: 2005
+  page: '1123'
+  title: Yanowitz v. L'Oreal USA, Inc.
+  type: legal_case
+  volume: '116'
 
 - id: ZornHillA2BTaxiLLC_SDNY2020
   authority: S.D.N.Y

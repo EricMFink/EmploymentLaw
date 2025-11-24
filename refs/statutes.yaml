@@ -1,5 +1,24 @@
 ---
 references:
+- id: AmericansDisabilitiesAct_nd
+  citation-key: AmericansDisabilitiesAct_nd
+  container-title: U.S.C.
+  section: 12101 et seq.
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
+- id: ClaytonAntitrustAct1914
+  abstract: C
+  citation-key: ClaytonAntitrustAct1914
+  container-title: U.S. Code
+  issued:
+    - year: 1914
+  section: 17 et seq.
+  title: Clayton Antitrust Act
+  type: legislation
+  volume: '15'
+
 - id: ContractsPublicPolicy_nd
   citation-key: ContractsPublicPolicy_nd
   container-title: Cal. Labor Code
@@ -28,6 +47,24 @@ references:
   title: Employer Use of Social Media
   type: legislation
 
+- id: FairLaborStandards1938
+  citation-key: FairLaborStandards1938
+  container-title: U.S.C.
+  issued:
+    - year: 1938
+  section: 201 et seq.
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: FamilyMedicalLeave_nd
+  citation-key: FamilyMedicalLeave_nd
+  container-title: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
 - id: ImmunityCivilLiability2021
   citation-key: ImmunityCivilLiability2021
   container-title: N.C.G.S.
@@ -53,14 +90,29 @@ references:
   container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
   title: Massachusetts Noncompetition Agreement Act
   type: legislation
-  URL: >-
-    https://malegislature.gov/Laws/GeneralLaws/Parti/Titlexxi/Chapter149/Section24L
 
 - id: MontanaWrongfulDischarge_nd
   citation-key: MontanaWrongfulDischarge_nd
   container-title: Mont. Code Ann.
   section: 39-2-901 et seq.
   title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+
+- id: NationalLaborRelations1935
+  citation-key: NationalLaborRelations1935
+  container-title: U.S. Code
+  issued:
+    - year: 1935
+  section: 151 et seq.
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
+- id: NCEmploymentSecurity_nd
+  citation-key: NCEmploymentSecurity_nd
+  container-title: N.C.G.S.
+  section: 96-1 et seq.
+  title: North Carolina Employment Security Act
   type: legislation
 
 - id: NCPropertyProtection2016
@@ -90,6 +142,51 @@ references:
   container-title: N.C.G.S.
   section: 97-1 et seq.
   title: North Carolina Workers' Compensation Act
+  type: legislation
+
+- id: NorrisLaGuardiaAct1932
+  citation-key: NorrisLaGuardiaAct1932
+  container-title: U.S. Code
+  issued:
+    - year: 1932
+  section: 101 et seq.
+  title: Norris-LaGuardia Act
+  type: legislation
+  volume: '29'
+
+- id: OccupationalSafetyHealth_nd
+  citation-key: OccupationalSafetyHealth_nd
+  container-title: U.S.C.
+  section: 641 et seq.
+  title: Occupational Safety & Health Act
+  type: legislation
+  volume: '29'
+
+- id: OrdinanceLabourers1349
+  citation-key: OrdinanceLabourers1349
+  container-title: 23 Edw. 3 cc. 1-8
+  issued:
+    - year: 1349
+  title: Ordinance of Labourers
+  type: legislation
+
+- id: ShermanAntitrustAct1890
+  abstract: C
+  citation-key: ShermanAntitrustAct1890
+  container-title: U.S. Code
+  issued:
+    - year: 1890
+  section: 1 et seq.
+  title: Sherman Antitrust Act
+  type: legislation
+  volume: '15'
+
+- id: StatuteLabourers1351
+  citation-key: StatuteLabourers1351
+  container-title: 25 Edw. 3 Stat. 1
+  issued:
+    - year: 1351
+  title: Statute of Labourers
   type: legislation
 
 - id: TrappedWorkAct2025

@@ -38,13 +38,9 @@ filters:
   - latex-environment
   - citetools
 environments: [legalcode]
-commands: [casesection,casesubsection,casesubsubsection]
-bibliography_fedcases: ../refs/fedcases.yaml
-bibliography_statecases: ../refs/statecases.yaml
-bibliography_othercases: ../refs/othercases.yaml
-bibliography_fedstatutes: ../refs/fedstatutes.yaml
-bibliography_statestatutes: ../refs/statestatutes.yaml
-bibliography_otherstatutes: ../refs/otherstatutes.yaml
+commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
+bibliography_cases: ../refs/cases.yaml
+bibliography_statutes: ../refs/statutes.yaml
 bibliography_other: ../refs/other.yaml
 csl: ../refs/casebook.csl
 nocite: |
