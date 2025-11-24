@@ -85,6 +85,21 @@ references:
   URL: https://www.jstor.org/stable/1599554?seq=1
   volume: '51'
 
+- id: Fink2019
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: Fink2019
+  container-title: Idaho Law Review
+  issued:
+    - year: 2019
+  language: en
+  page: 953–973
+  title: Union Organizing & Collective Bargaining for Incarcerated Workers
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
+  volume: '52'
+
 - id: Finkin2007
   author:
     - family: Finkin
@@ -145,6 +160,34 @@ references:
   title: Unconscionability in Contracting for Worker Training
   type: article-journal
   volume: '72'
+
+- id: Heine2025
+  abstract: >-
+    This Article highlights the persistence of post-Jones labor and political
+    organizing by people in prison and considers how this history informs
+    potential reforms supporting incarcerated workers’ organizing.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  author:
+    - family: Heine
+      given: Clare
+  citation-key: Heine2025
+  container-title: 'The Harbinger: N.Y.U. Review of Law & Social Change'
+  issued:
+    - year: 2025
+      month: 10
+      day: 8
+  language: en-US
+  page: '1'
+  title: >-
+    Lessons From the Post-Jones Persistence of Imprisoned People’s Labor
+    Organizing
+  type: article-journal
+  URL: >-
+    https://socialchangenyu.com/harbinger/lessons-from-the-post-jones-persistence-of-imprisoned-peoples-labor-organizing/
+  volume: '52'
 
 - id: Lichten2018
   author:

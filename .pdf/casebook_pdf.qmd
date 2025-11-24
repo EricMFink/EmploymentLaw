@@ -13,7 +13,7 @@ epigraph-source: 9 to 5
 format:
   pdf:
     documentclass: scrbook
-    classoption: [letterpaper, 11pt, DIV=9, openright]
+    classoption: [letterpaper, 11pt, DIV=9, twoside, openright]
     has-frontmatter: true
     toc: true
     toc-depth: 3

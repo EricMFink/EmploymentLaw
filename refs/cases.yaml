@@ -243,6 +243,18 @@ references:
   type: legal_case
   volume: '437'
 
+- id: EganAWCompaniesInc_NDIll2024
+  authority: N.D. Ill.
+  citation-key: EganAWCompaniesInc_NDIll2024
+  issued:
+    - year: 2024
+      month: 10
+      day: 3
+  jurisdiction: ND Illinois
+  number: Case No. 23 C 1148
+  title: Egan v. A.W. Companies, Inc.
+  type: legal_case
+
 - id: EhlingMonmouthOceanHospService_DNJ2013
   authority: D.N.J.
   citation-key: EhlingMonmouthOceanHospService_DNJ2013
@@ -1053,6 +1065,18 @@ references:
   title: TSG Finishing, LLC v. Bollinger
   type: legal_case
   volume: '767'
+
+- id: VinluanDoyle_NYAppDiv2009
+  authority: N.Y. App. Div.
+  citation-key: VinluanDoyle_NYAppDiv2009
+  container-title: N.Y.S.2d
+  issued:
+    - year: 2009
+  jurisdiction: N.Y. App. Div.
+  page: '72'
+  title: Vinluan v. Doyle
+  type: legal_case
+  volume: '873'
 
 - id: WalshEastPennManufacturing_EDPa2021
   authority: E.D. Pa.
