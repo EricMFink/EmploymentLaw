@@ -247,40 +247,26 @@ Plaintiff Darlene Jespersen worked successfully as a bartender at Harrah's for t
 In April 2000, Harrah's amended that policy to require that women wear makeup. Jespersen's only objection here is to the makeup requirement. The amended policy provided in relevant part:
 
 > All Beverage Service Personnel, in addition to being friendly, polite, courteous and responsive to our customer's needs, must possess the ability to physically perform the essential factors of the job as set forth in the standard job descriptions. They must be well groomed, appealing to the eye, be firm and body toned, and be comfortable with maintaining this look while wearing the specified uniform. Additional factors to be considered include, but are not limited to, hair styles, overall body contour, and degree of comfort the employee projects while wearing the uniform.
-> 
-> \* \* \*
-> 
+ 
+[\* \* \*]{.casesubsubsection}
+
 > Beverage Bartenders and Barbacks will adhere to these additional guidelines:
 > 
 > - Overall Guidelines (applied equally to male/ female):
-> 
-> > - Appearance: Must maintain Personal Best image portrayed at time of hire.
-> 
-> > - Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
-> 
-> > - No faddish hairstyles or unnatural colors are permitted.
-> 
+> 	- Appearance: Must maintain Personal Best image portrayed at time of hire.
+> 	- Jewelry, if issued, must be worn. Otherwise, tasteful and simple jewelry is permitted; no large chokers, chains or bracelets.
+> 	- No faddish hairstyles or unnatural colors are permitted.
 > - Males:
-> 
-> > - Hair must not extend below top of shirt collar. Ponytails are prohibited.
-> 
-> > - Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
-> 
-> > - Eye and facial makeup is not permitted.
-> 
-> > - Shoes will be solid black leather or leather type with rubber (non skid) soles.
-> 
+> 	- Hair must not extend below top of shirt collar. Ponytails are prohibited.
+> 	- Hands and fingernails must be clean and nails neatly trimmed at all times. No colored polish is permitted.
+> 	- Eye and facial makeup is not permitted.
+> 	- Shoes will be solid black leather or leather type with rubber (non skid) soles.
 > - Females:
-> 
-> > - Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
-> 
-> > - Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
-> 
-> > - Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
-> 
-> > - Shoes will be solid black leather or leather type with rubber (non skid) soles.
-> 
-> > - _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
+> 	- Hair must be teased, curled, or styled every day you work. Hair must be worn down at all times, no exceptions.
+> 	- Stockings are to be of nude or natural color consistent with employee's skin tone. No runs.
+> 	- Nail polish can be clear, white, pink or red color only. No exotic nail art or length.
+> 	- Shoes will be solid black leather or leather type with rubber (non skid) soles.
+> 	- _Make up (face powder, blush and mascara) must be worn and applied neatly in complimentary colors. Lip color must be worn at all times. (emphasis added)._
 
 Jespersen did not wear makeup on or off the job, and in her deposition stated that wearing it would conflict with her self-image. It is not disputed that she found the makeup requirement offensive, and felt so uncomfortable wearing makeup that she found it interfered with her ability to perform as a bartender. Unwilling to wear the makeup, and not qualifying for any open positions at the casino with a similar compensation scale, Jespersen left her employment with Harrah's.
 
@@ -772,7 +758,6 @@ On the same date, Starbucks responded by posting this _Marking and Calling Custo
 > Starbucks prohibits the writing or printing of content on items that is inappropriate, offensive or otherwise does not align with Our Missions & Values. **Partners should also not write or print content on items that advocates for a political, religious or a personal issue, even if requested by a customer.** When marking customer items and calling orders:
 > 
 > - Do not write phrases that do not represent Our Missions & Values ....
-> 
 > - When a customer requests that you write something on an item that is inappropriate, offensive or not in alignment with Our Mission & Values, respectfully mark the name of the item that was ordered.
 
 In _Stericycle, Inc._, the Board recently held that challenged work rules are subject to the following standard:
@@ -1002,6 +987,7 @@ While the Bank's evidence includes some stray references to campaigning, most of
 For these reasons, a reasonable jury could find that the Bank's actions violated New York Labor Law § 201-d because the bank failed to demonstrate a legitimate, non-discriminatory reason for the adverse employment action it took against Truitt. We conclude that the district court erred in granting summary judgment dismissing Truitt's New York Labor Law § 201-d claim.
 
 ### @DiscriminationEngagementCertain_nd
+
 ::: {.legalcode}
 
 - 1\. Definitions. As used in this section:

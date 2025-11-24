@@ -549,13 +549,13 @@ Thus, in order to calculate how much overtime wages were owed to Plaintiffs and 
 
 Plaintiffs contend that Defendant calculated their wages as a flat per-day fee and did not pay them overtime. Defendant counters that Plaintiffs were not paid a flat fee but, rather, wages that accurately took into account overtime and credits for food and lodging. As explained below, genuine issues of material fact remain as to whether Defendant properly calculated Plaintiffs’ regular rate of pay as well as the overtime they were due for the hours that it is undisputed they worked. Thus, Defendant’s summary judgment motion cannot succeed.
 
-**a. Flat Rate**
+[a. Flat Rate]{.casesubsubsection}
 
 Beginning with Plaintiffs’ argument regarding their regular rate of pay, Plaintiffs each submitted affidavits stating that they were paid a “flat rate of pay of $140 per day.” M. Mmolawa admitted at a deposition, however, that she did not understand the meaning of the word “flat” as it was used in her affidavit, and T. Mmolawa testified that Defendant had never used the word “flat” in describing the pay system to him. While a plaintiff’s statements alone are generally not sufficient to create a disputed fact to survive summary judgment, here, Plaintiffs contend that basic mathematics supports their argument that they were paid $140.00 as a flat rate per day, given that pay of $980.00 per week divided by seven days equals $140.00 as a flat rate per day. Plaintiffs further point to documents entitled “Staff Pay Record” submitted by Defendant, which appear to be the closest thing to paystubs Defendant created for Plaintiffs. Plaintiffs claim that these records evince that Defendant did not separate out “straight” time from overtime and, thus, that Defendant did not in fact pay the required overtime. Indeed, the Staff Pay Record documents consist simply of two columns, “paydates” and “amount” for the corresponding paydate; the documents do not further break down what portion of the “amount” paid on a particular payday was regular time or overtime, suggesting that Defendant did not in fact separate out these categories of pay and, therefore, did not appropriately pay overtime. Plaintiffs have also submitted a more traditional paystub Defendant provided to another former employee of CareOne who is not a party to this action, as circumstantial evidence that Defendant did not properly pay Plaintiffs overtime. The traditional paystub, Plaintiffs argue, contains fields for rate, hours, and amount, unlike the Staff Pay Record Defendant created for Plaintiffs here; Plaintiffs thus argue that Defendant was capable of producing detailed paystubs that separate out straight time and overtime, and his failure to do so for Plaintiffs demonstrates he did not properly pay them for overtime. Defendant claims he was unable to produce these more traditional paystubs for Plaintiffs because they were undocumented workers without Social Security numbers, and his payroll company thus would not process payroll for these individuals. 
 
 In order to fully consider Plaintiffs’ argument, the Court must first address Defendant’s response. Defendant argues that, even in the absence of paystubs or more detailed payroll records, he properly calculated and paid overtime to Plaintiffs. In particular, he claims he appropriately calculated credit for housing and food provided to Plaintiffs, which, in turn, renders his wage calculations compliant with the FLSA’s overtime requirement. The Court therefore considers this argument next.
 
-**b. Food and Housing Credit**
+[b. Food and Housing Credit]{.casesubsubsection}
 
 The FLSA permits an employer to take a wage credit for a live-in employee’s food and housing, subject to certain conditions. 29 U.S.C. § 203(m)(1). Specifically, the statute defines “wage” to include “the reasonable cost to the employer of furnishing such employee with board, lodging, or other facilities, if customarily furnished by such employer to his employees.” Consistent with its statutory mandate, the DOL has promulgated regulations permitting an employer to credit “the actual cost or fair value of furnishing lodging, whichever is less,” if such cost or value is different from the prescribed maximum credit, provided that the employer “keeps, maintains, and preserves the records on which they rely to justify such different cost figures.” 29 C.F.R. §§ 516.27(a), 552.100(b), 552.100(d). The records must “include itemized accounts showing the nature and amount of any expenditures entering into the computation of the reasonable cost.” 29 C.F.R. § 516.27(a)(1).
 
@@ -650,30 +650,22 @@ Typically, Ms. Greene dealt with multiple implementation projects at once, and m
 During her employment, Ms. Greene received a salary of between $45,000 and $48,500 per year. She was paid bi-weekly. At no point in her employment did she supervise anyone or have the authority to hire or fire any other employee. Tyler classified Ms. Greene as exempt under the FLSA in part based on advice of outside legal counsel. Tyler was sued in a putative collective action in 2008 for alleged misclassification and overtime violations with respect to implementation consultants. That case settled after full briefing on summary judgment but before the court ruled. Plaintiff ultimately resigned her employment with Tyler after taking leave in spring 2019. A source of some contention, Ms. Greene's post-Tyler resume reads:
 
 > Employer: Tyler Technologies
-
+>
 > Title: Implementation Consultant
-
+>
 > Duration: February 2016—Present 
-
+>
 > Job Duties
-
-> > - Manage multiple client implementations simultaneously, while meeting all project plan deadlines.
-
-> > - Build, lead and direct project teams to meet project objectives
-
-> > - Strong leadership and delegation skills
-
-> > - Set clear expectations and goals for project teams. Track progress against timeline, milestones and budget, revise as needed
-
-> > - Hold regularly scheduled meetings with the client to ensure that milestones are met
-
-> > - Provide software application training using a variety of delivery methods including web-based and on-site training
-
-> > - Coordinate new customer implementations, providing effective training to maximize use the software
-
-> > - Excellent communication (written and oral) and interpersonal skills
-
-> > - Effective at engaging with people from all backgrounds and work industries
+>
+> - Manage multiple client implementations simultaneously, while meeting all project plan deadlines.
+> - Build, lead and direct project teams to meet project objectives
+> - Strong leadership and delegation skills
+> - Set clear expectations and goals for project teams. Track progress against timeline, milestones and budget, revise as needed
+> - Hold regularly scheduled meetings with the client to ensure that milestones are met
+> - Provide software application training using a variety of delivery methods including web-based and on-site training
+> - Coordinate new customer implementations, providing effective training to maximize use the software
+> - Excellent communication (written and oral) and interpersonal skills
+> - Effective at engaging with people from all backgrounds and work industries
 
 Plaintiff Greene filed this action on March 26, 2019 asserting a single claim for failure to pay overtime pursuant to 29 U.S.C. §§ 207 and 215(a)(2), alleging that Tyler's failure to pay her time-and-a-half for overtime hours worked was not done in good faith within the meaning of 29 U.S.C. § 260.
 
@@ -691,7 +683,7 @@ The regulations define the term "primary duty" as "the principal, main, major or
 
 It is undisputed that Ms. Greene meets the salary requirement of the administrative exemption. However, the Parties dispute (1) whether Ms. Greene's primary duties involved work directly related to the management or general business operations of Tyler or its customers, and (2) whether her primary duties involved the exercise of discretion and independent judgment with respect to matters of significance. Tyler must prove both by clear and affirmative evidence for the exemption to apply.
 
-> _i. Primary duty consisting of the performance of office or non-manual work directly related to the management or general business operations of the employer or the employer's customers_
+[i. Primary duty consisting of the performance of office or non-manual work directly related to the management or general business operations of the employer or the employer's customers]{.casesubsection}
 
 Tyler argues that, as an implementation consultant, Ms. Greene performed work directly related to both the "servicing of Tyler's business: delivering software to the public sector" and "to the servicing of the business of Tyler's clients." Ms. Greene argues that she did not perform work _directly_ related to the management or general business operations of Tyler or its customers, as her work with respect to Tyler was _production_ work, and as her work with Tyler's government customers consisted of "presenting canned software presentations that she did not herself create" and thus "simply acting as a conduit for information about how ExecuTime software works does not constitute work directly related to the general business operations of Tyler's local government clients."
 
@@ -755,7 +747,7 @@ In _Brooks v. Healthcare-Iq, Inc.,_ 2019 WL 497693 (M.D. Fla. Feb. 8, 2019), the
 
 For the reasons above, Tyler has not met its burden of demonstrating that Ms. Greene's primary duties were directly related to the management or general business operations of Tyler or of its local government customers under the applicable legal standard and as contemplated by 29 C.F.R. § 541.200. A reasonable jury could not find otherwise. In contrast, Plaintiff has met her burden in establishing that the exemption is not applicable under the present facts as construed in the light most favorable to Tyler. Therefore, the Court finds that Ms. Greene did not fall within the administrative exemption and summary judgment in favor of Plaintiff is appropriate. For good measure, however, the Court addresses the third prong of the administrative exemption test below.
 
-> _ii. Primary duties consisting of the exercise of discretion and independent judgment with respect to matters of significance_
+[ii. Primary duties consisting of the exercise of discretion and independent judgment with respect to matters of significance]{.casesubsection}
 
 Tyler argues that Ms. Greene exercised discretion and independent judgment because she made recommendations to and worked directly with the government customer with little supervision. Further, when troubleshooting, she had to "evaluate issues presented, escalate issues as appropriate and ensure they were resolved to the client's satisfaction." On the flipside, Ms. Greene argues that her duties of ExecuTime instruction and troubleshooting existed within "constrained and pre-established parameters that did not permit any real discretion with respect to matters of significance, much less as a _primary duty,_" and that no factfinder could conclude otherwise based on the applicable regulations and law.
 

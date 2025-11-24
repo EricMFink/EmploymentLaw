@@ -158,6 +158,8 @@
 \definecolor{Maroon}{HTML}{800000}
 \definecolor{HopkinsBlue}{HTML}{002D72}
 \definecolor{RacingGreen}{HTML}{004225}
+\definecolor{LightGrey}{HTML}{d5d8dc}
+\definecolor{PenguinRed}{HTML}{e23e35}
 
 \usepackage{fontspec}
 %\setmainfont{Literata}[Mapping=tex-text]
@@ -173,6 +175,12 @@
     ItalicFont     = adelle-sans-light-italic.otf ,
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
+
+\newfontface\coverfont{FrutigerCE-Roman.ttf}[
+	Path           = fonts/ ,
+    BoldFont       = FrutigerCE-Black.ttf ,
+    ItalicFont     = FrutigerCE-Italic.ttf ,
+    BoldItalicFont = FrutigerCE-BoldItalic.ttf ]
 
 % font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
@@ -192,6 +200,9 @@
 
 % custom unordered list environment for statutes and other legal code
 \usepackage{enumitem}
+
+\setlist[itemize]{label=\textbullet}
+
 \newenvironment{legalcode}{%
   \setlist[itemize]{
     label={},
@@ -200,6 +211,8 @@
   }
   \renewcommand{\labelitemi}{}
   \renewcommand{\tightlist}{\setlength{\topsep}{0em}\setlength{\partopsep}{.5em}\setlength{\itemsep}{.5em}\setlength{\parskip}{0em}}}
+
+
 
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
@@ -251,11 +264,11 @@
   []
 
 % Case, etc. first heading
-\newcommand{\casesection}[1]{\needspace{3\baselineskip}\vspace{.5em}\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
+\newcommand{\casesection}[1]{\needspace{2\baselineskip}\vspace{.5em}\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
 % Case, etc. second heading
-\newcommand{\casesubsection}[1]{\needspace{3\baselineskip}\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
+\newcommand{\casesubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
 % Case, etc. third heading
-\newcommand{\casesubsubsection}[1]{\needspace{3\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
+\newcommand{\casesubsubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
 
 %\graphicspath{{../img/}}
 \renewcommand*{\figureformat}{}
@@ -363,11 +376,13 @@
 
 % Cover 
 
-{\includepdf{bookcover.pdf}\clearpage}{}
+{\includepdf{CasebookCover.pdf}\clearpage}{}
 
 \blankpage
 
 \frontmatter
+
+\blankpage
 
 % Frontispiece
 \thispagestyle{empty}
@@ -3835,7 +3850,7 @@ for any benefit to or advantage of defendant. Nowhere is there any
 suggestion that defendant was to furnish him with a place of abode or do
 anything whatever in respect of finding or providing such.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 For contending perspectives on the at-will presumption, see
 \phantomsection\label{cite_15}{\label{cite_15}Richard Epstein \emph{In
@@ -8841,7 +8856,7 @@ summary judgment was inappropriate because genuine disputes of material
 facts remained. For the foregoing reasons, we will remand the matter for
 further proceedings.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 \textbf{Postscript to \emph{Razak}} Following remand by the Court of
 Appeals, the \emph{Razak} case proceeded to trial, ending in two hung
@@ -8893,7 +8908,7 @@ reasons: (1) it retained sufficient control over their employment
 conditions to qualify as a ``joint employer''; and (2) McDonald's caused
 Plaintiffs to believe that Franchisee was an agent of McDonald's.
 
-\textbf{1. Joint Employer}
+\casesubsubsection{1. Joint Employer}
 
 ``Under the `joint-employer' theory, `an entity that is not the
 plaintiff's formal employer may be treated under these doctrines as if
@@ -9364,7 +9379,8 @@ We thus review the factual allegations in the Complaint to determine
 whether they satisfy these factors with respect to both the NCAA and the
 NASD.
 
-\textbf{1. The NCAA's and NASD's authority to hire and fire Plaintiffs}
+\casesubsubsection{1. The NCAA's and NASD's authority to hire and fire
+Plaintiffs}
 
 The Complaint alleges the following facts with respect to the NCAA's
 ability to ``hire and fire'' Plaintiffs. The NCAA's Bylaws restrict the
@@ -9411,8 +9427,8 @@ Plaintiffs. We therefore conclude that the factual allegations of the
 Complaint fail to satisfy the first factor of the Enterprise test with
 respect to the NASD.
 
-\textbf{2. The NCAA's and NASD's authority to promulgate work rules and
-set Plaintiffs' compensation, benefits, and work schedules}
+\casesubsubsection{2. The NCAA's and NASD's authority to promulgate work
+rules and set Plaintiffs' compensation, benefits, and work schedules}
 
 The Complaint alleges the following facts with respect to the NCAA's
 ``authority to promulgate work rules and assignments and to set
@@ -9485,8 +9501,8 @@ intercollegiate athletics. We therefore conclude that the Complaint
 fails to satisfy the second factor of the Enterprise test with respect
 to the NASD.
 
-\textbf{3. The NCAA's and NASD's involvement in the day-to-day
-supervision of Plaintiffs}
+\casesubsubsection{3. The NCAA's and NASD's involvement in the
+day-to-day supervision of Plaintiffs}
 
 The Complaint alleges the following facts regarding the NCAA's
 involvement in the day-to-day supervision, including discipline, of
@@ -9550,7 +9566,8 @@ athletes, including Plaintiffs, who participate in NCAA sports. We thus
 conclude that the factual allegations of the Complaint fail to satisfy
 the third factor of the Enterprise test with respect to the NASD.
 
-\textbf{4. The NCAA's and NASD's control of Plaintiffs' records}
+\casesubsubsection{4. The NCAA's and NASD's control of Plaintiffs'
+records}
 
 The Complaint alleges the following facts regarding the NCAA's control
 of the records of student athletes who participate in NCAA sports. ``The
@@ -9794,7 +9811,7 @@ presentation imputed criminal conduct to Plaintiffs. It further contends
 that the Court, not the jury, should have determined whether defamation
 per se occurred. Neither argument is persuasive.
 
-\textbf{1. Sufficiency of the Evidence}
+\casesubsubsection{1. Sufficiency of the Evidence}
 
 According to Charter, ``on the evidence presented at trial, no
 reasonable jury could have concluded that the use of the term
@@ -9878,7 +9895,7 @@ Viewing the evidence in the light most favorable to Plaintiffs and
 drawing all reasonable inferences in their favor, the Court concludes
 that there was sufficient evidence to support the jury's verdict.
 
-\textbf{2. Definition of Defamation Per Se}
+\casesubsubsection{2. Definition of Defamation Per Se}
 
 Charter's overarching argument is that the ``Printer-gate'' reference in
 Simms's presentation cannot constitute defamation per se because it
@@ -10719,7 +10736,7 @@ the judgment against it is reversed. Finally, we examine other
 challenges to the LAA defendants' liability, and we conclude that they
 are without merit.
 
-\textbf{1. The Affirmative Misrepresentations}
+\casesubsubsection{1. The Affirmative Misrepresentations}
 
 The defendants owed a duty to Kadlec to avoid affirmative
 misrepresentations in the referral letters. In Louisiana, ``although a
@@ -10800,7 +10817,7 @@ in the referral letters, the defendants had an affirmative duty to
 disclose. We discuss this theory with regard to both defendants for
 reasons that will be clear by the end of the opinion.
 
-\textbf{2. The Duty to Disclose}
+\casesubsubsection{2. The Duty to Disclose}
 
 In Louisiana, a duty to disclose does not exist absent special
 circumstances, such as a fiduciary or confidential relationship between
@@ -10907,7 +10924,7 @@ information about the employee's qualities as a nurse, it incurred a
 duty to use reasonable care to avoid disclosing factually misleading
 information.''
 
-\textbf{3. Legal Cause}
+\casesubsubsection{3. Legal Cause}
 
 LAA contends that even if it breached a legal duty to Kadlec, the
 plaintiffs' claims fail for lack of legal causation. LAA argues that
@@ -13746,9 +13763,11 @@ maintaining this look while wearing the specified uniform. Additional
 factors to be considered include, but are not limited to, hair styles,
 overall body contour, and degree of comfort the employee projects while
 wearing the uniform.
+\end{quote}
 
-* * *
+\casesubsubsection{* * *}
 
+\begin{quote}
 Beverage Bartenders and Barbacks will adhere to these additional
 guidelines:
 
@@ -13756,126 +13775,58 @@ guidelines:
 \tightlist
 \item
   Overall Guidelines (applied equally to male/ female):
-\end{itemize}
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Appearance: Must maintain Personal Best image portrayed at time of
-  hire.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Jewelry, if issued, must be worn. Otherwise, tasteful and simple
-  jewelry is permitted; no large chokers, chains or bracelets.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  No faddish hairstyles or unnatural colors are permitted.
-\end{itemize}
-\end{quote}
-
-\begin{itemize}
-\tightlist
+  \begin{itemize}
+  \tightlist
+  \item
+    Appearance: Must maintain Personal Best image portrayed at time of
+    hire.
+  \item
+    Jewelry, if issued, must be worn. Otherwise, tasteful and simple
+    jewelry is permitted; no large chokers, chains or bracelets.
+  \item
+    No faddish hairstyles or unnatural colors are permitted.
+  \end{itemize}
 \item
   Males:
-\end{itemize}
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Hair must not extend below top of shirt collar. Ponytails are
-  prohibited.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Hands and fingernails must be clean and nails neatly trimmed at all
-  times. No colored polish is permitted.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Eye and facial makeup is not permitted.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Shoes will be solid black leather or leather type with rubber (non
-  skid) soles.
-\end{itemize}
-\end{quote}
-
-\begin{itemize}
-\tightlist
+  \begin{itemize}
+  \tightlist
+  \item
+    Hair must not extend below top of shirt collar. Ponytails are
+    prohibited.
+  \item
+    Hands and fingernails must be clean and nails neatly trimmed at all
+    times. No colored polish is permitted.
+  \item
+    Eye and facial makeup is not permitted.
+  \item
+    Shoes will be solid black leather or leather type with rubber (non
+    skid) soles.
+  \end{itemize}
 \item
   Females:
-\end{itemize}
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Hair must be teased, curled, or styled every day you work. Hair must
-  be worn down at all times, no exceptions.
+  \begin{itemize}
+  \tightlist
+  \item
+    Hair must be teased, curled, or styled every day you work. Hair must
+    be worn down at all times, no exceptions.
+  \item
+    Stockings are to be of nude or natural color consistent with
+    employee's skin tone. No runs.
+  \item
+    Nail polish can be clear, white, pink or red color only. No exotic
+    nail art or length.
+  \item
+    Shoes will be solid black leather or leather type with rubber (non
+    skid) soles.
+  \item
+    \emph{Make up (face powder, blush and mascara) must be worn and
+    applied neatly in complimentary colors. Lip color must be worn at
+    all times. (emphasis added).}
+  \end{itemize}
 \end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Stockings are to be of nude or natural color consistent with
-  employee's skin tone. No runs.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Nail polish can be clear, white, pink or red color only. No exotic
-  nail art or length.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Shoes will be solid black leather or leather type with rubber (non
-  skid) soles.
-\end{itemize}
-\end{quote}
-
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  \emph{Make up (face powder, blush and mascara) must be worn and
-  applied neatly in complimentary colors. Lip color must be worn at all
-  times. (emphasis added).}
-\end{itemize}
-\end{quote}
 \end{quote}
 
 Jespersen did not wear makeup on or off the job, and in her deposition
@@ -16232,6 +16183,7 @@ even if requested by a customer.} When marking customer items and
 calling orders:
 
 \begin{itemize}
+\tightlist
 \item
   Do not write phrases that do not represent Our Missions \& Values
   \ldots.
@@ -18339,6 +18291,7 @@ confidential.
 Confidential information includes, but is not limited to:
 
 \begin{itemize}
+\tightlist
 \item
   material non-public information; and
 \item
@@ -18719,7 +18672,7 @@ the media regardless of whether the communications concern confidential
 information or the employees purport to speak on the employer's behalf
 in \emph{Boeing} Category 3.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 In \emph{Lowe's Home Centers} and \emph{Tesla}, the NLRB evaluated the
 employers' confidentiality policies under the standard adopted in
@@ -19346,7 +19299,7 @@ of the agreement here plainly shows that not to be the case. We
 accordingly find that the proffer of the confidentiality provision
 violates Section 8(a)(1) of the Act.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 Two states, California and Washington, have enacted legislation against
 provisions in settlement agreements that restrict disclosure of factual
@@ -20346,7 +20299,7 @@ part of the damage Food Lion suffered as a result of the \emph{PrimeTime
 Live} story resulted from Litt's and Barnett's violation of fiduciary
 duty.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 In addition to breach of their duty of loyalty as employees, Litt and
 Barnett were also found liable for trespass. Food Lion was awarded a
@@ -20786,7 +20739,7 @@ to Property.}
 
 \end{legalcode}
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 1. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the
 statute is to codify the holding in \emph{Food Lion v. Capital
@@ -21645,7 +21598,7 @@ clear and unambiguous agreement to apply Massachusetts law.''
 The short of it is that the judge didn't err by ruling that
 Massachusetts law governs Hermalyn's noncompete with DraftKings.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 \textbf{Federal Agency Regulation of Non-Compete Agreements}
 
@@ -24216,7 +24169,7 @@ Defendant properly calculated Plaintiffs' regular rate of pay as well as
 the overtime they were due for the hours that it is undisputed they
 worked. Thus, Defendant's summary judgment motion cannot succeed.
 
-\textbf{a. Flat Rate}
+\casesubsubsection{a. Flat Rate}
 
 Beginning with Plaintiffs' argument regarding their regular rate of pay,
 Plaintiffs each submitted affidavits stating that they were paid a
@@ -24261,7 +24214,7 @@ calculated credit for housing and food provided to Plaintiffs, which, in
 turn, renders his wage calculations compliant with the FLSA's overtime
 requirement. The Court therefore considers this argument next.
 
-\textbf{b. Food and Housing Credit}
+\casesubsubsection{b. Food and Housing Credit}
 
 The FLSA permits an employer to take a wage credit for a live-in
 employee's food and housing, subject to certain conditions. 29 U.S.C. §
@@ -24726,114 +24679,40 @@ Ms.~Greene's post-Tyler resume reads:
 
 \begin{quote}
 Employer: Tyler Technologies
-\end{quote}
 
-\begin{quote}
 Title: Implementation Consultant
-\end{quote}
 
-\begin{quote}
 Duration: February 2016---Present
-\end{quote}
 
-\begin{quote}
 Job Duties
-\end{quote}
 
-\begin{quote}
-\begin{quote}
 \begin{itemize}
 \tightlist
 \item
   Manage multiple client implementations simultaneously, while meeting
   all project plan deadlines.
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Build, lead and direct project teams to meet project objectives
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Strong leadership and delegation skills
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Set clear expectations and goals for project teams. Track progress
   against timeline, milestones and budget, revise as needed
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Hold regularly scheduled meetings with the client to ensure that
   milestones are met
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Provide software application training using a variety of delivery
   methods including web-based and on-site training
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Coordinate new customer implementations, providing effective training
   to maximize use the software
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Excellent communication (written and oral) and interpersonal skills
-\end{itemize}
-\end{quote}
-\end{quote}
-
-\begin{quote}
-\begin{quote}
-\begin{itemize}
-\tightlist
 \item
   Effective at engaging with people from all backgrounds and work
   industries
 \end{itemize}
-\end{quote}
 \end{quote}
 
 Plaintiff Greene filed this action on March 26, 2019 asserting a single
@@ -24916,11 +24795,9 @@ management or general business operations of Tyler or its customers, and
 independent judgment with respect to matters of significance. Tyler must
 prove both by clear and affirmative evidence for the exemption to apply.
 
-\begin{quote}
-\emph{i. Primary duty consisting of the performance of office or
-non-manual work directly related to the management or general business
-operations of the employer or the employer's customers}
-\end{quote}
+\casesubsection{i. Primary duty consisting of the performance of office
+or non-manual work directly related to the management or general
+business operations of the employer or the employer's customers}
 
 Tyler argues that, as an implementation consultant, Ms.~Greene performed
 work directly related to both the ``servicing of Tyler's business:
@@ -25247,10 +25124,9 @@ judgment in favor of Plaintiff is appropriate. For good measure,
 however, the Court addresses the third prong of the administrative
 exemption test below.
 
-\begin{quote}
-\emph{ii. Primary duties consisting of the exercise of discretion and
-independent judgment with respect to matters of significance}
-\end{quote}
+\casesubsection{ii. Primary duties consisting of the exercise of
+discretion and independent judgment with respect to matters of
+significance}
 
 Tyler argues that Ms.~Greene exercised discretion and independent
 judgment because she made recommendations to and worked directly with
@@ -26263,7 +26139,7 @@ costs of training for the LDP is a bona fide loan as asserted by BB \& T
 or a kick-back of salary as alleged by Ketner. BB \& T's motion to
 dismiss Count III is denied.
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 Like non-compete agreements, training reimbursement provisions have been
 criticized for inhibiting employee mobility by imposing a substantial
@@ -34011,7 +33887,7 @@ rights.}\label{effect-of-article-on-other-rights.}
 
 \end{legalcode}
 
-\begin{tcolorbox}[enhanced jigsaw, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, breakable, leftrule=.75mm, toprule=.15mm, titlerule=0mm, coltitle=black, left=2mm, bottomrule=.15mm, opacitybacktitle=0.6, colframe=quarto-callout-note-color-frame, toptitle=1mm, bottomtitle=1mm, opacityback=0, rightrule=.15mm, arc=.35mm, colback=white, colbacktitle=quarto-callout-note-color!10!white]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Note}, coltitle=black, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, opacitybacktitle=0.6, opacityback=0, toptitle=1mm, toprule=.15mm, breakable, colback=white, colframe=quarto-callout-note-color-frame, arc=.35mm, rightrule=.15mm, leftrule=.75mm]
 
 NC REDA applies only to discrimination or retaliation based on employee
 conduct under the specific North Carolina statutes identified in §
