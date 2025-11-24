@@ -105,7 +105,7 @@
 % Case - Judge Name
 \titleformat{\subsubsection}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\bfseries}
   {\thesubsubsection ~~}
   {0em}
   {}
@@ -113,16 +113,16 @@
 
 \titleformat{\paragraph}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\large\itshape}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\itshape}
   {\theparagraph}
   {0em}
   {}
   []
 
 % Case, etc. first heading
-\newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\begin{center}\rmfamily\large{\bfseries{#1}}\end{center}}
+\newcommand{\casesection}[1]{\needspace{4\baselineskip}\vspace{.5em}\begin{center}\rmfamily\normalsize{\bfseries{#1}}\end{center}}
 % Case, etc. second heading
-\newcommand{\casesubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\large{\itshape{#1}}\end{center}}
+\newcommand{\casesubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{\itshape{#1}}\end{center}}
 % Case, etc. third heading
 \newcommand{\casesubsubsection}[1]{\needspace{2\baselineskip}\begin{center}\rmfamily\normalsize{#1}\end{center}}
 
