@@ -23,14 +23,21 @@ references:
   citation-key: ContractsPublicPolicy_nd
   container-title: Cal. Labor Code
   section: '926'
-  title: Contracts Against Public Policy
+  title: Contracts Against Public Policy (Employee Training Debts)
   type: legislation
 
 - id: ContractsRestraintTrade_nd
   citation-key: ContractsRestraintTrade_nd
   container-title: Cal. Bus. & Prof. Code
   section: 16600 et seq.
-  title: Contracts in Restraint of Trade
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+
+- id: ContractsRestraintTrade_nda
+  citation-key: ContractsRestraintTrade_nda
+  container-title: Cal. Bus. & Prof. Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
   type: legislation
 
 - id: DiscriminationEngagementCertain_nd
@@ -76,9 +83,7 @@ references:
   citation-key: LawfulUseLawful1992
   container-title: N.C.G.S.
   section: 95-28.2
-  title: >-
-    Discrimination against persons for lawful use of lawful products during
-    nonworking hours prohibited.
+  title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
 
 - id: MassachusettsNoncompetitionAgreement_nd

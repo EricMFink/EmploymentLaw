@@ -85,6 +85,21 @@ references:
   URL: https://www.jstor.org/stable/1599554?seq=1
   volume: '51'
 
+- id: Finkin2007
+  author:
+    - family: Finkin
+      given: Matthew W.
+  citation-key: Finkin2007
+  container-title: Berkeley Journal of Employment and Labor Law
+  container-title-short: Berkeley J. Emp. & Lab. L.
+  issue: '2'
+  issued:
+    - year: 2007
+  page: '541'
+  title: Disloyalty! Does Jefferson Standard Stalk Still?
+  type: article-journal
+  volume: '28'
+
 - id: Friedman2023
   author:
     - family: Friedman
@@ -170,6 +185,23 @@ references:
   type: post-weblog
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
+- id: Matheny2004
+  author:
+    - family: Matheny
+      given: Ken
+    - family: Crain
+      given: Marion
+  citation-key: Matheny2004
+  container-title: North Carolina Law Review
+  container-title-short: N.C. L. Rev.
+  issue: '5'
+  issued:
+    - year: 2004
+  page: '1705'
+  title: Disloyal Workers and the Un-American Labor Law
+  type: article-journal
+  volume: '82'
 
 - id: Orren1991
   abstract: >-
