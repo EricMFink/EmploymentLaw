@@ -106,11 +106,9 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 - As used in this chapter—
 - (a\) "Person" means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 - (d\) "Employer" includes any person acting directly or indirectly in the interest of an employer in relation to an employee and includes a public agency, but does not include any labor organization (other than when acting as an employer) or anyone acting in the capacity of officer or agent of such labor organization.
-- (e\)
-	- (1) Except as provided in paragraphs (2), (3), and (4), the term "employee" means any individual employed by an employer.
+- (e\) (1) Except as provided in paragraphs (2), (3), and (4), the term "employee" means any individual employed by an employer.
 - (g\) "Employ" includes to suffer or permit to work.
-- (m\) 
-	- (1) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: _Provided_, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: _Provided further_, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
+- (m\) (1) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: _Provided_, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: _Provided further_, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
 	- (2\)
 		- (a\) In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 			- (i\) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
@@ -185,8 +183,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 	- (5\) any individual employed as an outside buyer of poultry, eggs, cream, or milk, in their raw or natural state; or
 	- (6\) any employee employed as a seaman; or
 	- (9\) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (a) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (b) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
-	- (10\)
-		- (a) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
+	- (10\) (a) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 		- (b\) any salesman primarily engaged in selling trailers, boats, or aircraft, if he is employed by a non-manufacturing establishment primarily engaged in the business of selling trailers, boats, or aircraft to ultimate purchasers; or
 	- (11\) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a\) of this title; or
 	- (12\) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
@@ -197,7 +194,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 	- (17\) any driver employed by an employer engaged in the business of operating taxicabs; or
 	- (20\) any employee of a public agency who in any workweek is employed in fire protection activities or any employee of a public agency who in any workweek is employed in law enforcement activities (including security personnel in correctional institutions), if the public agency employs during the workweek less than 5 employees in fire protection or law enforcement activities, as the case may be; or
 	- (21\) any employee who is employed in domestic service in a household and who resides in such household; or
-	- (24\) any employee who is employed with his spouse by a nonprofit educational institution to serve as the parents of children—
+	- (24\) any employee who is employed with his spouse by a nonprofit educational institution to serve as the parents of children— 
 		- (a\) who are orphans or one of whose natural parents is deceased, or
 		- (b\) who are enrolled in such institution and reside in residential facilities of the institution,
 	- while such children are in residence at such institution, if such employee and his spouse reside in such facilities, receive, without cost, board and lodging from such institution, and are together compensated, on a cash basis, at an annual rate of not less than $10,000; or
@@ -212,9 +209,9 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 
 :::
 
-![Federal Minimum Wage, 1938-2024](../img/federal-minimum-wage1938-2024.jpg)
+![Federal Minimum Wage, 1938-2024](../img/federal-minimum-wage1938-2024.jpg){width=75%}
 
-![State Minimum Wages, 2025](../img/state-minimum-wage-2025.png)
+![State Minimum Wages, 2025](../img/state-minimum-wage-2025.png){width=75%}
 
 ### @NCWageHour_nd
 

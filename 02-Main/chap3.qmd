@@ -682,8 +682,6 @@ The exclusion of incarcerated workers from protection under the FLSA and other e
 
 ### @RazakUberTechnologiesInc_3rdCir2020
 
-This case is an appeal from a grant of summary judgment on the question of whether drivers for UberBLACK are employees or independent contractors within the meaning of the Fair Labor Standards Act ("FLSA"), 29 U.S.C. §§ 201-219, and similar Pennsylvania state laws. For the following reasons, we will vacate the District Court's grant of summary judgment and remand for further proceedings.
-
 [I. Facts]{.casesection}
 
 Plaintiffs Ali Razak, Kenan Sabani, and Khaldoun Cherdoud are Pennsylvania drivers who utilize Defendant Uber Technologies' ride-sharing mobile phone application ("Driver App"). Plaintiffs bring this action on behalf of a putative class of all persons who provide limousine services, now known as UberBLACK, through Defendant's Driver App in Philadelphia, Pennsylvania.Plaintiffs bring individual and representative claims against Uber Technologies, Inc. and its wholly-owned subsidiary, Gegen, LLC, ("Gegen," and collectively, "Uber") for violations of the federal minimum wage and overtime requirements under the FLSA, the Pennsylvania Minimum Wage Act ("PMWA"), and the Pennsylvania Wage Payment and Collection Law ("WPCL").
@@ -716,7 +714,7 @@ The Third Circuit utilizes the test out-lined in _Donovan v. DialAmerica Marketi
 
 > 1\) the degree of the alleged employer's right to control the manner in which the work is to be performed; 2\) the alleged employee's opportunity for profit or loss depending upon his managerial skill; 3\) the alleged employee's investment in equipment or materials required for his task, or his employment of helpers; 4\) whether the service rendered required a special skill; 5\) the degree of permanence of the working relationship; and 6\) whether the service rendered is an integral part of the alleged employer's business.
 
-Our decision in _DialAmerica_ is consistent with the Supreme Court's general guidance in _Rutherford Food Corp. v. McComb,_ 331 U.S. 722 (1947). In _Rutherford,_ the Supreme Court first determined "employee" status under the FLSA. And in _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
+In _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
 
 [IV. The District Court Opinion]{.casesection}
 
@@ -774,7 +772,7 @@ Alternatively, the fourth factor, whether the service rendered requires a specia
 
 [VII. Conclusion]{.casesection}
 
-In reviewing the District Court decision _de novo,_ we determine summary judgment was inappropriate because genuine disputes of material facts remained. For the foregoing reasons, we will remand the matter for further proceedings.
+We determine summary judgment was inappropriate because genuine disputes of material facts remained. For the foregoing reasons, we will remand the matter for further proceedings.
 
 [^Razak6]: (n.6 in opinion) Boilerplate language in the Driver Addendum to the Technology Services Agreement sets forth, among other things, that ITCs "acknowledge and agree that Uber is a technology services provider" that "does not provide transportation services, function as a transportation carrier, nor operates as a broker for transportation of passengers." App. 13. "ITCs shall provide all necessary equipment; Uber does not direct or control ITCs or their drivers generally or in their performance." "ITCs and their drivers retain the sole right to determine when, where, and for how long each of them will utilize the Driver App or the Uber Service, and ITCs agree to pay Uber a service fee on a per transportation services transaction basis." ITCs must also "maintain during the term of this Agreement workers' compensation insurance for itself and any of its subcontractors." The Driver Addendum also sets forth and requires that the relationship between the ITCs and their drivers is "contractual or an employment arrangement." 
 
@@ -796,7 +794,7 @@ Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, e
 
 Plaintiffs Kate Egan, Kenneth Berry, Michelle Brandt, Nicole Gonzalez, and Amber Lyne have filed suit individually and on behalf of others similarly situated against defendants A.W. Companies, Inc. and Meijer, Inc. Plaintiffs assert claims under the Fair Labor Standards Act (FLSA), 29 U.S.C. § 216(b) \[and state wage and hour law.\]. Plaintiffs also have sought leave to file a fourth amended complaint including a retaliation claim against A.W. arising from A.W.’s assertion of a counterclaim against the plaintiffs.
 
-Defendant Meijer, which was first named in plaintiffs’ third amended complaint, has moved to dismiss. Meijer seeks dismissal under ... Rule 12(b)(6) for failure to state a claim upon which relief can be granted.
+Meijer seeks dismissal under ... Rule 12(b)(6) for failure to state a claim upon which relief can be granted.
 
 [Background]{.casesection}
 
