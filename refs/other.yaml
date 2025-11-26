@@ -100,21 +100,6 @@ references:
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
   volume: '52'
 
-- id: Finkin2007
-  author:
-    - family: Finkin
-      given: Matthew W.
-  citation-key: Finkin2007
-  container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Emp. & Lab. L.
-  issue: '2'
-  issued:
-    - year: 2007
-  page: '541'
-  title: Disloyalty! Does Jefferson Standard Stalk Still?
-  type: article-journal
-  volume: '28'
-
 - id: Friedman2023
   author:
     - family: Friedman
@@ -145,21 +130,6 @@ references:
   publisher: MIT Press
   title: A Primer on American Labor Law
   type: book
-
-- id: Harris2021
-  author:
-    - family: Harris
-      given: Jonathan F
-  citation-key: Harris2021
-  container-title: Alabama Law Review
-  issued:
-    - year: 2021
-  language: en
-  page: '723'
-  source: Zotero
-  title: Unconscionability in Contracting for Worker Training
-  type: article-journal
-  volume: '72'
 
 - id: Heine2025
   abstract: >-
@@ -228,23 +198,6 @@ references:
   type: post-weblog
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
-
-- id: Matheny2004
-  author:
-    - family: Matheny
-      given: Ken
-    - family: Crain
-      given: Marion
-  citation-key: Matheny2004
-  container-title: North Carolina Law Review
-  container-title-short: N.C. L. Rev.
-  issue: '5'
-  issued:
-    - year: 2004
-  page: '1705'
-  title: Disloyal Workers and the Un-American Labor Law
-  type: article-journal
-  volume: '82'
 
 - id: Orren1991
   abstract: >-
