@@ -54,6 +54,9 @@ h3 {
 h3 a:link {
 	color: #800000;
 }
+h3 a:visited {
+	color: #800000;
+}
 h4 {
 	font-family: "Literata",serif;
 	font-size: 1.1rem;
