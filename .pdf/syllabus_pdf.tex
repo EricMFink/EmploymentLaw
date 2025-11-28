@@ -1,24 +1,34 @@
+%%% master.tex
+%%% Master Pandoc template 
+%%% Created by Eric M. Fink (https://github.com/EricMFink/Pandoc/templates)
+%%% Contents: 
+%%% 1. Article: line 12
+%%% 2. Syllabus: line 295
+%%% 3. Vita: line 535
+%%% 4. Legal Code: 683
+%%% 6. Rules Handout: 842
+%%% 7. Default: 999
+
+
+% START OF SYLLABUS TEMPLATE
+
+% ====================
+% = Layout & Spacing =
+% ====================
+
 \documentclass[11pt,letterpaper,twoside]{article}
 \usepackage[hmarginratio=1:1,top=1in,bottom=.75in,left=1.5in,right=1.5in]{geometry}
-
 \usepackage{etoolbox}
-\usepackage[]{ccicons}
-\usepackage{fontawesome5}
 \usepackage{marginnote}
 \usepackage{sidenotes}
-
 \usepackage{needspace}
 \usepackage[defaultlines=3,all]{nowidow}
 \raggedbottom
-
 \usepackage{ragged2e}
 \setlength{\RaggedRightParindent}{0em}
 \RaggedRight
-
 \usepackage[singlespacing]{setspace}
-
 \usepackage[none]{hyphenat}
-
 \usepackage{parskip}
 \setlength{\parindent}{0em}
 \setlength{\parskip}{0.6em plus 0.2em minus 0.1em}
@@ -28,7 +38,9 @@
 % = Language & Date Format =
 % ==========================
 
-\usepackage[english]{babel}
+\usepackage[english]{babel}  
+\usepackage{datetime}
+\newdateformat{mydate}{\THEDAY-\monthname-\THEYEAR}
 \usepackage{currfile}
 
 % ==================
@@ -47,12 +59,10 @@
 \setsansfont{Adelle Sans}[Mapping=tex-text]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
 
-% font style for margin notes
-%\renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
-
-% smaller sizes for footnotes & captions
-%\renewcommand{\footnotesize}{\scriptsize}
-%\renewcommand{\captionsize}{\small\itshape}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage[]{ccicons}
+\usepackage{fontawesome5}
 
 % =======================
 % = Headers and Footers = 
@@ -62,7 +72,7 @@
 \pagestyle{fancy}
 \fancyfoot{}
 \fancyfoot[C]{}
-\fancyfoot[R]{\tiny\texttt{ Revised: \today}}
+\fancyfoot[R]{\tiny\texttt{ Revised: \mydate\today}}
 \fancyfoot[L]{}
 \fancyhead[CE]{\textsc{Employment Law}}
 \fancyhead[CO]{\textsc{Elon University School of Law}}
@@ -150,15 +160,12 @@
 \usepackage{longtable,booktabs,array}
 %\setlength\heavyrulewidth{0pt}
 \usepackage{multirow}
-\usepackage{calc} % for calculating minipage widths
-% Correct order of tables after \paragraph or \subparagraph
+\usepackage{calc}
 \makeatletter
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \makeatother
-% Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-% set table font size & space between rows
 \renewcommand{\arraystretch}{1.5}
 \AtBeginEnvironment{longtable}{\footnotesize}
 
@@ -168,7 +175,6 @@
 
 \usepackage[hang,flushmargin]{footmisc} 
 
-%\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont} %use to change size of footnotes
 
 % ==============
 % = Hyperlinks =
@@ -193,10 +199,7 @@
 
 \begin{document}\thispagestyle{empty}
 
-% Sets default font color without overriding hyperlink colors
 \color{OffBlack}
-
-% \maketitle
 
 \section{Employment Law}
 
@@ -208,7 +211,7 @@
 \subparagraph{\url{emfink.net/EmploymentLaw}}
 \vspace{1em}
 
-\paragraph{Professor}
+
 \subparagraph{Eric M. Fink} 
 \subparagraph{efink@elon.edu}
 \subparagraph{336.279.9334} 
@@ -497,3 +500,5 @@ Safety}\label{employee-health-safety}
 \end{itemize}
 
 \end{document}
+
+% END OF SYLLABUS TEMPLATE
