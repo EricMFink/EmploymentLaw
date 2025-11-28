@@ -20,7 +20,6 @@ city-state: Greensboro, North Carolina
 format:
   pdf:
     template: master.tex
-    keep-tex: true
     output-file: EmploymentLawSyllabus
 
 ---
