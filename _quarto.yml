@@ -53,7 +53,6 @@ book:
         - 02-Main/chap6.qmd
         - 02-Main/chap7.qmd
         - 02-Main/chap8.qmd
-        - 02-Main/chap9.qmd
         - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
@@ -83,7 +82,7 @@ format:
     citation-location: document
     toc: true
     number-sections: true
-    number-depth: 2
+    number-depth: 3
     toc-location: left
     toc-depth: 4
     callout-icon: false

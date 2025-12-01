@@ -16,10 +16,10 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, twoside, openright]
     has-frontmatter: true
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     toc-title: "Contents"
     number-sections: true
-    number-depth: 1
+    number-depth: 2
     template-partials:
       - "partials/before-body.tex"
     include-in-header:
@@ -62,7 +62,6 @@ nocite: |
 
 {{< include ../02-Main/chap8.qmd >}}
 
-{{< include ../02-Main/chap9.qmd >}}
 
 \backmatter
 

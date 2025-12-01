@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-revised: 2025-08-24T18:30:43-04:00
+revised: 2025-12-01T16:29:58-05:00
 
 subject: Employment Law
 term: 'Winter 2026'
@@ -46,9 +46,9 @@ Richard A. Bales, Jeffrey M. Hirsch, & Paul M. Secunda, Understanding Employment
 
 ### Grading
 
-Your final grade for this course will be based on three take-home problem assignments (25% each) and participation in class discussions (25%). There will be no final exam.
+Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%). There will be no final exam.
 
-The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, _not your name_, at the top of your submission.** 
+The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, _not your name_, at the top of your submission.**
 
 ### Attendance
 
@@ -68,96 +68,85 @@ For disability accommodation requests, contact the [Office of Academic Accommoda
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including class meetings, assignments, and examinations.
 
-\newpage
-
 ## Schedule & Assignments {.unnumbered}
 
 (_Note:_ This class will not meet on Monday, January 19th)
 
 ### 1\. Foundations of Employment Law
 
-#### January 5
+#### January 5 & 7
 
 - Employment as a Socio-Legal Relationship, _Casebook_ Chap. 1
 
-#### January 7
+#### January 12 & 14
 
-- Labor Organizing & Collective Bargaining, _Casebook_ Chap. 2
+- Labor Organizing & Concerted Activity, _Casebook_ Chap. 2
 
 ### 2\. Establishing an Employment Relationship
 
-#### January 12 
+#### January 21
 
-- Identifying Employees, _Casebook_ Chap. 3, §§ 1-3
+- Identifying Employees, _Casebook_ Chap. 3, § 1
 
-#### January 14 
+#### January 26 
 
-- Identifying Employers, _Casebook_ Chap. 3, § 4
+- Identifying Employers, _Casebook_ Chap. 3, § 2
 
-#### January 21 
+#### January 28 
 
-- Recruitment & Hiring, _Casebook_ Chap. 4
-- Problem Assignment 1: Defamation (Workbook, Chap. 3)
+- Recruitment & Hiring, _Casebook_ Chap. 3, § 3
 
 ### 3\.Scope & Limits of Employer Control
 
-#### January 26
+#### February 2
 
-- Privacy, Autonomy, & Dignity, _Casebook_ Chap. 5, § 1
+- Control At Work, _Casebook_ Chap. 4, § 1
+- Problem Assignment 1: Sexual Harassment (Workbook, Chap. 7)
 
-#### February 28
+#### February 4 
 
-- Protected Concerted Activity, _Casebook_ Chap. 5, § 2
-
-#### February 2 
-
-- Control Outside Work, _Casebook_ Chap. 5, § 3
+- Control Outside Work, _Casebook_ Chap. 4, § 2
 
 ### 4\. Employee Duties to Employers
 
-#### February 4
-
-- Confidentiality, _Casebook_ Chap. 6, §§ 1-3
-
 #### February 9 
 
-- Loyalty, _Casebook_ Chap. 6, § 4
+- Confidentiality, _Casebook_ Chap. 5, § 1
 
 #### February 11
 
-- Competition, _Casebook_ Chap. 6, § 5
+- Loyalty, _Casebook_ Chap. 5, § 2
 
 ### 5\. Wages & Hours
 
 #### February 16 & 18
 
-- Minimum Wage, Overtime, & Wage Payments, _Casebook_ Chap. 7
-- Problem Assignment 2: Wage & Hour (Workbook, Chap. 11)
+- Minimum Wage, Overtime, & Wage Payments, _Casebook_ Chap. 6
 
 ### 6\. Employee Health & Safety
 
 #### February 23
 
-- Workers' Compensation & OSHA, _Casebook_ Chap. 8, §§ 1 & 2
+- Workers' Compensation & OSHA, _Casebook_ Chap. 7, § 1
 
 #### February 25
 
-- FMLA & ADA, _Casebook_ Chap. 8, §§ 3 & 4
+- FMLA & ADA, _Casebook_ Chap. 7, § 2
 
 ### 7\. Terminating Employment
 
 #### March 2
 
-- Express & Implied Contract Claims, _Casebook_ Chap. 9, §§ 1 & 2
+- Express "Good Cause" Requirements & Implied Contract Limits, _Casebook_ Chap. 8, §§ 1.1 & 1.2
 
 #### March 4
 
-- Tort & Statutory Claims, _Casebook_ Chap. 9, §§ 3 & 4
+- Tort Claims & Statutory Protections, _Casebook_ Chap. 8, §§ 1.3 & 1.4
 - Problem Assignment 3: Whistleblowers (Workbook, Chap. 4)
 
 #### March 9
 
-- Unemployment Compensation, _Casebook_ Chap. 9, § 5
+- Unemployment Compensation, _Casebook_ Chap. 8, § 2
 
 #### March 11
 

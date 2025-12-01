@@ -2,7 +2,7 @@
 
 ## Feudal Roots
 
-### Regulating Labor in Medieval England [^labour1349]
+#### Regulating Labor in Medieval England [^labour1349]
 
 [^labour1349]: @LondonRadicalHistories2016
 
@@ -50,7 +50,7 @@ Despite the obvious failure of the post-Black Death labour legislation, repressi
 
 ![Medieval Laborers](../img/medieval-labour.jpg){width=33%}
 
-### @OrdinanceLabourers1349
+#### @OrdinanceLabourers1349
 
 The king to the sheriff of Kent, greeting. 
 
@@ -79,7 +79,7 @@ The king to the reverend father in Christ W. by the same grace bishop of Winches
 
 Like letters of request are directed to the several bishops of England, and to the keeper of the spiritualities of the archbishopric of Canterbury, during the vacancy of the see, under the same date.
 
-### @StatuteLabourers1351
+#### @StatuteLabourers1351
 
 Whereas late against the malice of servants, which were idle, and not willing to serve after the pestilence, without taking excessive wages, it was ordained by our lord the king, and by the assent of the prelates, nobles, and other of his council, that such manner of servants, as well men as women, should be bound to serve, receiving salary and wages, accustomed in places where they ought to serve in the twentieth year of the reign of the king that now is, or five or six years before; and that the same servants refusing to serve in such manner should be punished by imprisonment of their bodies, as in the said statute is more plainly contained: whereupon commissions were made to divers people in every county to inquire and punish all them which offend against the same: and now forasmuch as it is given the king to understand in this present parliament, by the petition of the commonalty, that the said servants having no regard to the said ordinance, but to their ease and singular covetise, do withdraw themselves to serve great men and other, unless they have livery and wages to the double or treble of that they were wont to take the said twentieth year, and before, to the great damage of the great men, and impoverishing of all the said commonalty, whereof the said commonalty prayeth remedy: wherefore in the said parliament, by the assent of the said prelates, earls, barons, and other great men, and of the same commonalty there assembled, to refrain the malice of the said servants, be ordained and established the things underwritten:
 
@@ -95,7 +95,7 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ## Employment as Status and Contract
 
-### @Orren1991
+#### @Orren1991
 
 [The Order of the Workplace in Late-Nineteenth-Century America]{.casesection}
 
@@ -163,7 +163,7 @@ The opinions in the labor decisions indicate that the judges believed that what 
 
 > Not only the hours of employees, but the hours of employers, could be regulated, and doctors, lawyers, scientists, all professional men, as well as athletes and artisans, could be forbidden to fatigue their brains and bodies by prolonged hours of exercise, lest the fighting strength of the state be impaired. 
 
-### @ScudderWoodbridge_Georgia1846
+#### @ScudderWoodbridge_Georgia1846
 
 Wylly Woodbridge brought an action on the case against Amos Scudder, to recover the value of a negro boy, by the name of Ned, a carpenter, killed on board the Ivanhoe, owned by the defendant. It was alleged in the declaration that the property was lost by the carelessness and mismanagement of the captain of the boat, who was employed by the owner. This boy had been hired as a carpenter to make the trip from Savannah to St. Mary’s, and becoming entangled in the water-wheel, in aiding to get the boat off, he was drowned. Judge Fleming, before whom the cause was tried in Chatham county, charged the jury, that if they found that the death of the slave was occasioned by the negligence or want of skill in the officers of the Ivanhoe, in the employment of Amos Scudder, that he was liable for the loss accruing from such negligence or want of skill. The jury returned a verdict for five hundred dollars. The defendant below excepted to the charge of the court, and now assigns for error that the instruction to the jury was wrong, and that the plaintiff in error["Plaintiff in error": the appellant, i.e. Scudder.]{.aside} is not liable for any carelessness of his agents to those in his employ.
 
@@ -173,7 +173,7 @@ The general doctrine,["The general doctrine": i.e., The "fellow-servant" rule, p
 
 Again: a large portion of the employees at the South are either slaves or free persons of color, wholly irresponsible, _civiliter_,[“wholly irresponsible, _civiliter_”: Enslaved persons, having the legal status of chattel property, could neither sue nor be sued and were thus not subject to civil liability. See, @WoodWard1879]{.aside} for their neglect or malfeasance. The engineer on the Ivanhoe was a colored man. Had the accident been attributable to his mismanagement, to whom should Woodbridge have looked for redress? But we think it needless to multiply reasons upon a point so palpable. There is one view alone which would be conclusive with the court. The restriction of this rule is indispensable to the welfare of the slave. In almost every occupation, requiring combined effort, the employer necessarily intrusts it to a variety of agents. Many of those are destitute of principle, and bankrupt in fortune. Once let it be promulgated that the owner of negroes hired to the numerous navigation, railroad, mining and manufacturing companies which dot the whole country, and are rapidly increasing—I repeat, that for any injury done to this species of property, let it be understood and settled that the employer is not liable, but that the owner must look for compensation to the co-servant who occasioned the mischief, and I hesitate not to affirm, that the life of no hired slave would be safe. As it is, the guards thrown around this class of our population are sufficiently few and feeble. We are altogether disinclined to lessen their number or weaken their force. We are, therefore, cordially, confidently and unanimously agreed, and so adjudge, that the judgment below be affirmed, with costs.
 
-### @HaskinsRoyster_NC1874
+#### @HaskinsRoyster_NC1874
 
 We take it to be a settled principle of law, that if one contracts upon a consideration to render personal services for another any third person who maliciously, that is, without a lawful justification, induces the party who contracted to render the service to refuse to do so, is liable to the injured party in an action for damages. It need scarcely be said that there is nothing in this principle inconsistent with personal freedom, else we would not find it in the laws of the freest and most enlightened States in the world. It extends impartially to every grade of service, from the most brilliant and best paid to the most homely, and it shelters our nearest and tenderest domestic relations from the interference of malicious intermeddlers. It is not derived from any idea of property by the one party in the other, but is an inference from the obligation of a contract freely made by competent persons.
 
@@ -221,7 +221,7 @@ To enable a plaintiff to recover from one who entices his servant, it is suffici
 
 We are of opinion that the complaint sets forth a sufficient cause of action.
 
-### @PollockWilliams_US1944
+#### @PollockWilliams_US1944
 
 Appellant Pollock questions the validity of a statute of the State of Florida making it a misdemeanor to induce advances with intent to defraud by a promise to perform labor and further making failure to perform labor for which money has been obtained _prima facie_ evidence of intent to defraud. It conflicts, he says, with the Thirteenth Amendment to the Federal Constitution and with the antipeonage statute enacted by Congress thereunder. Claims also are made under the due process and equal protection clauses of the Fourteenth Amendment which we find it unnecessary to consider.
 
@@ -291,7 +291,7 @@ We impute to the Legislature no intention to oppress, but we are compelled to ho
 
 ## Employer Control
 
-### @Anderson2017
+#### @Anderson2017
 
 Most workers in the United States are governed by dictatorships in their work lives. Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is. Most believe, for example, that their boss cannot fire them for their off-hours Facebook postings, or for supporting a political candidate their boss opposes. Yet only about half of U.S. workers enjoy even partial protection of their off-duty speech from employer meddling. Far fewer enjoy legal protection of their speech on the job, except in narrowly defined circumstances. Even where they are entitled to legal protection, as in speech promoting union activity, their legal rights are often a virtual dead letter due to lax enforcement: employers determined to keep out unions immediately fire any workers who dare mention them, and the costs of litigation make it impossible for workers to hold them accountable for this. 
 
@@ -383,7 +383,7 @@ It is possible to design a workplace constitution in which workers have a non-ad
 
 It is not my intention in this lecture to defend any particular model of worker participation in firm governance. My point is rather to expose a deep failure in current ways of thinking about how government fits into Americans’ lives. We do not live in the market society imagined by Paine and Lincoln, which offered an appealing vision of what a free society of equals would look like, combining individualistic libertarian and egalitarian ideals. Government is everywhere, not just in the form of the state, but even more pervasively in the workplace. Yet public discourse and much of political theory pretends that this is not so. It pretends that the constitution of workplace government is somehow the object of voluntary negotiation between workers and employers. This is true only for a tiny proportion of privileged workers. The vast majority are subject to private, authoritarian government, not through their own choice, but through laws that have handed nearly all authority to their employers. 
 
-### @SkagerbergBlandinPaperCo_Minn1936
+#### @SkagerbergBlandinPaperCo_Minn1936
 
 Plaintiff is a consulting engineer, a specialist in the field of heating, ventilating, and air conditioning. As such he had developed a clientele bringing him a weekly income of approximately $200.
 
@@ -479,7 +479,7 @@ For contending perspectives on the at-will presumption, see @Epstein1984; @Summe
 
 :::
 
-### @VinluanDoyle_NYAppDiv2009
+#### @VinluanDoyle_NYAppDiv2009
 
 Ten nurses, all from the Republic of the Philippines, are under indictment in Suffolk County for the misdemeanor offenses of conspiracy in the sixth degree, endangering the welfare of a child, and endangering the welfare of a physically-disabled person. The prosecution of these individuals came in the aftermath of their simultaneous resignations from positions at a Long Island nursing home. The attorney who provided these nurses with legal advice was also indicted.
 
@@ -521,7 +521,7 @@ As charged in the indictment, it is clear that Vinluan's criminal liability is p
 
 More importantly, regardless of whether Vinlaun's legal assessment was accurate, it was objectively reasonable. We cannot conclude that an attorney who advises a client to take an action that he or she, in good faith, believes to be legal, loses the protection of the First Amendment if his or her advice is later determined to be incorrect. Indeed, it would eviscerate the right to give and receive legal counsel with respect to potential criminal liability if an attorney could be charged with conspiracy and solicitation whenever a District Attorney disagreed with that advice. The potential impact of allowing an attorney to be prosecuted in circumstances such as those presented here are profoundly disturbing. A looming threat of criminal sanctions would deter attorneys from acquainting individuals with matters as vital as the breadth of their legal rights and the limits of those rights. Correspondingly, where counsel is restrained, so is the fundamental right of the citizenry, bound as it is by laws complex and unfamiliar, to receive the advice necessary for measured conduct. Moreover, by placing an attorney in the position of being required to defend the advice that he or she has provided, the state compels revelation of, and thus places within its reach, confidential communications between attorney and client. Such communications have long been held to be privileged in order to enable citizens to safely and readily secure "the aid of persons having knowledge of the law and skill in its practice". A prosecution which would compel the disclosure of privileged attorney-client confidences, and potentially inflict punishment for the good faith provision of legal advice is, in our view, more than a First Amendment violation. It is an assault on the adversarial system of justice upon which our society, governed by the rule of law rather than individuals, depends.
 
-### @WorkmanUnitedParcelService_7thCir2000
+#### @WorkmanUnitedParcelService_7thCir2000
 
 This is a diversity suit, governed by Indiana law and resolved in favor of the defendant on summary judgment, for breach of contract and promissory estoppel. The plaintiff is an employee of UPS who claims that the company made a binding promise not to demote him without just cause and broke its promise. 
 

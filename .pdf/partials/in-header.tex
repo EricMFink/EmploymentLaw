@@ -73,13 +73,13 @@
 %=== Chapter & Section Headings ===
 \titlespacing*{\chapter}{0em}{50mm}{0mm}
 \titlespacing*{\section}{0mm}{0mm}{3mm}
-\titlespacing*{\subsection}{0mm}{6mm}{0mm}
-\titlespacing*{\subsubsection}{0mm}{3mm}{0mm}
+\titlespacing*{\subsection}{0mm}{3mm}{3mm}
+\titlespacing*{\subsubsection}{0mm}{6mm}{0mm}
 \titlespacing*{\paragraph}{0mm}{3mm}{0mm}
 
 \titleformat{\chapter}
   [block]
-  {\raggedright\sffamily\huge\color{Maroon}}
+  {\raggedright\sffamily\Huge\color{Maroon}}
   {Chapter \thechapter ~~}
   {0em}
   {}
@@ -87,34 +87,32 @@
 
 \titleformat{\section}
   [block]
-  {\clearpage\raggedright\rmfamily\LARGE\color{Maroon}}
+  {\clearpage\raggedright\sffamily\huge\color{Maroon}}
   {\thesection ~~}
+  {0em}
+  {}
+  []
+\titleformat{\subsection}
+  [block]
+  {\needspace{9\baselineskip}\raggedright\sffamily\LARGE\color{Maroon}}
+  {\thesubsection ~~}
   {0em}
   {}
   []
 
 % Case, statute, rule, etc. title
-\titleformat{\subsection}
-  [block]
-  {\needspace{9\baselineskip}\raggedright\rmfamily\Large\color{Maroon}}
-  {\thesubsection ~~}
-  {0em}
-  {}
-  [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
-
-% Case - Judge Name
 \titleformat{\subsubsection}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\bfseries}
+  {\needspace{9\baselineskip}\raggedright\rmfamily\Large\color{Maroon}}
   {\thesubsubsection ~~}
   {0em}
   {}
-  []
-
+  [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
+% Case - Judge Name
 \titleformat{\paragraph}
   [block]
-  {\needspace{3\baselineskip}\raggedright\rmfamily\normalsize\itshape}
-  {\theparagraph}
+  {\needspace{3\baselineskip}\raggedright\rmfamily\large\bfseries}
+  {\thesubsubsection ~~}
   {0em}
   {}
   []
