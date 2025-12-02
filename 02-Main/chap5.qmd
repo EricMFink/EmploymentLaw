@@ -112,7 +112,9 @@ We acknowledge that the Respondent has a legitimate and, indeed, weighty interes
 Based on the foregoing, we find that the media-contact provision in the Respondent’s Confidentiality Agreement is unlawful and that the Respondent therefore violated Section 8(a)(1) by maintaining it. Further, we place rules that prohibit employees from communicating with the media regardless of whether the communications concern confidential information or the employees purport to speak on the employer’s behalf in _Boeing_ Category 3.
 
 ::: {.callout-note}
-In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confidentiality policies under the standard adopted in  @BoeingCompany_NLRB2017 and @SpecialtyProduce_NLRB2019. In @StericycleInc_NLRB2023 (see Chap. 4), the NLRB overruled _Boeing_ and "adopt[ed] a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act." Because the standard under _Stericycle_ is less deferential to employer interests and more protective of employee rights, the outcome in cases like _Lowe's Home Centers_ and _Tesla_, holding employer rules illegal under _Boeing_, would likely be the same.
+
+In _Lowe's Home Centers_ and _Tesla_, the NLRB evaluated the employers' confidentiality policies under the standard adopted in  @BoeingCompany_NLRB2017 and @SpecialtyProduce_NLRB2019. In @StericycleInc_NLRB2023, the NLRB overruled _Boeing_ and "adopt[ed] a new legal standard to decide whether an employer’s work rule that does not expressly restrict employees’ protected concerted activity under Section 7 of the National Labor Relations Act (Act) is facially unlawful under Section 8(a)(1) of the Act." Because the standard under _Stericycle_ is less deferential to employer interests and more protective of employee rights, the outcome in cases like _Lowe's Home Centers_ and _Tesla_, holding employer rules illegal under _Boeing_, would likely be the same.
+
 :::
 
 ### Confidential Settlement Agreements 

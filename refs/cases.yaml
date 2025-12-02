@@ -726,6 +726,17 @@ references:
   type: legal_case
   volume: '346'
 
+- id: NLRBJonesLaughlinSteel_US1937
+  authority: U.S.
+  citation-key: NLRBJonesLaughlinSteel_US1937
+  container-title: US
+  issued:
+    - year: 1937
+  page: '1'
+  title: NLRB v. Jones & Laughlin Steel Corp.
+  type: legal_case
+  volume: '301'
+
 - id: NLRBTownCountryElec_US1995
   authority: U.S.
   citation-key: NLRBTownCountryElec_US1995

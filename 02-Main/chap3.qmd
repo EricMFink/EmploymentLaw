@@ -211,8 +211,10 @@ We determine summary judgment was inappropriate because genuine disputes of mate
 [^Razak11]: (n.11 in opinion) We also note that the District Court did not interpret whether Plaintiffs could in actuality exercise any managerial skill while being "online" to increase their profits, only that they could potentially choose to perform other jobs to make a greater profit.
 
 ::: {.callout-note}
+
 **Postscript to _Razak_**
-Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, ending in two hung juries. Concluding that "A third jury trial would do nothing more than waste precious judicial resources while—in all likelihood—leaving the Parties precisely where we began so many years ago", the trial court dismissed the suit “pursuant to its inherent authority to manage its docket.” [_Razak v. Uber Technologies, Inc._](https://scholar.google.com/scholar_case?case=9711104425490886779), No. 16-573 (E.D. Pa. July 30, 2024). An appeal of that decision is pending. 
+Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, ending in two hung juries. Concluding that "A third jury trial would do nothing more than waste precious judicial resources while—in all likelihood—leaving the Parties precisely where we began so many years ago", the trial court dismissed the suit “pursuant to its inherent authority to manage its docket.” [_Razak v. Uber Technologies, Inc._](https://scholar.google.com/scholar_case?case=9711104425490886779), No. 16-573 (E.D. Pa. July 30, 2024). An appeal of that decision is pending.
+ 
 :::
 
 ### Distinguishing Employment from Non-Economic Relationships
