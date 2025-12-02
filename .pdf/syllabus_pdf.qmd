@@ -48,7 +48,11 @@ Richard A. Bales, Jeffrey M. Hirsch, & Paul M. Secunda, Understanding Employment
 
 Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%). There will be no final exam.
 
-The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, _not your name_, at the top of your submission.**
+The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, not your name, at the top of your submission.**
+
+The use of generative AI for take-home assignments is not permitted. The purpose of the assignments is to give you an opportunity to demonstrate what you have learned and what you can do. Among the many reasons to avoid artificial intelligence,[^1] the most compelling is that it demeans your own intelligence.
+
+[^1]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. See, e.g., [Mezu v. Mezu], 2025 WL 3022460 (Md. App. Oct. 29, 2025) (referring attorney to state bar disciplinary authority for filing brief with citations to multiple non-existent cases based on ChatGPT) [_Noland v. Land of the Free, L.P._](https://www4.courts.ca.gov/opinions/documents/B331918.PDF), 114 Cal.App.5th 426 (2025)(upholding sanctions against attorney for filing briefs with numerous fabricated case quotations created by ChatGPT, Claude, Gemini, and Grok); [_Garner v. Kadince_](https://websitedc.s3.amazonaws.com/documents/Garner_v._Kadince_UT_AC_USA_2025.pdf), 571 P.3d 812 (Utah App. 2025) (imposing sanctions against attorney for filing brief with citations to non-existent cases created by ChatGPT). It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. Adam Zewe, [Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), MIT News (Jan. 17, 2025); UN Environment Program, [AI has an environmental problem. Here’s what the world can do about that](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (Nov. 13, 2025). It makes you stupid. Nataliya Kosmyna, et al, [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/) (2025). 
 
 ### Attendance
 
@@ -96,7 +100,7 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 - Recruitment & Hiring, _Casebook_ Chap. 3, § 3
 
-### 3\.Scope & Limits of Employer Control
+### 3\. Scope & Limits of Employer Control
 
 #### February 2
 

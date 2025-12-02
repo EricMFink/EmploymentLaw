@@ -16,8 +16,8 @@ All original content is licensed under a [Creative Commons Attribution NonCommer
 
 #### [emfink.net/ElonLaw](https://www.emfink.net/ElonLaw/)
 
-### Source Code: [[github.com/EricMFink/PR]{.mono-font-smaller}](https://github.com/EricMFink/PR)
+### Source Code: [[github.com/EricMFink/EmploymentLaw]{.mono-font-smaller}](https://github.com/EricMFink/EmploymentLaw)
 
-### Version 4.1, November 2025
+### Version 4.1, December 2025
 
 :::
