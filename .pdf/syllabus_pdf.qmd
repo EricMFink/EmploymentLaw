@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-revised: 2025-12-01T16:29:58-05:00
+revised: 2025-12-03T08:32:50-05:00
 
 subject: Employment Law
 term: 'Winter 2026'
