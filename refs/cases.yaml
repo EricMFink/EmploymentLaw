@@ -34,6 +34,18 @@ references:
   type: legal_case
   volume: '742'
 
+- id: BautistaPRGramercySquare_SDNY2022
+  authority: S.D.N.Y
+  citation-key: BautistaPRGramercySquare_SDNY2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  jurisdiction: SD New York
+  page: '411'
+  title: Bautista v. PR Gramercy Square Condominium
+  type: legal_case
+  volume: '642'
+
 - id: BoeingCompany_NLRB2017
   authority: N.L.R.B.
   citation-key: BoeingCompany_NLRB2017
@@ -411,6 +423,19 @@ references:
   title: Haskins v. Royster
   type: legal_case
   volume: '70'
+
+- id: HenryAdventistHealthCastle_CourtofAppeals9thCircuit2020
+  authority: Court of Appeals, 9th Circuit
+  citation-key: HenryAdventistHealthCastle_CourtofAppeals9thCircuit2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+      month: 8
+      day: 14
+  page: '1126'
+  title: Henry v. Adventist Health Castle Medical Center
+  type: legal_case
+  volume: '970'
 
 - id: HoganForsythCountryClub_NCApp1986
   authority: N.C. Ct. App.
