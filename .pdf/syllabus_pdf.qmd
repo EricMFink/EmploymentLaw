@@ -72,7 +72,7 @@ For disability accommodation requests, contact the [Office of Academic Accommoda
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including class meetings, assignments, and examinations.
 
-## Schedule & Assignments {.unnumbered}
+## Schedule & Assignments {.unnumbered} [^hours]
 
 (_Note:_ This class will not meet on Monday, January 19th)
 
@@ -155,3 +155,5 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 #### March 11
 
 - Make-up class (if needed)
+
+[^hours]: Consistent with American Bar Association Standard 310, for each class meeting (120 minutes), students are expected to spend an average of ?? minutes on preparation and other out-of-class work. This may vary based on the reading and other assignments for each class.
