@@ -46,13 +46,15 @@ Richard A. Bales, Jeffrey M. Hirsch, & Paul M. Secunda, Understanding Employment
 
 ### Grading
 
-Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%). There will be no final exam.
+Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class (30%). There will be no final exam.
 
 The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, not your name, at the top of your submission.**
 
-The use of generative AI for take-home assignments is not permitted. The purpose of the assignments is to give you an opportunity to demonstrate what you have learned and what you can do. Among the many reasons to avoid artificial intelligence,[^1] the most compelling is that it demeans your own intelligence.
+The class participation component of your grade will be based on your constructive engagement in class discussions and in-class problem exercises. This will include presenting at least one question about the assigned reading for at least one class each week (beginning with the second week of class, i.e. Jan. 12 & 14). I will provide further guidance on this assignment in class. You should send your questions to me by email before the class for which the reading is assigned.
 
-[^1]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. See, e.g., [_Mezu v. Mezu_](https://scholar.google.com/scholar_case?case=3342777015070657049), 2025 WL 3022460 (Md. App. Oct. 29, 2025) (referring attorney to state bar disciplinary authority for filing brief with citations to multiple non-existent cases based on ChatGPT); [_Noland v. Land of the Free, L.P._](https://scholar.google.com/scholar_case?case=6289402711499355924), 114 Cal.App.5th 426 (2025) (upholding sanctions against attorney for filing briefs with numerous fabricated case quotations created by ChatGPT, Claude, Gemini, and Grok); [_Garner v. Kadince_](https://scholar.google.com/scholar_case?case=5585812690204924508), 571 P.3d 812 (Utah App. 2025) (imposing sanctions against attorney for filing brief with citations to non-existent cases created by ChatGPT). It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. Adam Zewe, [Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), MIT News (Jan. 17, 2025); UN Environment Program, [AI has an environmental problem. Here’s what the world can do about that](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (Nov. 13, 2025). It makes you stupid. Nataliya Kosmyna, et al, [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/), MIT Media Lab (2025). 
+Consistent with ABA Standard 310,[^syllabus1] Elon Law School policy[^syllabus2] requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading for each class, the preparation of discussion questions, and the two take-home problems will satisfy this requirement.
+
+The use of generative AI for assignments is not permitted. The purpose of the assignments is to give you an opportunity to demonstrate what you have learned and what you can do. Among the many reasons to avoid artificial intelligence,[^syllabus3] the most compelling is that it demeans your own intelligence.
 
 ### Attendance
 
@@ -72,7 +74,7 @@ For disability accommodation requests, contact the [Office of Academic Accommoda
 
 The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) applies to all activities related to your law school study, including class meetings, assignments, and examinations.
 
-## Schedule & Assignments {.unnumbered} [^hours]
+## Schedule & Assignments {.unnumbered}
 
 (_Note:_ This class will not meet on Monday, January 19th)
 
@@ -156,4 +158,8 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 - Make-up class (if needed)
 
-[^hours]: Consistent with American Bar Association Standard 310, for each class meeting (120 minutes), students are expected to spend an average of ?? minutes on preparation and other out-of-class work. This may vary based on the reading and other assignments for each class.
+[^syllabus1]: See [2025-2026 Standards and Rules of Procedure for Approval of Law Schools](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), Standard 310. 
+
+[^syllabus2]: See [2025-26 Student Handbook](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf), Appendix A.
+
+[^syllabus3]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. See, e.g., [_Mezu v. Mezu_](https://scholar.google.com/scholar_case?case=3342777015070657049), 2025 WL 3022460 (Md. App. Oct. 29, 2025) (referring attorney to state bar disciplinary authority for filing brief with citations to multiple non-existent cases based on ChatGPT); [_Noland v. Land of the Free, L.P._](https://scholar.google.com/scholar_case?case=6289402711499355924), 114 Cal.App.5th 426 (2025) (upholding sanctions against attorney for filing briefs with numerous fabricated case quotations created by ChatGPT, Claude, Gemini, and Grok); [_Garner v. Kadince_](https://scholar.google.com/scholar_case?case=5585812690204924508), 571 P.3d 812 (Utah App. 2025) (imposing sanctions against attorney for filing brief with citations to non-existent cases created by ChatGPT). It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. Adam Zewe, [Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), MIT News (Jan. 17, 2025); UN Environment Program, [AI has an environmental problem. Here’s what the world can do about that](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about) (Nov. 13, 2025). It makes you stupid. Nataliya Kosmyna, et al, [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://www.media.mit.edu/publications/your-brain-on-chatgpt/), MIT Media Lab (2025).

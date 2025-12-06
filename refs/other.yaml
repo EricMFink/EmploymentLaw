@@ -67,6 +67,23 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
   volume: '21'
 
+- id: Dall2002
+  author:
+    - family: Dall
+      given: Carey
+    - family: Cohen
+      given: Jonathan
+  citation-key: Dall2002
+  container-title: New Labor Forum
+  issue: '10'
+  issued:
+    - year: 2002
+      month: 4
+  page: '36'
+  title: 'Salting the Earth: Organizing for the Long Haul'
+  title-short: Salting the Earth
+  type: article-journal
+
 - id: Epstein1984
   accessed:
     - year: 2025
@@ -85,6 +102,24 @@ references:
   URL: https://www.jstor.org/stable/1599554?seq=1
   volume: '51'
 
+- id: ExaminingUnionSalting2004
+  authority: 108th Cong.
+  citation-key: ExaminingUnionSalting2004
+  issued:
+    - year: 2004
+      month: 5
+      day: 10
+  jurisdiction: U.S.
+  section: >-
+    Subcommittee on Employer-Employee Relations of the House Committee on
+    Education and the Workforce
+  title: >-
+    Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
+    Economy: Hearing before the Subcomm. on Employer-Employee Relations of the
+    H. Comm. on Education and the Workforce
+  title-short: Examining Union Salting Abuses
+  type: hearing
+
 - id: Fink2016
   author:
     - family: Fink
@@ -99,6 +134,22 @@ references:
   type: article-journal
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
   volume: '52'
+
+- id: Forman2017
+  author:
+    - family: Forman
+      given: Erik
+  citation-key: Forman2017
+  container-title: Jacobin
+  issued:
+    - year: 2017
+      month: 2
+      day: 7
+  language: en-US
+  title: Let’s Get to Work
+  type: article-magazine
+  URL: >-
+    http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
 - id: Friedman2023
   author:
@@ -199,6 +250,18 @@ references:
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
 
+- id: NationalRighttoWorkCommittee2003
+  author:
+    - family: National Right to Work Committee
+      given: ''
+  citation-key: NationalRighttoWorkCommittee2003
+  issued:
+    - year: 2003
+  publisher: National Right to Work Committee
+  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
+  title-short: Salting
+  type: document
+
 - id: Orren1991
   abstract: >-
     Traditional theories of American political development depict the American
@@ -264,4 +327,22 @@ references:
   type: article-journal
   URL: https://scholarship.law.upenn.edu/jbl/vol3/iss1/2
   volume: '3'
+
+- id: Townsend2023a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 6
+  author:
+    - family: Townsend
+      given: Chris
+  citation-key: Townsend2023a
+  container-title: Labor Notes
+  issue: '530'
+  issued:
+    - year: 2023
+      month: 5
+  title: We Are All Salts
+  type: article-magazine
+  URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
 ...
