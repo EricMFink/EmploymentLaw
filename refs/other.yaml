@@ -17,6 +17,32 @@ references:
   title-short: Private Government
   type: book
 
+- id: Belton2014a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: Belton
+      given: Robert
+    - family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014a
+  container-title: Journal of Supreme Court History
+  container-title-short: Journal of Supreme Court History
+  DOI: 10.1353/sch.2014.0006
+  ISSN: 1540-5818
+  issue: '3'
+  issued:
+    - year: 2014
+  language: en
+  page: 425–443
+  source: DOI.org (Crossref)
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://muse.jhu.edu/article/875392
+  volume: '39'
+
 - id: Bierman1993
   accessed:
     - year: 2025
