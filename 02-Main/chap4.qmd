@@ -730,7 +730,7 @@ In my view, given the fact that the Legislature's primary intent in enacting Lab
 
 And while it is true that, as a general rule of statutory construction, the breadth of an inclusory phrase is to be considered limited by the specific examples accompanying it, this principle must yield where necessary to carry out the underlying purpose of the enactment. Additionally, it is only applicable when the examples fall into a single, well-defined class, and are not themselves general in nature. Here, the list, which includes vast categories such as "hobbies" and "sports", as well as very different types of activities (e.g., exercise, reading), appears to have been compiled with an eye toward extending the reach of the statute. This, coupled with the explicit directive that the definition is _not_ to be limited to the examples given, provides further indication that the term "recreational activities" should be construed expansively. Accordingly, I would affirm the denial of defendant's motion to dismiss the first cause of action.
 
-#### @LawfulUseLawful1992 NCGS § 95-28.2
+#### @LawfulUseLawful1992
 
 ::: {.legalcode}
 

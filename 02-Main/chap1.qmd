@@ -4,7 +4,7 @@
 
 #### Regulating Labor in Medieval England [^labour1349]
 
-[^labour1349]: @LondonRadicalHistories2016
+[^labour1349]: [@LondonRadicalHistories2016]
 
 > _“Whereas late against the malice of servants, which were idle, and not willing to serve after the pestilence, without taking excessive wages, it was ordained by our lord the king… that such manner of servants … should be bound to serve, receiving salary and wages, accustomed in places where they ought to serve… five or six years before; and that the same servants refusing to serve … should be punished by imprisonment …”_
 
@@ -95,7 +95,7 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ## Employment as Status and Contract
 
-#### @Orren1991
+#### [@Orren1991]
 
 [The Order of the Workplace in Late-Nineteenth-Century America]{.casesection}
 
@@ -291,7 +291,7 @@ We impute to the Legislature no intention to oppress, but we are compelled to ho
 
 ## Employer Control
 
-#### @Anderson2017
+#### [@Anderson2017]
 
 Most workers in the United States are governed by dictatorships in their work lives. Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is. Most believe, for example, that their boss cannot fire them for their off-hours Facebook postings, or for supporting a political candidate their boss opposes. Yet only about half of U.S. workers enjoy even partial protection of their off-duty speech from employer meddling. Far fewer enjoy legal protection of their speech on the job, except in narrowly defined circumstances. Even where they are entitled to legal protection, as in speech promoting union activity, their legal rights are often a virtual dead letter due to lax enforcement: employers determined to keep out unions immediately fire any workers who dare mention them, and the costs of litigation make it impossible for workers to hold them accountable for this. 
 
@@ -475,7 +475,7 @@ It is difficult to find anything in this language indicating a consideration for
 
 ::: {.callout-note}
 
-For contending perspectives on the at-will presumption, see @Epstein1984; @Summers2000; @Casebeer2017.
+For contending perspectives on the at-will presumption, see [@Epstein1984]; [@Summers2000]; [@Casebeer2017].
 
 :::
 

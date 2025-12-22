@@ -30,17 +30,14 @@ references:
   citation-key: Belton2014a
   container-title: Journal of Supreme Court History
   container-title-short: Journal of Supreme Court History
-  DOI: 10.1353/sch.2014.0006
-  ISSN: 1540-5818
   issue: '3'
   issued:
     - year: 2014
   language: en
   page: 425–443
-  source: DOI.org (Crossref)
   title: How Griggs Came To Be
   type: article-journal
-  URL: https://www.emfink.net/EmploymentLaw/exhibits/GC-23-08.pdf
+  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
   volume: '39'
 
 - id: Bierman1993
@@ -109,6 +106,7 @@ references:
   title: 'Salting the Earth: Organizing for the Long Haul'
   title-short: Salting the Earth
   type: article-journal
+  URL: https://www.jstor.org/stable/40342338
 
 - id: Epstein1984
   accessed:
@@ -145,6 +143,7 @@ references:
     H. Comm. on Education and the Workforce
   title-short: Examining Union Salting Abuses
   type: hearing
+  URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
 
 - id: Fink2016
   author:
@@ -276,18 +275,6 @@ references:
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
 
-- id: NationalRighttoWorkCommittee2003
-  author:
-    - family: National Right to Work Committee
-      given: ''
-  citation-key: NationalRighttoWorkCommittee2003
-  issued:
-    - year: 2003
-  publisher: National Right to Work Committee
-  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
-  title-short: Salting
-  type: document
-
 - id: Orren1991
   abstract: >-
     Traditional theories of American political development depict the American
@@ -368,6 +355,7 @@ references:
   issued:
     - year: 2023
       month: 5
+      day: 3
   title: We Are All Salts
   type: article-magazine
   URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts

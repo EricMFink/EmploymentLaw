@@ -139,11 +139,18 @@
         </group>
       </else-if>
       <else-if type="legislation">
-	  		<group delimiter=" ">
+	  	<group delimiter=" ">
         	<text variable="title" suffix=", "/>
 			<text variable="volume"/>
         	<text variable="container-title"/>
         	<text variable="section" prefix="§ "/>
+		</group>
+	  </else-if>
+      <else-if type="hearing">
+		<group delimiter=" ">
+        	<text variable="title" suffix=", "/>
+        	<text variable="authority"/>
+        	<text macro="issuance" prefix="(" suffix=")"/>
 		</group>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">
@@ -216,10 +223,10 @@
       </if>
       <else>
         <choose>
-          <if type="article article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage post-weblog" match="any">
+          <if type="article article-journal article-magazine article-newspaper broadcast hearing interview manuscript map patent personal_communication song speech thesis webpage post-weblog" match="any">
             <group>
               <choose>
-                <if type="article article-newspaper thesis webpage post-weblog" match="any">
+                <if type="article article-newspaper hearing thesis webpage post-weblog" match="any">
                   <group>
                     <date variable="issued">
                       <date-part name="month" form="short" suffix=" "/>
@@ -291,7 +298,6 @@
         <if type="legal_case">
 			<group delimiter=" ">
 				<text macro="title-inline"/>
-				
 		  <date variable="issued">
           <date-part name="year"/>
           </date>
@@ -340,7 +346,7 @@
       </if>
       <else>
         <group delimiter=", ">
-          <text macro="author" suffix=","/>
+          <text macro="author" suffix=", "/>
           <text macro="source"/>
         </group>
       </else>
@@ -379,12 +385,9 @@
       </if>
       <else-if position="subsequent">
         <choose>
-          <if type="legal_case">
+          <if match="any" type="bill hearing legal_case legislation regulation treaty">
 		    <text macro="source"/>
           </if>
-          <else-if type="legislation">
-            <text macro="source"/>
-          </else-if>
           <else>
 		  <group>
             <choose>
@@ -402,10 +405,18 @@
         </choose>
       </else-if>
       <else>
-        <group delimiter=", ">
-          <text macro="author" suffix=","/>
-          <text macro="source"/>
-        </group>
+		<choose>
+		<if match="any" type="bill hearing legal_case legislation regulation treaty">
+			<!-- Legal items have different orders and delimiters -->
+			<text macro="source"/>
+		</if>
+		<else>
+			<group delimiter=", ">
+			<text macro="author" suffix=", "/>
+			<text macro="source"/>
+			</group>
+		</else>
+		</choose>
 	  </else>
 	</choose>
     </layout>
@@ -420,7 +431,7 @@
       </if>
       <else>
         <group delimiter=", ">
-          <text macro="author" suffix=","/>
+          <text macro="author" suffix=", "/>
           <text macro="source"/>
         </group>
       </else>

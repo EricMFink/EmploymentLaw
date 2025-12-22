@@ -1069,7 +1069,7 @@ Moreover, unlike in _Heder_ and _Gordon,_ where the plaintiffs received a certif
 
 ::: {.callout-note}
 
-Like non-compete agreements, training reimbursement provisions have been criticized for inhibiting employee mobility by imposing a substantial cost on those who wish to change jobs, while leaving employers free to discharge those employees at-will without any liability. _See_ @Lichten2018; @Harris2021; @StudentBorrowerProtectionCenter2022.
+Like non-compete agreements, training reimbursement provisions have been criticized for inhibiting employee mobility by imposing a substantial cost on those who wish to change jobs, while leaving employers free to discharge those employees at-will without any liability. _See_ [@Lichten2018]; [@Harris2021]; [@StudentBorrowerProtectionCenter2022].
 
 In 2024, NLRB General Counsel Jennifer Abruzzo issued a memorandum declaring "that certain 'stay-or-pay' provisions, under which an employee must pay their employer if they separate from employment, infringe on employees’ Section 7 rights in many of the same ways that non-compete agreements do and that such provisions therefore also violate Section 8(a)(1) of the Act unless narrowly tailored to minimize that infringement." [Memorandum GC 25-01](../exhibits/GC25-01), "Remedying the Harmful Effects of Non-Compete and “Stay-or-Pay” Provisions that Violate the National Labor Relations Act" (Oct. 7, 2024). In early 2025, the new Acting General Counsel, William Cowen, rescinded that memorandum. [NLRB GC 25-05](../exhibits/GC-25-05) (Feb. 14, 2025). 
 
