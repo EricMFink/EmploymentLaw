@@ -332,7 +332,7 @@ Based on the foregoing, we conclude that plaintiff demonstrated a likelihood of 
 
 ### Employee Disloyalty
 
-#### @MiklinEnterprisesIncNLRB_8thCircuit2016
+#### @MiklinEnterprisesIncNLRB_8thCir2016
 
 MikLin Enterprises, Inc. ("MikLin") petitions for review of a National Labor Relations Board ("Board") Order holding that MikLin violated Sections 8(a)(1) and 8(a)(3) of the National Labor Relations Act ("NLRA" or "the Act") when it (i) discharged and disciplined employees who publicly distributed posters suggesting that MikLin's "Jimmy John's" sandwiches posed a health risk to consumers; (ii) solicited employees to aid in removing the posters; (iii) encouraged employees to disparage a union supporter; and (iv) removed union literature from in-store bulletin boards. MikLin argues that the Board misapplied governing law and its decision is not supported by substantial evidence. The Board cross-petitions for enforcement of its Order. A divided panel enforced the Order in its entirety. We granted rehearing en banc and vacated the panel decision. We now conclude that the means the disciplined employees used in their poster attack were so disloyal as to exceed their right to engage in concerted activities protected by the NLRA, as construed in a controlling Supreme Court precedent, _NLRB v. Local Union No. 1229, IBEW_, 346 U.S. 464 (1953) ("Jefferson Standard"). We therefore decline to enforce the determination that MikLin violated the Act by disciplining and discharging those employees and by soliciting removal of the unprotected posters. We enforce the remainder of the Order, as so modified.
 
@@ -442,7 +442,7 @@ In addition to the claims that Litt and Barnett were substandard employees becau
 
 ::: {.callout-note}
 
-In addition to breach of their duty of loyalty as employees, Litt and Barnett were also found liable for trespass. Food Lion was awarded a total of $2 in damages for those claims. See @FoodLionIncCapital_4thCircuit1999 (affirming in part and reversing in part). 
+In addition to breach of their duty of loyalty as employees, Litt and Barnett were also found liable for trespass. Food Lion was awarded a total of $2 in damages for those claims. See @FoodLionIncCapital_4thCir1999 (affirming in part and reversing in part). 
 
 :::
 

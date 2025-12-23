@@ -19,7 +19,7 @@ references:
     - year: 2022
   jurisdiction: WD North Carolina
   page: '602'
-  title: Arku v. Wells Fargo Bank, Nat. Association
+  title: Arku v. Wells Fargo Bank
   type: legal_case
   volume: '621'
 
@@ -263,7 +263,7 @@ references:
       month: 10
       day: 3
   jurisdiction: ND Illinois
-  number: Case No. 23 C 1148
+  number: No. 23-C-1148
   title: Egan v. A.W. Companies, Inc.
   type: legal_case
 
@@ -280,7 +280,6 @@ references:
   volume: '961'
 
 - id: EnterpriseWireCo1966
-  authority: Carroll R. Daugherty, Arbitrator
   citation-key: EnterpriseWireCo1966
   container-title: L.A.
   issued:
@@ -301,9 +300,9 @@ references:
   type: legal_case
   volume: '45'
 
-- id: FoodLionIncCapital_4thCircuit1999
-  authority: 4th Circuit
-  citation-key: FoodLionIncCapital_4thCircuit1999
+- id: FoodLionIncCapital_4thCir1999
+  authority: 4th Cir.
+  citation-key: FoodLionIncCapital_4thCir1999
   container-title: F.3d
   issued:
     - year: 1999
@@ -331,7 +330,7 @@ references:
       month: 2
       day: 9
   jurisdiction: SD New York
-  number: 20 Civ. 10495 (KPF)
+  number: No. 20 Civ. 10495 (KPF)
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
 
@@ -405,7 +404,7 @@ references:
 - id: GriggsDukePowerCo_US1971
   authority: U.S.
   citation-key: GriggsDukePowerCo_US1971
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1971
   page: '424'
@@ -435,9 +434,9 @@ references:
   type: legal_case
   volume: '70'
 
-- id: HenryAdventistHealthCastle_CourtofAppeals9thCircuit2020
-  authority: Court of Appeals, 9th Circuit
-  citation-key: HenryAdventistHealthCastle_CourtofAppeals9thCircuit2020
+- id: HenryAdventistHealthCastle_9thCir2020
+  authority: 9th Cir.
+  citation-key: HenryAdventistHealthCastle_9thCir2020
   container-title: F. 3d
   issued:
     - year: 2020
@@ -680,9 +679,9 @@ references:
   type: legal_case
   volume: '789'
 
-- id: MiklinEnterprisesIncNLRB_8thCircuit2016
-  authority: 8th Circuit
-  citation-key: MiklinEnterprisesIncNLRB_8thCircuit2016
+- id: MiklinEnterprisesIncNLRB_8thCir2016
+  authority: 8th Cir.
+  citation-key: MiklinEnterprisesIncNLRB_8thCir2016
   container-title: F.3d
   issued:
     - year: 2016
@@ -715,10 +714,10 @@ references:
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
-- id: NdambiCoreCivicInc_4thCircuit2021
-  authority: 4th Circuit
-  citation-key: NdambiCoreCivicInc_4thCircuit2021
-  container-title: F. 3d
+- id: NdambiCoreCivicInc_4thCir2021
+  authority: 4th Cir.
+  citation-key: NdambiCoreCivicInc_4thCir2021
+  container-title: F.3d
   issued:
     - year: 2021
       month: 3
@@ -915,10 +914,10 @@ references:
   type: legal_case
   volume: '359'
 
-- id: ScottBaltimoreCountyMaryland_4thCircuit2024
-  authority: 4th Circuit
-  citation-key: ScottBaltimoreCountyMaryland_4thCircuit2024
-  container-title: F. 4th
+- id: ScottBaltimoreCountyMaryland_4thCir2024
+  authority: 4th Cir.
+  citation-key: ScottBaltimoreCountyMaryland_4thCir2024
+  container-title: F.4th
   issued:
     - year: 2024
       month: 5
@@ -1256,7 +1255,7 @@ references:
     - year: 2020
       month: 9
       day: 17
-  number: No. 19-CV-1058 & 18-CV-11165
+  number: Nos. 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
 ...

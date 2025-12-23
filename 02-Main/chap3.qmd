@@ -217,7 +217,7 @@ Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, e
  
 :::
 
-#### @HenryAdventistHealthCastle_CourtofAppeals9thCircuit2020
+#### @HenryAdventistHealthCastle_9thCir2020
 
 Dr. David Henry appeals from the adverse grant of summary judgment against his Title VII lawsuit. We have jurisdiction under 28 U.S.C. § 1291, and we affirm.
 
@@ -646,7 +646,7 @@ This case also presents difficult collateral legal issues that should give us pa
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
-#### @NdambiCoreCivicInc_4thCircuit2021
+#### @NdambiCoreCivicInc_4thCir2021
 
 Appellants are former Immigration and Customs Enforcement civil detainees who allege that they are owed wages under the Fair Labor Standards Act, 29 U.S.C. § § 201, _et seq.,_ for work performed while detained. The district court dismissed the case on the grounds that this circuit and others have declined to extend the FLSA to custodial settings. For the reasons that follow, we think that task is best left to Congress and thus affirm.
 
@@ -686,7 +686,7 @@ Our point is emphatically not one of advocacy for any method of detention or cus
 
 [^ndambi1]: (n.1 in opinion) The parties agree that the NMMWA should be interpreted in accordance with the FLSA and that the appellants' unjust enrichment claim depends on the success of their FLSA claim. Thus, our discussion is limited to interpreting the FLSA.
 
-#### @ScottBaltimoreCountyMaryland_4thCircuit2024
+#### @ScottBaltimoreCountyMaryland_4thCir2024
 
 Until 2020, Baltimore County sent incarcerated people from its detention center to work at a facility where the County sorts its recycling. Some of those workers sued the County, alleging violations of the Fair Labor Standards Act and two Maryland statutes. The district court granted summary judgment against the workers, concluding no reasonable adjudicator could view the facts in a way that would make them "employees" under the Act. We vacate the district court's decision and remand for further proceedings.
 
