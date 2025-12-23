@@ -93,9 +93,9 @@ references:
   type: legal_case
   volume: '321'
 
-- id: ClarkCarter_DistCourt2025
-  authority: Dist. Court
-  citation-key: ClarkCarter_DistCourt2025
+- id: ClarkCarter_SDInd2025
+  authority: S.D. Ind.
+  citation-key: ClarkCarter_SDInd2025
   container-title: F. Supp. 3d
   issued:
     - year: 2025
@@ -263,7 +263,7 @@ references:
       month: 10
       day: 3
   jurisdiction: ND Illinois
-  number: No. 23-C-1148
+  number: No. 23-cv-1148
   title: Egan v. A.W. Companies, Inc.
   type: legal_case
 
@@ -1179,9 +1179,9 @@ references:
   type: legal_case
   volume: '445'
 
-- id: WiegandMotivaEnterprisesLLC_DistCourt2003
-  authority: Dist. Court
-  citation-key: WiegandMotivaEnterprisesLLC_DistCourt2003
+- id: WiegandMotivaEnterprisesLLC_DNJ2003
+  authority: D.N.J.
+  citation-key: WiegandMotivaEnterprisesLLC_DNJ2003
   container-title: F. Supp. 2d
   issued:
     - year: 2003

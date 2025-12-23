@@ -86,7 +86,7 @@ Note 4: Suppose that the record of the arbitration hearing establishes firm “Y
 
 #### @MontanaWrongfulDischarge_nd
 
-In 1987, Montana adopted a statute creating a new cause of action for wrongful discharge from employment. The statute effectively abolished the at-will presumption and replaced it with a "good cause" standard for discharges of employees after a probationary period. The statute also preempts most common law remedies, and allows either party to offer arbitration as an alternative to a civil suit. Despite some predictions that the Montana approach would spread, no other state has adopted a similar measure.
+In 1987, Montana adopted a statute creating a new cause of action for wrongful discharge from employment. The statute effectively abolished the at-will presumption and replaced it with a "good cause" standard for discharges of employees after a probationary period. The statute also preempts most common law remedies, and allows either party to offer arbitration as an alternative to a civil suit. Despite some predictions that the Montana approach would spread, no other state has adopted a similar measure. See [@Roseman2009] (reviewing history and impact of Montana Wrongful Discharge from Employment Act).
 
 ::: {.legalcode}
 
@@ -241,7 +241,7 @@ Myers claims that, even if Stryker had good cause to terminate him, the discharg
 
 Under Montana law, a discharge is wrongful if an employer "violated express provisions of its own written personnel policy." § 39-2-904(c). Stryker's written personnel policies clearly outlined Stryker's discretionary authority to terminate employees for violations of company rules or policies. Stryker determined, following its investigation, that Myers violated the company's code of conduct and employee handbook, both of which promote ethical conduct and prohibit harassment and other unprofessional behavior. Under Stryker's written policies, of which he was informed, Myers was not entitled to an interview before termination, as he alleged. Stryker fully complied with its written policies.
 
-### Implied Contract Exception to Termination At-Will
+### Implied Contract Exceptions to Termination At-Will
 
 #### @PughSeesCandiesInc1981
 
@@ -758,7 +758,7 @@ However, we confront here the unique situation in which the very claim to the pu
 
 There remains an evolving discussion about the role of firearms in our society. While certain areas of that debate are more developed than others, the mature at-will employment law in the state of Utah rejects the idea that, in the face of a freely entered-into agreement to the contrary, an employee has the right to carry a firearm on his employer's premises.
 
-#### @WiegandMotivaEnterprisesLLC_DistCourt2003
+#### @WiegandMotivaEnterprisesLLC_DNJ2003
 
 On November 20, 2001, two newspapers ran articles which stated that plaintiff Steven Wiegand was operating a "mail order neo-Nazi skinhead music company" and that he was a "personal friend and supporter" of Katja Lane, the purported wife of Aryan Nation leader David Lane. Plaintiff immediately brought the articles to the attention of his supervisor at the Texaco gas station where he had worked without incident since 1994, which was operated by defendants Motiva Enterprises and Starstaff, Inc. The defendants' resulting investigation uncovered that plaintiff was operating a website which plaintiff admits "sells underground music and records" that are "racist and/or offensive to some people," such as swastika flags, music advertised as "the most popular and funniest -------hatin' songs ever written" and t-shirts with sayings like "Skinheads" and "Blue-Eyed Devil." Defendants then told plaintiff that his employment was terminated because his operation of the website violated the company's "core value" of "respect for all people."
 
