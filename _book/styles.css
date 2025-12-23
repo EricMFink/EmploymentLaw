@@ -538,6 +538,7 @@ img {
 	font-size: .7rem;
 	line-height: 1;
 	margin: 0 0 1.5rem 0;
+	border: none;
 	display: block;
 }
 
