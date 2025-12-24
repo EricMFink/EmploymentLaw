@@ -40,31 +40,6 @@ references:
   URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
   volume: '39'
 
-- id: Bierman1993
-  accessed:
-    - year: 2025
-      month: 11
-      day: 2
-  author:
-    - family: Bierman
-      given: Leonard
-    - family: Vinton
-      given: Karen
-    - family: Youngblood
-      given: Stuart A.
-  citation-key: Bierman1993
-  container-title: Montana Law Review
-  issued:
-    - year: 1993
-  page: '367'
-  title: >-
-    Montana's Wrongful Discharge from Employment Act: The Views of the Montana
-    Bar
-  type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/montlr54&div=25&g_sent=1&casa_token=X0xHNr63JE8AAAAA:lZ_LfiNzSZgRJ7pYJ1H08WDcqbGkLaaIjKeA3bgxW4Am57-ZzWnLJOHTbAUdWIAgoIjAHLw9&collection=journals
-  volume: '54'
-
 - id: Casebeer2017
   accessed:
     - year: 2025
@@ -89,31 +64,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
   volume: '21'
-
-- id: Corbett2005
-  accessed:
-    - year: 2025
-      month: 12
-      day: 23
-  author:
-    - family: Corbett
-      given: William L.
-  citation-key: Corbett2005
-  container-title: Montana Law Review
-  container-title-short: Mont. L. Rev.
-  issue: '2'
-  issued:
-    - year: 2005
-  language: eng
-  page: 329–404
-  source: HeinOnline
-  title: >-
-    Resolving Employee Discharge Disputes under the Montana Wrongful Discharge
-    Act (MWDA), Discharge Claims Arising Apart from the MWDA, and Practice and
-    Procedure Issues in the Context of a Discharge Case
-  type: article-journal
-  URL: https://heinonline.org/HOL/P?h=hein.journals/montlr66&i=335
-  volume: '66'
 
 - id: Dall2002
   author:
@@ -299,6 +249,31 @@ references:
   type: post-weblog
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
+- id: Minchin2005
+  accessed:
+    - year: 2025
+      month: 12
+      day: 24
+  author:
+    - family: Minchin
+      given: Timothy J.
+  citation-key: Minchin2005
+  container-title: Journal of American Studies
+  ISSN: 0021-8758
+  issue: '3'
+  issued:
+    - year: 2005
+  page: 511–543
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: >-
+    "Don't Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism
+    in the 1970s
+  title-short: Don't Sleep with Stevens!
+  type: article-journal
+  URL: https://www.jstor.org/stable/27557695
+  volume: '39'
 
 - id: Orren1991
   abstract: >-
