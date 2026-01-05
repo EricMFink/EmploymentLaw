@@ -17,7 +17,7 @@ references:
   title-short: Private Government
   type: book
 
-- id: Belton2014a
+- id: Belton2014
   accessed:
     - year: 2025
       month: 12
@@ -27,7 +27,7 @@ references:
       given: Robert
     - family: Wasby
       given: Stephen L.
-  citation-key: Belton2014a
+  citation-key: Belton2014
   container-title: Journal of Supreme Court History
   container-title-short: Journal of Supreme Court History
   issue: '3'
