@@ -61,6 +61,8 @@ book:
       - problems/confidentiality.qmd
       - problems/loyalty.qmd
       - problems/workers-comp.qmd
+    - href: https://youtube.com/playlist?list=PL4W8SVyGbcG-aAPagZHGLqFbnfB8NjZSG&si=PQm2el_Uj-Dz9EY_
+      text: Employment & Labor Songs
 
 filters:
   - citetools
