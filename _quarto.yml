@@ -30,9 +30,9 @@ book:
       - icon: github
         menu:
           - text: Report an issue
-            href:  https://github.com/EricMFink/EmploymentLaw/issues/new
+            href: https://github.com/EricMFink/EmploymentLaw/issues/new
           - text: View source code
-            href:  https://github.com/EricMFink/EmploymentLaw
+            href: https://github.com/EricMFink/EmploymentLaw
     collapse-level: 1
   chapters: 
     - href: index.qmd
@@ -61,8 +61,8 @@ book:
       - problems/confidentiality.qmd
       - problems/loyalty.qmd
       - problems/workers-comp.qmd
-    - href: https://youtube.com/playlist?list=PL4W8SVyGbcG-aAPagZHGLqFbnfB8NjZSG&si=PQm2el_Uj-Dz9EY_
-      text: Employment & Labor Songs
+    - text: Employment & Labor Songs
+      href: "https://youtube.com/playlist?list=PL4W8SVyGbcG-aAPagZHGLqFbnfB8NjZSG&si=PQm2el_Uj-Dz9EY"
 
 filters:
   - citetools
