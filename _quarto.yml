@@ -61,8 +61,10 @@ book:
       - problems/confidentiality.qmd
       - problems/loyalty.qmd
       - problems/workers-comp.qmd
-    - text: Employment & Labor Songs
-      href: "https://youtube.com/playlist?list=PL4W8SVyGbcG-aAPagZHGLqFbnfB8NjZSG&si=PQm2el_Uj-Dz9EY"
+    - part: Appendix
+      chapters: 
+      - href: 04-Appendix/music.qmd
+        text: Employment & Labor Songs
 
 filters:
   - citetools
