@@ -63,8 +63,8 @@ book:
       - problems/workers-comp.qmd
     - part: Appendix
       chapters: 
-      - href: 04-Appendix/music.qmd
-        text: Employment & Labor Songs
+      - href: 04-Appendix/media.qmd
+        text: Videos
 
 filters:
   - citetools
