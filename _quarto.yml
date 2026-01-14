@@ -63,6 +63,8 @@ book:
       - problems/workers-comp.qmd
     - part: Appendix
       chapters: 
+      - href: 04-Appendix/supplemental_reading.qmd
+        text: Supplemental Reading
       - href: 04-Appendix/media.qmd
         text: Videos
 
