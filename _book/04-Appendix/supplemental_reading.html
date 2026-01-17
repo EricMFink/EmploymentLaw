@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.23">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,15 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../problems/workers-comp.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-1fe81d0376b2c50856e68e651e390326.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-c42e5ec770c9dfde308a18eeec1c84f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-1e20ad44f75e5f149600bdbb7c6c02b9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -103,9 +102,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="../index.html" class="sidebar-logo-link">
-      </a>
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Employment Law</a> 
         <div class="sidebar-tools-main tools-wide">
@@ -337,7 +334,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#chapter-1-employment-as-a-socio-legal-relationship" id="toc-chapter-1-employment-as-a-socio-legal-relationship" class="nav-link active" data-scroll-target="#chapter-1-employment-as-a-socio-legal-relationship">Chapter 1: Employment as a Socio-Legal Relationship</a></li>
   <li><a href="#chapter-2-labor-organizing-concerted-activity" id="toc-chapter-2-labor-organizing-concerted-activity" class="nav-link" data-scroll-target="#chapter-2-labor-organizing-concerted-activity">Chapter 2: Labor Organizing &amp; Concerted Activity</a></li>
-  <li><a href="#chapter-3-establishing-an-employment-relationship" id="toc-chapter-3-establishing-an-employment-relationship" class="nav-link" data-scroll-target="#chapter-3-establishing-an-employment-relationship">Chapter 3: Establishing an Employment Relationship</a></li>
+  <li><a href="#chapter-3-establishing-an-employment-relationship" id="toc-chapter-3-establishing-an-employment-relationship" class="nav-link" data-scroll-target="#chapter-3-establishing-an-employment-relationship">Chapter 3: Establishing an Employment Relationship</a>
+  <ul>
+  <li><a href="#references-background-checks" id="toc-references-background-checks" class="nav-link" data-scroll-target="#references-background-checks">References &amp; Background Checks</a></li>
+  </ul></li>
   <li><a href="#chapter-4-scope-limits-of-employer-control" id="toc-chapter-4-scope-limits-of-employer-control" class="nav-link" data-scroll-target="#chapter-4-scope-limits-of-employer-control">Chapter 4: Scope &amp; Limits of Employer Control</a>
   <ul>
   <li><a href="#eeo-laws" id="toc-eeo-laws" class="nav-link" data-scroll-target="#eeo-laws">EEO Laws</a></li>
@@ -384,6 +384,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="chapter-3-establishing-an-employment-relationship" class="level2">
 <h2 class="anchored" data-anchor-id="chapter-3-establishing-an-employment-relationship">Chapter 3: Establishing an Employment Relationship</h2>
+<section id="references-background-checks" class="level3">
+<h3 class="anchored" data-anchor-id="references-background-checks">References &amp; Background Checks</h3>
+<ul>
+<li><p>Alex Herazy. et al, <a href="https://www.ilr.cornell.edu/carow/carow-policy/short-history-criminal-background-searches-employment">A Short History of Criminal Background Searches in Employment</a>, Cornell University Center for Applied Research on Work (May 14, 2025)</p></li>
+<li><p>Lewis Maltby and Roberta Meyers Douglas, <a href="https://www.lac.org/resource/second-chance-employment-report">Second Chance Employment: Addressing Concerns About Negligent Hiring Liability</a>, Legal Action Center and National Workrights Institute, (July 2023)</p></li>
+</ul>
+</section>
 </section>
 <section id="chapter-4-scope-limits-of-employer-control" class="level2">
 <h2 class="anchored" data-anchor-id="chapter-4-scope-limits-of-employer-control">Chapter 4: Scope &amp; Limits of Employer Control</h2>
@@ -495,14 +502,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -865,7 +871,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Last updated: 2026-01-14 17:42:13
+ Last updated: 2026-01-17 11:29:11
   </li>  
 </ul>
     </div>
