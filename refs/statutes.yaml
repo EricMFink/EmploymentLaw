@@ -1,9 +1,16 @@
 ---
 references:
-- id: AmericansDisabilitiesAct_nd
-  citation-key: AmericansDisabilitiesAct_nd
+- id: ADA1990
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: ADA1990
   container-title: U.S.C.
-  section: 12101 et seq.
+  issued:
+    - year: 1990
+  language: en
+  section: '12101'
   title: Americans with Disabilities Act
   type: legislation
   volume: '42'
