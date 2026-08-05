@@ -5,7 +5,6 @@ version: "4.1"
 repo: "EmploymentLaw"
 frontispiece: "Der Ackermann"
 description: This book presents judicial opinions, statutes and regulations, and other material pertaining to the law governing employment and labor relations. Topics covered include establishing an employment relationship; recruitment and hiring; supervisory control and employee autonomy; union representation and concerted activity; confidentiality and competition; wages and hours; employee health and workplace injuries; and termination of employment.
-
 epigraph: Workin' 9 to 5, what a way to make a livin'. Barely gettin' by, it's all takin' and no givin'. They just use your mind and they never give you credit. It's enough to drive you crazy if you let it.
 epigraph-author: Dolly Parton 
 epigraph-source: 9 to 5
@@ -42,6 +41,7 @@ bibliography_cases: ../refs/cases.yaml
 bibliography_statutes: ../refs/statutes.yaml
 bibliography_other: ../refs/other.yaml
 csl: ../refs/casebook.csl
+citeproc: false
 ---
 
 {{< include ../02-Main/chap1.qmd >}}

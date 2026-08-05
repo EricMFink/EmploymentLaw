@@ -1,13 +1,12 @@
 ---
 title: Syllabus
-revised: 2025-12-03T08:32:50-05:00
+revised: 2026-08-04T05:56:18-0400-04:00
 
 subject: Employment Law
 term: 'Winter 2026'
 room: 'Room 107'
 meets: 'Mondays & Wednesdays, 10:30 am–12:15 pm'
 repo-url: 'emfink.net/EmploymentLaw'
-syllabus: true
 
 author: Eric M. Fink
 phone: 336-279-9334
@@ -19,7 +18,7 @@ city-state: Greensboro, North Carolina
 
 format:
   pdf:
-    template: master.tex
+    template: syllabus.tex
     output-file: EmploymentLawSyllabus
 
 ---
