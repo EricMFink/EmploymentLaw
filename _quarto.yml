@@ -68,7 +68,6 @@ book:
       - href: 04-Appendix/media.qmd
         text: Videos
 
-filters:
   - citetools
 bibliography_cases: refs/cases.yaml
 bibliography_statutes: refs/statutes.yaml
@@ -92,6 +91,7 @@ format:
     toc-location: left
     toc-depth: 4
     callout-icon: false
+    lightbox: true
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
