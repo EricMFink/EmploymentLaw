@@ -1,9 +1,8 @@
 version: 4.1
 
 subject: EmploymentLaw
-repo-name: emfink.net/EmploymentLaw
-repo-url: "https://emfink.net/EmploymentLaw"
-syllabus-download: EmploymentLawSyllabus.pdf
+repo: EmploymentLaw
+site-url: "https://emfink.net/EmploymentLaw"
 
 author: Eric M. Fink
 email: efink@elon.edu

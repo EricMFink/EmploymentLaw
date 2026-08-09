@@ -26,7 +26,7 @@ book:
       - icon: file-pdf
         menu: 
           - text: "Casebook PDF"
-            href: .pdf/EmploymentLawCasebook.pdf
+            href: EmploymentLawCasebook.pdf
       - icon: github
         menu:
           - text: Report an issue
@@ -41,6 +41,7 @@ book:
       text: Syllabus
     - part: "Casebook"
       chapters: 
+        - 01-Front/cover.qmd
         - 01-Front/frontispiece.qmd
         - 01-Front/license.qmd
         - 01-Front/epigraph.qmd
@@ -68,13 +69,13 @@ book:
       - href: 04-Appendix/media.qmd
         text: Videos
 
+filters:
   - citetools
 bibliography_cases: refs/cases.yaml
 bibliography_statutes: refs/statutes.yaml
 bibliography_other: refs/other.yaml
 csl: refs/casebook.csl
-nocite: |
-  @*
+citation-abbreviations: refs/abbreviations.json
 
 format:
   html:
