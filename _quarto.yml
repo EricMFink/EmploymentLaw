@@ -68,7 +68,7 @@ book:
       - href: 04-Appendix/media.qmd
         text: Videos
 
-bibliography: ../refs/EmploymentLaw.yaml
+bibliography: refs/EmploymentLaw.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
