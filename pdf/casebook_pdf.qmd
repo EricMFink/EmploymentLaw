@@ -15,12 +15,14 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, twoside, openright]
     has-frontmatter: true
     toc: true
+	toc-flat: true
     toc-depth: 4
     toc-title: "Contents"
     number-sections: true
     number-depth: 2
     template-partials:
       - "partials/before-body.tex"
+      - "partials/aftger-body.tex"
     include-in-header:
       - "partials/in-header.tex"
     linkcolor: HopkinsBlue
@@ -34,14 +36,12 @@ format:
     output-file: EmploymentLawCasebook
 filters:
   - latex-environment
-  - citetools
 environments: [legalcode]
-commands: [casesection,casesubsection,casesubsubsection,bibsection,bibsubsection]
-bibliography_cases: ../refs/cases.yaml
-bibliography_statutes: ../refs/statutes.yaml
-bibliography_other: ../refs/other.yaml
+commands: [casesection,casesubsection,casesubsubsection]
+bibliography: ../refs/EmploymentLaw.yaml
 csl: ../refs/casebook.csl
 citation-abbreviations: ../refs/abbreviations.json
+suppress-bibliography: true
 ---
 
 {{< include ../02-Main/chap1.qmd >}}
@@ -63,9 +63,3 @@ citation-abbreviations: ../refs/abbreviations.json
 \backmatter
 
 \pagestyle{plain.scrheadings}
-
-{{< include ../03-Back/references.qmd >}}
-
-{{< include ../03-Back/ack.qmd >}}
-
-{{< include ../03-Back/colophon.qmd >}}

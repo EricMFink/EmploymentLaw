@@ -1,15 +1,50 @@
 ---
 references:
+- id: ADA1990
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: ADA1990
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1990
+  language: en
+  section: '12101'
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
 - id: AdairUnitedStates_US1908
   authority: U.S.
   citation-key: AdairUnitedStates_US1908
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1908
   page: '161'
   title: Adair v. United States
   type: legal_case
   volume: '208'
+
+- id: Anderson2017
+  author:
+    - family: Anderson
+      given: Elizabeth
+  citation-key: Anderson2017
+  ISBN: 978-0-691-17651-2
+  issued:
+    - year: 2017
+  language: en
+  number-of-pages: '224'
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: >-
+    Private Government: How Employers Rule Our Lives (and Why We Don't Talk
+    about It)
+  title-short: Private Government
+  type: book
 
 - id: ArkuWellsFargoBank_WDNC2022
   authority: W.D.N.C.
@@ -27,12 +62,34 @@ references:
   authority: N.C. Ct. App.
   citation-key: AustinMaintenanceCrowderConstruction_NCCtApp2012
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2012
   page: '535'
   title: Austin Maintenance v. Crowder Construction
   type: legal_case
   volume: '742'
+
+- id: Backhouse2016
+  author:
+    - family: Backhouse
+      given: Constance
+  citation-key: Backhouse2016
+  container-title: International Journal of the Legal Profession
+  container-title-short: Int. J. Leg. Prof.
+  DOI: 10.1080/09695958.2016.1229188
+  ISSN: 0969-5958
+  issue: '1'
+  issued:
+    - literal: 2016-09-0013
+  note: |-
+    Select: zotero://select/library/items/TELWXGQS
+    Saved from BrowZine: https://thirdiron.com/download
+  page: 55–59
+  title: Contesting the Legal Culture of Professionalism
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/full/10.1080/09695958.2016.1229188
+  volume: '24'
 
 - id: BautistaPRGramercySquare_SDNY2022
   authority: S.D.N.Y
@@ -46,10 +103,34 @@ references:
   type: legal_case
   volume: '642'
 
+- id: Belton2014
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: Belton
+      given: Robert
+    - family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014
+  container-title: Journal of Supreme Court History
+  container-title-short: J. Supreme Court Hist.
+  issue: '3'
+  issued:
+    - year: 2014
+  language: en
+  page: 425–443
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
+  volume: '39'
+
 - id: BoeingCompany_NLRB2017
   authority: N.L.R.B.
   citation-key: BoeingCompany_NLRB2017
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2017
       month: 12
@@ -63,6 +144,7 @@ references:
   authority: Tex. App.
   citation-key: BrunnerAttar_TexApp1990
   container-title: S.W.2d
+  container-title-short: S.W.2d
   issued:
     - year: 1990
   jurisdiction: Tex
@@ -75,6 +157,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: BurroughsGreenAppleLLC_NCCtApp2019
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2019
   page: '267'
@@ -86,12 +169,38 @@ references:
   authority: D.C. Cir.
   citation-key: CanAmPlumbingIncNLRB_DCCir2003
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2003
   page: '145'
   title: Can-Am Plumbing, Inc. v. NLRB
   type: legal_case
   volume: '321'
+
+- id: Casebeer2017
+  accessed:
+    - year: 2025
+      month: 11
+      day: 12
+  author:
+    - family: Casebeer
+      given: Kenneth M.
+  citation-key: Casebeer2017
+  container-title: Employee Rights and Employment Policy Journal
+  container-title-short: Empl. Rights Employ. Policy J.
+  issue: '2'
+  issued:
+    - year: 2017
+  language: en
+  page: 325–334
+  source: HeinOnline
+  title: >-
+    It's Not Just the Contract, It's Capitalism: Inequality and the Restatement
+    of Employment Law Chapter on Termination
+  title-short: It's Not Just the Contract, It's Capitalism
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
+  volume: '21'
 
 - id: ClarkCarter_SDInd2025
   authority: S.D. Ind.
@@ -106,6 +215,17 @@ references:
   title: Clark v. Carter
   type: legal_case
   volume: '768'
+
+- id: ClaytonAntitrustAct1914
+  abstract: C
+  citation-key: ClaytonAntitrustAct1914
+  container-title: U.S. Code
+  issued:
+    - year: 1914
+  section: 17 et seq.
+  title: Clayton Antitrust Act
+  type: legislation
+  volume: '15'
 
 - id: ClaytonDelmarvaCommunityServices_DMd2020
   authority: D. Md.
@@ -122,6 +242,7 @@ references:
   authority: 1st Cir.
   citation-key: CloutierCostcoWholesaleCorp_1stCir2004
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2004
   page: '126'
@@ -133,6 +254,7 @@ references:
   authority: N.C.
   citation-key: ComanThomasMfgCo_NC1989
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1989
       month: 7
@@ -147,6 +269,7 @@ references:
   authority: Mass.
   citation-key: CommonwealthHunt_Mass1842
   container-title: Mass.
+  container-title-short: Mass.
   issued:
     - year: 1842
   page: '111'
@@ -158,6 +281,7 @@ references:
   authority: Phila.
   citation-key: CommonwealthPullis_Phila1806
   container-title: Doc. His. of Am. Ind. Soc.
+  container-title-short: Doc His Am Ind Soc
   issued:
     - year: 1806
   page: '59'
@@ -165,10 +289,34 @@ references:
   type: legal_case
   volume: '3'
 
+- id: ContractsPublicPolicy_nd
+  citation-key: ContractsPublicPolicy_nd
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+
+- id: ContractsRestraintTrade_nd
+  citation-key: ContractsRestraintTrade_nd
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: 16600 et seq.
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+
+- id: ContractsRestraintTrade_nda
+  citation-key: ContractsRestraintTrade_nda
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
+  type: legislation
+
 - id: CoppageKansas_US1915
   authority: U.S.
   citation-key: CoppageKansas_US1915
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1915
   page: '1'
@@ -176,10 +324,28 @@ references:
   type: legal_case
   volume: '236'
 
+- id: Dall2002
+  author:
+    - family: Dall
+      given: Carey
+    - family: Cohen
+      given: Jonathan
+  citation-key: Dall2002
+  container-title: New Labor Forum
+  issue: '10'
+  issued:
+    - year: 2002
+      month: 4
+  page: '36'
+  title: 'Salting the Earth: Organizing for the Long Haul'
+  title-short: Salting the Earth
+  type: article-journal
+
 - id: DaltonCamp_NC2001
   authority: N.C.
   citation-key: DaltonCamp_NC2001
   container-title: N.C.
+  container-title-short: N.C.
   issued:
     - year: 2001
   page: '647'
@@ -191,6 +357,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: DeemTreadway_NCCtApp2001
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2001
   page: '209'
@@ -210,6 +377,13 @@ references:
   type: legal_case
   volume: '381'
 
+- id: DiscriminationEngagementCertain_nd
+  citation-key: DiscriminationEngagementCertain_nd
+  container-title: NY Labor Law
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+
 - id: DraftkingsIncHermalyn_1stCir2024
   authority: 1st Cir.
   citation-key: DraftkingsIncHermalyn_1stCir2024
@@ -225,6 +399,7 @@ references:
   authority: 4th Cir.
   citation-key: DriskellSummittContractingGroup_4thCir2020
   container-title: Fed. App'x
+  container-title-short: Fed Appx
   issued:
     - year: 2020
   page: '858'
@@ -236,6 +411,7 @@ references:
   authority: U.S.
   citation-key: DuplexPrintingPressCo_US1921
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1921
   page: '443'
@@ -247,6 +423,7 @@ references:
   authority: U.S.
   citation-key: EastexIncNLRB_US1978
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '556'
@@ -279,9 +456,17 @@ references:
   type: legal_case
   volume: '961'
 
+- id: EmployerUseSocial_nd
+  citation-key: EmployerUseSocial_nd
+  container-title: Cal. Labor Code
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
+
 - id: EnterpriseWireCo1966
   citation-key: EnterpriseWireCo1966
   container-title: L.A.
+  container-title-short: L.A.
   issued:
     - year: 1966
   page: '359'
@@ -289,10 +474,69 @@ references:
   type: legal_case
   volume: '46'
 
+- id: Epstein1984
+  accessed:
+    - year: 2025
+      month: 10
+      day: 29
+  author:
+    - family: Epstein
+      given: Richard
+  citation-key: Epstein1984
+  container-title: University of Chicago Law Review
+  container-title-short: Univ. Chic. Law Rev.
+  issued:
+    - year: 1984
+  page: '947'
+  title: In Defense of the Contract at Will
+  type: article-journal
+  URL: https://www.jstor.org/stable/1599554?seq=1
+  volume: '51'
+
+- id: ExaminingUnionSalting2004
+  authority: 108th Cong.
+  citation-key: ExaminingUnionSalting2004
+  issued:
+    - year: 2004
+      month: 5
+      day: 10
+  jurisdiction: U.S.
+  section: >-
+    Subcommittee on Employer-Employee Relations of the House Committee on
+    Education and the Workforce
+  title: >-
+    Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
+    Economy: Hearing before the Subcomm. on Employer-Employee Relations of the
+    H. Comm. on Education and the Workforce
+  title-short: Examining Union Salting Abuses
+  type: hearing
+  URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
+
+- id: FairLaborStandards1938
+  citation-key: FairLaborStandards1938
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1938
+  section: 201 et seq.
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: FamilyMedicalLeave_nd
+  citation-key: FamilyMedicalLeave_nd
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
 - id: FarwellBostonWorcesterRailroad_Mass1842
   authority: Mass.
   citation-key: FarwellBostonWorcesterRailroad_Mass1842
   container-title: Mass.
+  container-title-short: Mass.
   issued:
     - year: 1842
   page: '42'
@@ -300,10 +544,27 @@ references:
   type: legal_case
   volume: '45'
 
+- id: Fink2016
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: Fink2016
+  container-title: Idaho Law Review
+  container-title-short: Ida. Law Rev.
+  issued:
+    - year: 2016
+  language: en
+  page: 953–973
+  title: Union Organizing & Collective Bargaining for Incarcerated Workers
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
+  volume: '52'
+
 - id: FoodLionIncCapital_4thCir1999
   authority: 4th Cir.
   citation-key: FoodLionIncCapital_4thCir1999
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 1999
   page: '505'
@@ -322,6 +583,22 @@ references:
   type: legal_case
   volume: '951'
 
+- id: Forman2017
+  author:
+    - family: Forman
+      given: Erik
+  citation-key: Forman2017
+  container-title: Jacobin
+  issued:
+    - year: 2017
+      month: 2
+      day: 7
+  language: en-US
+  title: Let’s Get to Work
+  type: article-magazine
+  URL: >-
+    http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
+
 - id: FranklinVertexGlobalSolutions_SDNY2022
   authority: S.D.N.Y.
   citation-key: FranklinVertexGlobalSolutions_SDNY2022
@@ -334,10 +611,28 @@ references:
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
 
+- id: Friedman2023
+  author:
+    - family: Friedman
+      given: Lawrence
+  citation-key: Friedman2023
+  container-title: Hofstra Labor & Employment Law Journal
+  container-title-short: Hofstra Labor Employ. Law J.
+  issue: '2'
+  issued:
+    - year: 2023
+  page: '463'
+  title: 'Work Accidents: A Drama in Three Acts'
+  title-short: Work Accidents
+  type: article-journal
+  URL: https://scholarlycommons.law.hofstra.edu/hlelj/vol40/iss2/5/
+  volume: '40'
+
 - id: FrielAngellCareInc_NCApp1994
   authority: N.C. Ct. App.
   citation-key: FrielAngellCareInc_NCApp1994
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1994
   jurisdiction: NC
@@ -372,6 +667,7 @@ references:
   authority: N.C.
   citation-key: GarnerRentenbach_NC1999
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1999
   page: '438'
@@ -390,6 +686,21 @@ references:
   type: legal_case
   volume: '776'
 
+- id: Gould2004
+  author:
+    - family: Gould
+      given: William B.
+  citation-key: Gould2004
+  edition: 4th
+  ISBN: 978-1-108-59750-0
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '432'
+  publisher: MIT Press
+  title: A Primer on American Labor Law
+  type: book
+
 - id: GreeneTylerTechnologiesInc_NDGa2021
   authority: N.D. Ga.
   citation-key: GreeneTylerTechnologiesInc_NDGa2021
@@ -405,6 +716,7 @@ references:
   authority: U.S.
   citation-key: GriggsDukePowerCo_US1971
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1971
   page: '424'
@@ -416,6 +728,7 @@ references:
   authority: Utah
   citation-key: HansenAmericaOnline_Utah2004
   container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2004
   page: '950'
@@ -427,12 +740,42 @@ references:
   authority: N.C.
   citation-key: HaskinsRoyster_NC1874
   container-title: N.C.
+  container-title-short: N.C.
   issued:
     - year: 1874
   page: '600'
   title: Haskins v. Royster
   type: legal_case
   volume: '70'
+
+- id: Heine2025
+  abstract: >-
+    This Article highlights the persistence of post-Jones labor and political
+    organizing by people in prison and considers how this history informs
+    potential reforms supporting incarcerated workers’ organizing.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  author:
+    - family: Heine
+      given: Clare
+  citation-key: Heine2025
+  container-title: 'The Harbinger: N.Y.U. Review of Law & Social Change'
+  container-title-short: Harbinger NU Rev. Law Soc. Change
+  issued:
+    - year: 2025
+      month: 10
+      day: 8
+  language: en-US
+  page: '1'
+  title: >-
+    Lessons From the Post-Jones Persistence of Imprisoned People’s Labor
+    Organizing
+  type: article-journal
+  URL: >-
+    https://socialchangenyu.com/harbinger/lessons-from-the-post-jones-persistence-of-imprisoned-peoples-labor-organizing/
+  volume: '52'
 
 - id: HenryAdventistHealthCastle_9thCir2020
   authority: 9th Cir.
@@ -451,6 +794,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: HoganForsythCountryClub_NCApp1986
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1986
   jurisdiction: NC
@@ -459,10 +803,19 @@ references:
   type: legal_case
   volume: '340'
 
+- id: ImmunityCivilLiability2021
+  citation-key: ImmunityCivilLiability2021
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+
 - id: JacksonNCDepartmentCommerce_NCCtApp2015
   authority: N.C. Ct. App.
   citation-key: JacksonNCDepartmentCommerce_NCCtApp2015
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2015
   page: '687'
@@ -474,6 +827,7 @@ references:
   authority: 9th Cir.
   citation-key: JespersenHarrahsOperatingCo_9thCir2006
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2006
   page: '1104'
@@ -485,6 +839,7 @@ references:
   authority: 3rd Cir.
   citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
   container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2024
   page: '163'
@@ -507,6 +862,7 @@ references:
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2008
   page: '412'
@@ -518,6 +874,7 @@ references:
   authority: 7th Cir.
   citation-key: KarrakerRentACenterInc_7thCir2005
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2005
   page: '831'
@@ -529,6 +886,7 @@ references:
   authority: N.C.
   citation-key: KeithHealthProHomeCare_NC2022
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2022
   jurisdiction: NC
@@ -552,6 +910,7 @@ references:
   authority: Tex. App.
   citation-key: KMartCorpStoreNo_TexApp1984
   container-title: S.W.2d
+  container-title-short: S.W.2d
   issued:
     - year: 1984
   jurisdiction: Tex
@@ -564,6 +923,7 @@ references:
   authority: N.C.
   citation-key: KurtzmanAppliedAnalyticalIndustries_NC1997
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1997
   page: '420'
@@ -571,10 +931,19 @@ references:
   type: legal_case
   volume: '493'
 
+- id: LawfulUseLawful1992
+  citation-key: LawfulUseLawful1992
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 95-28.2
+  title: Lawful Use of Lawful Products during Nonworking Hours
+  type: legislation
+
 - id: LawlorLoewe_US1915
   authority: U.S.
   citation-key: LawlorLoewe_US1915
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1915
   page: '522'
@@ -586,6 +955,7 @@ references:
   authority: N.C.
   citation-key: LemmermanWilliamsOilCo_NC1986
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1986
   jurisdiction: NC
@@ -594,10 +964,34 @@ references:
   type: legal_case
   volume: '350'
 
+- id: Lichten2018
+  author:
+    - family: Lichten
+      given: Stuart
+    - family: Fink
+      given: Eric M
+  citation-key: Lichten2018
+  container-title: Washington and Lee Journal of Civil Rights and Social Justice
+  container-title-short: Wash. Lee J. Civ. Rights Soc. Justice
+  issue: '1'
+  issued:
+    - year: 2018
+  language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  page: 51–97
+  source: Zotero
+  title: '“Just When I Thought I Was Out ....”: Post-Employment Repayment Obligations'
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf
+  volume: '25'
+
 - id: LochnerNewYork_US1905
   authority: U.S.
   citation-key: LochnerNewYork_US1905
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1905
   page: '45'
@@ -609,6 +1003,7 @@ references:
   authority: U.S.
   citation-key: LoeweLawlor_US1908
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1908
   page: '274'
@@ -616,10 +1011,29 @@ references:
   type: legal_case
   volume: '208'
 
+- id: LondonRadicalHistories2016
+  author:
+    - family: London Radical Histories
+      given: ''
+  citation-key: LondonRadicalHistories2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 18
+  language: en
+  title: >-
+    Today in legislative history: Ordinance of Labourers passed to stop plebs
+    bettering wages/conditions, 1349
+  title-short: Ordinance of Labourers
+  type: post-weblog
+  URL: >-
+    https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
 - id: LowesHomeCentersLLC_NLRB2021
   authority: 5th Cir.
   citation-key: LowesHomeCentersLLC_NLRB2021
   container-title: Fed.App'x
+  container-title-short: Fed.App'x
   issued:
     - year: 2021
       month: 3
@@ -633,6 +1047,7 @@ references:
   authority: N.L.R.B.
   citation-key: MaclarenMacomb_NLRB
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 2
@@ -642,10 +1057,22 @@ references:
   type: legal_case
   volume: '372'
 
+- id: MassachusettsNoncompetitionAgreement_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 22
+  citation-key: MassachusettsNoncompetitionAgreement_nd
+  container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
+  container-title-short: Gen. Law - Part Title XXI Chapter 149 Sect. 24L
+  title: Massachusetts Noncompetition Agreement Act
+  type: legislation
+
 - id: MatterLennane_NC2022
   authority: N.C.
   citation-key: MatterLennane_NC2022
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2022
   page: '243'
@@ -657,6 +1084,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: McGradyOlstenCorp_NCCtApp2003
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2003
   page: '371'
@@ -672,6 +1100,7 @@ references:
   authority: 2d Cir.
   citation-key: MexicanRadioCorpNLRB_2dCir2019
   container-title: Fed.Appx.
+  container-title-short: Fed.Appx.
   issued:
     - year: 2019
   page: '261'
@@ -683,12 +1112,39 @@ references:
   authority: 8th Cir.
   citation-key: MiklinEnterprisesIncNLRB_8thCir2016
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2016
   page: '812'
   title: Miklin Enterprises, Inc. v. NLRB
   type: legal_case
   volume: '861'
+
+- id: Minchin2005
+  accessed:
+    - year: 2025
+      month: 12
+      day: 24
+  author:
+    - family: Minchin
+      given: Timothy J.
+  citation-key: Minchin2005
+  container-title: Journal of American Studies
+  container-title-short: J. Am. Stud.
+  ISSN: 0021-8758
+  issue: '3'
+  issued:
+    - year: 2005
+  page: 511–543
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: >-
+    "Don't Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism
+    in the 1970s
+  title-short: Don't Sleep with Stevens!
+  type: article-journal
+  URL: https://www.jstor.org/stable/27557695
+  volume: '39'
 
 - id: ModiseCareOneHealthServices_DConn2022
   authority: D. Conn.
@@ -703,6 +1159,13 @@ references:
   type: legal_case
   volume: '638'
 
+- id: MontanaWrongfulDischarge_nd
+  citation-key: MontanaWrongfulDischarge_nd
+  container-title: Mont. Code Ann.
+  section: 39-2-901 et seq.
+  title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+
 - id: MyersHowmedicaOsteonicsCorp_DMont2016
   authority: D. Mont.
   citation-key: MyersHowmedicaOsteonicsCorp_DMont2016
@@ -714,10 +1177,51 @@ references:
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
+- id: NCEmploymentSecurity_nd
+  citation-key: NCEmploymentSecurity_nd
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 96-1 et seq.
+  title: North Carolina Employment Security Act
+  type: legislation
+
+- id: NCPropertyProtection2016
+  citation-key: NCPropertyProtection2016
+  container-title: N.C. Gen. Stat.
+  language: en-US
+  section: 99A-2
+  title: North Carolina Property Protection Act
+  type: legislation
+
+- id: NCRetaliatoryEmployment_nd
+  citation-key: NCRetaliatoryEmployment_nd
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 95-240 et seq.
+  title: North Carolina Retaliatory Employment Discrimination Act
+  type: legislation
+
+- id: NCWageHour_nd
+  citation-key: NCWageHour_nd
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 95-25.1 et seq.
+  title: North Carolina Wage & Hour Act
+  type: legislation
+
+- id: NCWorkersCompensation_nd
+  citation-key: NCWorkersCompensation_nd
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 97-1 et seq.
+  title: North Carolina Workers' Compensation Act
+  type: legislation
+
 - id: NdambiCoreCivicInc_4thCir2021
   authority: 4th Cir.
   citation-key: NdambiCoreCivicInc_4thCir2021
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2021
       month: 3
@@ -731,6 +1235,7 @@ references:
   authority: Iowa
   citation-key: NelsonKnight_Iowa2013
   container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 2013
   page: '64'
@@ -738,10 +1243,21 @@ references:
   type: legal_case
   volume: '834'
 
+- id: NLRA1935
+  citation-key: NLRA1935
+  container-title: U.S. Code
+  issued:
+    - year: 1935
+  section: 151 et seq.
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
 - id: NLRBCityDisposalSystems_US1984
   authority: U.S.
   citation-key: NLRBCityDisposalSystems_US1984
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1984
   page: '822'
@@ -754,6 +1270,7 @@ references:
   authority: U.S.
   citation-key: NLRBElectricalWorkers_US1953
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1953
   page: '464'
@@ -776,6 +1293,7 @@ references:
   authority: U.S.
   citation-key: NLRBTownCountryElec_US1995
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1995
   page: '85'
@@ -788,6 +1306,7 @@ references:
   authority: U.S.
   citation-key: NLRBWashingtonAluminumCo_US1962
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1962
   page: '9'
@@ -796,10 +1315,71 @@ references:
   type: legal_case
   volume: '370'
 
-- id: PeopleEthicalTreatmentAnimals_4thCir2023
+- id: NorrisLaGuardiaAct1932
+  citation-key: NorrisLaGuardiaAct1932
+  container-title: U.S. Code
+  issued:
+    - year: 1932
+  section: 101 et seq.
+  title: Norris-LaGuardia Act
+  type: legislation
+  volume: '29'
+
+- id: OccupationalSafetyHealth_nd
+  citation-key: OccupationalSafetyHealth_nd
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 641 et seq.
+  title: Occupational Safety & Health Act
+  type: legislation
+  volume: '29'
+
+- id: OrdinanceLabourers1349
+  citation-key: OrdinanceLabourers1349
+  container-title: 23 Edw. 3 cc. 1-8
+  issued:
+    - year: 1349
+  title: Ordinance of Labourers
+  type: legislation
+
+- id: Orren1991
+  abstract: >-
+    Traditional theories of American political development depict the American
+    state as a thoroughly liberal state from its very inception. In this book,
+    first published in 1992, Karen Orren challenges that account by arguing that
+    a remnant of ancient feudalism was, in fact, embedded in the American
+    governmental system, in the form of the law of master and servant, and
+    persisted until well into the twentieth century. The law of master and
+    servant was, she reveals, incorporated in the US Constitution and
+    administered from democratic politics. The fully legislative polity that
+    defines the modern liberal state was achieved in America, Orren argues, only
+    through the initiatives of the labor movement in the late nineteenth and
+    early twentieth centuries, and was finally ushered in as part of the
+    processes of collective bargaining instituted by the New Deal. This book
+    represents a fundamental reinterpretation of constitutional change in the
+    United States and of the role of American organized labor, which is shown to
+    be a creator of liberalism, rather than a spoiler of socialism.
+  author:
+    - family: Orren
+      given: Karen
+  citation-key: Orren1991
+  ISBN: 978-0-521-42254-3
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '256'
+  publisher: Cambridge University Press
+  title: >-
+    Belated Feudalism: Labor, the Law, and Liberal Development in the United
+    States
+  title-short: Belated Feudalism
+  type: book
+
+- id: PETAvFarmBureau_4thCir2023
   authority: 4th Cir.
-  citation-key: PeopleEthicalTreatmentAnimals_4thCir2023
+  citation-key: PETAvFarmBureau_4thCir2023
   container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2023
       month: 2
@@ -828,6 +1408,7 @@ references:
   authority: U.S.
   citation-key: PollockWilliams_US1944
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1944
   page: '4'
@@ -849,6 +1430,7 @@ references:
   authority: 11th Cir.
   citation-key: RamjiHospitalHousekeepingSystems_11thCir2021
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2021
   page: '1233'
@@ -860,6 +1442,7 @@ references:
   authority: 3rd Cir.
   citation-key: RazakUberTechnologiesInc_3rdCir2020
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2020
   page: '137'
@@ -879,6 +1462,32 @@ references:
   title: Ries v. Mcdonald's USA, LLC
   type: legal_case
 
+- id: Roseman2009
+  abstract: >-
+    Disclaimer: This summary was generated by AI based on the content of the
+    source document.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Roseman
+      given: Barry D.
+  citation-key: Roseman2009
+  container-title: 'Advance: The Journal of the ACS Issue Groups'
+  container-title-short: Adv. J. ACS Issue Groups
+  issue: '1'
+  issued:
+    - year: 2009
+  language: en
+  page: 173–190
+  source: HeinOnline
+  title: 'Just Cause in Montana: Did the Big Sky Fall?'
+  title-short: Just Cause in Montana
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/advnce3&i=177
+  volume: '3'
+
 - id: RulonMillerInternationalBusMachines_CalApp1984
   authority: Cal. App.
   citation-key: RulonMillerInternationalBusMachines_CalApp1984
@@ -895,6 +1504,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: SaltAppliedAnalyticalInc_NCCtApp1991
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 1991
   page: '97'
@@ -906,6 +1516,7 @@ references:
   authority: U.S.
   citation-key: SanDiegoBuildingTrades_US1959
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1959
   page: '236'
@@ -918,6 +1529,7 @@ references:
   authority: 4th Cir.
   citation-key: ScottBaltimoreCountyMaryland_4thCir2024
   container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2024
       month: 5
@@ -931,6 +1543,7 @@ references:
   authority: Georgia
   citation-key: ScudderWoodbridge_Georgia1846
   container-title: Ga.
+  container-title-short: Ga.
   issued:
     - year: 1846
   page: '195'
@@ -953,6 +1566,7 @@ references:
   authority: D.C. Cir.
   citation-key: SeaworldFlorida_DCCir2014
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2014
   page: '1202'
@@ -960,10 +1574,22 @@ references:
   type: legal_case
   volume: '748'
 
+- id: ShermanAntitrustAct1890
+  abstract: C
+  citation-key: ShermanAntitrustAct1890
+  container-title: U.S. Code
+  issued:
+    - year: 1890
+  section: 1 et seq.
+  title: Sherman Antitrust Act
+  type: legislation
+  volume: '15'
+
 - id: SkagerbergBlandinPaperCo_Minn1936
   authority: Minn.
   citation-key: SkagerbergBlandinPaperCo_Minn1936
   container-title: N.W.
+  container-title-short: N.W.
   issued:
     - year: 1936
   page: '872'
@@ -986,6 +1612,7 @@ references:
   authority: N.L.R.B.
   citation-key: SpecialtyProduce_NLRB2019
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2019
   page: '93'
@@ -997,6 +1624,7 @@ references:
   authority: N.L.R.B.
   citation-key: StarbucksCorp_NLRB2023
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 8
@@ -1021,6 +1649,7 @@ references:
   authority: N.Y. App. Div.
   citation-key: StateWalMartStores_NYAppDiv3rdDept1995
   container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 1995
   jurisdiction: NY
@@ -1029,10 +1658,19 @@ references:
   type: legal_case
   volume: '207'
 
+- id: StatuteLabourers1351
+  citation-key: StatuteLabourers1351
+  container-title: 25 Edw. 3 Stat. 1
+  issued:
+    - year: 1351
+  title: Statute of Labourers
+  type: legislation
+
 - id: StengartLovingCareAgency_NJ2010
   authority: N.J.
   citation-key: StengartLovingCareAgency_NJ2010
   container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2010
   jurisdiction: NJ
@@ -1053,10 +1691,45 @@ references:
   type: legal_case
   volume: '372'
 
+- id: StudentBorrowerProtectionCenter2022
+  author:
+    - family: Student Borrower Protection Center
+      given: ''
+  citation-key: StudentBorrowerProtectionCenter2022
+  issued:
+    - year: 2022
+      month: 7
+  title: Trapped at Work
+  type: report
+  URL: >-
+    https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf
+
+- id: Summers2000
+  author:
+    - family: Summers
+      given: Clyde
+  citation-key: Summers2000
+  container-title: University of Pennsylvania Journal of Business Law
+  container-title-short: Univ. Pa. J. Bus. Law
+  ISSN: 1945-2934
+  issue: '1'
+  issued:
+    - year: 2000
+      month: 10
+      day: 1
+  page: '65'
+  source: COinS
+  title: 'Employment at Will in the United States: The Divine Right of Employers'
+  title-short: Employment at Will in the United States
+  type: article-journal
+  URL: https://scholarship.law.upenn.edu/jbl/vol3/iss1/2
+  volume: '3'
+
 - id: TeslaInc_NLRB2021
   authority: NLRB
   citation-key: TeslaInc_NLRB2021
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2021
       month: 3
@@ -1070,6 +1743,7 @@ references:
   authority: 2d Cir.
   citation-key: ThreeLLCTriplePlay_2dCir2015
   container-title: Fed. App'x
+  container-title-short: Fed Appx
   issued:
     - year: 2015
       month: 10
@@ -1079,10 +1753,40 @@ references:
   type: legal_case
   volume: '629'
 
+- id: Townsend2023a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 6
+  author:
+    - family: Townsend
+      given: Chris
+  citation-key: Townsend2023a
+  container-title: Labor Notes
+  issue: '530'
+  issued:
+    - year: 2023
+      month: 5
+      day: 3
+  title: We Are All Salts
+  type: article-magazine
+  URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
+
+- id: TrappedWorkAct2025
+  citation-key: TrappedWorkAct2025
+  container-title: NY Labor Law, Art. 37
+  container-title-short: NY Labor Law Art 37
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
+  type: legislation
+
 - id: TriplePlaySportsBar_NLRB2014
   authority: N.L.R.B.
   citation-key: TriplePlaySportsBar_NLRB2014
   container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2014
   page: No. 31
@@ -1094,6 +1798,7 @@ references:
   authority: 2nd Cir.
   citation-key: TruittSalisburyBankTrust_2ndCir2022
   container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2022
   page: '80'
@@ -1105,6 +1810,7 @@ references:
   authority: N.C. Ct. App.
   citation-key: TSGFinishingLLCBollinger_NCApp2014
   container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2014
   page: '870'
@@ -1116,6 +1822,7 @@ references:
   authority: N.Y. App. Div.
   citation-key: VinluanDoyle_NYAppDiv2009
   container-title: N.Y.S.2d
+  container-title-short: N.Y.S.2d
   issued:
     - year: 2009
   jurisdiction: N.Y. App. Div.
@@ -1139,6 +1846,7 @@ references:
   authority: 2nd Cir.
   citation-key: WangHearstCorp_2ndCir2017
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2017
   page: '69'
@@ -1150,6 +1858,7 @@ references:
   authority: U.S.
   citation-key: WestCoastHotelCo_US1937
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1937
   page: '379'
@@ -1172,6 +1881,7 @@ references:
   authority: U.S.
   citation-key: WhirlpoolCorpMarshall_US1980
   container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1980
   page: '1'
@@ -1197,6 +1907,7 @@ references:
   authority: 5th Cir.
   citation-key: WilsonMonarchPaper_5thCir1991
   container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1991
   page: '1138'
@@ -1204,10 +1915,10 @@ references:
   type: legal_case
   volume: '939'
 
-- id: WoodWard1879
-  authority: Cir. Ct., S.D. Ohio
-  citation-key: WoodWard1879
-  container-title: F.Cas.
+- id: WoodWard_SDOhio1879
+  authority: S.D. Ohio
+  citation-key: WoodWard_SDOhio1879
+  container-title: F. Cas.
   issued:
     - year: 1879
   page: '479'
@@ -1219,6 +1930,7 @@ references:
   authority: N.J.
   citation-key: WoolleyHoffmannLaRocheInc_NJ1985
   container-title: N.J.
+  container-title-short: N.J.
   issued:
     - year: 1985
   page: '284'
@@ -1230,6 +1942,7 @@ references:
   authority: 7th Cir.
   citation-key: WorkmanUnitedParcelService_7thCir2000
   container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2000
   page: '998'
@@ -1241,6 +1954,7 @@ references:
   authority: Cal.
   citation-key: YanowitzLOrealUSAInc_Cal2005
   container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2005
   page: '1123'
