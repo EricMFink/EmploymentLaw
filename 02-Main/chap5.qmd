@@ -531,7 +531,7 @@ As a consequence of concluding that employee Camp was without fiduciary duty, th
 
 ::: {.callout-note}
 
-1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. @PeopleEthicalTreatmentAnimals_4thCir2023. In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
+1\. The sponsors of N.C.G.S. § 99-A-2 explained that the purpose of the statute is to codify the holding in _Food Lion v. Capital Cities/ABC, Inc._. A lawsuit by animal rights, environmental, and whistleblower advocates challenged the statute on 1st Amendment grounds. @PETAvFarmBureau_4thCir2023. In that suit, the court held that the statute is unconstitutional and enjoined its enforcement "insofar as it applies to bar protected newsgathering activities", but "reserve[d] all other applications for future case-by-case adjudication."
 
 2\. Recall that in _Dalton v. Camp_, the North Carolina Supreme Court stated that "the federal district court in _Food Lion_ incorrectly interpreted our state case law" and held that, absent a fiduciary relationship between an employer and employee, "there is no basis for recognizing an independent tort claim for a breach of duty of loyalty". What implications does this have for claims under § § 99-A-2(b)(1) & (2), which impose liability on employees who use information collected or recordings made without authorization "to breach the person's duty of loyalty to the employer"?
 
@@ -607,7 +607,7 @@ We also find TSG's policy arguments in this case persuasive. TSG employs around 
 
 In sum, we hold that the non-compete was validly assigned to plaintiff through bankruptcy reorganization, the non-compete itself is reasonable to protect TSG's legitimate business interests, and the equities weigh in favor of enforcement under these facts. Therefore, because it is undisputed that defendant is in breach of the non-compete by working for ACF, a direct competitor of TSG, we hold that TSG has demonstrated a likelihood of success on the merits of its claim for breach of contract.
 
-#### @CalBP16600NonCompetes
+#### @CalBPCode16600NonCompetes
 
 ::: {.legalcode}
 

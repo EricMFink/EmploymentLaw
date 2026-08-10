@@ -74,13 +74,13 @@ Whatever illegal purpose can be found in the constitution of the Bootmakers' Soc
 
 ## Antitrust, Labor Injunctions, and Yellow Dog Contracts 
 
-In the early 20th century, employers turned to a new weapon against organized labor: the @ShermanAntitrustAct1890, which outlaws "conspiracies in restraint of trade or commerce among the several States". The Supreme Court endorsed the application of the Sherman Act against labor union activity in the Danbury Hatters' case, @LoeweLawlor_US1908. The case arose out of organizing efforts by the United Hatters of North America. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 union members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But the Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. On remand, the trial judge directed a verdict in favor of the company. After another appeal and retrial, which the union again lost, the case finally returned to the Supreme Court, which affirmed the judgment against the union. @LawlorLoewe_US1915.
+In the early 20th century, employers turned to a new weapon against organized labor: the Sherman Antitruest Act, @ShermanAntitrustAct1890, which outlaws "conspiracies in restraint of trade or commerce among the several States". The Supreme Court endorsed the application of the Sherman Act against labor union activity in the Danbury Hatters' case, @LoeweLawlor_US1908. The case arose out of organizing efforts by the United Hatters of North America. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 union members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But the Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. On remand, the trial judge directed a verdict in favor of the company. After another appeal and retrial, which the union again lost, the case finally returned to the Supreme Court, which affirmed the judgment against the union. @LawlorLoewe_US1915.
 
 > _The impact of Danbury Hatters was devastating for organized labor. The unions, and many others, felt that the statute had been interpreted improperly, inasmuch as organized labor was not the focal point of congressional debate that took place prior to the enactment of antitrust legislation. Moreover, because the Sherman Antitrust Act provides for treble damages rather than the actual amount of the losses incurred (as well as criminal sanctions), the final judgment after fourteen years of litigation in Danbury Hatters awarded a substantial amount of money ($250,000). What was particularly troublesome about the judgment was that the members of the union were individually and personally liable. Though the case was settled in 1917 for slightly over $234,000_^[Equivalent to about $6.5 million in 2023.] _and the AFL was able to obtain $216,000 in voluntary contributions from union members, the fact that labor had to "pass the hat" to avoid the foreclosure of members’ homes made the case unforgettable._[^gould1]
  
 [^gould1]: [@Gould2004, 14-15].
 
-In 1914, Congress amended federal antitrust law with the @ClaytonAntitrustAct1914, which included provisions that union leader Samuel Gompers hailed as "labor's Magna Carta and Bill of Rights and the most important legislation since the abolition of slavery."[^gould2]
+In 1914, Congress amended federal antitrust law with the Clayton Antitrust Act, @ClaytonAntitrustAct1914, which included provisions that union leader Samuel Gompers hailed as "labor's Magna Carta and Bill of Rights and the most important legislation since the abolition of slavery."[^gould2]
 
 [^gould2]: [@Gould2004, 15-16].
 
@@ -112,15 +112,15 @@ Another legal strategy employers used against labor organizing was the "yellow d
 
 In the 1930s, the landscape of U.S. labor law changed dramatically with the passage of two federal statutes. 
 
-First, the @NorrisLaGuardiaAct1932, declared "yellow dog" contracts unenforceable and significantly limited the ability of federal courts to issue injunctions in cases involving labor disputes. Many states followed suit by adopting "Little Norris-LaGuardia Acts" restricting labor injunctions in state court. 
+First, the Norris LaGuardia Act, @NorrisLaGuardiaAct1932, declared "yellow dog" contracts unenforceable and significantly limited the ability of federal courts to issue injunctions in cases involving labor disputes. Many states followed suit by adopting "Little Norris-LaGuardia Acts" restricting labor injunctions in state court. 
 
-Second, the @NationalLaborRelations1935 enshrined the right of employees to organize and engage in collective bargaining and other concerted activity (§ 7), prohibited unfair labor practices by employers (§ 8), established a framework for union representation based on majority support of employees (§ 9), and created the National Labor Relations Board to administer and enforce the Act (§ § 3-6, 10-11). The Labor-Management Relations Act (1947) amended the NLRA, including the addition of § 8(b) prohibiting unfair labor practices by unions. 
+Second, the National Labor Relations Act, @NLRA1935 enshrined the right of employees to organize and engage in collective bargaining and other concerted activity (§ 7), prohibited unfair labor practices by employers (§ 8), established a framework for union representation based on majority support of employees (§ 9), and created the National Labor Relations Board to administer and enforce the Act (§ § 3-6, 10-11). The Labor-Management Relations Act (1947) amended the NLRA, including the addition of § 8(b) prohibiting unfair labor practices by unions. 
 
 Under the NLRA, once a majority of employees within a designated bargaining unit have opted for union representation, the union becomes the exclusive bargaining agent for all employees within the unit. The union owes a duty of fair representation to all bargaining unit employees, regardless of whether or not they are union members. 
 
 Even where employees are not represented by a union, NLRA § 7 protects their right to engage in "concerted activities for the purpose of collective bargaining or other mutual aid or protection". 
 
-#### @NationalLaborRelations1935
+#### @NLRA1935
 
 ::: {.legalcode}
 

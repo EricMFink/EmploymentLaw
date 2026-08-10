@@ -15,14 +15,14 @@ format:
     classoption: [letterpaper, 11pt, DIV=9, twoside, openright]
     has-frontmatter: true
     toc: true
-	toc-flat: true
+    toc-flat: true
     toc-depth: 4
     toc-title: "Contents"
     number-sections: true
     number-depth: 2
     template-partials:
       - "partials/before-body.tex"
-      - "partials/aftger-body.tex"
+      - "partials/after-body.tex"
     include-in-header:
       - "partials/in-header.tex"
     linkcolor: HopkinsBlue

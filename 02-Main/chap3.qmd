@@ -1218,7 +1218,7 @@ Nothing in the Act precludes the use of testing or measuring procedures; obvious
 
 ::: {.callout-note}
 
-_Griggs_ is among the landmark civil rights cases brought by the [NAACP Legal Defense & Educational Fund](https://www.naacpldf.org/). For an inside account of the LDF's legal strategy in _Griggs_, see [@Belton2014a].
+_Griggs_ is among the landmark civil rights cases brought by the [NAACP Legal Defense & Educational Fund](https://www.naacpldf.org/). For an inside account of the LDF's legal strategy in _Griggs_, see [@Belton2014].
 
 ![Griggs v. Duke Power, NC DNCR Historical Marker, State Road 1962, Eden, NC](../img/griggs-marker.jpg){width=50%}
 
