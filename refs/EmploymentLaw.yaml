@@ -1,11 +1,11 @@
 ---
 references:
-- id: ADA1990
+- id: ADA
   accessed:
     - year: 2026
       month: 1
       day: 5
-  citation-key: ADA1990
+  citation-key: ADA
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
@@ -141,7 +141,7 @@ references:
   volume: '365'
 
 - id: BrunnerAttar_TexApp1990
-  authority: Tex. App.
+  authority: Tex. Ct. App.
   citation-key: BrunnerAttar_TexApp1990
   container-title: S.W.2d
   container-title-short: S.W.2d
@@ -164,6 +164,36 @@ references:
   title: Burroughs v. Green Apple, LLC
   type: legal_case
   volume: '832'
+
+- id: Cal16608EmployeeTrainingDebts
+  citation-key: Cal16608EmployeeTrainingDebts
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
+  type: legislation
+
+- id: CalBPCode16600NonCompetes
+  citation-key: CalBPCode16600NonCompetes
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: 16600 et seq.
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+
+- id: CalLabCode926EmployeeTrainingDebts
+  citation-key: CalLabCode926EmployeeTrainingDebts
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+
+- id: CalLabCode980SocialMedia
+  citation-key: CalLabCode980SocialMedia
+  container-title: Cal. Labor Code
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
 
 - id: CanAmPlumbingIncNLRB_DCCir2003
   authority: D.C. Cir.
@@ -289,29 +319,6 @@ references:
   type: legal_case
   volume: '3'
 
-- id: ContractsPublicPolicy_nd
-  citation-key: ContractsPublicPolicy_nd
-  container-title: Cal. Labor Code
-  section: '926'
-  title: Contracts Against Public Policy (Employee Training Debts)
-  type: legislation
-
-- id: ContractsRestraintTrade_nd
-  citation-key: ContractsRestraintTrade_nd
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
-  section: 16600 et seq.
-  title: Contracts in Restraint of Trade (Noncompetition Agreements)
-  type: legislation
-
-- id: ContractsRestraintTrade_nda
-  citation-key: ContractsRestraintTrade_nda
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
-  section: '16608'
-  title: Contracts in Restraint of Trade (Employee Training Debts)
-  type: legislation
-
 - id: CoppageKansas_US1915
   authority: U.S.
   citation-key: CoppageKansas_US1915
@@ -376,13 +383,6 @@ references:
   title: Desai v. Charter Communications, LLC
   type: legal_case
   volume: '381'
-
-- id: DiscriminationEngagementCertain_nd
-  citation-key: DiscriminationEngagementCertain_nd
-  container-title: NY Labor Law
-  section: 201-d
-  title: Discrimination Against the Engagement in Certain Activities
-  type: legislation
 
 - id: DraftkingsIncHermalyn_1stCir2024
   authority: 1st Cir.
@@ -456,17 +456,9 @@ references:
   type: legal_case
   volume: '961'
 
-- id: EmployerUseSocial_nd
-  citation-key: EmployerUseSocial_nd
-  container-title: Cal. Labor Code
-  section: '980'
-  title: Employer Use of Social Media
-  type: legislation
-
 - id: EnterpriseWireCo1966
   citation-key: EnterpriseWireCo1966
-  container-title: L.A.
-  container-title-short: L.A.
+  container-title: Lab. Arb. Rep.
   issued:
     - year: 1966
   page: '359'
@@ -523,15 +515,6 @@ references:
   type: legislation
   volume: '29'
 
-- id: FamilyMedicalLeave_nd
-  citation-key: FamilyMedicalLeave_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: 2601 et seq.
-  title: Family and Medical Leave Act
-  type: legislation
-  volume: '29'
-
 - id: FarwellBostonWorcesterRailroad_Mass1842
   authority: Mass.
   citation-key: FarwellBostonWorcesterRailroad_Mass1842
@@ -559,6 +542,15 @@ references:
   type: article-journal
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
   volume: '52'
+
+- id: FMLA
+  citation-key: FMLA
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
 
 - id: FoodLionIncCapital_4thCir1999
   authority: 4th Cir.
@@ -803,14 +795,6 @@ references:
   type: legal_case
   volume: '340'
 
-- id: ImmunityCivilLiability2021
-  citation-key: ImmunityCivilLiability2021
-  container-title: N.C.G.S.
-  container-title-short: N.C.G.S.
-  section: 1-539.12
-  title: Immunity from Civil Liability for Employers Disclosing Information
-  type: legislation
-
 - id: JacksonNCDepartmentCommerce_NCCtApp2015
   authority: N.C. Ct. App.
   citation-key: JacksonNCDepartmentCommerce_NCCtApp2015
@@ -907,7 +891,7 @@ references:
   volume: '143'
 
 - id: KMartCorpStoreNo_TexApp1984
-  authority: Tex. App.
+  authority: Tex. Ct. App.
   citation-key: KMartCorpStoreNo_TexApp1984
   container-title: S.W.2d
   container-title-short: S.W.2d
@@ -930,14 +914,6 @@ references:
   title: Kurtzman v. Applied Analytical Industries, Inc
   type: legal_case
   volume: '493'
-
-- id: LawfulUseLawful1992
-  citation-key: LawfulUseLawful1992
-  container-title: N.C.G.S.
-  container-title-short: N.C.G.S.
-  section: 95-28.2
-  title: Lawful Use of Lawful Products during Nonworking Hours
-  type: legislation
 
 - id: LawlorLoewe_US1915
   authority: U.S.
@@ -1022,8 +998,8 @@ references:
       day: 18
   language: en
   title: >-
-    Today in legislative history: Ordinance of Labourers passed to stop plebs
-    bettering wages/conditions, 1349
+    Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs
+    Bettering Wages/Conditions, 1349
   title-short: Ordinance of Labourers
   type: post-weblog
   URL: >-
@@ -1057,14 +1033,15 @@ references:
   type: legal_case
   volume: '372'
 
-- id: MassachusettsNoncompetitionAgreement_nd
+- id: MassachusettsNoncompetitionAgreement
   accessed:
     - year: 2025
       month: 11
       day: 22
-  citation-key: MassachusettsNoncompetitionAgreement_nd
-  container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
-  container-title-short: Gen. Law - Part Title XXI Chapter 149 Sect. 24L
+  citation-key: MassachusettsNoncompetitionAgreement
+  container-title: General Law - Part I, Title XXI, Chap. 149
+  container-title-short: Gen. Law - Part Title XXI Chap 149
+  section: 24L
   title: Massachusetts Noncompetition Agreement Act
   type: legislation
 
@@ -1097,7 +1074,7 @@ references:
     - year: 2025
       month: 11
       day: 2
-  authority: 2d Cir.
+  authority: 2nd Cir.
   citation-key: MexicanRadioCorpNLRB_2dCir2019
   container-title: Fed.Appx.
   container-title-short: Fed.Appx.
@@ -1159,8 +1136,8 @@ references:
   type: legal_case
   volume: '638'
 
-- id: MontanaWrongfulDischarge_nd
-  citation-key: MontanaWrongfulDischarge_nd
+- id: MontanaWrongfulDischarge
+  citation-key: MontanaWrongfulDischarge
   container-title: Mont. Code Ann.
   section: 39-2-901 et seq.
   title: Montana Wrongful Discharge from Employment Act
@@ -1177,12 +1154,28 @@ references:
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
-- id: NCEmploymentSecurity_nd
-  citation-key: NCEmploymentSecurity_nd
+- id: NCEmployerImmunityDisclosure
+  citation-key: NCEmployerImmunityDisclosure
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+
+- id: NCEmploymentSecurity
+  citation-key: NCEmploymentSecurity
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 96-1 et seq.
   title: North Carolina Employment Security Act
+  type: legislation
+
+- id: NCLawfulUseLawfulProducts
+  citation-key: NCLawfulUseLawfulProducts
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 95-28.2
+  title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
 
 - id: NCPropertyProtection2016
@@ -1193,24 +1186,24 @@ references:
   title: North Carolina Property Protection Act
   type: legislation
 
-- id: NCRetaliatoryEmployment_nd
-  citation-key: NCRetaliatoryEmployment_nd
+- id: NCRetaliatoryEmployment
+  citation-key: NCRetaliatoryEmployment
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 95-240 et seq.
   title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
 
-- id: NCWageHour_nd
-  citation-key: NCWageHour_nd
+- id: NCWageHour
+  citation-key: NCWageHour
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 95-25.1 et seq.
   title: North Carolina Wage & Hour Act
   type: legislation
 
-- id: NCWorkersCompensation_nd
-  citation-key: NCWorkersCompensation_nd
+- id: NCWorkersCompensation
+  citation-key: NCWorkersCompensation
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 97-1 et seq.
@@ -1281,7 +1274,8 @@ references:
 - id: NLRBJonesLaughlinSteel_US1937
   authority: U.S.
   citation-key: NLRBJonesLaughlinSteel_US1937
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1937
   page: '1'
@@ -1325,8 +1319,25 @@ references:
   type: legislation
   volume: '29'
 
-- id: OccupationalSafetyHealth_nd
-  citation-key: OccupationalSafetyHealth_nd
+- id: NYEmpDiscrimPoliticalRecreationalActivity
+  citation-key: NYEmpDiscrimPoliticalRecreationalActivity
+  container-title: NY Labor Law
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+
+- id: NYTrappedWorkAct2025
+  citation-key: NYTrappedWorkAct2025
+  container-title: NY Labor Law, Art. 37
+  container-title-short: NY Labor Law Art 37
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
+  type: legislation
+
+- id: OccupationalSafetyHealth
+  citation-key: OccupationalSafetyHealth
   container-title: U.S.C.
   container-title-short: U.S.C.
   section: 641 et seq.
@@ -1417,6 +1428,7 @@ references:
   volume: '322'
 
 - id: PughSeesCandiesInc1981
+  authority: Cal. Ct. App.
   citation-key: PughSeesCandiesInc1981
   container-title: Cal. App. 3d
   issued:
@@ -1489,7 +1501,7 @@ references:
   volume: '3'
 
 - id: RulonMillerInternationalBusMachines_CalApp1984
-  authority: Cal. App.
+  authority: Cal. Ct. App.
   citation-key: RulonMillerInternationalBusMachines_CalApp1984
   container-title: Cal. App. 3d
   issued:
@@ -1540,7 +1552,7 @@ references:
   volume: '101'
 
 - id: ScudderWoodbridge_Georgia1846
-  authority: Georgia
+  authority: Ga.
   citation-key: ScudderWoodbridge_Georgia1846
   container-title: Ga.
   container-title-short: Ga.
@@ -1682,6 +1694,8 @@ references:
 - id: StericycleInc_NLRB2023
   authority: N.L.R.B.
   citation-key: StericycleInc_NLRB2023
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 8
@@ -1726,7 +1740,7 @@ references:
   volume: '3'
 
 - id: TeslaInc_NLRB2021
-  authority: NLRB
+  authority: N.L.R.B.
   citation-key: TeslaInc_NLRB2021
   container-title: N.L.R.B.
   container-title-short: N.L.R.B.
@@ -1740,7 +1754,7 @@ references:
   volume: '370'
 
 - id: ThreeLLCTriplePlay_2dCir2015
-  authority: 2d Cir.
+  authority: 2nd Cir.
   citation-key: ThreeLLCTriplePlay_2dCir2015
   container-title: Fed. App'x
   container-title-short: Fed Appx
@@ -1771,16 +1785,6 @@ references:
   title: We Are All Salts
   type: article-magazine
   URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
-
-- id: TrappedWorkAct2025
-  citation-key: TrappedWorkAct2025
-  container-title: NY Labor Law, Art. 37
-  container-title-short: NY Labor Law Art 37
-  issued:
-    - year: 2025
-  section: 1050 et seq.
-  title: Trapped at Work Act
-  type: legislation
 
 - id: TriplePlaySportsBar_NLRB2014
   authority: N.L.R.B.

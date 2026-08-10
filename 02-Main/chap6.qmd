@@ -96,7 +96,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 
 ### Federal Law
 
-#### @FairLaborStandards1938
+#### Fair Labor Standards Act, @FairLaborStandards1938
 
 ::: {.legalcode}
 
@@ -221,7 +221,7 @@ Unlike the National Labor Relations Act, the Fair Labor Standards Act sets minim
 
 ![State Minimum Wages, 2025](../img/state-minimum-wage-2025.png){width=75%}
 
-#### @NCWageHour_nd
+#### N.C. Wage & Hour Act, @NCWageHour
 
 ::: {.legalcode}
 
@@ -1077,7 +1077,7 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @ContractsRestraintTrade_nd
+#### @CalBPCode16600NonCompetes
 
 ::: {.legalcode}
 
@@ -1124,7 +1124,7 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @ContractsPublicPolicy_nd
+#### @CalLabCode926EmployeeTrainingDebts
 
 ::: {.legalcode}
 
@@ -1135,7 +1135,7 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @TrappedWorkAct2025
+#### @NYTrappedWorkAct2025
 
 ::: {.legalcode}
 

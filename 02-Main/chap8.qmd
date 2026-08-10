@@ -84,7 +84,7 @@ Note 3: Given the same proven offense for two or more employees, their respectiv
 
 Note 4: Suppose that the record of the arbitration hearing establishes firm “Yes” answers to all the first six questions. Suppose further that the proven offense of the accused employee was a serious one, such as drunkenness on the job; but the employee’s record had been previously unblemished over a long continuos period of employment with the company. Should the company be held arbitrary and unreasonable if it decided to discharge such an employee? The answer depends of course on all the circumstances. But, as one of the country’s oldest arbitration agencies, the National Railroad Adjustment Board, has pointed out repeatedly in innumerable decisions on discharge cases, leniency is the prerogative of the employer rather than of the arbitrator; and the latter is not supposed to substitute his judgment in this area for that of the company unless there is compelling evidence that the company abused its discretion. This is the rule, even though an arbitrator, if he had been the original “trial judge,” might have imposed a lesser penalty. Actually the arbitrator may be said in an important sense to act as an appellate tribunal whose function is to discover whether the decision of the trial tribunal (the employer) was within the bounds of reasonableness above set forth. In general, the penalty of dismissal for a really serious first offense does not in itself warrant a finding of company unreasonableness.
 
-#### @MontanaWrongfulDischarge_nd
+#### Montana Wrongful Discharge from Employment Act, @MontanaWrongfulDischarge
 
 In 1987, Montana adopted a statute creating a new cause of action for wrongful discharge from employment. The statute effectively abolished the at-will presumption and replaced it with a "good cause" standard for discharges of employees after a probationary period. The statute also preempts most common law remedies, and allows either party to offer arbitration as an alternative to a civil suit. Despite some predictions that the Montana approach would spread, no other state has adopted a similar measure. See [@Roseman2009] (reviewing history and impact of Montana Wrongful Discharge from Employment Act).
 
@@ -1411,7 +1411,7 @@ Next, Summit asserts that it was entitled to judgment on Driskell’s wrongful-d
 
 As Summit recognizes, Driskell’s “wrongful termination claim rises or falls on the viability of his REDA-based claim.” This is because “wrongful discharge claims have been recognized in North Carolina where the employee was discharged for engaging in a legally protected activity,” like complaining about OSHANC violations. Thus, just as we affirm the verdict for Driskell on his REDA claim, so too do we affirm the verdict on his wrongful-discharge claim.
 
-#### @NCRetaliatoryEmployment_nd
+#### N.C. Retaliatory Employment Discrimination Act, @NCRetaliatoryEmployment
 
 ::: {.legalcode}
 
@@ -1493,7 +1493,7 @@ NC REDA applies only to discrimination or retaliation based on employee conduct 
 
 ## Unemployment Compensation
 
-#### @NCEmploymentSecurity_nd
+#### N.C. Employment Security Act, @NCEmploymentSecurity
 
 ::: {.legalcode}
 

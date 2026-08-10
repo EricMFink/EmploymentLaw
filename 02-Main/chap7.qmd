@@ -4,7 +4,7 @@
 
 ### Workers' Compensation 
 
-#### [@Friedman2023]
+#### @Friedman2023
 
 [Act One: The Fellow-Servant Rule ]{.casesection}
 
@@ -88,7 +88,7 @@ A few final comments on this three-act drama. First of all, it illustrates an ol
 
 Is a fourth act possible? Yes: possible and even likely. The structure of the work force seems to be changing. Thousands of workers are part of the so-called gig economy. Millions of people are no longer "employees;" they need health insurance (which can cost them dearly). For millions of people, the cost of medicine and drugs can even push them into bankruptcy. Millions are still without any health insurance. Health care is or can be a major issue. A national system might develop. In that case, it would no longer matter very much, where and when an accident occurred. A broken leg would be a broken leg, any time and any place. The United States would march in step with the rest of the developed world. Or, conceivably, time could flow backward: back to the days when there was no relief for "pure accidents" This seems less likely. But the future is, as always, dark and unknown.
 
-#### @NCWorkersCompensation_nd
+#### N.C. Workers, Compensation Act, @NCWorkersCompensation
 
 ::: {.legalcode}
 
@@ -209,11 +209,11 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 
 ### OSHA
 
-#### @OccupationalSafetyHealth_nd
+#### Occupational Safety & Health Act, @OccupationalSafetyHealth
 
 ::: {.legalcode}
 
-##### § 651--Congressional statement of findings and declaration of purpose and policy
+##### § 651. Congressional statement of findings and declaration of purpose and policy
 
 - (a\) The Congress finds that personal injuries and illnesses arising out of work situations impose a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost production, wage loss, medical expenses, and disability compensation payments.
 - (b\) The Congress declares it to be its purpose and policy, through the exercise of its powers to regulate commerce among the several States and with foreign nations and to provide for the general welfare, to assure so far as possible every working man and woman in the Nation safe and healthful working conditions and to preserve our human resources—
@@ -221,19 +221,19 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 	- (2\) by providing that employers and employees have separate but dependent responsibilities and rights with respect to achieving safe and healthful working conditions;
 	- (3\) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
-##### § 654--Duties of employers and employees
+##### § 654. Duties of employers and employees
 
 - (a\) Each employer—
 	- (1\) shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees;
 	- (2\) shall comply with occupational safety and health standards promulgated under this chapter.
 - (b\) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
-##### § 655--Standards
+##### § 655. Standards
 
 - (a\) Promulgation by Secretary of national consensus standards and established Federal standards;
 - [T]he Secretary shall, [ … ], by rule promulgate as an occupational safety or health standard any national consensus standard, and any established Federal standard, unless he determines that the promulgation of such a standard would not result in improved safety or health for specifically designated employees. In the event of conflict among any such standards, the Secretary shall promulgate the standard which assures the greatest protection of the safety or health of the affected employees.
 
-##### § 657--Inspections, investigations, and recordkeeping
+##### § 657. Inspections, investigations, and recordkeeping
 
 - (a\) Authority of Secretary to enter, inspect, and investigate places of employment; time and manner
 - In order to carry out the purposes of this chapter, the Secretary, upon presenting appropriate credentials to the owner, operator, or agent in charge, is authorized—
@@ -243,12 +243,12 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 	- (1\) Any employees or representative of employees who believe that a violation of a safety or health standard exists that threatens physical harm, or that an imminent danger exists, may request an inspection by giving notice to the Secretary or his authorized representative of such violation or danger. [ … ] If upon receipt of such notification the Secretary determines there are reasonable grounds to believe that such violation or danger exists, he shall make a special inspection in accordance with the provisions of this section as soon as practicable, to determine if such violation or danger exists. If the Secretary determines there are no reasonable grounds to believe that a violation or danger exists he shall notify the employees or representative of the employees in writing of such determination.
 	- (2\) Prior to or during any inspection of a workplace, any employees or representative of employees employed in such workplace may notify the Secretary or any representative of the Secretary responsible for conducting the inspection, in writing, of any violation of this chapter which they have reason to believe exists in such workplace. The Secretary shall, by regulation, establish procedures for informal review of any refusal by a representative of the Secretary to issue a citation with respect to any such alleged violation and shall furnish the employees or representative of employees requesting such review a written statement of the reasons for the Secretary’s final disposition of the case.
 
-##### § 658--Citations
+##### § 658. Citations
 
 - (a\) Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations
 - If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title, of any standard, rule or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
 
-##### § 659--Enforcement procedures
+##### § 659. Enforcement procedures
 
 - (a\) Notification of employer of proposed assessment of penalty subsequent to issuance of citation;
 - If, after an inspection or investigation, the Secretary issues a citation under section 658(a) of this title, he shall, within a reasonable time after the termination of such inspection or investigation, notify the employer by certified mail of the penalty, if any, proposed to be assessed under section 666 of this title and that the employer has fifteen working days within which to notify the Secretary that he wishes to contest the citation or proposed assessment of penalty. If, within fifteen working days from the receipt of the notice issued by the Secretary the employer fails to notify the Secretary that he intends to contest the citation or proposed assessment of penalty, and no notice is filed by any employee or representative of employees under subsection (c) within such time, the citation and the assessment, as proposed, shall be deemed a final order of the Commission and not subject to review by any court or agency.
@@ -257,14 +257,14 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 - (c\) Advisement of Commission by Secretary of notification of contest by employer of citation or notification or of filing of notice by any employee or representative of employees; hearing by Commission; orders of Commission and Secretary; rules of procedure
 - If an employer notifies the Secretary that he intends to contest a citation issued under section 658(a) of this title or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under section 658(a) of this title, any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing [ … ]. The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
 
-##### § 660--Judicial review
+##### § 660. Judicial review
 
 - (c\) Discharge or discrimination against employee for exercise of rights under this chapter; prohibition; procedure for relief
 	- (1\) No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this chapter.
 	- (2\) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of this subsection may, within thirty days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall cause such investigation to be made as he deems appropriate. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall bring an action in any appropriate United States district court against such person. In any such action the United States district courts shall have jurisdiction, for cause shown to restrain violations of paragraph (1) of this subsection and order all appropriate relief including rehiring or reinstatement of the employee to his former position with back pay.
 	- (3\) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
-##### § 666--Civil and criminal penalties
+##### § 666. Civil and criminal penalties
 
 - (a\) Willful or repeated violation
 - Any employer who willfully or repeatedly violates the requirements of section 654 of this title, any standard, rule, or order promulgated pursuant to section 655 of this title, or regulations prescribed pursuant to this chapter may be assessed a civil penalty of not more than $70,000 for each violation, but not less than $5,000 for each willful violation.
@@ -433,11 +433,11 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 
 ### Medical Leave
 
-#### @FamilyMedicalLeave_nd
+#### Family & Medical Leave Act, @FMLA
 
 ::: {.legalcode}
 
-##### § 2601--Definitions
+##### § 2601. Definitions
 
 - (2\) Eligible employee
 	- (A\) In general
@@ -461,7 +461,7 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 	- (A\) inpatient care in a hospital, hospice, or residential medical care facility; or
 	- (B\) continuing treatment by a health care provider.
 
-##### § 2602--Leave requirement
+##### § 2602. Leave requirement
 
 - (a\) In general
 	- (1\) Entitlement to leave
@@ -475,7 +475,7 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 	- (4\) Combined leave total
 	- Subject to subsection (d)(3), during the single 12-month period described in paragraph (3), an eligible employee shall be entitled to a combined total of 26 workweeks of leave under paragraphs (1) and (3). Nothing in this paragraph shall be construed to limit the availability of leave under paragraph (1) during any other 12-month period.
 
-##### § 2614--Employment and benefits protection
+##### § 2614. Employment and benefits protection
 
 - (a\) Restoration to position
 	- (1\) In general
@@ -516,7 +516,7 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 		- (ii\) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
 		- (iii\) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
-##### § 2615--Prohibited acts
+##### § 2615. Prohibited acts
 
 - (a\) Interference with rights
 	- (1) Exercise of rights
@@ -681,11 +681,11 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 ### Disability Discrimination
 
-#### @AmericansDisabilitiesAct_nd
+#### Americans with Disabilities Act, @ADA
 
 ::: {.legalcode}
 
-##### § 12102--Definition of disability
+##### § 12102. Definition of disability
 
 As used in this chapter-number:
 
@@ -719,7 +719,7 @@ As used in this chapter-number:
 
 [ ... ] 
 
-##### § 12111--Definitions
+##### § 12111. Definitions
 
 As used in this subchapter-number:
 
@@ -745,7 +745,7 @@ As used in this subchapter-number:
 		- (iii\) the overall financial resources of the covered entity; the overall size of the business of a covered entity with respect to the number of its employees; the number, type, and location of its facilities; and
 		- (iv\) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
-##### § 12112--Discrimination
+##### § 12112. Discrimination
 
 - (a\) General rule
 - No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.

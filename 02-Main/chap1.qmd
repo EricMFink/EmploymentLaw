@@ -48,7 +48,7 @@ Despite the obvious failure of the post-Black Death labour legislation, repressi
 - The 1800 Combination Acts, the last of a succession of laws banning workers from organizing together to improve wages or conditions, or from persuading others to strike…
 - the Master and Servant Act 1823, only repealed in 1875, under which any worker could be leaving a job to seek another, without his boss’s permission.
 
-![Medieval Laborers](../img/medieval-labour.jpg){width=33%}
+![Medieval Laborers](../img/medieval-labour.jpg)
 
 #### @OrdinanceLabourers1349
 
@@ -95,7 +95,7 @@ _Item_, that the said stewards, bailiffs, and constables of the said towns, be s
 
 ## Employment as Status and Contract
 
-#### [@Orren1991]
+#### @Orren1991
 
 [The Order of the Workplace in Late-Nineteenth-Century America]{.casesection}
 
@@ -291,7 +291,7 @@ We impute to the Legislature no intention to oppress, but we are compelled to ho
 
 ## Employer Control
 
-#### [@Anderson2017]
+#### @Anderson2017
 
 Most workers in the United States are governed by dictatorships in their work lives. Usually, those dictatorships have the legal authority to regulate workers’ off-hour lives as well—their political activities, speech, choice of sexual partner, use of recreational drugs, alcohol, smoking, and exercise. Because most employers exercise this off-hours authority irregularly, arbitrarily, and without warning, most workers are unaware of how sweeping it is. Most believe, for example, that their boss cannot fire them for their off-hours Facebook postings, or for supporting a political candidate their boss opposes. Yet only about half of U.S. workers enjoy even partial protection of their off-duty speech from employer meddling. Far fewer enjoy legal protection of their speech on the job, except in narrowly defined circumstances. Even where they are entitled to legal protection, as in speech promoting union activity, their legal rights are often a virtual dead letter due to lax enforcement: employers determined to keep out unions immediately fire any workers who dare mention them, and the costs of litigation make it impossible for workers to hold them accountable for this. 
 

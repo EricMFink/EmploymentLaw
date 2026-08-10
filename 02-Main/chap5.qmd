@@ -607,7 +607,7 @@ We also find TSG's policy arguments in this case persuasive. TSG employs around 
 
 In sum, we hold that the non-compete was validly assigned to plaintiff through bankruptcy reorganization, the non-compete itself is reasonable to protect TSG's legitimate business interests, and the equities weigh in favor of enforcement under these facts. Therefore, because it is undisputed that defendant is in breach of the non-compete by working for ACF, a direct competitor of TSG, we hold that TSG has demonstrated a likelihood of success on the merits of its claim for breach of contract.
 
-#### @ContractsRestraintTrade_nd
+#### @CalBP16600NonCompetes
 
 ::: {.legalcode}
 
@@ -636,7 +636,7 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 
 :::
 
-#### @MassachusettsNoncompetitionAgreement_nd
+#### @MassachusettsNoncompetitionAgreement
 
 ::: {.legalcode}
 
