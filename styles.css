@@ -109,7 +109,7 @@ p {
 ol, ul {
 	margin: .25rem 0 .25rem 0;
 	padding-left: 2rem;
-	font-size: .9rem;
+	font-size: 1rem;
 }
 li {
 	margin-bottom: .5rem;
@@ -171,10 +171,12 @@ figcaption {
 	margin: 0 auto 0 auto;
 }
 img {
+	max-width: 75%;
+	height: auto;
 	vertical-align: middle;
 }
 .img-fluid {
-	max-width: 100%;
+	max-width: 75%;
 	height: auto;
 	margin: .5rem 0 .25rem 0;
 }
@@ -188,19 +190,19 @@ img {
 	font-weight: 400;
 	line-height: 1.1;
 	text-align: center;
-	margin: 1.5rem 0 0 0;
+	margin: 2rem 0 0 0;
 	padding: 0 0 0 0;
 	display: block;
 	list-style: outside none none !important;
 }
 .casesubsection {
 	font-family: "Literata",serif;
-	font-size: 1rem;
+	font-size: 1.1rem;
 	font-style: italic;
 	font-weight: 400;
 	line-height: 1.1;
 	text-align: center;
-	margin: .5rem 0 0 0;
+	margin: 2rem 0 0 0;
 	padding: 0 0 0 0;
 	display: block;
 	list-style: outside none none !important;
@@ -212,8 +214,9 @@ img {
 	font-weight: 400;
 	line-height: 1.1;
 	text-align: center;
-	margin: .5rem auto .5rem auto;
+	margin: 2rem auto .5rem auto;
 	padding: 0 0 0 0;
+	display: block;
 	list-style: outside none none !important;
 }
 
@@ -224,10 +227,10 @@ img {
 .legalcode p { 
 	font-size: .9rem;
 }
-.legalcode h4 { 
+.legalcode h5 { 
 	font-size: 1rem;
 }
-.legalcode h5 { 
+.legalcode ol, ul {
 	font-size: .9rem;
 }
 .legalcode ul { 
