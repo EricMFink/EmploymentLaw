@@ -57,18 +57,6 @@ references:
   type: legal_case
   volume: '621'
 
-- id: AustinMaintenanceCrowderConstruction_NCCtApp2012
-  authority: N.C. Ct. App.
-  citation-key: AustinMaintenanceCrowderConstruction_NCCtApp2012
-  container-title: S.E.2d
-  container-title-short: S.E.2d
-  issued:
-    - year: 2012
-  page: '535'
-  title: Austin Maint. v. Crowder Const.
-  type: legal_case
-  volume: '742'
-
 - id: BautistaPRGramercySquare_SDNY2022
   authority: S.D.N.Y
   citation-key: BautistaPRGramercySquare_SDNY2022
@@ -172,18 +160,6 @@ references:
   section: '980'
   title: Employer Use of Social Media
   type: legislation
-
-- id: CanAmPlumbingIncNLRB_DCCir2003
-  authority: D.C. Cir.
-  citation-key: CanAmPlumbingIncNLRB_DCCir2003
-  container-title: F.3d
-  container-title-short: F.3d
-  issued:
-    - year: 2003
-  page: '145'
-  title: Can-Am Plumbing, Inc. v. NLRB
-  type: legal_case
-  volume: '321'
 
 - id: Casebeer2017
   accessed:
@@ -307,34 +283,6 @@ references:
   title: Coppage v. Kansas
   type: legal_case
   volume: '236'
-
-- id: Dall2002
-  author:
-    - family: Dall
-      given: Carey
-    - family: Cohen
-      given: Jonathan
-  citation-key: Dall2002
-  container-title: New Labor Forum
-  issue: '10'
-  issued:
-    - year: 2002
-      month: 4
-  page: '36'
-  title: 'Salting the Earth: Organizing for the Long Haul'
-  type: article-journal
-
-- id: DaltonCamp_NC2001
-  authority: N.C.
-  citation-key: DaltonCamp_NC2001
-  container-title: N.C.
-  container-title-short: N.C.
-  issued:
-    - year: 2001
-  page: '647'
-  title: Dalton v. Camp
-  type: legal_case
-  volume: '353'
 
 - id: DeemTreadway_NCCtApp2001
   authority: N.C. Ct. App.
@@ -525,45 +473,6 @@ references:
   title: Family and Medical Leave Act
   type: legislation
   volume: '29'
-
-- id: FoodLionIncCapital_4thCir1999
-  authority: 4th Cir.
-  citation-key: FoodLionIncCapital_4thCir1999
-  container-title: F.3d
-  container-title-short: F.3d
-  issued:
-    - year: 1999
-  page: '505'
-  title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
-  type: legal_case
-  volume: '194'
-
-- id: FoodLionIncCapital_MDNC1996
-  authority: M.D.N.C.
-  citation-key: FoodLionIncCapital_MDNC1996
-  container-title: F. Supp.
-  issued:
-    - year: 1996
-  page: '1224'
-  title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
-  type: legal_case
-  volume: '951'
-
-- id: Forman2017
-  author:
-    - family: Forman
-      given: Erik
-  citation-key: Forman2017
-  container-title: Jacobin
-  issued:
-    - year: 2017
-      month: 2
-      day: 7
-  language: en-US
-  title: Let’s Get to Work
-  type: article-magazine
-  URL: >-
-    http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
 - id: FranklinVertexGlobalSolutions_SDNY2022
   authority: S.D.N.Y.
@@ -1057,18 +966,6 @@ references:
   type: legal_case
   volume: '789'
 
-- id: MiklinEnterprisesIncNLRB_8thCir2016
-  authority: 8th Cir.
-  citation-key: MiklinEnterprisesIncNLRB_8thCir2016
-  container-title: F.3d
-  container-title-short: F.3d
-  issued:
-    - year: 2016
-  page: '812'
-  title: Miklin Enterprises, Inc. v. NLRB
-  type: legal_case
-  volume: '861'
-
 - id: Minchin2005
   accessed:
     - year: 2025
@@ -1207,16 +1104,6 @@ references:
   type: legal_case
   volume: '834'
 
-- id: NLRA1935
-  citation-key: NLRA1935
-  container-title: U.S. Code
-  issued:
-    - year: 1935
-  section: 151 et seq.
-  title: National Labor Relations Act
-  type: legislation
-  volume: '29'
-
 - id: NLRBCityDisposalSystems_US1984
   authority: U.S.
   citation-key: NLRBCityDisposalSystems_US1984
@@ -1228,18 +1115,6 @@ references:
   title: NLRB v. City Disposal Systems, Inc.
   type: legal_case
   volume: '465'
-
-- id: NLRBElectricalWorkers_US1953
-  authority: U.S.
-  citation-key: NLRBElectricalWorkers_US1953
-  container-title: U.S.
-  container-title-short: U.S.
-  issued:
-    - year: 1953
-  page: '464'
-  title: NLRB v. Electrical Workers
-  type: legal_case
-  volume: '346'
 
 - id: NLRBJonesLaughlinSteel_US1937
   authority: U.S.
@@ -1352,20 +1227,6 @@ references:
     Belated Feudalism: Labor, the Law, and Liberal Development in the United
     States
   type: book
-
-- id: PETAvFarmBureau_4thCir2023
-  authority: 4th Cir.
-  citation-key: PETAvFarmBureau_4thCir2023
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2023
-      month: 2
-      day: 23
-  page: '815'
-  title: PETA v. North Carolina Farm Bureau Fed'n
-  type: legal_case
-  volume: '60'
 
 - id: PhamAevaSpecialtyPharmacy_DColo2022
   authority: D. Colo.
@@ -1486,18 +1347,6 @@ references:
   title: Salt v. Applied Analytical, Inc.
   type: legal_case
   volume: '412'
-
-- id: SanDiegoBuildingTrades_US1959
-  authority: U.S.
-  citation-key: SanDiegoBuildingTrades_US1959
-  container-title: U.S.
-  container-title-short: U.S.
-  issued:
-    - year: 1959
-  page: '236'
-  title: San Diego Building Trades Council v. Garmon
-  type: legal_case
-  volume: '359'
 
 - id: ScottBaltimoreCountyMaryland_4thCir2024
   authority: 4th Cir.
