@@ -20,15 +20,13 @@ Richard A. Bales, Jeffrey M. Hirsch, & Paul M. Secunda, Understanding Employment
 
 ## Grading
 
-Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%). There will be no final exam.
+Your final grade for this course will be based on two take-home problem assignments (35% each) and participation in class discussions (30%).[^syllabusABA] There will be no final exam.
 
 - The take-home assignments will be based on problems from the _Developing Professional Skills_ workbook. I will provide further instructions for these assignments in class. You should submit each assignment to my faculty assistant, Jasmin Whitsett by email (jwhitsett4@elon.edu) no later than 10:00am on the due date (see _Schedule & Assignments_ below). **Be sure to include your Exam ID number, _not your name_, at the top of your submission.**
 
 - The use of generative AI for take-home assignments is not permitted. The purpose of the assignments is to give you an opportunity to demonstrate what you have learned and what you can do. Among the many reasons to avoid artificial intelligence,[^syllabusAI] the most compelling is that it demeans your own intelligence.
 
 - The class participation component of your grade will be based on your constructive engagement in class discussions and in-class problem exercises. This will include presenting at least one question about the assigned reading for at least one class each week (beginning with the second week of class, i.e. Jan. 12 & 14). I will provide further guidance on this assignment in class. You should send your questions to me by email before the class for which the reading is assigned.
-
-- Consistent with ABA Standard 310,[^syllabusABA] Elon Law School policy[^syllabusStudentHandbook] requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading for each class, the preparation of discussion questions, and the two take-home problems will satisfy this requirement.
 
 ## Attendance
 
@@ -134,6 +132,4 @@ The Law School [honor code](https://www.elon.edu/u/law/students/honor-code/) app
 
 [^syllabusAI]: It is an unreliable tool for legal research, as attorneys continue to learn the hard way. _See, e.g._, @WithersCityAberdeen_NDMiss2026; @MillerRegionsBank_NDAla2026; @MezuMezu_MdAppCt2025; @NolandLandFreeLP_CalCtApp2025; @GarnerKadinceInc_UtahCtApp2025. It consumes "a staggering amount of electricity" and water, imposing significant social and environmental costs. @Zewe_MITNews2025; @AIhasenvironmental2025; @Crawford2024. It makes you stupid. @Kosmyna_MITMediaLab2025. Its "current design and massive scaled deployment" corrodes "the institutions that support modern democratic life". @Hartzog2026.
 
-[^syllabusABA]: See [2025-2026 Standards and Rules of Procedure for Approval of Law Schools](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), Standard 310. 
-
-[^syllabusStudentHandbook]: See [2025-26 Student Handbook](https://eloncdn.blob.core.windows.net/eu3/sites/996/2020/01/GSO-Student-Handbook-2025-26.pdf), Appendix A.
+[^syllabusABA]: Consistent with [ABA Standard 310](https://www.americanbar.org/content/dam/aba/administrative/legal_education_and_admissions_to_the_bar/standards/2025-2026/2025-2026-standards-chapter-3.pdf), Elon Law School policy requires that "Each credit hour of in-class instructional time must also require at least two additional hours of out-of-class student work." Completion of the assigned reading for each class, the preparation of discussion questions, and the two take-home problems will satisfy this requirement.

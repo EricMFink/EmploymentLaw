@@ -4,7 +4,7 @@
 
 ### Employee Privacy & Dignity
 
-#### @KMartCorpStoreNo_TexApp1984
+#### @KMartCorpStoreNo_TexCtApp1984
 
 K-Mart Corporation appeals from a judgment awarding the appellee, Trotti, $8,000.00 in actual damages and $100,000.00 in exemplary damages for invasion of privacy.
 
@@ -298,7 +298,7 @@ We find Cloutier's contention, and the affidavits underlying it, unpersuasive. T
 
 Cloutier appears to reason that because other employees have violated the no-facial-jewelry policy, it would not be an additional burden on Costco's effort to present a professional workforce for her to display her piercings as well. But there is an important distinction between an employee who displays facial jewelry unnoticed in violation of the dress code and one who does so under an exemption from the dress code. In the first scenario, Costco can instruct an employee to remove facial jewelry as soon as it becomes aware of a violation. In the second scenario, Costco forfeits its ability to mandate compliance and thus loses control over its public image. That loss, as we have discussed, would constitute an undue hardship.
 
-#### @HoganForsythCountryClub_NCApp1986
+#### @HoganForsythCountryClub_NCCtApp1986
 
 Plaintiffs assert error with respect to the entry of summary judgment dismissing each of their multiple claims. For the reasons which follow, we conclude that April Cornatzer is entitled to a trial upon two of the three claims which she asserts. However, with respect to her claim for wrongful discharge from employment and to each of the claims of Marlene Hogan and Sonya Mitchell, we affirm the judgment of the trial court.
 
@@ -515,7 +515,7 @@ We also agree with counsel for the Board that Sanzone’s comment was not defama
 
 In addition to finding that the discharges of Sanzone and Spinella violated the Act, the Board adopted the ALJ’s conclusions that Triple Play violated the Act by (1) threatening employees with discharge for their Facebook activity; (2) interrogating employees about their Facebook activity; and (3) informing employees that they were being discharged for their Facebook activity. Because Sanzone’s and Spinella’s Facebook activity did not lose the protection of the Act, Triple Play’s challenge to the other violations of Section 8(a)(1) must necessarily fail.
 
-#### @EhlingMonmouthOceanHospService_DNJ2013
+#### @EhlingMonmouthOceanHospSvc_DNJ2013
 
 Plaintiff Deborah Ehling brings this action against Monmouth-Ocean Hospital Service Corp. ("MONOC"), Vincent Robbins, and Stacy Quagliana (collectively "Defendants"), alleging violations of the Electronic Communications Privacy Act, the Family Medical Leave Act, and various state laws. This matter comes before the Court on Defendants' motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim upon which relief may be granted. For the reasons set forth below, Defendants' Rule 12(b)(6) motion is GRANTED in part, and DENIED in part.
 
@@ -547,7 +547,7 @@ In this case, Plaintiff argues that she had a reasonable expectation of privacy 
 
 The Court finds that Plaintiff has stated a plausible claim for invasion of privacy, especially given the open-ended nature of the case law. Plaintiff may have had a reasonable expectation that her Facebook posting would remain private, considering that she actively took steps to protect her Facebook page from public viewing. More importantly, however, reasonableness (and offensiveness) are highly fact-sensitive inquiries. As such, these issues are not properly resolved on a motion to dismiss. 
 
-#### @CalLabCode980SocialMedia
+#### @CalLaborCode980
 
 ::: {.legalcode}
 
@@ -564,7 +564,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 ### Political & Personal Activity
 
-#### @NYEmpDiscrimPoliticalRecreationalActivity
+#### @NYLab201-d
 
 ::: {.legalcode}
 
@@ -602,7 +602,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 
 :::
 
-#### @TruittSalisburyBankTrust_2ndCir2022
+#### @TruittSalisburyBankTrust_2dCir2022
 
 In this case, plaintiff-appellant William Gunnar Truitt, an employee of defendant-appellee Salisbury Bank and Trust Company (the "Bank"), announced his candidacy for a New York State Assembly seat. The Bank thereafter advised Truitt that he had to choose between running for office and continuing his employment with the Bank. Truitt decided not to discontinue his campaign, and his employment with the Bank ended.
 
@@ -688,7 +688,7 @@ While the Bank's evidence includes some stray references to campaigning, most of
 
 For these reasons, a reasonable jury could find that the Bank's actions violated New York Labor Law § 201-d because the bank failed to demonstrate a legitimate, non-discriminatory reason for the adverse employment action it took against Truitt. We conclude that the district court erred in granting summary judgment dismissing Truitt's New York Labor Law § 201-d claim.
 
-#### @BrunnerAttar_TexApp1990
+#### @BrunnerAttar_TexCtApp1990
 
 Farouk Al Attar and Rima Al Attar are husband and wife, and partners in a general partnership, known as Apollo Paint & Body. Brunner states that Farouk's actions are the basis of this suit, and that Rima and Apollo are vicariously liable. Brunner alleged that Farouk terminated her, because he feared that she would catch and spread the Acquired Immune Deficiency Syndrome (AIDS) to employees. Appellees urged that Brunner was terminated because of her refusal to work during the hours required, her request to be terminated, and her failure, inability and/or refusal to perform the work expected of her.
 
@@ -706,7 +706,7 @@ Brunner does not allege that her employment was governed by a contract, or that 
 
 Brunner alleges that she was fired because she refused to quit her volunteer work with the AIDS Foundation; however, she has not alleged that she was terminated for refusing to perform an illegal act, or because her employer wished to avoid paying benefits under her pension fund. Brunner has failed to allege sufficient facts to place her within these two exceptions to the employment-at-will doctrine. _See_ _Jennings v. Minco Technology Labs, Inc.,_ 765 S.W.2d 497 (Tex. App. 1989) (court refused to create an exception to the doctrine on the grounds of public policy, to enable an employee to obtain declaratory and injunctive relief, restraining employer from administering random urinalysis drug tests on employees); _Berry v. Doctor's Health Facilities,_ 715 S.W.2d 60 (Tex. App. 1986) (court declined to create an exception to the employment-at-will doctrine on the grounds of public policy, to encompass a cause of action asserting wrongful termination, because the employee "knew too much" about alleged improprieties within the hospital administration); _Winters v. Houston Chronicle Publishing Company,_ 781 S.W.2d 408 (Tex. App. 1989) (court declined to extend _Sabine Pilot_ exception to employment-at-will doctrine, where private employee alleged he was discharged for reporting to management that his upper level managers and supervisors were engaged in circulation fraud, inventory theft, and a "kickback" scheme). This Court cannot create another exception for performing volunteer work at the Houston AIDS Foundation. If such an exception is to be created, that is a matter within the province of the Texas Supreme Court.
 
-#### @StateWalMartStores_NYAppDiv3rdDept1995
+#### @StateWalMartStores_NYAppDiv1995
 
 ##### Mercure, J.
 
@@ -730,7 +730,7 @@ In my view, given the fact that the Legislature's primary intent in enacting Lab
 
 And while it is true that, as a general rule of statutory construction, the breadth of an inclusory phrase is to be considered limited by the specific examples accompanying it, this principle must yield where necessary to carry out the underlying purpose of the enactment. Additionally, it is only applicable when the examples fall into a single, well-defined class, and are not themselves general in nature. Here, the list, which includes vast categories such as "hobbies" and "sports", as well as very different types of activities (e.g., exercise, reading), appears to have been compiled with an eye toward extending the reach of the statute. This, coupled with the explicit directive that the definition is _not_ to be limited to the examples given, provides further indication that the term "recreational activities" should be construed expansively. Accordingly, I would affirm the denial of defendant's motion to dismiss the first cause of action.
 
-#### @NCLawfulUseLawfulProducts
+#### @NCGenStat95-282
 
 ::: {.legalcode}
 

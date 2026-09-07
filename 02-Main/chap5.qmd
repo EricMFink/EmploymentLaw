@@ -4,7 +4,7 @@
 
 ### Confidentiality Policies
 
-#### @LowesHomeCentersLLC_NLRB2021
+#### @LowesHomeCentersLLC_5thCir2021
 
 Lowe’s workplace policy prohibits disclosure of confidential information, and an employee challenged the policy under Section 8(a)(1) of the National Labor Relations Act, which prevents employers from limiting employees’ discussions of their wages. The administrative law judge (“ALJ”) concluded that Lowe’s policy violated the Act. Lowe’s appealed to the National Labor Relations Board, and the Board affirmed. We AFFIRM.
 
@@ -163,7 +163,7 @@ The Court finds that the restriction on use of social media is impermissible. Si
 
 For the foregoing reasons, the Parties' request for approval of their Proposed Settlement is denied without prejudice. The Parties may reapply for approval of a settlement that eliminates or tailors the provision restricting use of social media.
 
-#### @MaclarenMacomb_NLRB
+#### @MaclarenMacomb_NLRB2023
 
 The main issue presented is whether the Respondent violated Section 8(a)(1) of the National Labor Relations Act (Act) by offering a severance agreement to 11 bargaining unit employees it permanently furloughed. The agreement broadly prohibited them from making statements that could disparage or harm the image of the Respondent and further prohibited them from disclosing the terms of the agreement. Agreements that contain broad proscriptions on employee exercise of Section 7 rights have long been held unlawful because they purport to create an enforceable legal obligation to forfeit those rights. Proffers of such agreements to employee have also been held to be unlawfully coercive. The Board in _Baylor University Medical Center_ and _IGT d/b/a International Game Technology_ reversed this long-settled precedent and replaced it with a test that fails to recognize that unlawful provisions in a severance agreement proffered to employees have a reasonable tendency to interfere with, restrain, or coerce the exercise of employee rights under Section 7 of the Act. We accordingly overrule _Baylor_ and _IGT_ and, upon careful analysis of the terms of the nondisparagement and confidentiality provisions at issue here, we find them to be unlawful, and thus find the severance agreement proffered to employees unlawful.
 
@@ -236,7 +236,7 @@ Two states, California and Washington, have enacted legislation against provisio
 
 ### Trade Secrets 
 
-#### @TSGFinishingLLCBollinger_NCApp2014
+#### @TSGFinishingLLCBollinger_NCCtApp2014
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
@@ -504,11 +504,11 @@ We also find no evidence of attendant circumstances to indicate that Camp's cond
 
 As a consequence of concluding that employee Camp was without fiduciary duty, that his position was not one "in or affecting commerce," and that his business actions were neither aggravating nor egregious, we conclude that the trial court properly granted summary judgment as to employer Dalton's claim under N.C.G.S. § 75-1.1. Therefore, with regard to both appellants Camp and MCC, we reverse the Court of Appeals on this issue.
 
-#### @NCPropertyProtection2016
+#### @NCGenStat99A-2a
 
 ::: {.legalcode}
 
-**Recovery of Damages for Exceeding the Scope of Authorized Access to Property.**
+##### Recovery of Damages for Exceeding the Scope of Authorized Access to Property.
 
 - (a) Any person who intentionally gains access to the nonpublic areas of another's premises and engages in an act that exceeds the person's authority to enter those areas is liable to the owner or operator of the premises for any damages sustained. For the purposes of this section, "nonpublic areas" shall mean those areas not accessible to or not intended to be accessed by the general public.
 - (b) For the purposes of this section, an act that exceeds a person's authority to enter the nonpublic areas of another's premises is any of the following:
@@ -547,7 +547,7 @@ Consider how labor preemtion might apply to suits under N.C.G.S. § 99-A-2 again
 
 ### Non-Compete Agreements 
 
-#### @TSGFinishingLLCBollinger_NCApp2014
+#### @TSGFinishingLLCBollinger_NCCtApp2014
 
 TSG Finishing, LLC ("plaintiff" or "TSG") appeals from an order denying its motion for a preliminary injunction aimed at preventing its former employee, Keith Bollinger ("defendant"), from breaching a non-competition and confidentiality agreement ("the non-compete agreement") and misappropriating TSG's trade secrets. On appeal, plaintiff contends that the trial court erred by denying its motion for a preliminary injunction because: (1) it has demonstrated a likelihood of success on the merits of its claims for breach of contract and misappropriation of trade secrets; and (2) it would suffer irreparable harm without issuance of the preliminary injunction.
 
@@ -607,11 +607,11 @@ We also find TSG's policy arguments in this case persuasive. TSG employs around 
 
 In sum, we hold that the non-compete was validly assigned to plaintiff through bankruptcy reorganization, the non-compete itself is reasonable to protect TSG's legitimate business interests, and the equities weigh in favor of enforcement under these facts. Therefore, because it is undisputed that defendant is in breach of the non-compete by working for ACF, a direct competitor of TSG, we hold that TSG has demonstrated a likelihood of success on the merits of its claim for breach of contract.
 
-#### @CalBPCode16600NonCompetes
+#### @CalBusProfCode16600
 
 ::: {.legalcode}
 
-##### § 16600
+##### Contracts in Restraint of Trade
 
 - (a) Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void.
 - (b) (1) This section shall be read broadly, in accordance with [_Edwards v. Arthur Andersen LLP_](https://scholar.google.com/scholar_case?case=969445912817466674) (2008) 44 Cal.4th 937, to void the application of any noncompete agreement in an employment context, or any noncompete clause in an employment contract, no matter how narrowly tailored, that does not satisfy an exception in this chapter.
@@ -636,7 +636,7 @@ In sum, we hold that the non-compete was validly assigned to plaintiff through b
 
 :::
 
-#### @MassachusettsNoncompetitionAgreement
+#### @MassGeneralLaw-Part24L
 
 ::: {.legalcode}
 

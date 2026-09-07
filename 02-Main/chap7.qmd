@@ -88,7 +88,7 @@ A few final comments on this three-act drama. First of all, it illustrates an ol
 
 Is a fourth act possible? Yes: possible and even likely. The structure of the work force seems to be changing. Thousands of workers are part of the so-called gig economy. Millions of people are no longer "employees;" they need health insurance (which can cost them dearly). For millions of people, the cost of medicine and drugs can even push them into bankruptcy. Millions are still without any health insurance. Health care is or can be a major issue. A national system might develop. In that case, it would no longer matter very much, where and when an accident occurred. A broken leg would be a broken leg, any time and any place. The United States would march in step with the rest of the developed world. Or, conceivably, time could flow backward: back to the days when there was no relief for "pure accidents" This seems less likely. But the future is, as always, dark and unknown.
 
-#### N.C. Workers, Compensation Act, @NCWorkersCompensation
+#### N.C. Workers, Compensation Act, @NCGenStat97-1etseq
 
 ::: {.legalcode}
 
@@ -209,7 +209,7 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 
 ### OSHA
 
-#### Occupational Safety & Health Act, @OccupationalSafetyHealth
+#### Occupational Safety & Health Act, @29USC641etseq
 
 ::: {.legalcode}
 
@@ -289,7 +289,7 @@ Having held that the trial court properly dismissed plaintiff's claims for lack 
 
 :::
 
-#### @SeaworldFlorida_DCCir2014
+#### @SeaworldFloridaPerez_DCCir2014
 
 SeaWorld of Florida, LLC, operates a theme park in Orlando, Florida, that is designed to entertain and educate paying customers by displaying and studying marine animals. Following the death of one of SeaWorld's trainers while working in close contact with a killer whale during a performance, the Occupational Safety and Health Review Commission found that SeaWorld had violated the general duty clause, § 5(a)(1) of the Occupational Safety and Health Act of 1970, 29 U.S.C. § 654(a)(1), by exposing the trainers to recognized hazards when working in close contact with killer whales during performances, and that the abatement procedures recommended by the Secretary of Labor were feasible. SeaWorld challenges the order with respect to one citation. Concluding its challenges are unpersuasive, we deny the petition for review.
 
@@ -433,7 +433,7 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 
 ### Medical Leave
 
-#### Family & Medical Leave Act, @FMLA
+#### Family & Medical Leave Act, @29USC2601etseq
 
 ::: {.legalcode}
 
@@ -531,7 +531,7 @@ For these reasons we conclude that 29 CFR § 1977.12(b)(2) was promulgated by th
 
 :::
 
-#### @RamjiHospitalHousekeepingSystems_11thCir2021
+#### @RamjiHospitalHousekeepingSyst_11thCir2021
 
 The Family Medical Leave Act ("FMLA") is a federal statute that entitles eligible workers who need to recover from a serious injury to take up to twelve weeks of unpaid leave during any twelve-month period. Employers are prohibited from interfering with, restraining, or denying an employee's efforts to exercise any FMLA right. Separately, most states require employers to provide their employees with workers' compensation benefits. Workers' compensation allows an employee who is injured in a work-related incident to receive payments for all reasonable medical care and lost wages resulting from that injury.
 
@@ -681,7 +681,7 @@ The problem with Hospital Housekeeping's position is that it accounts for only t
 
 ### Disability Discrimination
 
-#### Americans with Disabilities Act, @ADA
+#### Americans with Disabilities Act, @42USC12101etseq
 
 ::: {.legalcode}
 

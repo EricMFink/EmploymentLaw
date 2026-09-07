@@ -96,7 +96,7 @@ Our conclusion is that the case of _Adkins v. Children's Hospital_ should be, an
 
 ### Federal Law
 
-#### Fair Labor Standards Act, @FairLaborStandards1938
+#### Fair Labor Standards Act, @29USC201etseq
 
 ::: {.legalcode}
 
@@ -221,7 +221,7 @@ Unlike the National Labor Relations Act, the Fair Labor Standards Act sets minim
 
 ![State Minimum Wages, 2025](../img/state-minimum-wage-2025.png){width=75%}
 
-#### N.C. Wage & Hour Act, @NCWageHour
+#### N.C. Wage & Hour Act, @NCGenStat95-251etseq
 
 ::: {.legalcode}
 
@@ -424,7 +424,7 @@ Therefore, the court GRANTS plaintiffs' motion for summary judgment as to defend
 
 Plaintiffs Kate Egan, Kenneth Berry, Michelle Brandt, Nicole Gonzalez, and Amber Lyne have filed suit individually and on behalf of others similarly situated against defendants A.W. Companies, Inc. and Meijer, Inc. Plaintiffs assert claims under the Fair Labor Standards Act (FLSA), 29 U.S.C. § 216(b) \[and state wage and hour law.\]. Plaintiffs also have sought leave to file a fourth amended complaint including a retaliation claim against A.W. arising from A.W.’s assertion of a counterclaim against the plaintiffs.
 
-Plaintiffs have moved to dismiss A.W.’s counterclaim under ... Rule 12(b)(6).
+Plaintiffs have moved to dismiss A.W.’s counterclaim under Rule 12(b)(6).
 
 [Background]{.casesection}
 
@@ -460,7 +460,7 @@ A.W. contends that it is not seeking indemnification, but rather lost profits du
 
 A.W. has not stated a plausible claim. A.W.’s counterclaim is premised on the contention that plaintiffs’ breached a contractual duty to accurately report their hours. Though A.W. may have a policy requiring employees to record all the time they work, it is ultimately A.W.’s statutory duty as employer to ensure that those records are accurate. Attempting to shift that responsibility to plaintiffs seeking recovery of unpaid overtime wages, and in turn seeking to recover the very wages sought by those plaintiffs, contradicts the underlying purpose of the FLSA. Accordingly, the Court grants plaintiffs’ motion to dismiss A.W.’s counterclaim under Rule 12(b)(6).
 
-#### @WalshEastPennManufacturing_EDPa2021
+#### @WalshEastPennMfg_EDPa2021
 
 The Secretary of Labor initiated this action against East Penn Manufacturing Co., Inc., a battery manufacturer, alleging that East Penn has failed to compensate its employees for time spent changing into and out of uniforms and personal protective equipment and showering at the end of a work shift. East Penn does not dispute that the time spent donning, doffing, and showering is compensable under the Fair Labor Standards Act of 1938, 29 U.S.C. § § 203 _et seq._ The crux of the dispute is whether East Penn's pay policies, which compensate employees based on what it deems a "reasonable" time for these tasks, are sound as a matter of law and sufficient as a matter of fact. Contrary to the Secretary's contentions, East Penn disputes that it is legally required to compensate for the actual time expended by any given employee. But to the extent that such compensation as it pays is deficient, East Penn then maintains that the difference between what is "reasonable" and what would be "actual" is de minimis. Like the Energizer Bunny, the parties have pounded their steady drumbeats, with each side steadfast in its belief that it poses the correct standard of measurement.
 
@@ -636,7 +636,7 @@ In particular, Dr. Radwin estimated an average of 11 minutes and a median 10.8 m
 
 Notwithstanding the Court's finding that regularity of the work has been established, factual issues prevent the Court from granting summary judgment as to this claim. The Court finds a genuine issue of material fact remains as to the size of the aggregate claim as well as whether East Penn can practically record the time spent, given the variation of time needed in the record. The Court finds that East Penn may present a de minimis defense at trial, which will be a critical factual issue for the jury to resolve. 
 
-#### @ClaytonDelmarvaCommunityServices_DMd2020
+#### @ClaytonDelmarvaCommunitySvcs_DMd2020
 
 Plaintiffs Sharon Clayton, Vivian Thomas, Linda Carr, Consowillo Travers, and Jamez Justice (collectively, "Plaintiffs") have brought this action against Defendants Delmarva Community Services, Inc. and Santo Grande (collectively, "Defendants"), alleging violations of the Fair Labor Standards Act, 29 U.S.C. § 203, _et seq._ ("FLSA"). Presently pending are the parties' cross-motions for summary judgment. 
 
@@ -716,7 +716,7 @@ This Court is not persuaded that the First Circuit's understanding of "extended 
 
 In any event, the circuit split on this issue is not dispositive here in light of the separate and independent basis for this Court's decision. Accordingly, because this Court found that Plaintiffs' time spent sleeping is not compensable on a separate basis, this Court need not resolve whether Plaintiffs resided on Defendants' premises for "extended periods of time" as required by 29 C.F.R. § 785.23.
 
-#### @ModiseCareOneHealthServices_DConn2022
+#### @ModiseCareOneHealthSvcs_DConn2022
 
 Individual Plaintiffs Motlalepula Modise, Morwesi Mmolawa, and Tirelo Mmolawa were formerly employed by CareOne Health Services, LLC (“CareOne”), as personal care assistants (“PCAs”) providing live-in care for elderly clients. They brought this collective action against CareOne and Abel Osagie (“Defendant”), the sole owner of the company. Plaintiffs claim that Defendant violated the Fair Labor Standards Act (“FLSA”) and the Connecticut Minimum Wage Act (“CMWA”) by failing to properly compensate them for overtime hours worked, including time their sleep was interrupted by the clients’ needs.
 
@@ -1077,11 +1077,11 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @CalBPCode16600NonCompetes
+#### @CalBusProfCode16608
 
 ::: {.legalcode}
 
-##### § 16608
+##### Contracts in Restraint of Trade
 
 - (a) For purposes of this section, the following definitions apply:
 	- (1) “Contract” includes a promise, undertaking, contract, or agreement, whether written or oral, express or implied.
@@ -1124,9 +1124,11 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @CalLabCode926EmployeeTrainingDebts
+#### @CalLaborCode926
 
 ::: {.legalcode}
+
+##### Contracts Against Public Policy
 
 - (a) A contract or contract term that violates Section 16608 of the Business and Professions Code is void as contrary to public policy only if entered into on or after January 1, 2026.
 - (b) A worker who has been subjected to the conduct prohibited by subdivision (b) of Section 16608 of the Business and Professions Code or a worker representative may bring a civil action on behalf of that worker, other persons similarly situated, or both, in any court of competent jurisdiction.
@@ -1135,7 +1137,7 @@ The issue of training reimbursement provisions has also drawn the attention of s
 
 :::
 
-#### @NYTrappedWorkAct2025
+#### @NYLab1050etseq
 
 ::: {.legalcode}
 

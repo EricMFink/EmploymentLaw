@@ -84,7 +84,7 @@ Note 3: Given the same proven offense for two or more employees, their respectiv
 
 Note 4: Suppose that the record of the arbitration hearing establishes firm “Yes” answers to all the first six questions. Suppose further that the proven offense of the accused employee was a serious one, such as drunkenness on the job; but the employee’s record had been previously unblemished over a long continuos period of employment with the company. Should the company be held arbitrary and unreasonable if it decided to discharge such an employee? The answer depends of course on all the circumstances. But, as one of the country’s oldest arbitration agencies, the National Railroad Adjustment Board, has pointed out repeatedly in innumerable decisions on discharge cases, leniency is the prerogative of the employer rather than of the arbitrator; and the latter is not supposed to substitute his judgment in this area for that of the company unless there is compelling evidence that the company abused its discretion. This is the rule, even though an arbitrator, if he had been the original “trial judge,” might have imposed a lesser penalty. Actually the arbitrator may be said in an important sense to act as an appellate tribunal whose function is to discover whether the decision of the trial tribunal (the employer) was within the bounds of reasonableness above set forth. In general, the penalty of dismissal for a really serious first offense does not in itself warrant a finding of company unreasonableness.
 
-#### Montana Wrongful Discharge from Employment Act, @MontanaWrongfulDischarge
+#### Montana Wrongful Discharge from Employment Act, @MontCodeAnn39-2-901etseq
 
 In 1987, Montana adopted a statute creating a new cause of action for wrongful discharge from employment. The statute effectively abolished the at-will presumption and replaced it with a "good cause" standard for discharges of employees after a probationary period. The statute also preempts most common law remedies, and allows either party to offer arbitration as an alternative to a civil suit. Despite some predictions that the Montana approach would spread, no other state has adopted a similar measure. See [@Roseman2009] (reviewing history and impact of Montana Wrongful Discharge from Employment Act).
 
@@ -243,7 +243,7 @@ Under Montana law, a discharge is wrongful if an employer "violated express prov
 
 ### Implied Contract Exceptions to Termination At-Will
 
-#### @PughSeesCandiesInc1981
+#### @PughSeesCandiesInc_CalCtApp1981
 
 After 32 years of employment with See's Candies, Inc., in which he worked his way up the corporate ladder from dishwasher to vice president in charge of production and member of the board of directors, Wayne Pugh was fired. Asserting that he had been fired in breach of contract and for reasons which offend public policy he sued his former employer seeking compensatory and punitive damages for wrongful termination, and joined as a defendant a labor organization which, he alleged, had conspired in or induced the wrongful conduct. The case went to trial before a jury, and upon conclusion of the plaintiff's case-in-chief the trial court granted defendants' motions for nonsuit, and this appeal followed.
 
@@ -527,7 +527,7 @@ We believe the opinion in the _English_ case from the Eastern District is a more
 
 To summarize, plaintiff has failed to prove a claim for breach of contract because (1) the employment manual upon which her contract claim was based was not a part of her employment contract; (2) unilaterally promulgated employment manuals do not affect the at-will nature of employment in North Carolina; and (3) plaintiff's additional consideration, moving from Greenville to Wilmington, was not in exchange for assurances of discharge only for fault. As to the tort claim alleging wrongful discharge, North Carolina law does not allow claims of bad faith discharge in the absence of public policy violations. Assuming arguendo that such a claim is valid, plaintiff's evidence failed to prove that she has a claim for bad faith discharge.
 
-#### @KurtzmanAppliedAnalyticalIndustries_NC1997
+#### @KurtzmanAppliedAnalyticalIndus_NC1997
 
 ##### Whichard, Justice.
 
@@ -1281,6 +1281,86 @@ IT IS FURTHER OrderED that the complaint is dismissed insofar as it alleges viol
 
 ![NLRB Notice](../img/StarbucksNLRBNoticeFull.png)
 
+#### N.C. Retaliatory Employment Discrimination Act, @NCGenStat95-240etseq
+
+::: {.legalcode}
+
+##### § 95-240. Definitions
+
+- The following definitions apply in this Article:
+	- (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
+	- (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
+
+##### § 95-241. Discrimination Prohibited
+
+- (a\) No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to do any of the following:
+	- (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
+		- a. Chapter 97 of the General Statutes.
+		- b. Article 2A or Article 16 of this Chapter.
+		- c. Article 2A of Chapter 74 of the General Statutes.
+		- d. G.S. 95-28.1.
+		- e. Article 16 of Chapter 127A of the General Statutes.
+		- f. G.S. 95-28.1A.
+		- g. Article 52 of Chapter 143 of the General Statutes.
+		- h. Article 5F of Chapter 90 of the General Statutes.
+	- (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
+	- (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
+	- (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
+	- (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
+- (b\) It shall not be a violation of this Article for a person to discharge or take any other unfavorable action with respect to an employee who has engaged in protected activity as set forth under this Article if the person proves by the greater weight of the evidence that it would have taken the same unfavorable action in the absence of the protected activity of the employee.
+
+##### § 95-242. Complaint; investigation; conciliation.
+
+- (a\) An employee allegedly aggrieved by a violation of G.S. 95-241 may file a written complaint with the Commissioner of Labor alleging the violation. The complaint shall be filed within 180 days of the alleged violation. Within 20 days following receipt of the complaint, the Commissioner shall forward a copy of the complaint to the person alleged to have committed the violation and shall initiate an investigation. If the Commissioner determines after the investigation that there is not reasonable cause to believe that the allegation is true, the Commissioner shall dismiss the complaint, promptly notify the employee and the respondent, and issue a right-to-sue letter to the employee that will enable the employee to bring a civil action pursuant to G.S. 95-243. If the Commissioner determines after investigation that there is reasonable cause to believe that the allegation is true, the Commissioner shall attempt to eliminate the alleged violation by informal methods which may consist of conference, conciliation, and persuasion. The Commissioner shall make a determination as soon as possible and, in any event, not later than 90 days after the filing of the complaint.
+- (b\) If the Commissioner is unable to resolve the alleged violation through the informal methods, the Commissioner shall notify the parties in writing that conciliation efforts have failed. The Commissioner shall then either file a civil action on behalf of the employee pursuant to G.S. 95-243 or issue a right-to-sue letter to the employee enabling the employee to bring a civil action pursuant to G.S. 95-243.
+- (b1\) The Commissioner may reopen an investigation under this Article for good cause shown within 30 days of receipt of the right-to-sue letter. If an investigation is reopened pursuant to this section, the 90-day time limit set forth in G.S. 95-243(b) shall not commence until the new investigation is complete and either a new right-to-sue letter is issued or the Commissioner notifies the parties in writing that conciliation efforts have failed.
+- (c\) An employee may make a written request to the Commissioner for a right-to-sue letter after 90 days following the filing of a complaint if the Commissioner has not issued a notice of conciliation failure and has not commenced an action pursuant to G.S. 95-242.
+- (d\) Nothing said or done during the use of the informal methods described in subsection (a) of this section may be made public by the Commissioner or used as evidence in a subsequent proceeding under this Article without the written consent of the persons concerned.
+- (e\) The Commissioner's files and the Commissioner's other records relating to investigations and enforcement proceedings pursuant to this Article shall not be subject to inspection and examination as authorized by G.S. 132-6 while such investigations and proceedings are open or pending in the trial court division.
+- (f\) In making inspections and investigations under this Article, the Commissioner or his duly authorized agents may, in addition to exercising the authority granted in G.S. 95-4, issue subpoenas to require the attendance and testimony of witnesses and the production of evidence under oath. Witnesses shall be reimbursed for all travel and other necessary expenses which shall be claimed and paid in accordance with the prevailing travel reimbursement requirements of the State. In the case of failure or refusal of any person to obey a subpoena under this Article, the district court judge or superior court judge of the county in which the inspection or investigation is conducted shall, upon the application of the Commissioner, have jurisdiction to issue an order requiring compliance. 
+
+##### § 95-243. Civil action.
+
+- (a\) An employee who has been issued a right-to-sue letter or the Commissioner of Labor may commence a civil action in the superior court of the county where the violation occurred, where the complainant resides, or where the respondent resides or has his principal place of business.
+- (b\) A civil action under this section shall be commenced by an employee within 90 days of the date upon which the right-to-sue letter was issued or by the Commissioner within 90 days of the date on which the Commissioner notifies the parties in writing that conciliation efforts have failed.
+- (c\) The employee or the Commissioner may seek and the court may award any or all of the following types of relief:
+	- (1\) An injunction to enjoin continued violation of this Article.
+	- (2\) Reinstatement of the employee to the same position held before the retaliatory action or discrimination or to an equivalent position.
+	- (3\) Reinstatement of full fringe benefits and seniority rights.
+	- (4\) Compensation for lost wages, lost benefits, and other economic losses that were proximately caused by the retaliatory action or discrimination.
+- If in an action under this Article the court finds that the employee was injured by a willful violation of G.S. 95-241, the court shall treble the amount awarded under subdivision (4) of this subsection.
+- The court may award to the plaintiff and assess against the defendant the reasonable costs and expenses, including attorneys' fees, of the plaintiff in bringing an action pursuant to this section. If the court determines that the plaintiff's action is frivolous, it may award to the defendant and assess against the plaintiff the reasonable costs and expenses, including attorneys' fees, of the defendant in defending the action brought pursuant to this section.
+- (d\) Parties to a civil action brought pursuant to this section shall have the right to a jury trial as provided under G.S. 1A-1, Rules of Civil Procedure.
+- (e\) An employee may only bring an action under this section when he has been issued a right-to-sue letter by the Commissioner.
+
+##### § 95-244. Effect of Article on other rights.
+
+- Nothing in this Article shall be deemed to diminish the rights or remedies of any employee under any collective bargaining agreement, employment contract, other statutory rights or remedies, or at common law. (1991 (Reg. Sess., 1992), c. 1021, s. 1.)
+
+##### § 95-245. Rules.
+
+- The Commissioner may adopt rules needed to implement this Article pursuant to the provisions of Chapter 150B of the General Statutes.
+
+:::
+
+::: {.callout-note} 
+
+NC REDA applies only to discrimination or retaliation based on employee conduct under the specific North Carolina statutes identified in § 95-241: 
+
+- N.C.G.S. Chap. 97: Workers' Compensation Act
+- N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
+- N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
+- N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
+- N.C.G.S. 95-28.1: Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
+- N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
+- N.C.G.S. 95-28.1A: Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
+- N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
+- N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
+- N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
+- N.C.G.S. Chap. 50B: Domestic Violence
+
+:::
+
 #### @DriskellSummittContractingGroup_4thCir2020
 
 [I.]{.casesection}
@@ -1411,89 +1491,9 @@ Next, Summit asserts that it was entitled to judgment on Driskell’s wrongful-d
 
 As Summit recognizes, Driskell’s “wrongful termination claim rises or falls on the viability of his REDA-based claim.” This is because “wrongful discharge claims have been recognized in North Carolina where the employee was discharged for engaging in a legally protected activity,” like complaining about OSHANC violations. Thus, just as we affirm the verdict for Driskell on his REDA claim, so too do we affirm the verdict on his wrongful-discharge claim.
 
-#### N.C. Retaliatory Employment Discrimination Act, @NCRetaliatoryEmployment
-
-::: {.legalcode}
-
-##### § 95-240. Definitions
-
-- The following definitions apply in this Article:
-	- (1\) “Person” means any individual, partnership, association, corporation, business trust, legal representative, the State, a city, town, county, municipality, local agency, or other entity of government.
-	- (2\) “Retaliatory action” means the discharge, suspension, demotion, retaliatory relocation of an employee, or other adverse employment action taken against an employee in the terms, conditions, privileges, and benefits of employment.
-
-##### § 95-241. Discrimination Prohibited
-
-- (a\) No person shall discriminate or take any retaliatory action against an employee because the employee in good faith does or threatens to do any of the following:
-	- (1\) File a claim or complaint, initiate any inquiry, investigation, inspection, proceeding or other action, or testify or provide information to any person with respect to any of the following:
-		- a. Chapter 97 of the General Statutes.
-		- b. Article 2A or Article 16 of this Chapter.
-		- c. Article 2A of Chapter 74 of the General Statutes.
-		- d. G.S. 95-28.1.
-		- e. Article 16 of Chapter 127A of the General Statutes.
-		- f. G.S. 95-28.1A.
-		- g. Article 52 of Chapter 143 of the General Statutes.
-		- h. Article 5F of Chapter 90 of the General Statutes.
-	- (2\) Cause any of the activities listed in subdivision (1) of this subsection to be initiated on an employee's behalf.
-	- (3\) Exercise any right on behalf of the employee or any other employee afforded by Article 2A or Article 16 of this Chapter, by Article 2A of Chapter 74 of the General Statutes, or by Article 52 of Chapter 143 of the General Statutes.
-	- (4\) Comply with the provisions of Article 27 of Chapter 7B of the General Statutes.
-	- (5\) Exercise rights under Chapter 50B. Actions brought under this subdivision shall be in accordance with the provisions of G.S. 50B-5.5.
-- (b\) It shall not be a violation of this Article for a person to discharge or take any other unfavorable action with respect to an employee who has engaged in protected activity as set forth under this Article if the person proves by the greater weight of the evidence that it would have taken the same unfavorable action in the absence of the protected activity of the employee.
-
-##### § 95-242. Complaint; investigation; conciliation.
-
-- (a\) An employee allegedly aggrieved by a violation of G.S. 95-241 may file a written complaint with the Commissioner of Labor alleging the violation. The complaint shall be filed within 180 days of the alleged violation. Within 20 days following receipt of the complaint, the Commissioner shall forward a copy of the complaint to the person alleged to have committed the violation and shall initiate an investigation. If the Commissioner determines after the investigation that there is not reasonable cause to believe that the allegation is true, the Commissioner shall dismiss the complaint, promptly notify the employee and the respondent, and issue a right-to-sue letter to the employee that will enable the employee to bring a civil action pursuant to G.S. 95-243. If the Commissioner determines after investigation that there is reasonable cause to believe that the allegation is true, the Commissioner shall attempt to eliminate the alleged violation by informal methods which may consist of conference, conciliation, and persuasion. The Commissioner shall make a determination as soon as possible and, in any event, not later than 90 days after the filing of the complaint.
-- (b\) If the Commissioner is unable to resolve the alleged violation through the informal methods, the Commissioner shall notify the parties in writing that conciliation efforts have failed. The Commissioner shall then either file a civil action on behalf of the employee pursuant to G.S. 95-243 or issue a right-to-sue letter to the employee enabling the employee to bring a civil action pursuant to G.S. 95-243.
-- (b1\) The Commissioner may reopen an investigation under this Article for good cause shown within 30 days of receipt of the right-to-sue letter. If an investigation is reopened pursuant to this section, the 90-day time limit set forth in G.S. 95-243(b) shall not commence until the new investigation is complete and either a new right-to-sue letter is issued or the Commissioner notifies the parties in writing that conciliation efforts have failed.
-- (c\) An employee may make a written request to the Commissioner for a right-to-sue letter after 90 days following the filing of a complaint if the Commissioner has not issued a notice of conciliation failure and has not commenced an action pursuant to G.S. 95-242.
-- (d\) Nothing said or done during the use of the informal methods described in subsection (a) of this section may be made public by the Commissioner or used as evidence in a subsequent proceeding under this Article without the written consent of the persons concerned.
-- (e\) The Commissioner's files and the Commissioner's other records relating to investigations and enforcement proceedings pursuant to this Article shall not be subject to inspection and examination as authorized by G.S. 132-6 while such investigations and proceedings are open or pending in the trial court division.
-- (f\) In making inspections and investigations under this Article, the Commissioner or his duly authorized agents may, in addition to exercising the authority granted in G.S. 95-4, issue subpoenas to require the attendance and testimony of witnesses and the production of evidence under oath. Witnesses shall be reimbursed for all travel and other necessary expenses which shall be claimed and paid in accordance with the prevailing travel reimbursement requirements of the State. In the case of failure or refusal of any person to obey a subpoena under this Article, the district court judge or superior court judge of the county in which the inspection or investigation is conducted shall, upon the application of the Commissioner, have jurisdiction to issue an order requiring compliance. 
-
-##### § 95-243. Civil action.
-
-- (a\) An employee who has been issued a right-to-sue letter or the Commissioner of Labor may commence a civil action in the superior court of the county where the violation occurred, where the complainant resides, or where the respondent resides or has his principal place of business.
-- (b\) A civil action under this section shall be commenced by an employee within 90 days of the date upon which the right-to-sue letter was issued or by the Commissioner within 90 days of the date on which the Commissioner notifies the parties in writing that conciliation efforts have failed.
-- (c\) The employee or the Commissioner may seek and the court may award any or all of the following types of relief:
-	- (1\) An injunction to enjoin continued violation of this Article.
-	- (2\) Reinstatement of the employee to the same position held before the retaliatory action or discrimination or to an equivalent position.
-	- (3\) Reinstatement of full fringe benefits and seniority rights.
-	- (4\) Compensation for lost wages, lost benefits, and other economic losses that were proximately caused by the retaliatory action or discrimination.
-- If in an action under this Article the court finds that the employee was injured by a willful violation of G.S. 95-241, the court shall treble the amount awarded under subdivision (4) of this subsection.
-- The court may award to the plaintiff and assess against the defendant the reasonable costs and expenses, including attorneys' fees, of the plaintiff in bringing an action pursuant to this section. If the court determines that the plaintiff's action is frivolous, it may award to the defendant and assess against the plaintiff the reasonable costs and expenses, including attorneys' fees, of the defendant in defending the action brought pursuant to this section.
-- (d\) Parties to a civil action brought pursuant to this section shall have the right to a jury trial as provided under G.S. 1A-1, Rules of Civil Procedure.
-- (e\) An employee may only bring an action under this section when he has been issued a right-to-sue letter by the Commissioner.
-
-##### § 95-244. Effect of Article on other rights.
-
-- Nothing in this Article shall be deemed to diminish the rights or remedies of any employee under any collective bargaining agreement, employment contract, other statutory rights or remedies, or at common law. (1991 (Reg. Sess., 1992), c. 1021, s. 1.)
-
-##### § 95-245. Rules.
-
-- The Commissioner may adopt rules needed to implement this Article pursuant to the provisions of Chapter 150B of the General Statutes.
-
-:::
-
-::: {.callout-note} 
-
-NC REDA applies only to discrimination or retaliation based on employee conduct under the specific North Carolina statutes identified in § 95-241: 
-
-- N.C.G.S. Chap. 97: Workers' Compensation Act
-- N.C.G.S. Chap. 95, Art. 2A: Wage & Hour Act
-- N.C.G.S. Chap. 95, Art. 16: Occupational Safety & Health Act
-- N.C.G.S. Chap. 74, Art. 2A: Mine Safety & Health Act
-- N.C.G.S. 95-28.1: Discrimination Against Any Person Possessing Sickle Cell Trait or Hemoglobin C Trait Prohibited
-- N.C.G.S. Chap. 127A, Art. 16: National Guard Reemployment Rights 
-- N.C.G.S. 95-28.1A: Discrimination Against Persons Based on Genetic Testing or Genetic Information Prohibited
-- N.C.G.S. Chap. 143, Art. 52: Pesticide Board 
-- N.C.G.S. Chap. 90, Art. 5F: Control of Potential Drug Paraphernalia Products
-- N.C.G.S. Chap. 7B, Art. 27: Authority over Parents of Juveniles Adjudicated Delinquent or Undisciplined
-- N.C.G.S. Chap. 50B: Domestic Violence
-- 
-:::
-
 ## Unemployment Compensation
 
-#### N.C. Employment Security Act, @NCEmploymentSecurity
+#### N.C. Employment Security Act, @NCGenStat96-1etseq
 
 ::: {.legalcode}
 
@@ -1544,7 +1544,7 @@ NC REDA applies only to discrimination or retaliation based on employee conduct 
 
 ### Misconduct
 
-#### @JacksonNCDepartmentCommerce_NCCtApp2015
+#### @JacksonNCDeptCommerce_NCCtApp2015
 
 Jacqueline M. Jackson ("Petitioner") was discharged from her employment with Golden Age of Lexington, Inc. ("Employer"). The Board of Review at the North Carolina Department of Commerce, Division of Employment Security ("Division") determined that Petitioner was disqualified to receive unemployment benefits. On appeal, the superior court reversed the Board of Review's decision and held that Petitioner was _not_ disqualified to receive unemployment benefits. Employer and the Division (hereafter "Appellants") appeal the superior court's order. For the following reasons, we reverse the superior court's order.
 
@@ -1588,7 +1588,7 @@ Ms. Hyatt's statement says that she observed the resident on the floor. Ms. Duna
 
 [^Jackson4]: (n.4 in opinion) What constituted "misconduct" was previously defined in N.C. Gen.Stat. § 96-14. However, this statute was repealed by Session Laws 2013-2, s.2(a), effective 1 July 2013, and replaced by N.C. Gen.Stat. § 96-14.1 _et seq._
 
-#### @WhichardCHMortgageCompany_NCCtApp2016
+#### @WhichardCHMortgageCo_NCCtApp2016
 
 [Facts and Procedural Background]{.casesection}
 
