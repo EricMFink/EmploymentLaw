@@ -1,7 +1,7 @@
 ---
 title: "Employment Law"
 author: "Eric M. Fink"
-version: "4.1"
+version: "5.0"
 repo: "EmploymentLaw"
 frontispiece: "Der Ackermann"
 description: This book presents judicial opinions, statutes and regulations, and other material pertaining to the law governing employment and labor relations. Topics covered include establishing an employment relationship; recruitment and hiring; supervisory control and employee autonomy; union representation and concerted activity; confidentiality and competition; wages and hours; employee health and workplace injuries; and termination of employment.
@@ -12,7 +12,7 @@ epigraph-source: 9 to 5
 format:
   pdf:
     documentclass: scrbook
-    classoption: [letterpaper, 11pt, DIV=9, twoside, openright]
+    classoption: [letterpaper, 12pt, DIV=9, twoside, openright]
     has-frontmatter: true
     toc: true
     toc-flat: true
