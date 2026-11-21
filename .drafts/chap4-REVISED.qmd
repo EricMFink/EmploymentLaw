@@ -72,7 +72,7 @@ The three-judge panel affirmed, but on somewhat different grounds. The panel maj
 
 We agree with the district court and the panel majority that on this record, Jespersen has failed to present evidence sufficient to survive summary judgment on her claim that the policy imposes an unequal burden on women. With respect to sex stereotyping, we hold that appearance standards, including makeup requirements, may well be the subject of a Title VII claim for sexual stereotyping, but that on this record Jespersen has failed to create any triable issue of fact that the challenged policy was part of a policy motivated by sex stereotyping. We therefore affirm.
 
-[Background]{.casesection}
+##### **Background**
 
 Plaintiff Darlene Jespersen worked successfully as a bartender at Harrah's for twenty years and compiled what by all accounts was an exemplary record. During Jespersen's entire tenure with Harrah's, the company maintained a policy encouraging female beverage servers to wear makeup. The parties agree, however, that the policy was not enforced until 2000. In February 2000, Harrah's implemented a "Beverage Department Image Transformation" program at twenty Harrah's locations, including its casino in Reno. Part of the program consisted of new grooming and appearance standards, called the "Personal Best" program. The program contained certain appearance standards that applied equally to both sexes, including a standard uniform of black pants, white shirt, black vest, and black bow tie. Jespersen has never objected to any of these policies. The program also contained some sex-differentiated appearance requirements as to hair, nails, and makeup.
 
@@ -80,7 +80,7 @@ In April 2000, Harrah's amended that policy to require that women wear makeup. J
 
 > All Beverage Service Personnel, in addition to being friendly, polite, courteous and responsive to our customer's needs, must possess the ability to physically perform the essential factors of the job as set forth in the standard job descriptions. They must be well groomed, appealing to the eye, be firm and body toned, and be comfortable with maintaining this look while wearing the specified uniform. Additional factors to be considered include, but are not limited to, hair styles, overall body contour, and degree of comfort the employee projects while wearing the uniform.
  
-[\* \* \*]{.casesubsubsection}
+##### \* \* \*
 
 > Beverage Bartenders and Barbacks will adhere to these additional guidelines:
 > 
@@ -112,7 +112,7 @@ The record therefore does not contain any affidavit or other evidence to establi
 
 The district court granted Harrah's motion for summary judgment on all of Jespersen's claims. In this appeal, Jespersen maintains that the record before the district court was sufficient to create triable issues of material fact as to her unlawful discrimination claims of unequal burdens and sex stereotyping. We deal with each in turn.
 
-[Unequal Burdens]{.casesection}
+##### **Unequal Burdens**
 
 In order to assert a valid Title VII claim for sex discrimination, a plaintiff must make out a prima facie case establishing that the challenged employment action was either intentionally discriminatory or that it had a discriminatory effect on the basis of gender. Once a plaintiff establishes such a prima facie case, "the burden then must shift to the employer to articulate some legitimate, nondiscriminatory reason for the employee's rejection." 
 
@@ -134,7 +134,7 @@ Jespersen asks us to take judicial notice of the fact that it costs more money a
 
 Having failed to create a record establishing that the "Personal Best" policies are more burdensome for women than for men, Jespersen did not present any triable issue of fact. The district court correctly granted summary judgment on the record before it with respect to Jespersen's claim that the makeup policy created an unequal burden for women.
 
-[Sex Stereotyping]{.casesection}
+##### **Sex Stereotyping**
 
 In _Price Waterhouse,_ the Supreme Court considered a mixed-motive discrimination case. There, the plaintiff, Ann Hopkins, was denied partnership in the national accounting firm of Price Waterhouse because some of the partners found her to be too aggressive. While some partners praised Hopkins's "'strong character, independence and integrity,'" others commented that she needed to take "'a course at charm school.'" The Supreme Court determined that once a plaintiff has established that gender played "a motivating part in an employment decision, the defendant may avoid a finding of liability only by proving by a preponderance of the evidence that it would have made the same decision even if it had not taken the plaintiff's gender into account."
 
@@ -208,7 +208,7 @@ Finally, I note with dismay the employer's decision to let go a valued, experien
 
 Kimberly Cloutier alleges that her employer, Costco Wholesale Corp. (Costco), failed to offer her a reasonable accommodation after she alerted it to a conflict between the "no facial jewelry" provision of its dress code and her religious practice as a member of the Church of Body Modification. She argues that this failure amounts to religious discrimination in violation of Title VII, 42 U.S.C. § 2000e-2(a), and the corresponding Massachusetts statute. The district court granted summary judgment for Costco, concluding that Costco reasonably accommodated Cloutier by offering to reinstate her if she either covered her facial piercing with a band-aid or replaced it with a clear retainer. We affirm the grant of summary judgment, but on a different basis. We hold that Costco had no duty to accommodate Cloutier because it could not do so without undue hardship.
 
-[I.]{.casesection}
+##### **I.**
 
 Kimberly Cloutier began working at Costco's West Springfield, Massachusetts store in July 1997. Before her first day of work, Cloutier received a copy of the Costco employment agreement, which included the employee dress code. When she was hired, Cloutier had multiple earrings and four tattoos, but no facial piercings.
 
@@ -252,13 +252,13 @@ Under the foregoing framework, the district court concluded that summary judgmen
 
 Cloutier now appeals, arguing that the court erred in finding no violation of Title VII or state law and that disputed material facts made summary judgment inappropriate. 
 
-[II.]{.casesection}
+##### **II.**
 
 On appeal, Cloutier vigorously asserts that her insistence on displaying all her facial jewelry at all times is the result of a sincerely held religious belief. Determining whether a belief is religious is "more often than not a difficult and delicate task," one to which the courts are ill-suited. Fortunately, as the district court noted, there is no need for us to delve into this thorny question in the present case. Even assuming, _arguendo,_ that Cloutier established her _prima facie_ case, the facts here do not support a finding of impermissible religious discrimination.
 
 We find dispositive that the only accommodation Cloutier considers reasonable, a blanket exemption from the no-facial-jewelry policy, would impose an undue hardship on Costco. In such a situation, an employer has no obligation to offer an accommodation before taking an adverse employment action. 
 
-[A. Title VII]{.casesubsection}
+##### _A. Title VII_
 
 Title VII of the Civil Rights Act of 1964 prohibits employers from discriminating against employees on the basis of, among other things, religion. Under Title VII, an employer must offer a reasonable accommodation to resolve a conflict between an employee's sincerely held religious belief and a condition of employment, unless such an accommodation would create an undue hardship for the employer's business.
 
@@ -308,7 +308,7 @@ The tort of intentional infliction of mental or emotional distress was formally 
 
 > The tort may also exist where defendant's actions indicate a reckless indifference to the likelihood that they will cause severe emotional distress. Recovery may be had for the emotional distress so caused and for any other bodily harm which proximately results from the distress itself.
 
-[A]{.casesection}
+##### **A**
 
 The evidence with respect to April Cornatzer's claim for intentional infliction of emotional distress, taken in the light most favorable to her, tends to show that in September 1982, Hans Pfeiffer began making sexual advances toward her. At her deposition, and in an affidavit, Cornatzer maintained that Pfeiffer made sexually suggestive remarks to her while she was working, coaxing her to have sex with him and telling her that he wanted to "take" her. He would brush up against her, rub his penis against her buttocks and touch her buttocks with his hands. When she refused his advances, he screamed profane names at her, threatened her with bodily injury, and on one occasion, advanced toward her with a knife and slammed it down on a table in front of her. As a result of Pfeiffer's actions toward her, Cornatzer maintains that she became very nervous, anxious, humiliated and depressed, to the extent that she was required to seek medical treatment for ulcers.
 
@@ -326,7 +326,7 @@ Although Pfeiffer's acts against Cornatzer were committed while both were at the
 
 However, we are constrained to hold that Cornatzer has presented a sufficient showing of ratification of Pfeiffer's conduct by defendant to warrant submission of the question to the jury. Cornatzer's evidence, considered in the light most favorable to her, indicates that she complained to Richard Brennan, defendant's general manager, several times concerning Pfeiffer's conduct and that Brennan did nothing to prevent further sexual harassment by Pfeiffer. "The designation 'manager' implies general power and permits a reasonable inference that he was vested with the general conduct and control of defendant's business, and his acts are, when committed in the line of his duty and in the scope of his employment, those of the company." Thus, Brennan, whose responsibilities as manager included his duty to oversee all aspects of defendant's business and to supervise defendant's employees, was vested with authority to act on behalf of defendant and if, by his actions, he ratified Pfeiffer's wrongful conduct, such ratification would be imputed to defendant. In order to show that the wrongful act of an employee has been ratified by his employer, it must be shown that the employer had knowledge of all material facts and circumstances relative to the wrongful act, and that the employer, by words or conduct, shows an intention to ratify the act. Whether Brennan's actions, consisting of retaining Pfeiffer in defendant's employ, declining to intervene to prevent his further offensive behavior toward Cornatzer, and ultimately terminating Cornatzer from employment, amount to a course of conduct signifying an intention to acquiesce in, approve and ratify Pfeiffer's acts is a question for the jury. For the foregoing reasons, we hold that summary judgment dismissing Cornatzer's claim for intentional infliction of mental distress was improvidently granted.
 
-[B]{.casesection}
+##### **B**
 
 We do not reach the same result, however, with respect to the claims of Marlene Hogan and Sonya Mitchell for intentional infliction of mental distress. Hogan's evidence tends to show that Pfeiffer screamed and shouted at her, called her names, interfered with her supervision of waitresses under her charge, and on one occasion threw menus at her. She also testified that she shouted back at Pfeiffer. This conduct lasted during the period from 22 June 1983 until her termination on 24 July 1983. The general manager, Clifford Smith, received complaints from both Hogan and Pfeiffer concerning the temper of the other. His attempt to discuss the situation with both employees was unsuccessful because Pfeiffer walked out.
 
@@ -348,11 +348,11 @@ We find that Brennan's alleged conduct, though unjustified under the circumstanc
 
 This case concerns Starbucks' response to the Union's organizing campaigns at five St. Louis cafés.
 
-[Lindbergh Store--ULP Allegations]{.casesection}
+##### **Lindbergh Store--ULP Allegations**
 
 Lindbergh was led by assistant store manager David Brown and store manager Corinne Kinder. On March 30, the Union petitioned to represent the café's baristas and shift supervisors. It won the election and a _Certification of Representative_ issued on June 28.
 
-[1\. April 30: Threats and Disparate Enforcement of Ordering Rule by Brown]{.casesubsection}
+##### _1\. April 30: Threats and Disparate Enforcement of Ordering Rule by Brown_
 
 Barista Jonathan Gamache testified that the Union held a “sip-in” demonstration, which involved Union supporters and off-duty employees ordering drinks with pro-Union monikers (e.g., “Union yes” or “Union strong”) in order to have their pro-Union drinks called out in the store (e.g., “latte for Union strong at the bar.”). Gamache recalled this reaction from assistant manager Brown:
 
@@ -387,7 +387,7 @@ Starbucks violated § 8(a)(1), by implementing its _Marking and Calling Customer
 
 In advancing its defense, Starbucks failed to “prove that the rule advances a legitimate and substantial business interest and that it is unable to advance that interest with a more narrowly tailored rule.” Its reported business interest is to bar discourse in its stores that “advocates for a political, religious or a personal issue.” This fails the _Stericycle_ test is two is significant ways. _First_, the rule is written in the broadest possible terms, inasmuch its key terms, “political” and “personal” expansively cover virtually anything that a given manager takes issue with. Hence, Starbucks failed to create a narrowly tailored rule under _Stericycle_; it contrarily created a deeply expansive and subjective rule. _Second_, its rule fails to advance a “legitimate and substantial business interest.” In reality, Starbucks does not genuinely seek to bar “political” or “personal” discourse in its cafés, _nor should it_, given that cafés are akin to public gathering places, where political and personal ideas are ordinarily exchanged. Starbucks even promotes “political” and “personal” discourse on several praiseworthy topics in its cafés (e.g., “Black Lives Matter,” Pride networks, LGBTQ+ rights, disability rights, etc.) by selling t-shirts to employees on Coffeegear.com and then encouraging them to wear such shirts as part of their uniforms. These actions demonstrate that Starbucks is not genuinely interested in barring “political” or “personal” discourse, when the very same folks who serve its customers are simultaneously prompting exchanges on several exemplary “political” or “personal” themes in its cafés via its usage of employee t-shirts. At best, this is inconsistent, and at worst, this is hypocrisy. It appears, as a result, that Starbucks' litmus test is not the ““political” or “personal” realm, which it justifiably embraces on certain subjects. Its actual litmus test is designed to only bar “political” and ““personal” topics that it disapproves of because such discourse might encourage unionization. This argument suggests that Starbucks' espoused business interest is nothing more than a smokescreen to hinder § 7 activities; this fails _Stericycle_. In sum, the _Marking and Calling Customer Orders_ rule is unlawful in substance, context and application.
 
-[2\. Union T-shirt Disciplines and Firing]{.casesubsection}
+##### _2\. Union T-shirt Disciplines and Firing_
 
 Starbucks also unlawfully banned Lindbergh employees from wearing Union t-shirts under its _Dress Code_ policy. The _Dress Code_ policy provides that:
 
@@ -445,7 +445,7 @@ Starbucks failed to demonstrate that it would have taken the same disciplinary a
 
 Mexican Radio Corporation ("Company") petitions for review, and the Board cross-petitions for enforcement, of the Board's decision and order entered on April 20, 2018 determining that the Company violated Section 8(a)(1) of the National Labor Relations Act ("NLRA") by reprimanding and discharging four employees based on their protected concerted activity. We assume the parties' familiarity with the facts and record of prior proceedings, which we reference only as necessary to explain our decision to affirm.
 
-[I.]{.casesection}
+##### **I.**
 
 The following facts are undisputed. At all relevant times, the Company operated a restaurant in New York City, where Tangni Fagoth, Stephanie Garcia, Nadgie Santana, and Juliana Palomino (collectively, "Employees") were employed as waitresses. In August 2015, the Company hired Theodora Alfredou as the new general manager of the restaurant. The Employees and other servers immediately expressed concerns about Alfredou's disrespectful and demeaning treatment of employees. The Employees repeatedly lodged complaints about Alfredou's conduct and unsanitary conditions at the restaurant with Steve Morgan, the Company's director of operations, as well as the restaurant's owners. Perceiving no improvement in the conditions, the Employees contacted the New York City Department of Health & Mental Hygiene, which angered management.
 
@@ -459,11 +459,11 @@ Over the course of the next two days, all four of the Employees were fired. The 
 
 Following that statement, each of Morgan's reprimands contained several sentences detailing the particular employee's conduct. Morgan's reprimands for Garcia and Palomino stated that the "outcome" was job abandonment, while his reprimands for Fagoth and Santana stated that they were "terminated for insubordination."
 
-[II.]{.casesection}
+##### **II.**
 
 Following a seven-day trial, the administrative law judge ("ALJ") determined that the Employees had engaged in protected concerted activity and that their email replies were not so opprobrious as to lose the protection of the NLRA. The ALJ found that the discharges were motivated by the Employees' supportive replies to Polanco's email, rejecting the Company's assertion that the Employees were fired because they afterwards refused to meet with management or abandoned their jobs. The Board adopted the ALJ's findings and recommended order, as modified by the Board's identification of an additional violation of Section 8 by the Company that is not at issue here.
 
-[IV.]{.casesection}
+##### **IV.**
 
 The Company principally argues that the Employees forfeited the protection of the NLRA due to the opprobrious contents of Polanco's email. The Company contends that _Atlantic Steel Co.,_ 245 NLRB 814 (1979), governs our analysis of this issue. The Board has typically applied the _Atlantic Steel_ factors to "direct communications, face-to-face in the workplace, between an employee and a manger or supervisor," finding _Atlantic Steel_'s "place of the discussion" factor to be inapplicable to "employees' off-duty, offsite use of social media. In recent cases involving employee comments made in a nonwork forum, such as on social media, the Board has applied a totality of the circumstances test instead of the _Atlantic Steel_ factors. The Board argues that regardless of which analytical framework applies, the Employees' conduct was not so opprobrious as to lose the protection of the NLRA.
 
@@ -487,7 +487,7 @@ The Company further argues, as a factual matter, that the Employees were not fir
 
 Three D, LLC, d/b/a Triple Play Sports Bar and Grille (“Triple Play”) appeals a decision of the National Labor Relations Board (“NLRB” or “Board”) finding that Triple Play violated Section 8(a)(1) of the National Labor Relations Act (“NLRA” or “Act”) by taking certain actions against its employees, including discharge, for their Facebook activity. 
 
-[Employee Discharges and Other Violations of Section 8(a)(1)]{.casesection}
+##### **Employee Discharges and Other Violations of Section 8(a)(1)**
 
 Section 7 of the Act guarantees that “employees shall have the right to self-organization, to form, join, or assist labor organizations and to engage in other concerted activities for the purpose of mutual aid or protection.” Section 8(a)(1) of the Act protects employees’ Section 7 rights by prohibiting an employer from “interfering with, restraining, or coercing employees in the exercise of the rights guaranteed in Section 7.” 
 
@@ -519,7 +519,7 @@ In addition to finding that the discharges of Sanzone and Spinella violated the 
 
 Plaintiff Deborah Ehling brings this action against Monmouth-Ocean Hospital Service Corp. ("MONOC"), Vincent Robbins, and Stacy Quagliana (collectively "Defendants"), alleging violations of the Electronic Communications Privacy Act, the Family Medical Leave Act, and various state laws. This matter comes before the Court on Defendants' motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim upon which relief may be granted. For the reasons set forth below, Defendants' Rule 12(b)(6) motion is GRANTED in part, and DENIED in part.
 
-[Background]{.casesection}
+##### **Background**
 
 Plaintiff Deborah Ehling is a registered nurse and paramedic. Defendant Monmouth-Ocean Hospital Service Corporation ("MONOC") is a non-profit hospital service corporation dedicated to providing emergency medical services to the citizens of the State of New Jersey. Defendant Vincent Robbins is the President and CEO of MONOC. Defendant Stacy Quagliana is the Executive Director of Administration at MONOC.
 
@@ -533,7 +533,7 @@ Plaintiff alleges that MONOC "subsequently gained access to Ms. Ehling's Faceboo
 
 On June 17, 2009, MONOC sent letters regarding Plaintiff's Facebook posting to the New Jersey Board of Nursing and the New Jersey Department of Health, Office of Emergency Medical Services. The letters state that MONOC was concerned that Plaintiff's Facebook posting showed a disregard for patient safety. Plaintiff alleges that these letters were sent in a "malicious" attempt to attack Plaintiff, damage her reputation and employment opportunities, and potentially risk losing her nursing license and paramedic certification status.
 
-[Discussion]{.casesection}
+##### **Discussion**
 
 Plaintiff asserts a claim for common law invasion of privacy. Plaintiff's claim is premised on Defendants' alleged unauthorized "accessing of her private Facebook postings" regarding the Holocaust Museum shooter. Defendants move to dismiss, arguing that Plaintiff did not have a reasonable expectation of privacy in her Facebook posting. The Court finds that the motion to dismiss should be denied.
 
@@ -610,7 +610,7 @@ Truitt brought this action below, contending that the Bank violated New York Lab
 
 For the reasons discussed below, we vacate the judgment and remand.
 
-[Background]{.casesection}
+##### **Background**
 
 On February 26, 2018, Truitt, a part-time Dutchess County legislator, began working for the Bank as a full-time mortgage lending officer trainee. As a trainee, Truitt began a six-month training program, to be followed by a four-month secondary training program. Upon successful completion of both programs, Truitt would be promoted to a full-time mortgage loan officer position in January 2019. Truitt's employment with the Bank was at-will, and both he and the Bank could "terminate the employment relationship at any time, for any _legal_ reason, with or without cause, with or without notice."
 
@@ -648,7 +648,7 @@ On January 28, 2020, following discovery, the Bank moved for summary judgment. T
 
 Two weeks later, on August 4, 2020, Truitt timely moved for reconsideration of the district court's July 21, 2020, order. The court denied the motion on March 22, 2021. The district court did not reach the issue of whether Truitt was discharged for his political activity because it concluded that he voluntarily resigned and thus was not subjected to an adverse employment action and, in any event, he was "at the beginning stages of his campaign."
 
-[Discussion]{.casesection}
+##### **Discussion**
 
 Under [New York Labor Law § 201-d](#ny-labor-code-201d), an employer may generally not refuse to hire, discharge, or otherwise discriminate "in compensation, promotion or terms, conditions or privileges of employment" against an employee for, among other things, engaging in "political" or "recreational" activity if such activity is legal and occurs outside of working hours. N.Y. Lab. Law § 201-d(2). The statute expressly provides that an employee may sue an employer who violates the statute for "equitable relief and damages."
 
@@ -660,7 +660,7 @@ On appeal, Truitt makes two principal arguments. First, he contends that the Ban
 
 Two issues are thus presented: whether Truitt presented evidence from which a reasonable jury could find that he suffered an adverse employment action, and, if so, whether the Bank demonstrated, as a matter of law, that it had a legitimate, non-discriminatory reason for its employment decision.
 
-[1. Did Truitt Suffer an Adverse Employment Action?]{.casesubsection}
+##### _1. Did Truitt Suffer an Adverse Employment Action?_
 
 Whether Truitt suffered an adverse employment action hinges on whether the Bank could lawfully require him to choose between his political campaign and his job. Section 201-d makes it unlawful for "any employer to refuse to hire, employ or license, or to discharge from employment or otherwise discriminate against any individual in compensation, promotion or terms, conditions or privileges of employment because of" an employee's political activities. Although the district court recognized that adverse employment actions may take many forms, it granted summary judgment on the basis that Truitt could not demonstrate that he had been constructively discharged.
 
@@ -672,7 +672,7 @@ We are not persuaded by the Bank's argument that it gave Truitt a genuine choice
 
 For these reasons, a reasonable jury could find that Truitt suffered an adverse employment action by being forced to choose between his campaign and his job in violation of New York Labor Law § 201-d.
 
-[2. Was There a Legitimate, Non-Discriminatory Basis for the Bank's Adverse Employment Action?]{.casesubsection}
+##### _2. Was There a Legitimate, Non-Discriminatory Basis for the Bank's Adverse Employment Action?_
 
 Next, we turn to whether the Bank's argument that it demonstrated a legitimate, non-discriminatory reason for the adverse employment action. With respect to Truitt's campaigning for office, we conclude that it did not.
 
@@ -754,7 +754,7 @@ And while it is true that, as a general rule of statutory construction, the brea
 
 #### @SmithManheimRemarketingInc_WDNC2019
 
-[Factual and Procedural Background]{.casesection}
+##### **Factual and Procedural Background**
 
 Taking the facts of the Second Amended Complaint as true, Plaintiff is a fifty-four year old woman who worked for Defendants in their motor vehicle auction business for over fourteen years. She was terminated in February 2019. At the time of her termination, Plaintiff was a Total Resource Auction supervisor and managed seven employees. She was a loyal, reliable and respected employee.
 
@@ -770,9 +770,9 @@ On May 22, 2019, Plaintiff filed a wrongful discharge claim in Iredell County Su
 
 Defendants removed the case to this Court on July 1, 2019 and moved to dismiss Plaintiff’s Complaint.
 
-[Discussion]{.casesection}
+##### **Discussion**
 
-[Wrongful Termination for Use of Lawful Product Claim]{.casesubsection}
+##### _Wrongful Termination for Use of Lawful Product Claim_
 
 Plaintiff alleges that Defendants terminated her employment for using a lawful product, CBD oil, outside of work in violation of the public policy of North Carolina set forth in N.C. Gen. Stat. § 95-28.2. Defendants move to dismiss this claim by arguing that the THC in CBD oil remains illegal. Defendants further argue that Plaintiff was not meeting the reasonable expectations of her employer by having “high levels” of THC at work and failing to comply with their valid workplace drug policy.
 

@@ -110,7 +110,7 @@ For the above reasons I vote to allow the infant plaintiff to pursue his common 
 
 #### @RazakUberTechnologiesInc_3dCir2020
 
-[I. Facts]{.casesection}
+##### **I. Facts**
 
 Plaintiffs Ali Razak, Kenan Sabani, and Khaldoun Cherdoud are Pennsylvania drivers who utilize Defendant Uber Technologies' ride-sharing mobile phone application ("Driver App"). Plaintiffs bring this action on behalf of a putative class of all persons who provide limousine services, now known as UberBLACK, through Defendant's Driver App in Philadelphia, Pennsylvania.Plaintiffs bring individual and representative claims against Uber Technologies, Inc. and its wholly-owned subsidiary, Gegen, LLC, ("Gegen," and collectively, "Uber") for violations of the federal minimum wage and overtime requirements under the FLSA, the Pennsylvania Minimum Wage Act ("PMWA"), and the Pennsylvania Wage Payment and Collection Law ("WPCL").
 
@@ -134,7 +134,7 @@ Uber asserts that it places no restrictions on drivers' ability to engage in per
 
 Alternatively, Plaintiffs claim that they are "employees" under the FLSA because they are controlled by Uber when they are online and perform an integral role for Uber's business. The District Court agreed with Uber's position, and granted Uber's Motion for Summary Judgment on the question of whether Plaintiffs qualify as "employees" of Uber under the FLSA and PMWA. Plaintiffs now appeal from the summary judgment order.
 
-[III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._]{.casesection}
+##### **III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._**
 
 The minimum wage and overtime wage provisions at issue all require that Plaintiffs prove that they are "employees." Although Plaintiffs' case includes claims under the PMWA, Pennsylvania state courts have looked to federal law regarding the FLSA for guidance in applying the PMWA. The FLSA defines "employer" as "including any person acting directly or indirectly in the interest of an employer in relation to an employee," and "employee" as "any individual employed by an employer." 29 U.S.C. § § 203(d), (e)(1). Given the circularity of the definitions, federal courts, with guidance from the Department of Labor, have established standards to determine how to define employee and employer.
 
@@ -144,7 +144,7 @@ The Third Circuit utilizes the test out-lined in _Donovan v. DialAmerica Marketi
 
 In _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
 
-[IV. The District Court Opinion]{.casesection}
+##### **IV. The District Court Opinion**
 
 The District Court granted summary judgment to Uber ruling that drivers for UberBLACK are independent contractors within the meaning of the FLSA and similar Pennsylvania laws. The District Court, in applying the six factors, relied heavily on the analysis in _DialAmerica_ and other cases that had examined the use of internet or app-based programs for acquiring work.
 
@@ -152,9 +152,9 @@ The District Court applied all six factors in _DialAmerica,_ and on balance, fou
 
 The District Court determined that only two factors militated in Plaintiffs' favor. As limousine drivers, the service they render does not really require a special skill. Second, the limousine driving service rendered to Uber by UberBLACK drivers is an essential part of Uber's business as a transportation company. The District Court held that the movant demonstrated that there was no genuine dispute as to any material fact, and that a majority of the _DialAmerica_ factors leaned against employment status. The District Court granted Uber's motion for summary judgment and determined that Plaintiffs were independent contractors.
 
-[VI. Analysis]{.casesection}
+##### **VI. Analysis**
 
-[A. Genuine Disputes of Material Fact Exist]{.casesubsection}
+##### _A. Genuine Disputes of Material Fact Exist_
 
 For summary judgment to have been appropriate, there must have been no genuine disputes as to any material facts on the record, entitling Uber to judgment as a matter of law. As such, if there is a genuine dispute of material fact, the question of which _DialAmerica_ factors favor employee status is a question of fact that should go to a fact-finder. Here, the ultimate question of law is whether Plaintiffs are employees or independent contractors, which is for a judge to decide. But, if a court finds that there are any issues of material fact that remain in genuine dispute, it must resolve those disputes prior to granting summary judgment. In _DialAmerica,_ the parties stipulated to some facts and reserved the right to present testimony on any remaining disputed issues. Then, the district court held an evidentiary hearing on the remaining disputed issues of fact:
 
@@ -172,7 +172,7 @@ These factual issues refer directly to the factors which determine whether someo
 
 _DialAmerica_ teaches that where there are genuine questions of material fact that need resolution, these questions must go to a fact-finder. This case presents such genuine disputes of material facts. Uber submitted a Statement of Undisputed Material Facts to which Plaintiffs responded with almost a hundred pages of disputes. For example, disputed facts include whether Plaintiffs are operating within Uber's system and under Uber's rules, and whether Plaintiffs or their corporations contracted directly with Uber. Although the District Court states that its decision derived from undisputed facts, the disputes presented by the parties go to the core of the _DialAmerica_ factors and present a genuine dispute of material facts. Accordingly, we will remand to the District Court as summary judgment was inappropriate.
 
-[B. The "Right to Control" Factor]{.casesubsection}
+##### _B. The "Right to Control" Factor_
 
 To illustrate that there are genuine disputes remaining, we look to the first _DialAmerica_ factor: "the degree of the alleged employer's right to control the manner in which the work is to be performed." While not dispositive, this factor is highly relevant to the FLSA analysis. The District Court in this case held that the first factor supported a finding of independent contractor status. Actual control of the manner of work is not essential; rather, it is the right to control which is determinative. 
 
@@ -186,19 +186,19 @@ Further, these and other disputed facts regarding control demonstrate why this c
 
 Although both parties argue that there are no genuine disputes regarding control, the facts adduced show otherwise. While Uber determines what drivers are paid and directs drivers where to drop off passengers, it lacks the right to control when drivers must drive. UberBLACK drivers exercise a high level of control, as they can drive as little or as much as they desire, without losing their ability to drive for UberBLACK. However, Uber deactivates drivers who fall short of the 4.7-star Uber-BLACK driver rating and limits the number of consecutive hours that a driver may work.
 
-[C. Opportunity for Profit or Loss Depending on Managerial Skill]{.casesubsection}
+##### _C. Opportunity for Profit or Loss Depending on Managerial Skill_
 
 As with the right to control, the District Court held that there was no genuine dispute as to another factor—the opportunity for profit or loss depending on managerial skill. Again, we disagree with the District Court's conclusion. The District Court, in this case, ruled that this factor strongly favored independent contractor status because drivers could be strategic in determining when, where, and how to utilize the Driver App to obtain more lucrative trip requests and to generate more profits. Plaintiffs could also work for competitors and transport private clients.[^Razak9]
 
 However, other material facts reveal that there was and still is a genuine dispute. For example, Uber decides (1) the fare; (2) which driver receives a trip request; (3) whether to refund or cancel a passenger's fare; and (4) a driver's territory, which is subject to change without notice. Moreover, Plaintiffs can drive for competitors, but Uber may attempt to frustrate those who try, and most of the factors that determine an UberBLACK driver's Uber-profit, like advertising and price setting, are also controlled by Uber.[^Razak10] Under the circumstances, we believe that a reasonable fact-finder could rule in favor of Plaintiffs.[^Razak11] Thus, summary judgment was inappropriate.
 
-[D. Remaining _DialAmerica_ Factor Analysis]{.casesubsection}
+##### _D. Remaining _DialAmerica_ Factor Analysis_
 
 Of the remaining factors, some do not require further factfinding, while others still do. The fifth factor, degree of permanence of the working relationship, has genuine disputes of material fact. On one hand, Uber can take drivers offline, and on the other hand, Plaintiffs can drive whenever they choose to turn on the Driver App, with no minimum amount of driving time required.
 
 Alternatively, the fourth factor, whether the service rendered requires a special skill, is clearer. It is generally accepted that "driving" is not itself a "special skill." Although there may be a distinction between "driving" and "replicating the limousine experience," as noted by the District Court, it is not enough to overcome the presumption that driving is not a special skill. This fourth factor certainly weighs in favor of finding that Plaintiffs are employees.
 
-[VII. Conclusion]{.casesection}
+##### **VII. Conclusion**
 
 We determine summary judgment was inappropriate because genuine disputes of material facts remained. For the foregoing reasons, we will remand the matter for further proceedings.
 
@@ -221,9 +221,9 @@ Following remand by the Court of Appeals, the _Razak_ case proceeded to trial, e
 
 Dr. David Henry appeals from the adverse grant of summary judgment against his Title VII lawsuit. We have jurisdiction under 28 U.S.C. § 1291, and we affirm.
 
-[I. Background]{.casesection}
+##### **I. Background**
 
-[A. Henry and His Relationship with Castle]{.casesubsection}
+##### _A. Henry and His Relationship with Castle_
 
 Henry, a white male, is a board-certified general and bariatric surgeon licensed to practice medicine in Hawaii. He joined the staff of Adventist Health Castle Medical Center ("Castle") in 2015, and, with clinical privileges, performed surgeries at Castle's facility located in Kailua, Hawaii.
 
@@ -235,15 +235,15 @@ Castle decided which surgical assistants would support Henry, supervised their p
 
 Castle paid Henry $100 per 24-hour on-call shift if there was no emergency intervention, or $500 for each emergency that he handled. It issued Henry a 1099 tax form (an IRS form for independent contractor income)—never a W-2 (an IRS form for employee income). He reported his Castle earnings (which were only 10% of his 2016 income) on a Form 1040, which self-employed individuals use. Castle did not provide him any employee benefits, such as medical insurance or retirement.
 
-[B. Procedural History]{.casesubsection}
+##### _B. Procedural History_
 
 Henry complained of discrimination at Castle, which initiated a review of his past surgeries. This assessment led to his precautionary suspension, and, later, Castle's Medical Executive Committee recommended that Henry's clinical privileges be suspended until he completed additional training and demonstrated competency in various areas of concern. After an internal appellate process upheld the suspension, Henry filed suit in February 2018 for alleged violations of Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-2 ("Title VII"), for racial discrimination and retaliation.
 
 Castle moved for summary judgment, arguing that because Henry was an independent contractor, and not an employee, he did not enjoy Title VII's protections. After oral argument, the district court granted that motion. It highlighted how Henry was paid, his lack of typical employee benefits, and his tax treatment, as well as how both contracts characterized his status as an independent contractor and his ability to work at competing hospitals. While some factors weighed in Henry's favor—including how Castle handled the management of assistants and the high skill level and tools required to perform his surgeries—most of the evidence pointed towards Henry being an independent contractor.
 
-[II. Discussion]{.casesection}
+##### **II. Discussion**
 
-[B. Henry Was Not an Employee of Castle]{.casesubsection}
+##### _B. Henry Was Not an Employee of Castle_
 
 To determine if an individual is an employee under Title VII, we evaluate "the hiring party's right to control the manner and means by which the product is accomplished." A non-exhaustive list of factors we consider include:
 
@@ -286,7 +286,7 @@ On balance, the undisputed facts clearly show that Henry was Castle's independen
 
 Can a worker be a company's "employee," within the terms of the National Labor Relations Act, 29 U.S.C. § 151 _et seq.,_ if, at the same time, a union pays that worker to help the union organize the company? We agree with the National Labor Relations Board that the answer is "yes."
 
-[I]{.casesection}
+##### **I**
 
 The relevant background is the following: Town & Country Electric, Inc., a nonunion electrical contractor, wanted to hire several licensed Minnesota electricians for construction work in Minnesota. Town & Country (through an employment agency) advertised for job applicants, but it refused to interview 10 of 11 union applicants (including two professional union staff) who responded to the advertisement. Its employment agency hired the one union applicant whom Town & Country interviewed, but he was dismissed after only a few days on the job.
 
@@ -298,7 +298,7 @@ The United States Court of Appeals for the Eighth Circuit reversed the Board. It
 
 Because other Circuits have interpreted the word "employee" differently, we granted certiorari. We now resolve the conflict in the Board's favor.
 
-[II]{.casesection}
+##### **II**
 
 The Act seeks to improve labor relations ("eliminate the causes of certain substantial obstructions to the free flow of commerce," 29 U.S.C. § 151) in large part by granting specific sets of rights to employers and to employees. This case grows out of a controversy about rights that the Act grants to "employees," namely, rights "to self-organization, to form, join, or assist labor organizations, to bargain collectively ... and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection." § 157. We granted certiorari to decide only that part of the controversy that focuses upon the meaning of the word "employee," a key term in the statute, since these rights belong only to those workers who qualify as "employees" as that term is defined in the Act. See, _e. g.,_ § 158(a)(1) ("unfair labor practice" to "interfere with ... _employees_ in the exercise of the rights guaranteed in section 157 of this title") .
 
@@ -318,7 +318,7 @@ Further, a broad, literal reading of the statute is consistent with cases in thi
 
 Finally, at least one other provision of the 1947 Labor Management Relations Act seems specifically to contemplate the possibility that a company's employee might also work for a union. This provision forbids an employer (say, the company) to make payments to a person employed by a union, but simultaneously exempts from that ban wages paid by the company to "any ... employee of a labor organization, who is _also_ an employee" of the company. 29 U.S.C. § 186(c)(1). If Town & Country is right, there would not seem to be many (or any) human beings to which this last phrase could apply.
 
-[III]{.casesection}
+##### **III**
 
 Town & Country believes that it can overcome these general considerations, favoring a broad, literal interpretation of the Act, through an argument that rests primarily upon the common law of agency. It first argues that our prior decisions resort to common-law principles in defining the term "employee." And it also points out that the Board itself, in its decision, found "no bar to applying common law agency principles to the determination whether a paid union organizer is an 'employee'".
 
@@ -358,7 +358,7 @@ For contrasting views on union "salting", see [@Townsend2023a]; [@Dall2002]; [@E
 
 Five participants in internship programs offered by defendant Hearst Corporation ("Hearst") sue for minimum wage under the Fair Labor Standards Act ("FLSA") and the New York Labor Law ("NYLL"). At issue is whether the unpaid interns were "employees" of Hearst for the purposes of the FLSA under Glatt v. Fox Searchlight Pictures, Inc., 811 F.3d 528 (2d Cir. 2016). We affirm the judgment of the United States District Court for the Southern District of New York, for the reasons stated in Judge Oetken's thorough opinion.
 
-[I]{.casesection}
+##### **I**
 
 The question is whether Hearst furnishes bona fide for-credit internships or whether it exploits student-interns to avoid hiring and compensating entry-level employees. The factual record is voluminous and advances multiple narratives, some of them contradictory; but the following essentials are undisputed.
 
@@ -374,7 +374,7 @@ In February 2012, lead plaintiff Xuedan Wang filed suit alleging that she and a 
 
 Hearst moved for summary judgment against the six remaining plaintiffs under the Glatt test. The district court granted the motion, and five plaintiffs filed a timely appeal. 
 
-[II]{.casesection}
+##### **II**
 
 The FLSA defines "employee" by tautology: an "individual employed by an employer." 29 U.S.C. § 203(e)(1). The standard for "employee" is broad, but the Supreme Court has long recognized that not every individual who performs a service for an employer qualifies as an "employee" under the FLSA. "Employee" status depends upon the "economic reality" of the relationship between the putative employer and employee. 
 
@@ -400,13 +400,13 @@ The totality of the circumstances should be considered in view of the "purpose o
 
 Judge Oetken analyzed each Glatt factor and determined that all of them except the sixth (displacement of paid employees) either favored Hearst to some degree or were neutral. In assessing the totality of the circumstances, the court concluded that the "Plaintiffs were interns rather than employees as a matter of law."
 
-[III]{.casesection}
+##### **III**
 
-[A. Factors One and Seven]{.casesubsection}
+##### _A. Factors One and Seven_
 
 The appellants concede that factors one and seven (expectation of payment and entitlement to a job, respectively) favor Hearst. They argue, however, that these factors bear little weight because FLSA rights cannot be waived. The interns' reading of these factors defies the clear mandate of Glatt, which explained that "any promise of compensation, express or implied, suggests that the intern is an employee—_and vice versa._". These factors are crucial to understanding the "economic reality" of the internship relationship; where, as here, the programs were described specifically as unpaid internships for students—and students applied to the internships with that unambiguous understanding—the relationship is far less likely to take on an abusive quality.
 
-[B. Factors Two and Five]{.casesubsection}
+##### _B. Factors Two and Five_
 
 The second factor (training) is at the heart of the dispute on appeal. The interns argue forcefully that Judge Oetken misconstrued this factor by broadening the ambit of "training" to include "practical skills." Wagster contends that the experience of having "sat in on marketing meetings" should have been discounted by his assignment to "take meeting minutes." Similarly, appellants argue that we should disregard Spencer's experience "learning about photo shoots" because she already knew how to use a camera. The interns would thus limit the discussion of beneficial training under the second factor to education that resembles university pedagogy to the exclusion of tasks that apply specific skills to the professional environment.
 
@@ -414,7 +414,7 @@ Appellants' interpretation ignores our instruction in Glatt that a key element o
 
 The interns argue that the district court "ignored" evidence that Hearst's internships were a poor substitute for classroom learning. In fact, the court accepted the complaints as true, and for that reason, concluded that the factor weighed only "slightly" in favor of Hearst. At the same time, it recognized that those complaints do not wholly offset the undisputed fact that the internships _did_ provide beneficial training. For this reason, the appellants also misread the closely related fifth Glatt factor (valuable duration) in arguing that the interns were not receiving "beneficial learning" when they performed repetitive or similar tasks they had already "learned." As exemplified by the meeting minutes and photoshoots, practical skill may entail practice, and an intern gains familiarity with an industry by day to day professional experience. 
 
-[C. Factors Three and Four]{.casesubsection}
+##### _C. Factors Three and Four_
 
 The third and fourth Glatt factors relate to the integration of the internship to the student-intern's academic program and academic calendar, respectively. Both parties and the district court acknowledge that the interns' experiences diverge with respect to these factors. In general, however, the internships were arranged to fit the academic calendar and required academic credit as a prerequisite.
 
@@ -424,13 +424,13 @@ It is argued that "there was no connection between a formal education program an
 
 For the majority of the interns here, the undisputed evidence also favors Hearst with respect to the fourth factor (academic calendar). Rappaport, Spencer, and Wheels interned during their college summer breaks in accordance with the school calendar. Wang had deferred her studies to intern between school years, and Wagster was not an active student during his internship. Hearst did not fail to accommodate their academic schedules when they had no schedules to accommodate.
 
-[D. Factor Six]{.casesubsection}
+##### _D. Factor Six_
 
 The sixth factor (displacement) considers the extent to which an intern's work complements the work of paid employees or displaces it. An intern's work is complementary if it requires some level of oversight or involvement by an employee, who may still bear primary responsibility. The district court considered that the sixth factor favored the interns because the interns completed some work regularly performed by paid employees.
 
 This factor alone is not dispositive. An intern may perform complementary tasks and in doing so confer tangible benefits on supervisors. The Glatt factors intentionally omitted a criteria that had been advanced by the Department of Labor that the alleged employer derive no immediate advantage from the activities of the intern. It is no longer a problem that an intern was useful or productive.
 
-[IV]{.casesection}
+##### **IV**
 
 The facts of this case permit inferences that support Hearst with respect to certain Glatt factors, and inferences that support particular interns with respect to other factors. The interns and amici urge that such mixed inferences foreclose a ruling on summary judgment. We disagree, for the reasons explained by the district court, which weighed all factors under the totality of the circumstances, and concluded that the interns are not "employees" for the purposes of the FLSA.
 
@@ -448,11 +448,11 @@ This case originated in 2019 when athletes at several National Collegiate Athlet
 
 For the reasons stated below, we will affirm in part the District Court's decision denying Appellants' motion to dismiss. But because the District Court erred by applying the test from _Glatt v. Fox Searchlight Pictures, Inc.,_ 811 F.3d 528 (2d Cir. 2016), to determine whether college athletes can be employees under the FLSA, we will vacate and remand for application of an economic realities analysis grounded in common-law agency principles.
 
-[I. Background]{.casesection}
+##### **I. Background**
 
 Appellees contend that they are entitled to minimum wage under the FLSA for time spent on their sport-related activities. Appellants are thirteen colleges and universities that are members of the NCAA. The NCAA regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and some 500,000 athletes. The NCAA has multi-year, multi-billion-dollar contracts with ESPN, CBS, and Turner Sports to broadcast athletic competitions between D-I schools, and it distributes shares of those broadcasting fees to its member institutions. In addition to shares of broadcasting fees, D-I. schools receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered, either individually or as part of an NCAA conference, to broadcast their athletic competitions. To understand how collegiate sport generates these revenues, a brief historical survey is instructive.
 
-[A. College Athletics in Historical Context]{.casesubsection}
+##### _A. College Athletics in Historical Context_
 
 American intercollegiate athletics began when a group of Yale students formed a boat club in 1843; undergraduates at Harvard followed suit the next year. In 1852, the two clubs staged our nation's first intercollegiate athletic competition (The Race) on a lake in New Hampshire. From that first contest, the spectacle of college sports has grown steadily to become a multi-billion-dollar industry.
 
@@ -472,7 +472,7 @@ The colleges are not alone in profiting. One study reported that 45 million Amer
 
 By far the most obvious beneficiaries of college sports are a select few administrators, athletic directors, and coaches. The recently retired Alabama football coach, Nick Saban, earned over $11.4 million in his last year leading the Crimson Tide, making him the highest-paid coach in college sports and the eighth-highest-paid football coach in America. In fact, seven-teen of the 37 highest-paid coaches in _any_ sport in the United States make their living in college football or basketball. By contrast, university professors and administrators make far less. The University of Virginia, for example, pays $900,000 each year to its president and $600,000 to its law school dean while its basketball coach receives $5.2 million. This is not abnormal; in forty states, the highest-paid public employee is a D-I coach. Ohio State president E. Gordon Gee summarized this upside-down world when, asked whether he would consider firing his embattled football coach, he quipped, "I'm just hoping the coach doesn't dismiss me."
 
-[B. Amateurism and the "Student-Athlete" in College Athletics]{.casesubsection}
+##### _B. Amateurism and the "Student-Athlete" in College Athletics_
 
 We have opted against using a term both parties employ liberally in briefing: "student-athlete." Like "band-aid" or "laundromat," "student-athlete" is essentially a brand name that has become synonymous with its product. As scholars have noted, the term is an NCAA marketing invention designed to "conjure the nobility of amateurism," assert "the precedence of scholarship over athletics," and "obfuscate the nature of the legal relationship at the heart of a growing commercial enterprise." Context makes this vividly apparent.
 
@@ -490,7 +490,7 @@ Justice Kavanaugh, in an oft-cited concurrence, noted that the NCAA's remaining 
 
  Appellants raise similarly circular arguments. But as the Supreme Court recently suggested, such rationales no longer hold the weight they once did. The National Labor Relations Board (NLRB), likely in response to _Alston,_ is for the first time taking the position that college athletes are employees for purposes of the National Labor Relations Act (NLRA). In the midst of these changes, our Court is the first to consider whether college athletes may also be employees under the ambit of the related FLSA.
 
-[C. The Athletes at Bar]{.casesubsection}
+##### _C. The Athletes at Bar_
 
 The plaintiffs allege that although the NCAA and its member schools profit from their efforts, the NCAA's bylaws prohibit member schools from offering wages and forbid students from accepting them. To enforce these rules, the bylaws prescribe sanctions for violating schools and students, including suspension or termination of athletes, suspension of coaching staff, and disqualification of teams from competitions. The NCAA and defendant schools argue that, although athletes do not earn wages, the benefits of participation include payment in other forms, such as increased discipline, a stronger work ethic, improved strategic thinking, time management, leadership, and goal setting skills, and a greater ability to work collaboratively.
 
@@ -500,7 +500,7 @@ In their First Amended Complaint, the athletes asserted claims under the FLSA fo
 
 On August 25, 2021, the District Court rejected this argument. In the absence of controlling authority providing a specific multifactor test to evaluate whether athletes can be considered "employees" under the FLSA, the District Court applied the Court of Appeals for the Second Circuit's multifactor test from _Glatt,_ where the Court considered whether unpaid interns must be deemed employees under the FLSA and therefore compensated for their work. The District Court determined that _Glatt_ required it to assess the "economic reality" of the relationship by identifying whether the athletes or the NCAA and schools were the primary beneficiary of the relationship. After balancing and considering the seven _Glatt_ factors, the District Court concluded that the athletes had plausibly pleaded that they may be employees and denied the motion to dismiss. Subsequently, the District Court granted the Appellants' motion to certify an interlocutory appeal from the denial of their motion to dismiss. The question certified for appeal was: "Whether NCAA Division I athletes can be employees of the colleges and universities they attend for purposes of the Fair Labor Standards Act solely by virtue of their participation in interscholastic athletics."
 
-[II. Discussion]{.casesection}
+##### **II. Discussion**
 
 The FLSA protects "the rights of those who toil, of those who sacrifice a full measure of their freedom and talents to the use and profit of others." Accordingly, it gives specific, non-waivable minimum protections to individuals to ensure that each covered employee receives "a fair day's pay for a fair day's work," and is protected from "the evil of 'overwork' as well as 'underpay,
 
@@ -514,7 +514,7 @@ Importantly, in determining that the _Alamo_ "volunteers" were actually employee
 
 Since _McComb,_ we and other courts of appeal have adopted multifactor tests to analyze, based on the circumstances of the whole relationship between the parties, whether individuals are employees or independent contractors, whether entities are joint employers, and whether individuals are employees or interns. Here, we confront circumstances unlike those previously addressed, but core principles that traditionally define an employee-employer relationship are no less applicable.
 
-[A. Determining the Employment Status of College Athletes]{.casesubsection}
+##### _A. Determining the Employment Status of College Athletes_
 
 In looking to "the economic realities of the relationship" between college athletes and their schools or the NCAA, we begin by noting that athletes in the collegiate context are _sui generis._ After all, merely playing sports, even at the college level, cannot always be considered commercial _work_ integral to the employer's business in the same way that the activities performed by independent contractors or interns are assumed to be in previously mentioned multifactor tests. The Supreme Court has acknowledged this possibility, explaining that the FLSA does not cover a person who, "without promise or expectation of compensation, but solely for his personal purpose or pleasure" performs "activities carried on by other persons either for their pleasure or profit." The Department of Labor (DOL) makes the same distinction. But just as intuitively, with professional athletes as the clearest indicators, playing sports can certainly constitute compensable work. Any test to determine college athlete employee status under the FLSA must therefore be able to identify athletes whose play is _also_ work.
 
@@ -532,7 +532,7 @@ Indeed, the facts that animate _Glatt_ are not sufficiently analogous to the cas
 
 We therefore hold that college athletes may be employees under the FLSA when they (a) perform services for another party, (b) "necessarily and primarily for the other party's benefit," and (d) in return for "express" or "implied" compensation or "in-kind benefits," If so, the athlete in question may plainly fall within the meaning of "employee" as defined in 29 U.S.C. § 203(e)(1). Ultimately, the touchstone remains whether the cumulative circumstances of the relationship between the athlete and college or NCAA reveal an economic reality that is that of an employee-employer.
 
-[B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims]{.casesubsection}
+##### _B. The "Frayed Tradition" of Amateurism is No Shield to FLSA Claims_
 
 Appellants argue that the history and tradition of amateurism is sufficient not only to remove college athletes from the general population of people whose FLSA employment status is routinely determined through the application of multifactor tests, but also compels dismissal of this suit. We disagree. Although the Supreme Court remarked in _Board of Regents_ dicta that "the NCAA plays a critical role in the maintenance of a revered tradition of amateurism in college sports," it has since unanimously clarified that _Board of Regents_ did not expressly approve of _every_ NCAA limit on athlete compensation or foreclose "any meaningful review of those limits today." The NCAA's athlete compensation rules, after all, were not even at issue in _Board of Regents._ That case instead concerned the NCAA's attempt to exercise monopoly control over television broadcast agreements.
 
@@ -548,7 +548,7 @@ We disagree with our sister circuit court's comparison of college athletes to pr
 
 In sum, for the purposes of the FLSA, we will not use a "frayed tradition" of amateurism with such dubious history to define the economic reality of athletes' relationships to their schools. Instead, we believe that the amateurism that Judge Hamilton calls into question in his "note of caution" highlights the need for an economic realities framework that distinguishes college athletes who "play" their sports for predominantly recreational or noncommercial reasons from those whose play crosses the legal line into work protected by the FLSA. Accordingly, we also hold that college athletes cannot be barred as a matter of law from asserting FLSA claims simply by virtue of a "revered tradition of amateurism" in D-I athletics.
 
-[III. Conclusion]{.casesection}
+##### **III. Conclusion**
 
 In light of the foregoing, we will vacate the District Court's order, remand for further proceedings in compliance with this opinion, and direct the District Court to grant leave to amend.
 
@@ -556,13 +556,13 @@ In light of the foregoing, we will vacate the District Court's order, remand for
 
 I write separately to explain why I concur only in the judgment.
 
-[III. Traditional multifactor tests and the amateurism principle are unhelpful guides.]{.casesection}
+##### **III. Traditional multifactor tests and the amateurism principle are unhelpful guides.**
 
 I agree with the majority's rejection of the tests in cases distinguishing employee workers from independent-contractor workers or interns. In those cases, the analysis began with the undisputed premise that individuals performed "work" that was necessary and integral to their employer's business. Here, the critical antecedent question is whether student-athletes are "workers" providing "services" to an employer.
 
 I do not question the existence or virtue of amateurism in college athletics. But a combination of market forces, decades-spanning behavior of the NCAA and some Division I teams and athletes, and the Supreme Court's relevant antitrust decisions have enervated that concept, at least for some student-athletes. Whatever legal force amateurism once had in the Division I context, it is now insufficient to decide cases like this one. Instead, we must look to the language and rules provided by statute and Supreme Court decisions.
 
-[IV. Play is not work.]{.casesection}
+##### **IV. Play is not work.**
 
 The FLSA applies only to "employees" who perform "work" for an "employer." So an obvious starting point is to ask whether a student-athlete may play her chosen sport because she wants to play, not to work primarily for her university's benefit. Play is arguably a basic human good that many pursue for its own sake. It is not work, even though it may involve sustained, regulated, physical, or intellectual exertion and combine with other goals such as competition, teamwork, fitness, or personal glory.
 
@@ -578,7 +578,7 @@ Plaintiffs alleged that their college athletic experiences constitute work. But 
 
 The majority opinion helpfully acknowledges this nettlesome issue. But in my view, its definitional test does not adequately probe the distinction between play and work, nor explain how district courts should do so. In the following sections, I will explain my other scruples about the majority's proposed test and offer some affirmative thoughts.
 
-[V. The economic-reality test continues to apply in FLSA cases.]{.casesection}
+##### **V. The economic-reality test continues to apply in FLSA cases.**
 
 Congress and the Supreme Court have created a patchwork of tests for determining employee status under federal labor and employment laws. Initially, the Court used an "economic realities" test in cases applying the National Labor Relations Act (NLRA), FLSA, and Social Security Act (SSA). Almost immediately, Congress passed a joint resolution (the "Gearhart Resolution") rejecting the economic-realities test for the NLRA and SSA, and reiterating its intention that employee status under those statutes should be determined by traditional agency law principles. But Congress did not similarly amend the FLSA.
 
@@ -592,11 +592,11 @@ Other courts wrestling with the FLSA-employee question in the specific context o
 
 So while I appreciate the majority's attempt to fashion a test using common-law agency principles from NLRA cases, I respectfully decline to join that analysis without clearer direction from the Supreme Court. Instead, I think that the proper test for this case is to determine the economic reality of the parties' relationships considering the circumstances of the whole activity.
 
-[VI. The majority's test raises but does not answer some important questions.]{.casesection}
+##### **VI. The majority's test raises but does not answer some important questions.**
 
 In addition to my doubts about relying on common-law agency principles in the FLSA context, I find the majority's four-part test wanting in some respects.
 
-[a]{.casesubsection}
+##### _a_
 
 The test begins by asking whether the student-athlete performs "services" for his college or university. The majority does not define "services," but its test largely tracks the Restatement (Third) of Agency's definition of servant. That definition has not materially changed since the first Restatement of Agency (1933):
 
@@ -608,17 +608,17 @@ Webster's New International Dictionary 2288 (2d ed. 1950) defines "service" as t
 
 So the first part of the majority's test immediately raises—but does not clarify— the critical distinction between "service," "labor," or "work," as distinguished from play or sport. In a general sense, student-athletes serve the teams for which they play. But that is true of anyone who has ever played on a team: each player contributes her measure of skill and effort— her services, as it were—for the good of the entire team. That's the whole point of team sports. But one's contribution in the service of teamwork does not necessarily create an employment relationship.
 
-[b]{.casesubsection}
+##### _b_
 
 The second part of the majority's test asks whether the student-athlete's team participation is necessarily and primarily for the university's benefit. Again, there is a sense in which student-athletes obviously play for the benefit of their university's team. The NCAA Transfer Portal offers student-athletes the flexibility each year to choose where they wish to play. Once the student-athlete chooses, he enrolls in his chosen college or university and becomes a member of its team. But that has little or nothing to do with employment status; it's a basic correlate of matriculation and team membership. Naturally, the student's athletic prowess benefits his chosen team and university because that is how team sports operate. Division I student-athletes play or provide athletic "services" for the benefit of their team just as Division II, Division III, and high school athletes play or provide athletic "services" for the benefit of their respective teams. But something more is required to convert the majority's university-as-beneficiary factor into a useful indicia of employment.
 
 For example, in _Alamo Foundation,_ the religious foundation doubled as a commercial enterprise through its operation of profit-seeking "businesses serving the general public in competition with ordinary commercial enterprises." The enterprise included "service stations, retail clothing and grocery outlets, hog farms, roofing and electrical construction companies, a recordkeeping company, a motel, and companies engaged in the production and distribution of candy." The putative volunteers' work for those "ordinary commercial businesses" produced economic benefits for the foundation, so it was appropriate to characterize them as employees. Here, the factfinder should consider whether a university's sports team is (a) economically comparable to one of the Alamo Foundation's profit-seeking businesses, or (b) essentially an extra-curricular activity creating at best indirect and attenuated economic benefit for the university.
 
-[c]{.casesubsection}
+##### _c_
 
 The third factor of the majority's test asks whether the student-athlete plays under the university's control or right of control. This principle of agency law is not particularly helpful in the context of intercollegiate sports. High school students do not set their own rules for recruitment and college students do not set their own rules for eligibility and participation. Such autonomy would invite chaos, undermine teamwork, and destroy competition. Because team sports are collective actions, all teams have coaches and administrators that evaluate players, assemble rosters, allocate playing time, make personnel changes, determine strategy, call plays, set practice and game schedules, arrange transportation, and so forth. The players do not act independently of each other and the coaches because, again, team sports are collective actions requiring significant direction and coordination. The control or right-of-control factor does not go very far to distinguish Division I athletes from Division II athletes, Division III athletes, or other organized team-sport participants.
 
-[d]{.casesubsection}
+##### _d_
 
 The fourth factor of the majority's test asks whether the student-athlete provides services "in return for 'express' or 'implied' compensation of 'in-kind benefits.'" I agree that this factor is relevant to the work/play and employee/non-employee distinctions. The Supreme Court declared so in _Walling,_ and _Alamo Found._
 
@@ -634,7 +634,7 @@ Compared to FBS schools, the revenue vs. nonrevenue issue is presumably even mor
 
 I tend to agree with Judge Hamilton's intuition that the economic-reality question probably shakes out differently for FBS football players and March Madness-level men's basketball players than it does for other student-athletes. _See_ _Berger v. NCAA,_ 843 F.3d 285, 294 (7th Cir. 2016) (Hamilton, J., concurring). _See also_ _NCAA v. Alston,_ 594 U.S. 69, 141 S. Ct. 2141, 2166-69, 210 L.Ed.2d 814 (2021) (Kavanaugh, J., concurring) (focusing on the "enormous sums of money" generated in college athletics and noting distinction between revenue and "nonrevenue-raising sports"); _Agnew v. NCAA,_ 683 F.3d 328, 340-41 (7th Cir. 2012) (positing a relevant labor market, for purposes of the Sherman Act, consisting of "big-time college football programs"). That is a factual matter that the parties can develop in discovery. But any test that purports to gauge "economic reality" must be sensitive to the glaring difference between revenue generating and nonrevenue intercollegiate sports.
 
-[VII. The FLSA-employee test should account for longstanding precedent and existing law.]{.casesection}
+##### **VII. The FLSA-employee test should account for longstanding precedent and existing law.**
 
 For over 65 years, courts across the country have determined that student-athletes do not qualify as employees of their universities. 
 
@@ -642,7 +642,7 @@ As the Supreme Court emphasized in the antitrust context, changing market realit
 
 This case also presents difficult collateral legal issues that should give us pause. For example, the related-statutes canon requires harmonious interpretation of statutes. Employee-employer relationships are governed by Title VII, among other things, but Title VII's prohibition against employment discrimination because of sex sits uneasily with Title IX regulations and policy interpretations mandating equal "participation opportunities" (read, "participants") between the two sexes. FLSA employee status for student-athletes would also roil the percolating debate under Title IX over transgender athletes' participation on opposite-sex teams because Title VII, which would apply to collegiate athletics if student-athletes have employee status under FLSA, prohibits employment discrimination on the basis of gender identity. The notion that sports are integral to a university's educational purpose, rather than employment programs themselves, is the basis for several tax-advantageous rules benefitting universities and student-athletes, such as unrelated business income tax, and the taxation of athletic scholarships. And our disposition of this interlocutory appeal could impact student-athletes' eligibility for federal student aid, state worker's compensation regimes, student-athletes' immigration status, and the employment status of students participating in other college-supervised extracurricular activities. These potentially disruptive collateral effects implicate many other statutory schemes, revealing the legislative rather than adjudicative nature of plaintiffs' claims and providing another reason to slow down and proceed warily.
 
-[VIII. Conclusion]{.casesection}
+##### **VIII. Conclusion**
 
 To the extent that the majority holds simply that it is factually possible for a Division I student-athlete to be an employee under the FLSA, I concur in that judgment.
 
@@ -692,7 +692,7 @@ Until 2020, Baltimore County sent incarcerated people from its detention center 
 
 Courts—including this one—are generally skeptical of Fair Labor Standards Act claims brought by incarcerated workers. But there is no categorical rule that such workers cannot be covered by the Act when they work outside their detention facility's walls and for someone other than their immediate detainer. Having clarified the nature of the required analysis, we remand for a fresh look at the facts under those standards.
 
-[I.]{.casesection}
+##### **I.**
 
 Baltimore County operates its own recycling center. The Department of Public Works (DPW) oversees the facility, where residential recycling from throughout the County is sorted. After being separated from non-recyclable waste, recyclable materials are further sorted into bales of "scrap metal, cardboard, mixed paper," "tin," "aluminum," and "four types" of plastic. The bales are then sold at auction to "commercial purchasers."
 
@@ -706,7 +706,7 @@ The district court conditionally certified a collective action to litigate the f
 
 The district court granted the County's motion for summary judgment and dismissed Scott's suit. The court concluded that Scott's claims all "failed as a matter of law" because neither he nor the people he represented were "employees" under the Act or its state law equivalents.
 
-[III.]{.casesection}
+##### **III.**
 
 The Fair Labor Standards Act requires "a minimum wage and overtime pay for all covered employees." This appeal comes down to a single question: Were Scott and other members of the work detail at the recycling center "employees" under the Act?
 
@@ -722,7 +722,7 @@ At the same time, we reject Scott's assertion that _Harker_'s entire approach is
 
 Under _Harker,_ we consider three "factors" in deciding whether a particular detained worker is covered by the Act. Although _Harker_ and _Matherly_ discussed the factors in a different order, we arrange them as we do here because it allows us to begin with what looks like our previous cases before turning to what looks different. We start by asking whether the relationship between the workers and their putative employer had the hallmarks of "a true employer-employee relationship." We next consider whether the purposes of the Fair Labor Standards Act call for its application. Finally, we reach what turns out to be the critical question here: whether the putative employer had "a rehabilitative, rather than pecuniary, interest in" Scott's and his fellow plaintiffs' labor.
 
-[1.]{.casesubsection}
+##### _1._
 
 This Court has concluded that detainees who "have the opportunity" to work "solely at the prerogative of the custodian" "do not deal at arms' length" with their putative employer like the typical worker in the national economy. Such workers, the Court has explained, "have not made the bargained-for exchange of labor for mutual economic gain that occurs in a true employer-employee relationship" and the custodian "wields virtually absolute control over them to a degree simply not found in the free labor situation of true employment." 
 
@@ -740,7 +740,7 @@ A comparison between detainees on work release (who the County admits are employ
 
 To sum up: Because Scott needed DOC's approval to work at the recycling center, he did not bargain at arms' length with his putative employer under this Court's precedent. At the same time, however, there are—at minimum—genuine disputes of material fact that bear on whether Scott's putative employer exercised so much control as to prevent Scott from qualifying as an employee. Especially where "no single factor is dispositive," this factor alone is not enough to win this case for the County.
 
-[2.]{.casesubsection}
+##### _2._
 
 We next ask whether the purposes of the Act call for covering workers like Scott. Here too, our analysis points in both directions, but this time it tends to favor Scott.
 
@@ -762,7 +762,7 @@ That brings us to the second reason it matters that this work was done outside t
 
 That risk was realized here, too. The record contains evidence that the County sought to "get rid of the temp workers" at the recycling center—thereby eliminating what would have been at least minimum wage paying jobs—and thus "decrease costs" by getting "more consistent inmate numbers" to do the work instead. Perhaps the best proof that the use of incarcerated workers kept other workers from getting these jobs is that after the County stopped using incarcerated workers at the onset of the COVID-19 pandemic (and this lawsuit), it hired more temporary workers for the recycling center and paid them the minimum wage.[^scott2]
 
-[3.]{.casesubsection}
+##### _3._
 
 We arrive now at the last _Harker_ factor—whether the "inmates perform work... to turn profits for their supposed employer" or instead "as a means of rehabilitation and job training." 
 
@@ -796,7 +796,7 @@ To once again sum up: The question under this _Harker_ factor is whether DPW's p
 
 The district court, of course, did not have before it our analysis of these issues when it considered the County's motion for summary judgment. For that reason, it is understandable that the court's framing of the relevant legal standards differed from those set out in this opinion in various important respects. True, the de novo standard of review means we could apply those standards ourselves to decide whether to affirm the district court's grant of summary judgment to the County. But "we remain mindful that we are a court of review, not of first view", and we think it better to follow our usual practice of allowing the district court to conduct the required analysis in the first instance. Such an approach seems especially appropriate here given the inherently fact-intensive nature of the relevant inquiry. To be sure, the "_ultimate_ conclusion" about whether a given worker is an employee under the Act presents "a legal question." But many of the subsidiary questions that guide that analysis are, unsurprisingly, "factual questions." So while we do not foreclose the possibility of renewed summary judgment proceedings on remand, we emphasize that any factual disputes—including those bearing on the degree of control exercised at the recycling center and DPW's primary purpose in using incarcerated workers— must be viewed in the light most favorable to the non-moving party.
 
-[* * *]{.casesection}
+##### *** * ***
 
 Congress may well not have had workers like Scott in mind when it enacted the Fair Labor Standards Act. "But ... it is ultimately the provisions of our laws rather than the principal concerns of our legislators by which we are governed." And "the fact that a statute can be applied in situations not expressly anticipated by Congress does not demonstrate ambiguity. It demonstrates breadth." These observations ring especially true for this statute—one "whose striking breadth" courts have long recognized. 
 
@@ -826,7 +826,7 @@ Capital Accounts set Mr. Clark's wages and paid into his inmate trust account th
 
 The other privately operated joint ventures at WVCF—the wire shop and the sewing shop—pay inmate workers at rates comparable to non-inmate employees, up to $18.00 per hour. Mr. Clark "met, and meets, all of the qualifications for employment in" the wire shop and the sewing shop. The complaint provides no information about the duties or tasks performed by wire shop and sewing shop workers.
 
-[III. FLSA Claims]{.casesection}
+##### **III. FLSA Claims**
 
 The FLSA directs that "[e]very employer shall pay to each of his employees" a minimum wage, which currently stands at $7.25 per hour—nearly five times Mr. Clark's top wage at the call center. 29 U.S.C. § 206(a). The FLSA further directs that employers must pay a higher rate for overtime work, see 29 U.S.C. § 207(a), and that they may not discharge or discriminate against employees who seek to vindicate their rights under the FLSA, see 29 U.S.C. § 215(a)(3).
 
@@ -838,7 +838,7 @@ If inmates are excluded from the FLSA, it is "only because of presumed legislati
 
 Further, no controlling Seventh Circuit precedent supports the defendants' position that Mr. Clark's incarceration alone precludes him from FLSA coverage. In fact, in _Vanskike v. Peters_, 974 F.2d 806 (7th Cir. 1992), the Seventh Circuit held that a worker's coverage under the FLSA requires a fact-intensive inquiry—an inquiry that the defendants have not undertaken here. Further, in _Vanskike_ and _Bennett_, the Seventh Circuit endorsed decisions holding that incarceration does not preclude FLSA coverage where the prisoner performs work for a third party and the work is unrelated to operation of the prison. Decisions from other courts in this Circuit do not call for a different outcome. Accordingly, this Court denies the defendants' motion based on the clear guidance provided by the Seventh Circuit in the cases on which the defendants rely.
 
-[A. _Carter v. Dutchess Community College_: "An inmate may be entitled under the law to receive the federal minimum wage."]{.casesubsection}
+##### _A. _Carter v. Dutchess Community College_: "An inmate may be entitled under the law to receive the federal minimum wage."_
 
 The defendants build their argument that the FLSA never protects prisoners on snippets from three Seventh Circuit decisions: _Vanskike_, _Bennett v. Frank_, 395 F.3d 409 (7th Cir. 2005), and _Sanders v. Hayden_, 544 F.3d 812, 814 (7th Cir. 2008). All three precedents remain good law, but none dealt with the facts of this case. Moreover, _Vanskike_ and _Bennett_ recognize that the Second Circuit provided the correct framework for resolving the facts Mr. Clark alleges in _Carter v. Dutchess Community College_, 735 F.2d 8 (2d Cir. 1984). Therefore, this Court follows the Seventh Circuit's guidance and begins its analysis with Carter.
 
@@ -846,11 +846,11 @@ Carter was an inmate at a New York state prison. Dutchess Community College offe
 
 The Second Circuit considered "whether prisoners ever may be considered employees for the purposes of the minimum wage provisions of the FLSA." It squarely rejected the defendants' assertion that prisoners cannot be FLSA employees and held "that an inmate may be entitled under the law to receive the federal minimum wage from an outside employer." Incarceration is not dispositive. Rather, to determine whether any worker is a FLSA "employee," a "full inquiry into the true economic reality is necessary."[^clark1]
 
-[B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality]{.casesubsection}
+##### _B. _Vanskike_, _Bennett_, and _Sanders_: Totality of the Circumstances and Economic Reality_
 
 The defendants correctly note that, in _Vanskike_, _Bennett_, and _Sanders_, the Seventh Circuit held that inmate workers were not employees protected by the FLSA. However, a careful reading of each case reveals that these were fact-specific rulings, not categorical holdings that inmates can never be FLSA employees. Indeed, _Vanskike_ directed courts to assess the totality of the worker's economic reality when determining FLSA coverage, and both _Vanskike_ and _Bennett_ counseled that _Carter_'s holding that prisoners may be FLSA employees should govern cases where a prisoner performs work unrelated to prison operations.
 
-[1. _Vanskike_: Courts "must examine the ‘economic reality' of the working relationship."]{.casesubsubsection}
+##### 1. _Vanskike_: Courts "must examine the ‘economic reality' of the working relationship."
 
 _Vanskike_, an Illinois prisoner, sued the director of the Illinois Department of Correction under the FLSA for work he performed in Illinois state prisons. There is no indication that _Vanskike_ performed any of the work at issue for a private enterprise like the one Mr. Clark alleges.
 
@@ -860,7 +860,7 @@ All defendants quote _Vanskike_ for the proposition that the FLSA "does not appl
 
 _Vanskike_'s bottom line is that a prisoner's status as a FLSA employee is a complicated question requiring a fact-intensive analysis. In _Vanskike_, the Seventh Circuit undertook the analysis in the case of a prisoner performing forced labor for his custodians. But Mr. Clark sues over voluntary work for a commercial enterprise, so there is no basis for finding that _Vanskike_'s fact-intensive analysis would yield the same result. Further, the defendants have not undertaken _Vanskike_'s fact-intensive analysis to the facts of this case, so the Court has no grounds to rely on _Vanskike_ as a basis for dismissal. _Vanskike_ requires that Mr. Clark's FLSA claims move forward.
 
-[2. _Bennett_: "We have no quarrel with ... _Carter_."]{.casesubsubsection}
+##### 2. _Bennett_: "We have no quarrel with ... _Carter_."
 
 Unlike _Vanskike_, _Bennett_ offers almost no factual development. The question at issue was whether inmates of a privately operated Wisconsin prison were FLSA employees. The Court cited _Vanskike_ and cases from other circuits for the broad rule that "[t]he Fair Labor Standards Act is intended for the protection of employees, and prisoners are not employees of their prison, whether it is a public or a private one." The Court emphasized that it had "no doubt that the cases" it "cited are correct" and that "employment status doesn't depend on whether the alleged employer is a public or a private body." 
 
@@ -880,7 +880,7 @@ Fourth, _Bennett_ expressly approved _Carter_ and endorsed the notion that the F
 
  In short, the Seventh Circuit directed in _Vanskike_ that a court faced with the question of the FLSA's application to an inmate's work must undertake a detailed factual inquiry. The _Vanskike_ Court completed that inquiry and determined that an inmate performing forced labor for his custodians is not their employee. _Bennett_ deemed _Vanskike_ and the decisions undergirding it correctly decided and extended its application only to prison labor for private entities contracted to provide custodial services. It does not support the broad rule the defendants advance, and it has no bearing on Mr. Clark's claims that he provided debt collection services for a private enterprise.
 
-[3. _Sanders_: Further Support for _Vanskike_ and _Carter_]{.casesubsubsection}
+##### 3. _Sanders_: Further Support for _Vanskike_ and _Carter_
 
 In _Sanders_, a civilly committed sexually violent person sued state officials under 42 U.S.C. § 1983 for "reducing his pay for the work he performed at" his facility. The Seventh Circuit's decision provides no information about the work Sanders performed, whether he performed it voluntarily, or whether he performed it for his custodians or a separate corporate enterprise.
 
@@ -888,7 +888,7 @@ The Seventh Circuit _sua sponte_ considered Sanders' claims under the FLSA and r
 
 As with _Bennett_, the defendants have not persuaded the Court that _Sanders_' isolated statement that "inmates are not covered by the FLSA" dictates that Mr. Clark's FLSA claims fail. The cases are not factually analogous. Moreover, _Sanders_ supports its proclamation with citations to _Vanskike_, which held that FLSA coverage requires a fact-specific inquiry, and _Bennett_, which built on _Vanskike_ and endorsed Carter. Sanders also cites _Danneskjold_, which upheld _Carter_'s holding that prisoners can be FLSA employees and adopted _Vanskike_'s fact-intensive economic reality analysis. Although _Danneskjold_ held that the FLSA does not cover "prison labor that produces goods or services for the use of the prison," it explicitly declined to "address the questions that arise when the prison labor is employed to produce goods or services that are sold in commerce." Those are precisely the questions Mr. Clark has raised, and a decision upholding _Vanskike_, _Carter_, and _Danneskjold_ cannot be the basis for dismissing them.
 
-[C. Other District Court Decisions]{.casesubsection}
+##### _C. Other District Court Decisions_
 
 The defendants cite a series of District Court decisions for the proposition that a prisoner paid by a private entity for work performed at a prison is not an FLSA employee. But those precedents do not bind this Court, and, with one exception addressed below, they are not on all fours with Carter or this case.
 
@@ -902,7 +902,7 @@ In _Bridges v. Carter_, the Northern District of Indiana considered a constituti
 
 _Eltzroth v. Klutz_ was another constitutional challenge to pay deductions and was resolved on the same grounds. The factual discussion indicates that Eltzroth was paid at least the minimum wage, and there is no indication he asserted any claim or argument based on FLSA's wage requirements.
 
-[D. _Vanderpool_: A Respectful Disagreement]{.casesubsection}
+##### _D. _Vanderpool_: A Respectful Disagreement_
 
 That leaves _Vanderpool v. Capital Accounts_ (S.D. Ind. Mar. 11, 2024), a lawsuit identical to this one filed by another inmate who worked for pennies at the WVCF call center. Judge Hanlon granted a motion to dismiss by Capital Accounts, finding that _Vanskike_, _Bennett_, and _Sanders_ "hold—broadly as a matter of law—that prisoners are not employees under the FLSA." For the reasons set out above, the Court respectfully disagrees with that broad reading of those precedents.
 
@@ -910,7 +910,7 @@ Judge Hanlon also relied on _Smith v. Dart_, which echoed _Bennett_ and _Sanders
 
 It is fundamental that "a district court decision does not have stare decisis effect; it is not a precedent." "The fact of such a decision is not a reason for following it." For the reasons set out above, the Court respectfully disagrees with the defendants' interpretation of the Seventh Circuit's FLSA precedents and, by extension Judge Hanlon's decision in _Vanderpool_ applying that interpretation.
 
-[E. Conclusion]{.casesubsection}
+##### _E. Conclusion_
 
 The Seventh Circuit has not directly confronted the question of whether the FLSA protects an inmate hired, supervised, and paid by a private, for-profit company to work on prison grounds for the exclusive purpose of enriching the private company. The defendants here do not address that question either and instead ask the Court to dismiss Mr. Clark's FLSA claims for the sole reason that he is a prisoner.
 
@@ -934,11 +934,11 @@ Plaintiffs Kate Egan, Kenneth Berry, Michelle Brandt, Nicole Gonzalez, and Amber
 
 Meijer seeks dismissal under Rule 12(b)(6) for failure to state a claim upon which relief can be granted.
 
-[Background]{.casesection}
+##### **Background**
 
 This case arises from a dispute regarding A.W. and Meijer's alleged failure to pay the plaintiffs and those similarly situated for all the time they worked. The plaintiffs are Contact Center Agents (CCAs)—remote, hourly workers who field calls from Meijer customers regarding various issues concerning Meijer's website and retail stores. Plaintiffs assert that A.W. and Meijer have failed to properly pay them for time spent loading and logging into computer systems. A.W. has asserted a counterclaim against plaintiffs for breach of contract for failing to properly and completely report the hours they claim to have worked.
 
-[A\. Plaintiffs' suit against A.W. and Meijer]{.casesubsection}
+##### _A\. Plaintiffs' suit against A.W. and Meijer_
 
 A.W. Companies offers, among other things, call center services that outsource its employees to provide live, telephonic customer support to various businesses. Meijer is one such business. The specific parameters of A.W.'s services to Meijer are outlined in a Statement of Work, which sets forth requirements for how CCAs should handle calls from Meijer customers.
 
@@ -946,9 +946,9 @@ The thrust of plaintiffs' claims are that A.W. and Meijer fail to properly pay C
 
 Though plaintiffs' paychecks come from A.W., they allege that A.W. and Meijer are joint employers and that as a result, both are liable for unpaid overtime wages under the FLSA and similar state wage laws. In this regard, plaintiffs specifically assert that Meijer is involved in the pre-screening process for CCAs and "has the right at any time and for any reason to reject" a CCA from being staffed on Meijer's account with A.W. Once staffed on the Meijer account, plaintiffs contend, they are required to adhere to Meijer's training materials and protocols for requesting time off work. Plaintiffs further allege that A.W. provides Meijer with performance metrics for each CCA working with its customers, including plaintiffs. In addition, according to plaintiffs, Meijer provides "the platform for call distribution, call center reporting, and management of queues" that CCAs use to assist Meijer customers. Plaintiffs further contend that Meijer provides CCAs with Meijer e-mails and phone scripts, which direct CCAs to "introduce themselves as Meijer agents to customers" and "represent to Meijer customers that they are located at Meijer's headquarters in Grand Rapids, Michigan." Finally, plaintiffs contend that they are subject to performance reviews and discipline by both A.W. and Meijer. Plaintiff Brandt specifically contends that she was terminated at Meijer's direction following two negative performance reviews.
 
-[Discussion]{.casesection}
+##### **Discussion**
 
-[A\. Meijer's motion to dismiss]{.casesubsection}
+##### _A\. Meijer's motion to dismiss_
 
 Meijer also contends that plaintiffs have not alleged facts sufficient to plausibly show they are entitled to relief. Specifically, Meijer asserts that plaintiffs have not adequately alleged Meijer is a joint employer and therefore do not meet the statutory requirements for liability under the FLSA and the referenced state wage statutes.
 
@@ -968,7 +968,7 @@ Though plaintiffs' factual allegations are far from determinative on the merits,
 
 Oliver Bautista brings this action against PR Gramercy Square Condominium, Gramercy Square Condominiums LLC, Residential Management Group, LLC d/b/a Douglas Elliman Property Management, and Alket Gjeci (collectively, the "Gramercy Defendants"), as well as Clipper Realty, Inc., Clipper Equity GP, LLC, Clipper Equity, LLC, and Clipper Equity New York, LP (collectively, the "Clipper Defendants") alleging race, color, and national origin discrimination and a hostile work environment in violation of city, state, and federal laws. 
 
-[I. Factual Background]{.casesection}
+##### **I. Factual Background**
 
 Bautista is a Hispanic male of Dominican national origin, currently residing in Brooklyn, New York. In December 2019, Bautista interviewed with Joseph Guraj for a doorman position at the Gramercy Square Condominium Complex. He was subsequently hired as a part-time "floater" on December 20, 2019, and was scheduled to work two days per week, as well as additional shifts when other doormen called out from work. The letter of employment confirming this position was printed on "Clipper Equity LLC" letterhead. 
 
@@ -988,9 +988,9 @@ On May 18, 2020, Bautista emailed Lee, requesting a call to discuss the terminat
 
 The complaint further alleges a pattern of discriminatory terminations under Gjeci. Victor Dash, an African-American co-worker of Bautista, was unable to work evenings because of a different job. Previous supervisors had accommodated this, but Gjeci refused to do so, and Dash was ultimately fired. Furthermore, a Hispanic co-worker, not named in the SAC, informed Bautista that Gjeci suspended a Black co-worker named Rahmel Calderon for "insubordination" after Calderon asked for permission to leave work 1-2 hours early so that he could be home before the mandatory curfew put into effect by Mayor Bill DeBlasio. The co-worker further informed Bautista that Gjeci, speaking about Calderon, asked, "Why does this guy want to leave early? Does he have drugs on him?" Bautista alleges this statement was made based on racist stereotypes of Black people as "drug dealers." The co-worker subsequently quit his job, which Bautista believes resulted from the coworker's own experience of Gjeci's race and national origin discrimination. Bautista further alleges that all vacant doorman positions—including those left vacant by the co-worker, Calderon, Dash, and himself—were filled with "employees of Albanian ancestry/national origin and none were filled with people of color." Bautista additionally claims to have been informed that the "new white and/or Albanian workers did not work as hard, took more breaks, and showed up late, unlike Bautista, who was always an excellent worker."
 
-[IV. Discussion]{.casesection}
+##### **IV. Discussion**
 
-[a. Employment Relationship]{.casesubsection}
+##### _a. Employment Relationship_
 
 The Clipper Defendants move to dismiss the complaint on the grounds that it fails to adequately allege an employment relationship between themselves and Bautista. "The existence of an employer-employee relationship is a primary element of Title VII claims." Determining whether an employment relationship exists is a "fact-specific" endeavor. Courts look to a non-exhaustive list of factors, including:
 
@@ -1016,15 +1016,15 @@ These allegations are similarly sufficient to support a joint employment relatio
 
 Plaintiffs bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
-[II. Analysis]{.casesection}
+##### **II. Analysis**
 
-[A. Title VII]{.casesubsection}
+##### _A. Title VII_
 
 Title VII prohibits an "employer" from engaging in certain "unlawful employment practices." The term "employer" means "a person engaged in an industry affecting commerce who has fifteen or more employees and any agent of such a person."
 
 McDonald's argues that it is not liable because it did not employ Plaintiffs or control employment matters at the restaurant where Plaintiffs worked. McDonald's argues that it is simply a franchisor; Franchisee controlled the conditions of Plaintiffs' employment, not McDonald's. Plaintiffs respond that McDonald's is liable for two reasons: (1) it retained sufficient control over their employment conditions to qualify as a "joint employer"; and (2) McDonald's caused Plaintiffs to believe that Franchisee was an agent of McDonald's.
 
-[1. Joint Employer]{.casesubsubsection}
+##### 1. Joint Employer
 
 "Under the 'joint-employer' theory, 'an entity that is not the plaintiff's formal employer may be treated under these doctrines as if it were the employer for purposes of employment laws such as Title VII.'" "Entities are joint employers if they 'share or co-determine those matters governing essential terms and conditions of employment.'" 
 
@@ -1064,7 +1064,7 @@ Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismis
 
 Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in NCAA Division 1 ("D1") interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants" or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named D1 universities (the "Non Attended School Defendants" or "NASD"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA; the Pennsylvania Minimum Wage Act (the "PMWA"); the New York Labor Law ("NYLL"); and the Connecticut Minimum Wage Act ("CMWA"). The Complaint also asserts three common law unjust enrichment claims. The NCAA and NASD (together the "Moving Defendants") have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) on the ground that Plaintiffs lack standing to sue them under Article III because they are not joint employers of Plaintiffs. For the reasons that follow, the Motion is granted in part and denied in part.
 
-[I. Factual Background]{.casesection}
+##### **I. Factual Background**
 
 The Complaint alleges the following facts. The NCAA is an association that regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and nearly 500,000 student athletes. The NCAA has entered into multi-year, multi-billion-dollar contracts with broadcasters ESPN, CBS, and Turner Sports to show athletic competitions between NCAA D1 member schools, and it distributes shares of those broadcasting fees to its member schools. In addition to shares of those broadcasting fees, NCAA D1 member schools also receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered into, either individually or as part of an NCAA conference, to broadcast athletic competitions between NCAA D1 member schools.
 
@@ -1080,7 +1080,7 @@ Based upon these factual allegations, the Complaint asserts that Plaintiffs are 
 
 The Attended Schools Defendants brought a Motion to Dismiss the Complaint as against them on the ground that it did not plausibly allege that they employed Plaintiffs, a requirement for liability under the FLSA. We denied that Motion on August 25, 2021, concluding that the Complaint plausibly alleges that Plaintiffs are employees of the ASD for purposes of the FLSA. The NCAA and the Non-Attended Schools Defendants have moved to dismiss all claims against them for lack of Article III standing on the ground that the Complaint does not plausibly allege that they are also employers of Plaintiffs, specifically that the Complaint does not plausibly allege that they are joint employers of Plaintiffs with the ASD.
 
-[III. Discussion]{.casesection}
+##### **III. Discussion**
 
 In Count I of the Complaint, Plaintiffs seek the payment of minimum wages from Defendants, including the NCAA and the NASD, for the hours they spent in connection with NCAA D1 intercollegiate athletics pursuant to Section 206 of the FLSA. "The minimum wage provision at issue requires that Plaintiffs prove that they are 'employees.'" The Moving Defendants argue in their Motion to Dismiss that Plaintiffs have failed to meet their burden of establishing "'the irreducible constitutional minimum' of Article III standing" because they are not employees of the Moving Defendants. To establish standing under Article 3, the Plaintiffs must establish the following three elements:
 
@@ -1094,7 +1094,7 @@ The FLSA defines the term "employee" as "any individual employed by an employer.
 
 Thus, we can grant the Moving Defendants' Motion to Dismiss for lack of subject matter jurisdiction only if the Complaint does not plausibly allege that the Moving Defendants are Plaintiffs' joint employers.
 
-[A. The NCAA as a Regulatory Body]{.casesubsection}
+##### _A. The NCAA as a Regulatory Body_
 
 The Moving Defendants argue that the NCAA cannot be a joint employer of Plaintiffs because it merely regulates Plaintiffs' participation in intercollegiate athletics. The Moving Defendants rely on _Dawson v. National Collegiate Athletic Association_, 932 F.3d 905 (9th Cir. 2019), in which the United States Court of Appeals for the Ninth Circuit affirmed a lower court decision holding that college student athletes who play football for schools in the NCAA D1 Football Bowl Subdivision are not employees of the NCAA and the PAC-12 Conference for purposes of the FLSA and California labor law. In _Dawson_, the Ninth Circuit considered three factors: (1) whether the plaintiff expected to be paid by the NCAA or the PAC-12 Conference, (2) whether the NCAA and the PAC-12 Conference had the power to hire or fire the plaintiff; and (3) whether there was "evidence that an arrangement was conceived or carried out to evade the law." The _Dawson_ court found that the plaintiff had no expectation of a scholarship or other compensation from the NCAA or the PAC-12 Conference and that "there was no evidence that the NCAA rules were 'conceived or carried out' to evade the law." The _Dawson_ court also determined that the complaint in that case alleged that the NCAA functioned solely as a regulator and not as an employer because, while the complaint alleged that "the NCAA Bylaws pervasively regulate college athletics," it did not allege that the NCAA hired or fired "or exercised any other analogous control, over student-athletes," or that the NCAA "chose the players on any Division I football team," or "engaged in the actual supervision of the players' performance." Rather, the complaint merely alleged that "the NCAA functions as a regulator, and that the NCAA member schools, for whom the student-athletes allegedly render services, enforce regulations." While the Moving Defendants urge us to simply adopt and apply _Dawson_'s analysis and conclusion in the instant case, the complaint in _Dawson_ is not identical to the Complaint in this case and, accordingly, we must engage in our own independent analysis of the instant Complaint.
 
@@ -1104,7 +1104,7 @@ The Moving Defendants also rely on _Callahan v. City of Chicago_, 813 F.3d 658 (
 
 However, as the Moving Defendants recognize, the NCAA, unlike the City of Chicago, is not a governmental entity. Moreover, _Callahan_, as a Seventh Circuit case, is not controlling authority in this district and, in any event, concerns a different set of factual allegations than are at issue in the instant case. Accordingly, instead of relying on either _Dawson_ or _Callahan_, we will analyze the Complaint using the factors developed by the Third Circuit to determine whether an entity is a joint employer.
 
-[B. The Joint Employer Test]{.casesubsection}
+##### _B. The Joint Employer Test_
 
 The Moving Defendants argue that the Complaint fails to plausibly allege that the NCAA and the NASD are joint employers of Plaintiffs under the four-factor test originally developed by the Ninth Circuit in _Bonnette v. California Health and Welfare Agency_, 704 F.2d 1465 (9th Cir. 1983), and subsequently adopted in part by the Third Circuit in _In re Enterprise Rent-A-Car_, 683 F.3d 462 (3d Cir. 2012). The Third Circuit announced in Enterprise Rent-A-Car that courts should use the following four factors, referred to as the _Enterprise_ test, when determining whether two entities are joint employers of the same individual or individuals:
 
@@ -1112,19 +1112,19 @@ The Moving Defendants argue that the Complaint fails to plausibly allege that th
 
 We thus review the factual allegations in the Complaint to determine whether they satisfy these factors with respect to both the NCAA and the NASD.
 
-[1. The NCAA's and NASD's authority to hire and fire Plaintiffs]{.casesubsubsection}
+##### 1. The NCAA's and NASD's authority to hire and fire Plaintiffs
 
 The Complaint alleges the following facts with respect to the NCAA's ability to "hire and fire" Plaintiffs. The NCAA's Bylaws restrict the means by which NCAA D1 member schools may recruit prospective athletes, including limiting face to face encounters with student athletes and their family members; limiting off-campus activities intended to assess the academic and athletic qualifications of a prospective student-athlete; limiting the number of telephone calls that can be made to a prospective student athlete during a defined period of time; and limiting contacts with student athletes to specified periods of time. NCAA Bylaws also prohibit D1 member schools from offering certain inducements to recruit student athletes. NCAA Bylaws limit the total number and value of the athletic scholarships that D1 member schools can offer to student athletes. NCAA Bylaws also make D1 member schools responsible for certifying the eligibility of student athletes before they can allow the student athletes to represent the school in intercollegiate competitions. Failure to comply with these Bylaws constitutes a Level III violation, for which NCAA Enforcement Staff could seek the following penalties: precluding recruitment of the student athlete and prohibiting the student-athlete from competing for the school until his or her eligibility is restored. Multiple violations could result in stronger penalties. In addition, the NCAA Bylaws require member schools to suspend or fire student athletes who are determined to be ineligible to play by NCAA Enforcement Staff. The Complaint thus alleges that the NCAA does more than just impose rules regarding the recruitment of intercollegiate athletes; it also investigates violations of those rules and imposes penalties, including the firing of student athletes, for those violations. We thus conclude that the Complaint plausibly alleges that the NCAA exercises significant control over the hiring and firing of student athletes, including Plaintiffs, such that the Complaint satisfies the first factor of the Enterprise test with respect to the NCAA.
 
 The Complaint alleges the following facts with respect to the NASD's ability to "hire and fire" Plaintiffs. NCAA D1 member schools have representatives on committees that decide what rules to adopt; the "NCAA rules apply to all Student Athletes in NCAA sports on an equal basis; and these bylaws address, among other subjects, Student Athlete recruitment, eligibility, hours of participation, duration of eligibility and discipline." We conclude that these allegations are not sufficient to plausibly allege that the NASD exercise significant control over the hiring and firing of student athletes, including Plaintiffs. We therefore conclude that the factual allegations of the Complaint fail to satisfy the first factor of the Enterprise test with respect to the NASD.
 
-[2. The NCAA's and NASD's authority to promulgate work rules and set Plaintiffs' compensation, benefits, and work schedules]{.casesubsubsection}
+##### 2. The NCAA's and NASD's authority to promulgate work rules and set Plaintiffs' compensation, benefits, and work schedules
 
 The Complaint alleges the following facts with respect to the NCAA's "authority to promulgate work rules and assignments and to set Plaintiffs' conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment." The NCAA Bylaws govern amateurism, eligibility, awards, benefits, expenses, and each sport's playing and practice seasons. NCAA D1 Bylaw 12 prohibits D1 member schools from paying student athletes. NCAA D1 Bylaw 16 governs permissible benefits and non-permissible benefits for student athletes, as well as mandatory benefits for the athletes. NCAA D1 Bylaw 17 lists "Required Athletically Related Activities" that student athletes must participate in, limits the number hours that student athletes may be required to participate in CARA, and requires that CARA hours be recorded by school staff. NCAA D1 Bylaw 12 limits the number of seasons a student athlete may compete for a school in a specific sport and limits the time frame in which those seasons may occur. A school's failure to comply with these rules can constitute a Level II or III violation. The NCAA D1 Bylaws make payment to a student athlete by a coach or other school representative a Severe Breach of Conduct and a Level I violation. The Complaint thus alleges that the NCAA, through its Bylaws, issues work rules that apply to Plaintiffs and imposes conditions not only on the payment of compensation and other benefits to Plaintiffs but also on how much time Plaintiffs may spend in connection with NCAA intercollegiate athletic activities. We thus conclude that the Complaint plausibly alleges that the NCAA has the "authority to promulgate work rules and assignments and to set Plaintiffs' conditions of employment," such that the Complaint satisfies the second factor of the Enterprise test with respect to the NCAA. 
 
 The Complaint alleges the following facts with respect to the NASD's "authority to promulgate work rules and assignments and to set Plaintiffs' conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment." The Complaint alleges that the NCAA D1 council has 40 members, including one from each conference, and the Board of Directors has 24 members, made up of one member from each Football Bowl Subdivision conference and 10 seats that rotate among the remaining conferences. Each active D1 member has voting privileges in the NCAA. The Complaint also alleges that "All schools in the NCAA have mutually agreed not to offer wages for participation in intercollegiate Varsity sports, and they have adopted bylaws prohibiting schools from offering wages and Student Athletes from accepting wages." All schools in the NCAA have also adopted bylaws with sanctions for infractions of the rules prohibiting schools from paying student athletes. The NCAA Enforcement Staff investigates potential NCAA violations and brings charges. The NCAA D1 Committee on Infractions decides cases brought by the Enforcement Staff. The NCAA D1 Committee on Infractions is composed of as many as 24 representatives from members schools, conferences, and the public. The D1 Infractions Appeal Committee is composed of five representatives from member schools, conferences, and the public. NCAA member schools have "'Shared Responsibility'" to report possible violations regarding student athletes and to cooperate in the investigation of student athletes. Failure to cooperate in an NCAA enforcement investigation is a "Severe Breach of Conduct" that can result in post-season bans, financial penalties, scholarship reductions, recruiting restrictions, and head coach restrictions. While the Complaint alleges that some colleges and universities have representatives on NCAA committees that create rules with respect to student athletes, and impose discipline on student athletes, the Complaint does not allege that any of the NASD have representatives that sit on any of these committees. We conclude that these allegations, which pertain solely to the agreement of the NCAA member schools not to pay wages to student athletes, those schools' obligations with respect to the enforcement of that agreement, and the possibility that a school could be involved in investigating and imposing discipline with respect to the violation of that agreement and other infractions of the D1 Bylaws, are not sufficient to plausibly allege that the NASD themselves promulgate work rules and assignments and/or set the conditions of participation for student athletes in NCAA intercollegiate athletics. We therefore conclude that the Complaint fails to satisfy the second factor of the Enterprise test with respect to the NASD.
 
-[3. The NCAA's and NASD's involvement in the day-to-day supervision of Plaintiffs]{.casesubsubsection}
+##### 3. The NCAA's and NASD's involvement in the day-to-day supervision of Plaintiffs
 
 The Complaint alleges the following facts regarding the NCAA's involvement in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports. The NCAA Bylaws control the ability of the D1 member schools to discipline their student athletes as follows:
 
@@ -1138,7 +1138,7 @@ The NCAA, through its Bylaws, also prohibits NCAA D1 member schools from "reduci
 
 The Complaint alleges the following facts with respect to the NASD's involvement in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports. The NCAA D1 Committee on Infractions, which can impose discipline on student athletes, is made up of as many as 24 representatives from member schools, conferences, and the public. The D1 Infractions Appeal Committee is composed of five representatives from member schools, conferences, and the public. All of the D1 member schools have a "'Shared Responsibility' to report all potential violations regarding any Student Athlete." Failure to cooperate in an NCAA enforcement investigation is a Level I Violation which could result in postseason bans, financial penalties, scholarship reductions, head coach restrictions, and recruiting restrictions. However, the Complaint does not allege that representatives of any of the NASD are members of the Committee on Infractions or of the Infractions Appeal Committee. We conclude that these allegations, which pertain to the participation of some NCAA D1 member schools in the NCAA D1 Committee on Infractions and the D1 Infractions Appeal Committee, and the obligation of D1 member schools to cooperate in NCAA enforcement investigations, are not sufficient to plausibly allege that the NASD are involved in the day-to-day supervision, including discipline, of student athletes, including Plaintiffs, who participate in NCAA sports. We thus conclude that the factual allegations of the Complaint fail to satisfy the third factor of the Enterprise test with respect to the NASD.
 
-[4. The NCAA's and NASD's control of Plaintiffs' records]{.casesubsubsection}
+##### 4. The NCAA's and NASD's control of Plaintiffs' records
 
 The Complaint alleges the following facts regarding the NCAA's control of the records of student athletes who participate in NCAA sports. "The NCAA Eligibility Center maintains all records related to the initial determination of Student Athlete eligibility," and D1 member schools are required to provide the Eligibility Center with additional information if they "have cause to believe that a prospective student-athlete's amateur status has been jeopardized" and to report any discrepancies to the Eligibility Center. The NCAA also receives and maintains records regarding student athletes' injuries, illnesses and medical treatment in connection with their training for and participation in NCAA sports. D1 member schools are also required to make each student athlete's statement, drug testing consent form, and squad list available to the NCAA. D1 member schools are also required to produce student athletes' records to the NCAA upon request in connection with investigations conducted by the NCAA Enforcement Staff or the NCAA Committee on Infractions. We conclude, accordingly, that the Complaint plausibly alleges that the NCAA controls records of student athletes involved in NCAA sports, including Plaintiffs, such that the factual allegations of the Complaint satisfy the fourth factor of the Enterprise test with respect to the NCAA.
 
@@ -1148,7 +1148,7 @@ As we have concluded that the facts alleged in the Complaint satisfy all four fa
 
 In contrast, we have concluded that the facts alleged in the Complaint do not satisfy any of the four factors of the Enterprise test as to the NASD. Accordingly, application of that test does not support a conclusion that the NASD are joint employers of Plaintiffs. Plaintiffs also argue, however, that the Complaint plausibly alleges that the NASD are joint employers of Plaintiffs under a "Sports League Joint Employment" theory that was developed and applied by the United States Court of Appeals for the Fifth Circuit in _North American Soccer League v. NLRB_, 613 F.2d 1379 (5th Cir. 1980). We will therefore consider whether the NASD can be considered joint employers under this alternative theory.
 
-[C. The Sports League Joint Employment Theory]{.casesubsection}
+##### _C. The Sports League Joint Employment Theory_
 
 In _North American Soccer League_, the Fifth Circuit examined whether the _North American Soccer League_ (the "League") and all of its member clubs were joint employers of all of the soccer players who played for clubs in the League in order to determine the "correct collective bargaining unit for the players in the League." The National Labor Relations Board ("NLRB") had concluded that the League and its member clubs were joint employers of the players and the Fifth Circuit determined that the record contained sufficient evidence to support that conclusion. The Fifth Circuit began its analysis with the proposition that "the existence of a joint employer relationship depends on the control which one employer exercises, or potentially exercises, over the labor relations policy of the other." The Fifth Circuit based its determination that the NLRB had properly deemed the League and the clubs to be joint employers on the following facts: (1) the League exercised "a significant degree of control over essential aspects of the clubs' labor relations, including but not limited to the selection, retention, and termination of the players, the terms of individual player contracts, dispute resolution and player discipline;" (2) "each club granted the League authority over not only its own labor relations but also, on its behalf, authority over the labor relations of the other member clubs;" (3) the clubs' activities were governed by the League's constitution and regulations, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club; (4) the League's regulations governed interclub trades and allowed the commissioner "to void trades not deemed to be in the best interest of the League;" (5) the League's regulations governed the termination of player contracts; (6) all player contracts were submitted to the League and the commissioner could "disapprove a contract deemed not in the best interest of the League;" (7) "disputes between a club and a player were required to be submitted to the commissioner for final and binding arbitration;" and (8) "control over player discipline was divided between the League and the clubs." 
 
@@ -1303,7 +1303,7 @@ Mr. Pham initiated this civil action on March 9, 2021, raising three claims unde
 
 Aeva filed the instant Motion for Summary Judgment on February 10, 2022, seeking judgment in its favor on Plaintiff's FCRA claim. 
 
-[Undisputed Material Facts]{.casesection}
+##### **Undisputed Material Facts**
 
 The below material facts are drawn from the Parties' briefing and are undisputed unless otherwise noted.
 
@@ -1321,13 +1321,13 @@ The below material facts are drawn from the Parties' briefing and are undisputed
 
 7\. At some point after Mr. Pham submitted to a background check, Aeva decided not to hire Mr. Pham.
 
-[Analysis]{.casesection}
+##### **Analysis**
 
 The Fair Credit Reporting Act was enacted "to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information." 15 U.S.C. § 1681(b). The FCRA "enables consumers to protect their reputations, and to protect themselves against the dissemination of false or misleading credit information." "The FCRA places distinct obligations on three types of entities: (1) consumer reporting agencies; (2) users of consumer reports; and (3) furnishers of information." 
 
 Under the FCRA, users of consumer reports—like Aeva—must, "in using a consumer report for employment purposes," and "before taking any adverse action based in whole or in part on the report, provide to the consumer to whom the report relates (i) a copy of the report; and (ii) a description in writing of the rights of the consumer under this subchapter." "Congress intended applicants to have a real opportunity to contest an adverse employment decision based on a consumer report," and an applicant "must have enough time between the notice and the final decision to meaningfully contest or explain the contents of the report." 
 
-[The Applicability of the FCRA]{.casesubsection}
+##### _The Applicability of the FCRA_
 
 In its Motion for Summary Judgment, Aeva first argues that the FCRA is not applicable to this case because its decision to not hire Plaintiff was unrelated to and did not rely upon Plaintiff's background check. Aeva states that it is undisputed that "at no time was Mr. Pham told he was not hired based on the background report's improper red flag regarding a felony criminal case on an interim background check." Instead, Aeva asserts, Mr. Pham testified that he has "no evidence" that Aeva made its hiring decision based on the background report. Aeva supports its position by citing evidence to Ms. Deinet's deposition testimony, wherein Ms. Deinet testified that the decision to not hire Plaintiff was unrelated to the background report and that Ms. Deinet, "who made the hiring decision," never saw the background report until this lawsuit was filed. 
 
@@ -1335,7 +1335,7 @@ But Mr. Pham _has_ submitted evidence, in the form of his own testimony, that Ms
 
 The fact that Mr. Pham testified that he has "no evidence" that the hiring decision was based on his background check does not change the Court's conclusion. Mr. Pham, a non-lawyer, simply could have meant that he has no tangible evidence of the reasoning for the decision, i.e., a recording of the telephone call with Ms. Pendergrass. But Mr. Pham's testimony is evidence, and the Court must draw all reasonable inferences from that evidence in Mr. Pham's favor. Because a reasonable jury could conclude, based on Mr. Pham's testimony, that Aeva's decision to not hire Mr. Pham was based on the results of the background check, genuine issues of material fact preclude summary judgment on this basis.
 
-[Actual Damages]{.casesubsection}
+##### _Actual Damages_
 
 In the alternative, Aeva argues that Plaintiff cannot establish that he was actually damaged by Aeva's actions, which necessitates summary judgment in its favor. The FCRA establishes separate categories of damages for willful and negligent violations of the FCRA. A company that willfully fails to comply with FCRA requirements may be held liable for "any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000," as well as punitive damages and attorney's fees and costs. Therefore, a "consumer need not prove actual damages if the FCRA violation is willful, but may recover punitive damages and statutory damages ranging from $100 to $1,000." Meanwhile, an employer who negligently fails to comply with the FCRA may be liable for "any actual damages sustained by the consumer as a result of the failure" and fees and costs. Mr. Pham seeks "actual damages, statutory damages, costs, and attorney's fees," as well as punitive damages, pursuant to 15 U.S.C. § 1681n. 
 
@@ -1347,7 +1347,7 @@ Second, Aeva has not cited any legal authority suggesting that a settlement with
 
 Third, while Defendant suggests that Mr. Pham cannot demonstrate actual damages because he obtained alternative employment within 20 days of his interview with Aeva, the Court respectfully disagrees. Mr. Pham argues in his Response that he can establish actual damages because he "was unable to earn wages that he otherwise would have earned had he been permitted to begin working at Aeva." Indeed, Mr. Pham confirmed at his deposition that he "did not receive wages that he otherwise would have earned had he been offered employment with Aeva and begun working for Aeva." Although Plaintiff testified that he "had not been harmed" by Aeva's actions, which may contradict his statement, credibility determinations and resolution of conflicts in the evidence are issues reserved for the jury. Lost income is one type of actual damages available under the FCRA, and because Mr. Pham has produced evidence that of potentially lost income, the jury must assess its strength. But as Mr. Pham has already adduced evidence of actual damages, the Court is unpersuaded by Defendant's argument that Mr. Pham can produce no such evidence.
 
-[Willful Violation of the FCRA]{.casesubsection}
+##### _Willful Violation of the FCRA_
 
 Finally, Aeva argues that Plaintiff's request for statutory or punitive damages fails as a matter of law because he has presented no evidence that Aeva acted willfully or with reckless disregard in its purported FCRA violations. For this reason, it asserts that it is entitled to judgment in its favor on Plaintiff's FCRA claim. 
 
@@ -1367,7 +1367,7 @@ In sum, Mr. Pham has established genuine disputes of material fact concerning (1
 
 Plaintiff Henry Franklin, on behalf of himself and a putative class of similarly situated job applicants, has sued Defendants Vertex Global Solutions, Inc. ("Vertex") and Fresh Direct, LLC ("Fresh Direct," and collectively, "Defendants") for their alleged use of a pre-employment screening policy that discriminates against job applicants with criminal histories in violation of the New York City Human Rights Law (the "NYCHRL"), N.Y.C. Admin. Code § § 8-101 to 8-131, as amended by the Fair Chance Act (the "FCA"), N.Y.C. Local Law 63 (2015). Vertex and Fresh Direct have each moved to dismiss Plaintiff's claims, contending that their hiring practices comply with New York City law and do not discriminate against individuals with criminal histories. Fresh Direct additionally argues that Plaintiff's claims should fail because he has not alleged Fresh Direct's participation in any facet of Plaintiff's employment application with Vertex. For the reasons outlined in the remainder of this Opinion, the Court denies Defendants' motions in full.
 
-[Factual Background]{.casesection}
+##### **Factual Background**
 
 Plaintiff Henry Franklin is a citizen of New York and a man with a criminal record. Defendant Vertex Global Solutions is a staffing agency headquartered in New York. Defendant Fresh Direct is a Delaware corporation specializing in direct-to-consumer food delivery, with its principal place of business in New York. 
 
@@ -1381,9 +1381,9 @@ Plaintiff alleges that his employment application was for a job with both Vertex
 
 As further evidence of the symbiotic relationship between Defendants, Plaintiff contends that Vertex touts that it offers customized services tailored to the specific requirements of individual employers like Fresh Direct. According to its website, Vertex advertises to prospective employer-clients that it "strives to understand your business, culture, and needs, to ensure we deliver candidates that fit your unique requirements." Vertex describes the value it adds to its clients' hiring process by characterizing itself as "a partner and an extension of your Human Resources Department." Notably, Vertex regularly conducted interviews for prospective Fresh Direct employees on-site at a Fresh Direct facility, as evidenced by an online job posting and Plaintiff's personal experience.
 
-[Discussion]{.casesection}
+##### **Discussion**
 
-[New York City's Fair Chance Act [^franklin5]]{.casesubsection}
+##### _New York City's Fair Chance Act [^franklin5]_
 
 The FCA, which went into effect on October 27, 2015, amended the NYCHRL to provide additional protection from employment discrimination to individuals with criminal histories. _See_ N.Y.C. Local Law 63 (2015); _see also_ N.Y.C. Comm'n on Human Rights, [Legal Enforcement Guidance on the Fair Chance Act](https://www.nyc.gov/site/cchr/law/fair-chance-act.page) ("Enforcement Guidance") at 1 (June 24, 2016) ("The FCA is intended to level the playing field so that New Yorkers who are part of the approximately 70 million adults residing in the United States who have been arrested or convicted of a crime are 'not overlooked during the hiring process simply because they have to check a box.'"). With the aim of preventing an applicant's criminal history from tainting initial hiring decisions, the FCA regulates precisely when in the hiring process an employer may seek and use information regarding an applicant's criminal background. To this end, the FCA deems it an "unlawful employment practice" for most employers to "make any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant." The FCA defines "any inquiry" as "any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information." The law further defines "any statement" as "a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check." The NYCCHR defined "conditional offer of employment" in the Enforcement Guidance as:
 
@@ -1399,7 +1399,7 @@ NYCCHR regulations interpreting the NYCHRL, as amended by the FCA, outline six h
 
 The NYCHRL affords a private right of action to "any person claiming to be a person aggrieved by an unlawful discriminatory practice as defined by the NYCHRL." The NYCHRL defines a "person aggrieved" to include one whose "only injury is the deprivation of a right granted or protected by this chapter." In light of this statutory directive, courts are to assess NYCHRL claims "broadly in favor of discrimination plaintiffs to the extent that such a construction is reasonably possible." 
 
-[Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA]{.casesubsection}
+##### _Plaintiff Has Plausibly Alleged a Violation of the NYCHRL, as Amended by the FCA_
 
 Plaintiff asserts that Defendants' hiring practices violated his rights under the NYCHRL, as amended by the FCA, because Defendants (i) conducted a background check prior to extending a conditional offer of employment; (ii) declared that a background check would be conducted without first making a conditional offer of employment; and (iii) denied him employment without adhering to the Fair Chance Process. Plaintiff's central allegation is that the document that Defendants labeled a "conditional offer of employment" was a contrivance designed to circumvent the FCA and permit Defendants to scrutinize applicants' criminal histories prematurely in the hiring process. Defendants maintain the legitimacy of their conditional offer of employment and insist that their hiring practices accorded with the FCA. Defendants further argue that Franklin lost his right to an Article 23-A analysis before they rescinded their conditional offer because Franklin misrepresented his criminal history in executing the Background Check Release. The Court finds that Plaintiff has plausibly alleged that Defendants feigned a conditional offer of employment before inquiring into his criminal background. Accordingly, Plaintiff has stated a claim pursuant to the NYCHRL, as amended by the FCA.
 
@@ -1417,7 +1417,7 @@ In the enforcement guidance that was in effect at the time of Plaintiff's job ap
 
 Accordingly, the Court concludes that Plaintiff has plausibly alleged that Defendants failed to make him a genuine conditional offer of employment prior to inquiring into his criminal background, which constitutes an actionable violation of the NYCHRL, as amended by the FCA.
 
-[Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer]{.casesubsection}
+##### _Plaintiff Has Plausibly Alleged that Fresh Direct Was a Joint Employer_
 
 Independent of whether Plaintiff has plausibly alleged a primary violation of the FCA, Fresh Direct asserts that Plaintiff has failed to allege a basis to hold Fresh Direct liable for the hiring practices instituted by Vertex. Fresh Direct argues that Plaintiff's theory of Fresh Direct's liability is premised entirely on speculation and that the Amended Complaint is bereft of factual allegations tying Fresh Direct to Plaintiff's application for employment with Vertex. Plaintiff rejoins that his allegations suggest that Fresh Direct facilitated Vertex's hiring of employees in an illegal manner and that Vertex employees were subject to Fresh Direct's control. Thus, Plaintiff contends, Fresh Direct may be held liable as either a joint employer or as an aider and abettor of Vertex's discriminatory conduct. The Court concludes that, at the pleading stage, Plaintiff has plausibly alleged that Fresh Direct both acted as Plaintiff's prospective joint employer and aided and abetted Vertex's discriminatory conduct.
 
@@ -1445,17 +1445,17 @@ The Court finds there to be a critical distinction between the putative joint em
 
 #### @ArkuWellsFargoBank_WDNC2022
 
-[Factual Background]{.casesection}
+##### **Factual Background**
 
 Plaintiff Josephine Arku filed this action against Defendant Wells Fargo Bank, National Association ("Wells Fargo") seeking compensatory damages for allegedly informing Plaintiff's prospective employers that she owed Wells Fargo an overpayment which caused her to lose several job opportunities. 
 
 Accepting the well-pleaded factual allegations of the Complaint as true, Plaintiff worked for Wells Fargo for more than twenty years when she needed to take paid leave from work. Thereafter, in February 2016, she was subject to a corporate layoff and received a severance package which included continuation of her salary for eleven months. Wells Fargo calculated the number of benefits that Plaintiff received. In August 2016, Plaintiff accepted short-term employment for five months through Wells Fargo and then started to apply for other job opportunities. Potential employers notified Plaintiff that Wells Fargo reported her as owing an overpayment to Wells Fargo. Once Plaintiff became aware of the overpayment, she contacted Wells Fargo and paid back the overpayment with the understanding that Wells Fargo would remove the overpayment information from her record. After receiving payment, Wells Fargo failed to remove the overpayment information from Plaintiff's record, despite numerous requests to do so. Between 2018 and 2020, Plaintiff applied to employers and believes, due to the overpayment listing on her record, that she lost various job opportunities. Plaintiff alleges that Wells Fargo's failure to correct the adverse employment information caused her to lose $135,000 in income and resulted in a $100,000 increase in interest payments regarding her home and vehicle loans. 
 
-[Discussion]{.casesection}
+##### **Discussion**
 
 In the Motion to Dismiss, Wells Fargo argues (1) it is immune from civil liability; and (4) Plaintiff did not meet the heightened pleading standard for a negligent misrepresentation claim.
 
-[Civil Immunity]{.casesubsection}
+##### _Civil Immunity_
 
 Under [N.C. Gen. Stat. § 1-539.12](#ncgs-1-539-12), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
 
@@ -1471,7 +1471,7 @@ Moreover, the facts do not show that Wells Fargo disclosed the overpayment infor
 
 Regardless, even if the statute does apply to information about an employee's failure to pay back an overpayment, it does not provide immunity when the information is false. Here, Plaintiff alleges that Wells Fargo failed to remove the overpayment information even after she repaid it, and that she lost potential employment because of this. Plaintiff thus alleges that she lost employment opportunities because of false information that Wells Fargo provided. This precludes civil immunity.
 
-[Negligent Misrepresentation]{.casesubsection}
+##### _Negligent Misrepresentation_
 
 Wells Fargo asserts that Plaintiff failed to meet the heightened pleading standard for a negligent misrepresentation claim. North Carolina has adopted the definition of negligent misrepresentation set forth in the Restatement (Second) of Torts under which:
 
@@ -1524,7 +1524,7 @@ Defendants moved for summary judgment on all the claims. The motion was heard on
 
 Plaintiff appealed the claims of slander _per se,_ malicious interference with contractual rights, and blacklisting, as to both defendants.
 
-[I.]{.casesection}
+##### **I.**
 
 Plaintiff contends that Angell's statements to Parker and Horton were slander _per se_ because they impeached her in her profession.
 
@@ -1538,11 +1538,11 @@ We find that plaintiff has not met the second element of this cause of action. P
 
 We note that defendant's statements to Parker and Horton may well have been in breach of the settlement agreement between plaintiff and defendant Angell Care, Inc. However, because plaintiff voluntarily dismissed her claim for breach of contract, issues relating to performance of that contract are not before us today.
 
-[II.]{.casesection}
+##### **II.**
 
 Plaintiff next contends that defendant maliciously interfered with her right to enter into an employment contract with Meyressa Schoonmaker and the North Carolina Center for Laws Affecting Women. In order to state a claim for malicious interference with contract, plaintiff must establish that the defendant's actions were malicious in the legal sense. To establish legal malice, a plaintiff must show that defendant interfered "with design of injury to plaintiff or gaining some advantage at his expense." Plaintiff never established that defendant intended to injure her or gain some advantage at her expense. The only evidence of malice plaintiff put forth is her belief that Angell felt ill will toward her because after she testified adversely to defendants in the _Bowling Green Health Care_ case, Angell raised his voice and exhibited anger toward the other party (not toward her). Plaintiff's speculation, without any facts to support it, is clearly insufficient to meet her burden of proof. A party cannot prevail against a motion for summary judgment by relying on "conclusory allegations, unsupported by facts." We affirm summary judgment for defendant on the malicious interference with contract claim.
 
-[III.]{.casesection}
+##### **III.**
 
 Plaintiff's third claim is that defendant Angell's conversations with Parker and Horton violated [N.C.Gen.Stat. § 14-355](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_14/GS_14-355.pdf), which prohibits blacklisting employees. Under this statute, an employer may be liable if, after discharging someone from employment, it prevents or attempts to prevent that person from obtaining employment:
 
@@ -1556,7 +1556,7 @@ Kadlec Medical Center and its insurer, Western Professional Insurance Company, f
 
 While under the influence of Demerol at Kadlec, Dr. Berry's negligent performance led to the near-death of a patient, resulting in a lawsuit against Kadlec. Plaintiffs claim here that the defendants' misleading referral letters were a legal cause of plaintiffs' financial injury, i.e., having to pay over $8 million to defend and settle the lawsuit. The jury found in favor of the plaintiffs and judgment followed. We reverse the judgment against Lakeview Medical, vacate the remainder of the judgment, and remand.
 
-[Factual Background]{.casesection}
+##### **Factual Background**
 
 Dr. Berry was a licensed anesthesiologist in Louisiana and practiced with Drs. William Preau, Mark Dennis, David Baldone, and Allan Parr at LAA. From November 2000 until his termination on March 13, 2001, Dr. Berry was a shareholder of LAA, the exclusive provider of anesthesia services to Lakeview Medical (a Louisiana hospital).
 
@@ -1600,21 +1600,21 @@ Dr. Berry's nurse went directly to her supervisor the next morning and expressed
 
 Jones's family sued Dr. Berry and Kadlec in Washington. Dr. Berry's insurer settled the claim against him. After the Washington court ruled that Kadlec would be responsible for Dr. Berry's conduct under _respondeat superior,_ Western, Kadlec's insurer, settled the claim against Kadlec.
 
-[Procedural History]{.casesection}
+##### **Procedural History**
 
 Kadlec and Western filed this suit in Louisiana district court against LAA, Dr. Dennis, Dr. Preau, Dr. Baldone, Dr. Parr, and Lakeview Medical, asserting Louisiana state law claims for intentional misrepresentation and negligent misrepresentation. Plaintiffs alleged that defendants' tortious activity led to Kadlec's hiring of Dr. Berry and the resulting millions of dollars it had to expend settling the Jones lawsuit. 
 
 Plaintiffs' claims arise out of the alleged misrepresentations in, and omissions from, the defendants' referral letters for Dr. Berry. These claims were tried to a jury, which returned a verdict in favor of the plaintiffs on both claims. The jury awarded plaintiffs $8.24 million, which is approximately equivalent to the amount Western spent settling the Jones lawsuit ($7.5 million) plus the amount it spent on attorneys fees, costs, and expenses (approximately $744,000) associated with the Jones lawsuit. The jury also found Kadlec and Dr. Berry negligent. The jury apportioned fault as follows: Dr. Dennis 20%; Dr. Preau 5%; Lakeview Medical 25%; Kadlec 17%; and Dr. Berry 33%. Because defendants were found liable for intentional misrepresentation, plaintiffs' recovery was not reduced by the percentage of fault ascribed to Kadlec. But the amount was reduced to $5.52 million to account for Dr. Berry's 33% of the fault. The district court entered judgment against Lakeview Medical and LAA.
 
-[Discussion]{.casesection}
+##### **Discussion**
 
-[The Intentional and Negligent Misrepresentation Claims]{.casesubsection}
+##### _The Intentional and Negligent Misrepresentation Claims_
 
 The plaintiffs allege that the defendants committed two torts: intentional misrepresentation and negligent misrepresentation. The elements of a claim for _intentional_ misrepresentation in Louisiana are: (1) a misrepresentation of a material fact; (2) made with intent to deceive; and (3) causing justifiable reliance with resultant injury. To establish a claim for intentional misrepresentation when it is by silence or inaction, plaintiffs also must show that the defendant owed a duty to the plaintiff to disclose the information. To make out a _negligent_ misrepresentation claim in Louisiana: (1) there must be a legal duty on the part of the defendant to supply correct information; (2) there must be a breach of that duty, which can occur by omission as well as by affirmative misrepresentation; and (3) the breach must have caused damages to the plaintiff based on the plaintiff's reasonable reliance on the misrepresentation.
 
 The defendants argue that any representations in, or omissions from, the referral letters cannot establish liability. We begin our analysis below by holding that after choosing to write referral letters, the defendants assumed a duty not to make affirmative misrepresentations in the letters. We next analyze whether the letters were misleading, and we conclude that the LAA defendants' letters were misleading, but the letter from Lakeview Medical was not. We also examine whether the defendants had an affirmative duty to disclose negative information about Dr. Berry in their referral letters, and we conclude that there was not an affirmative duty to disclose. Based on these holdings, Lakeview Medical did not breach any duty owed to Kadlec, and therefore the judgment against it is reversed. Finally, we examine other challenges to the LAA defendants' liability, and we conclude that they are without merit.
 
-[1. The Affirmative Misrepresentations]{.casesubsubsection}
+##### 1. The Affirmative Misrepresentations
 
 The defendants owed a duty to Kadlec to avoid affirmative misrepresentations in the referral letters. In Louisiana, "although a party may keep absolute silence and violate no rule of law or equity, if he volunteers to speak and to convey information which may influence the conduct of the other party, he is bound to disclose the whole truth." In negligent misrepresentation cases, Louisiana courts have held that even when there is no initial duty to disclose information, "once a party volunteers information, it assumes a duty to insure that the information volunteered is correct."
 
@@ -1628,7 +1628,7 @@ Kadlec also says that the letter was misleading because it erroneously reported 
 
 In sum, we hold that the letters from the LAA defendants were affirmatively misleading, but the letter from Lakeview Medical was not. Therefore, Lakeview Medical cannot be held liable based on its alleged affirmative misrepresentations. It can only be liable if it had an affirmative duty to disclose information about Dr. Berry. We now examine the theory that, even assuming that there were no misleading statements in the referral letters, the defendants had an affirmative duty to disclose. We discuss this theory with regard to both defendants for reasons that will be clear by the end of the opinion.
 
-[2. The Duty to Disclose]{.casesubsubsection}
+##### 2. The Duty to Disclose
 
 In Louisiana, a duty to disclose does not exist absent special circumstances, such as a fiduciary or confidential relationship between the parties, which, under the circumstances, justifies the imposition of the duty. Louisiana cases suggest that before a duty to disclose is imposed the defendant must have had a pecuniary interest in the transaction. In Louisiana, the existence of a duty is a question of law, and we review the duty issue here _de novo._
 
@@ -1650,7 +1650,7 @@ Despite these compelling policy arguments, we do not predict that courts in Loui
 
 The Louisiana court in _Louviere_ recognized that no court in Louisiana has imposed on an employer a duty to disclose information about a former employee to a future employer. Furthermore, we have not found a single case outside of Louisiana where a court imposed an affirmative duty on an employer to disclose negative information about a former employee. Some courts have held that employers have a legal duty to disclose negative information about former employees who later cause foreseeable physical harm in their new jobs, at least when there are misleading statements made by the former employer. But each of these cases based its conclusion on the fact that the former employer had made affirmative misrepresentations in its referral, and none imposed a duty based on the employer's mere nondisclosure. These cases reinforce our conclusion that the defendants had a duty to avoid misleading statements in their referral letters, but they do not support plaintiffs' duty to disclose theory. In fact, one court explicitly held that a hospital did not have an affirmative duty to disclose a nurse's past sexual misconduct toward patients when asked for an evaluation by a prospective employer, but that "the defendant did not challenge the proposition that, in undertaking to provide a reference, and in volunteering information about the employee's qualities as a nurse, it incurred a duty to use reasonable care to avoid disclosing factually misleading information."
 
-[3. Legal Cause]{.casesubsubsection}
+##### 3. Legal Cause
 
 LAA contends that even if it breached a legal duty to Kadlec, the plaintiffs' claims fail for lack of legal causation. LAA argues that legal cause is not met here because Kadlec's and Dr. Berry's intervening negligence precludes concluding that it is a legal cause of plaintiffs' injuries. Because legal cause is a legal question under Louisiana law, we review the district court's conclusion as to legal cause _de novo._
 
@@ -1668,7 +1668,7 @@ Indeed, both plaintiffs' and defendants' witnesses agreed at trial that narcotic
 
 Employers are in no way general insurers of acts committed by their employees, but as recognized by our precedent, an employer may owe a duty of care to a victim of an employee's intentional tort when there is a nexus between the employment relationship and the injury. Here, when the evidence is viewed in the light most favorable to the plaintiffs, plaintiffs, who are an elderly infirm couple that contracted with a company to provide them a personal care aide in their home, have shown a nexus between their injury and the employment relationship. The employee was inadequately screened and supervised, being placed in a position of opportunity to commit crimes against vulnerable plaintiffs after her employer suspected her of stealing from plaintiffs. Therefore, we conclude that the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding for entry of a judgment notwithstanding the verdict in favor of defendant. Further, the Court of Appeals misinterpreted North Carolina precedent, and thus erred by holding the trial court erred by denying defendant's requested instructions.
 
-[Background]{.casesection}
+##### **Background**
 
 On 29 September 2016, plaintiffs Thomas and Teresa Keith (Mr. and Mrs. Keith), an elderly married couple with health and mobility issues, were the victims of a home invasion and armed robbery orchestrated by a personal care aide working for defendant Health-Pro Home Care Services, Inc. (Health-Pro). The aide, Deitra Clark, was assigned to assist the Keiths in their home. Clark subsequently pleaded guilty to first-degree burglary and second-degree kidnapping for her conduct.
 
@@ -1712,9 +1712,9 @@ The dissent acknowledged that reasonable minds may reach different conclusions c
 
 The Keiths appealed based on the dissent . 
 
-[Analysis]{.casesection}
+##### **Analysis**
 
-[Health-Pro's Rule 50 Motions]{.casesubsection}
+##### _Health-Pro's Rule 50 Motions_
 
 To address the issues before us, we must summarize the relevant aspects of the law of this State concerning negligence and negligent hiring. The common law claim of negligence has three elements: (1) a legal duty owed by the defendant to the plaintiff, (2) a breach of that legal duty, and (3) injury proximately caused by the breach. Precedent decided by this Court further defines the contours of these three elements. For instance, this Court has recognized that "no legal duty exists unless the injury to the plaintiff was foreseeable and avoidable through due care." 
 

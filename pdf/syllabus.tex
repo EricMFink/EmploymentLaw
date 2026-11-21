@@ -3,12 +3,12 @@
 % ====================
 
 \documentclass[11pt,letterpaper,twoside]{article}
-\usepackage[hmarginratio=1:1,top=1in,bottom=.75in,left=1.5in,right=1.5in]{geometry}
+\usepackage[hmarginratio=1:1,top=1in,bottom=.75in,left=1.25in,right=1.25in]{geometry}
 \usepackage{etoolbox}
 \usepackage{marginnote}
 \usepackage{sidenotes}
 \usepackage{needspace}
-\usepackage[defaultlines=3,all]{nowidow}
+\usepackage[defaultlines=4,all]{nowidow}
 \raggedbottom
 \usepackage{ragged2e}
 \setlength{\RaggedRightParindent}{0em}
@@ -37,13 +37,23 @@
 \definecolor{OffBlack}{HTML}{191919}
 \definecolor{Maroon}{HTML}{800000}
 \definecolor{TarHeelBlue}{HTML}{4b9cd3}
-\definecolor{HopkinsBlue}{HTML}{002D72}
+\definecolor{DarkMidnightBlue}{HTML}{002D72}
 \definecolor{RacingGreen}{HTML}{004225}
 
 \usepackage{fontspec}
-\setmainfont{Athelas}[Mapping=tex-text]
-\setsansfont{Adelle Sans}[Mapping=tex-text]
+\setmainfont{Literata-Light.ttf}[
+	Path           = pdf/fonts/ ,
+    BoldFont       = Literata-Regular.ttf ,
+    ItalicFont     = Literata-LightItalic.ttf ,
+    BoldItalicFont = Literata-Italic.ttf ]
+\setsansfont{adelle-sans-light.otf}[
+	Path           = pdf/fonts/ ,
+    BoldFont       = adelle-sans-semibold.otf ,
+    ItalicFont     = adelle-sans-light-italic.otf ,
+    BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
+%\setmainfont{Athelas}[Mapping=tex-text]
+%\setsansfont{Adelle Sans}[Mapping=tex-text]
 
 \usepackage{textcomp}
 \usepackage{amssymb}
@@ -93,32 +103,32 @@
 
 % H1
 \titleformat{\section}[block]
-  {\LARGE\sffamily\color{Maroon}}
+  {\needspace{4\baselineskip}\Large\bfseries\sffamily\color{Maroon}}
   {}
   {0em}
   {}
-
+  [\vspace{-1.3em}\textcolor{Maroon}{\rule{\textwidth}{.5pt}}]
 % H2
 \titleformat{\subsection}[block]
-  {\Large\rmfamily}
+  {\needspace{4\baselineskip}\large\bfseries\itshape\rmfamily}
   {}
   {0em}
   {}
 % H3
 \titleformat{\subsubsection}[block]
-  {\Large\rmfamily}
+  {\needspace{6\baselineskip}\large\bfseries\rmfamily}
   {}
   {0em}
   {}
 % H4
 \titleformat{\paragraph}[block]
-  {\normalsize\rmfamily\itshape\color{OffBlack}}
+  {\needspace{4\baselineskip}\normalsize\rmfamily\itshape\color{OffBlack}}
   {}
   {0em}
   {}
 % H5
 \titleformat{\subparagraph}[block]
-  {\footnotesize\rmfamily}
+  {\scriptsize\rmfamily}
   {}
   {0em}
   {}
@@ -169,7 +179,7 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 \usepackage[unicode=true]{hyperref}
 \hypersetup{%
   colorlinks=true,
-  allcolors=HopkinsBlue,
+  allcolors=DarkMidnightBlue,
   breaklinks=true,
   pdfusetitle=true,
   pdfauthor={$author$},
@@ -192,26 +202,27 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
 
 \color{OffBlack}
 
-{\huge\sffamily\color{Maroon}{$title$}}
+{\huge\bfseries\sffamily\color{Maroon}{$title$}}
 
+\vspace{1em}
 \subparagraph{$institution$}
 \subparagraph{$term$}
 $if(room)$\subparagraph{$room$}$endif$
 $if(meets)$\subparagraph{$meets$}$endif$
 \vspace{1em}
 
-{\itshape{Professor}}
+{\small\bfseries\itshape{Professor}}
 \subparagraph{Eric M. Fink} 
 \subparagraph{efink@elon.edu}
 \subparagraph{336.279.9334} 
 \subparagraph{Office Hours: {\url{calendly.com/emfink/}}}
 $if(ta)$
 \vspace{1em}
-{\subparagraph{Teaching Assistant}}
+{\small\bfseries\itshape{Teaching Assistant}}
 \subparagraph{$ta$}
 \subparagraph{$ta-email$}
 $endif$
-\vspace{1em}
+\vspace{2em}
 
 \needspace{1\baselineskip}
 
