@@ -184,12 +184,12 @@ $if(notesymbols)$\renewcommand{\thefootnote}{\fnsymbol{footnote}}$endif$
   pdfusetitle=true,
   pdfauthor={$author$},
   pdftitle={$title$},
-  $if(subject)$
+  \$if(subject)$
   pdfsubject={$subject$},
-  $endif$
-  $if(keywords)$
-  pdfkeywords={$for(keywords)$$keywords$$sep$, $endfor$},
-  $endif$
+  \$endif$
+  \$if(keywords)$
+  pdfkeywords={$for(keywords)$$keywords$$sep$, \$endfor$},
+  \$endif$
   pdfproducer=LateX via pandoc,
   pdfcreator=LateX via pandoc
 }

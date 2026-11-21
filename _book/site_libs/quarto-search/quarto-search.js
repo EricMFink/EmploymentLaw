@@ -189,8 +189,8 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
                     title: isExpanded
                       ? language["search-hide-matches-text"]
                       : remainingCount === 1
-                      ? `${remainingCount} ${language["search-more-match-text"]}`
-                      : `${remainingCount} ${language["search-more-matches-text"]}`,
+                      ? `${remainingCount} \${language["search-more-match-text"]}`
+                      : `${remainingCount} \${language["search-more-matches-text"]}`,
                     type: kItemTypeMore,
                     href: kItemTypeMoreHref,
                   });
@@ -325,7 +325,7 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
                 return createElement(
                   "div",
                   { class: "search-result-header" },
-                  `${count} ${language["search-matching-documents-text"]}`
+                  `${count} \${language["search-matching-documents-text"]}`
                 );
               } else {
                 return createElement(
@@ -596,8 +596,8 @@ function validateItems(items) {
         .join(", ");
 
       throw {
-        name: `Error: Search index is missing the following fields: ${missingFieldList}.`,
-        message: `The items being returned for this search do not include all the required fields. Please ensure that your index items includes the following fields: ${missingFieldList}, or use <code>index-fields</code> in your <code>_quarto.yml</code> file to specify the field names.`,
+        name: `Error: Search index is missing the following fields: \${missingFieldList}.`,
+        message: `The items being returned for this search do not include all the required fields. Please ensure that your index items includes the following fields: \${missingFieldList}, or use <code>index-fields</code> in your <code>_quarto.yml</code> file to specify the field names.`,
       };
     }
   }
@@ -631,7 +631,7 @@ function showCopyLink(query, options) {
       const checkIcon = "bi-check2";
 
       const shareIconEl = window.document.createElement("i");
-      shareIconEl.setAttribute("class", `bi ${linkIcon}`);
+      shareIconEl.setAttribute("class", `bi \${linkIcon}`);
       copyButtonEl.appendChild(shareIconEl);
       inputSuffixEl.prepend(copyButtonEl);
 
@@ -961,7 +961,7 @@ function createErrorCard(createElement, title, text) {
   const titleEl = createElement("p", {
     class: "search-error-title",
     dangerouslySetInnerHTML: {
-      __html: `<i class="bi bi-exclamation-circle search-error-icon"></i> ${title}`,
+      __html: `<i class="bi bi-exclamation-circle search-error-icon"></i> \${title}`,
     },
   });
   const errorEl = createElement("div", { class: "search-error" }, [
@@ -1096,7 +1096,7 @@ function clearHighlight(searchterm, el) {
 }
 
 function escapeRegExp(string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // $& means the whole matched string
+  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // \$& means the whole matched string
 }
 
 // highlight matches

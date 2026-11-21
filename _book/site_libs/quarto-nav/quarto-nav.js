@@ -188,7 +188,7 @@ window.document.addEventListener("DOMContentLoaded", function () {
       section:target::before {
         content: "";
         display: block;
-        height: ${topOffset}px;
+        height: \${topOffset}px;
         margin: -${topOffset}px 0 0;
       }`)
       );
