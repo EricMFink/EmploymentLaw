@@ -1,0 +1,246 @@
+---
+references:
+- id: 15USC1
+  citation-key: 15USC1
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1'
+  title: Sherman Antitrust Act
+  type: legislation
+  volume: '15'
+
+- id: 15USC17
+  citation-key: 15USC17
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '17'
+  title: Clayton Antitrust Act
+  type: legislation
+  volume: '15'
+
+- id: 23Edw3cc1-8
+  citation-key: 23Edw3cc1-8
+  container-title: Edw. 3 cc. 1-8
+  issued:
+    - year: 1349
+  language: en
+  title: Ordinance of Labourers
+  type: legislation
+  volume: '23'
+
+- id: 25Edw3Stat1
+  citation-key: 25Edw3Stat1
+  container-title: 25 Edw. 3 Stat. 1
+  issued:
+    - year: 1351
+  language: en
+  title: Statute of Labourers
+  type: legislation
+
+- id: 29USC101
+  citation-key: 29USC101
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '101'
+  title: Norris-LaGuardia Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC151
+  citation-key: 29USC151
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '151'
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC201
+  citation-key: 29USC201
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1938
+  language: en
+  section: '201'
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC2601
+  citation-key: 29USC2601
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2601'
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC641
+  citation-key: 29USC641
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '641'
+  title: Occupational Safety & Health Act
+  type: legislation
+  volume: '29'
+
+- id: 42USC12101
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: 42USC12101
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1990
+  language: en
+  section: '12101'
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
+- id: CalBusProfCode16600
+  citation-key: CalBusProfCode16600
+  container-title: Bus. & Prof. Code
+  container-title-short: Bus Prof Code
+  language: en
+  section: '16600'
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+  volume: Cal.
+
+- id: CalBusProfCode16608
+  citation-key: CalBusProfCode16608
+  container-title: Bus. & Prof. Code
+  container-title-short: Bus Prof Code
+  language: en
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
+  type: legislation
+  volume: Cal.
+
+- id: CalLaborCode926
+  citation-key: CalLaborCode926
+  container-title: Labor Code
+  language: en
+  section: '926'
+  title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+  volume: Cal.
+
+- id: CalLaborCode980
+  citation-key: CalLaborCode980
+  container-title: Labor Code
+  language: en
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
+  volume: Cal.
+
+- id: MassGeneralLaw-PartITitleXXIChap14924L
+  accessed:
+    - year: 2025
+      month: 11
+      day: 22
+  citation-key: MassGeneralLaw-PartITitleXXIChap14924L
+  container-title: General Law - Part I, Title XXI, Chap. 149
+  container-title-short: Gen. Law - Part Title XXI Chap 149
+  language: en
+  section: 24L
+  title: Massachusetts Noncompetition Agreement Act
+  type: legislation
+  volume: Mass.
+
+- id: MontCodeAnn39-2-901
+  citation-key: MontCodeAnn39-2-901
+  container-title: Code Ann.
+  language: en
+  section: 39-2-901
+  title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+  volume: Mont.
+
+- id: NCGenStat1-53912
+  citation-key: NCGenStat1-53912
+  container-title: Gen. Stat.
+  language: en
+  section: 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat95-240
+  citation-key: NCGenStat95-240
+  container-title: Gen. Stat.
+  language: en
+  section: 95-240
+  title: North Carolina Retaliatory Employment Discrimination Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat95-251
+  citation-key: NCGenStat95-251
+  container-title: Gen. Stat.
+  language: en
+  section: 95-25.1
+  title: North Carolina Wage & Hour Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat95-282
+  citation-key: NCGenStat95-282
+  container-title: Gen. Stat.
+  language: en
+  section: 95-28.2
+  title: Lawful Use of Lawful Products during Nonworking Hours
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat96-1
+  citation-key: NCGenStat96-1
+  container-title: Gen. Stat.
+  language: en
+  section: 96-1
+  title: North Carolina Employment Security Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat97-1
+  citation-key: NCGenStat97-1
+  container-title: Gen. Stat.
+  language: en
+  section: 97-1
+  title: North Carolina Workers' Compensation Act
+  type: legislation
+  volume: N.C.
+
+- id: NYLab1050
+  citation-key: NYLab1050
+  container-title: Lab.
+  container-title-short: Lab.
+  issued:
+    - year: 2025
+  language: en
+  section: '1050'
+  title: Trapped at Work Act
+  type: legislation
+  volume: N.Y.
+
+- id: NYLab201-d
+  citation-key: NYLab201-d
+  container-title: Lab.
+  container-title-short: Lab.
+  language: en
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+  volume: N.Y.
+...

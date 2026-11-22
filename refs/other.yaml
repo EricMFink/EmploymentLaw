@@ -1,0 +1,374 @@
+---
+references:
+- id: Anderson2017
+  author:
+    - family: Anderson
+      given: Elizabeth
+  citation-key: Anderson2017
+  ISBN: 978-0-691-17651-2
+  issued:
+    - year: 2017
+  language: en
+  number-of-pages: '224'
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: 'Private Government: How Employers Rule Our Lives (and Why We Don’t Talk About It)'
+  type: book
+
+- id: Belton2014a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: Belton
+      given: Robert
+    - family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014a
+  container-title: Journal of Supreme Court History
+  container-title-short: J. Supreme Court Hist.
+  issue: '3'
+  issued:
+    - year: 2014
+  language: en
+  page: 425–443
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
+  volume: '39'
+
+- id: Casebeer2017
+  accessed:
+    - year: 2025
+      month: 11
+      day: 12
+  author:
+    - family: Casebeer
+      given: Kenneth M.
+  citation-key: Casebeer2017
+  container-title: Employee Rights and Employment Policy Journal
+  container-title-short: Empl. Rights Employ. Policy J.
+  issue: '2'
+  issued:
+    - year: 2017
+  language: en
+  page: 325–334
+  source: HeinOnline
+  title: 'It''s Not Just the Contract, It''s Capitalism: Inequality and the Restatement of Employment Law Chapter on Termination'
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
+  volume: '21'
+
+- id: Epstein1984
+  accessed:
+    - year: 2025
+      month: 10
+      day: 29
+  author:
+    - family: Epstein
+      given: Richard
+  citation-key: Epstein1984
+  container-title: University of Chicago Law Review
+  container-title-short: Univ. Chic. Law Rev.
+  issued:
+    - year: 1984
+  language: en
+  page: '947'
+  title: In Defense of the Contract at Will
+  type: article-journal
+  URL: https://www.jstor.org/stable/1599554?seq=1
+  volume: '51'
+
+- id: ExaminingUnionSaltingAbuses2004
+  authority: 108th Cong.
+  citation-key: ExaminingUnionSaltingAbuses2004
+  issued:
+    - year: 2004
+      month: 5
+      day: 10
+  language: en
+  section: Subcommittee on Employer-Employee Relations of the House Committee on Education and the Workforce
+  title: 'Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S. Economy: Hearing before the Subcomm. on Employer-Employee Relations of the H. Comm. on Education and the Workforce'
+  type: hearing
+  URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
+
+- id: Fink2016
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: Fink2016
+  container-title: Idaho Law Review
+  container-title-short: Ida. Law Rev.
+  issued:
+    - year: 2016
+  language: en
+  page: 953–973
+  title: Union Organizing & Collective Bargaining for Incarcerated Workers
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
+  volume: '52'
+
+- id: Friedman2023
+  author:
+    - family: Friedman
+      given: Lawrence
+  citation-key: Friedman2023
+  container-title: Hofstra Labor & Employment Law Journal
+  container-title-short: Hofstra Labor Employ. Law J.
+  issue: '2'
+  issued:
+    - year: 2023
+  language: en
+  page: '463'
+  title: 'Work Accidents: A Drama in Three Acts'
+  type: article-journal
+  URL: https://scholarlycommons.law.hofstra.edu/hlelj/vol40/iss2/5/
+  volume: '40'
+
+- id: Gould2004
+  author:
+    - family: Gould
+      given: William B.
+  citation-key: Gould2004
+  edition: 4th
+  ISBN: 978-1-108-59750-0
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '432'
+  publisher: MIT Press
+  title: A Primer on American Labor Law
+  type: book
+
+- id: Heine2025
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  author:
+    - family: Heine
+      given: Clare
+  citation-key: Heine2025
+  container-title: 'The Harbinger: N.Y.U. Review of Law & Social Change'
+  container-title-short: Harbinger NU Rev. Law Soc. Change
+  issued:
+    - year: 2025
+      month: 10
+      day: 8
+  language: en
+  page: '1'
+  title: Lessons From the Post-Jones Persistence of Imprisoned People’s Labor Organizing
+  type: article-journal
+  URL: https://socialchangenyu.com/harbinger/lessons-from-the-post-jones-persistence-of-imprisoned-peoples-labor-organizing/
+  volume: '52'
+
+- id: Lichten2018
+  author:
+    - family: Lichten
+      given: Stuart
+    - family: Fink
+      given: Eric M
+  citation-key: Lichten2018
+  container-title: Washington and Lee Journal of Civil Rights and Social Justice
+  container-title-short: Wash. Lee J. Civ. Rights Soc. Justice
+  issue: '1'
+  issued:
+    - year: 2018
+  language: en
+  license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA)
+  page: 51–97
+  source: Zotero
+  title: '“Just When I Thought I Was Out ....”: Post-Employment Repayment Obligations'
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf
+  volume: '25'
+
+- id: LondonRadicalHistories2016
+  author:
+    - family: London Radical Histories
+      given: ''
+  citation-key: LondonRadicalHistories2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 18
+  language: en
+  title: 'Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs Bettering Wages/Conditions, 1349'
+  type: post-weblog
+  URL: https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
+- id: Minchin2005
+  accessed:
+    - year: 2025
+      month: 12
+      day: 24
+  author:
+    - family: Minchin
+      given: Timothy J.
+  citation-key: Minchin2005
+  container-title: Journal of American Studies
+  container-title-short: J. Am. Stud.
+  ISSN: 0021-8758
+  issue: '3'
+  issued:
+    - year: 2005
+  language: en
+  page: 511–543
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: '"Don''t Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism in the 1970s'
+  type: article-journal
+  URL: https://www.jstor.org/stable/27557695
+  volume: '39'
+
+- id: Orren1991
+  author:
+    - family: Orren
+      given: Karen
+  citation-key: Orren1991
+  ISBN: 978-0-521-42254-3
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '256'
+  publisher: Cambridge University Press
+  title: 'Belated Feudalism: Labor, the Law, and Liberal Development in the United States'
+  type: book
+
+- id: Roseman2009
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Roseman
+      given: Barry D.
+  citation-key: Roseman2009
+  container-title: 'Advance: The Journal of the ACS Issue Groups'
+  container-title-short: Adv. J. ACS Issue Groups
+  issue: '1'
+  issued:
+    - year: 2009
+  language: en
+  page: 173–190
+  source: HeinOnline
+  title: 'Just Cause in Montana: Did the Big Sky Fall?'
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/advnce3&i=177
+  volume: '3'
+
+- id: StudentBorrowerProtectionCenter2022
+  author:
+    - family: Student Borrower Protection Center
+      given: ''
+  citation-key: StudentBorrowerProtectionCenter2022
+  issued:
+    - year: 2022
+      month: 7
+  language: en
+  title: Trapped at Work
+  type: report
+  URL: https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf
+
+- id: Summers2000
+  author:
+    - family: Summers
+      given: Clyde
+  citation-key: Summers2000
+  container-title: University of Pennsylvania Journal of Business Law
+  container-title-short: Univ. Pa. J. Bus. Law
+  ISSN: 1945-2934
+  issue: '1'
+  issued:
+    - year: 2000
+      month: 10
+      day: 1
+  language: en
+  page: '65'
+  source: COinS
+  title: 'Employment at Will in the United States: The Divine Right of Employers'
+  type: article-journal
+  URL: https://scholarship.law.upenn.edu/jbl/vol3/iss1/2
+  volume: '3'
+
+- id: Swartz2004
+  accessed:
+    - year: 2026
+      month: 11
+      day: 21
+  author:
+    - family: Swartz
+      given: Omar
+  citation-key: Swartz2004
+  container-title: Holy Cross Journal of Law and Public Policy
+  container-title-short: Holy Cross J. Law Public Policy
+  issued:
+    - year: 2004
+  page: '79'
+  title: 'Defending Labor in Commonwealth v. Pullis: Contemporary Implications For Rethinking Community'
+  type: article-journal
+  volume: '8'
+
+- id: Tomlins1993
+  author:
+    - family: Tomlins
+      given: Christopher L.
+  citation-key: Tomlins1993
+  ISBN: 978-0-521-43857-5
+  issued:
+    - year: 1993
+      month: 4
+      day: 30
+  language: en
+  number-of-pages: '432'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: Law, Labor, and Ideology in the Early American Republic
+  type: book
+
+- id: Townsend2023
+  accessed:
+    - year: 2025
+      month: 12
+      day: 6
+  author:
+    - family: Townsend
+      given: Chris
+  citation-key: Townsend2023
+  container-title: Labor Notes
+  issue: '530'
+  issued:
+    - year: 2023
+      month: 5
+      day: 3
+  language: en
+  title: We Are All Salts
+  type: article-magazine
+  URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
+
+- id: VanderVelde2020
+  accessed:
+    - year: 2026
+      month: 11
+      day: 21
+  author:
+    - family: VanderVelde
+      given: Lea
+  citation-key: VanderVelde2020
+  container-title: American Journal of Legal History
+  container-title-short: Am. J. Leg. Hist.
+  DOI: 10.1093/ajlh/njaa020
+  ISSN: 0002-9319
+  issue: '4'
+  issued:
+    - year: 2020
+      month: 12
+      day: 1
+  page: 397–449
+  source: Silverchair
+  title: The Anti-Republican Origins of the At-Will Doctrine
+  type: article-journal
+  URL: https://doi.org/10.1093/ajlh/njaa020
+  volume: '60'
+...

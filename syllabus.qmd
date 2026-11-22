@@ -7,7 +7,7 @@ format:
 
 # Syllabus {.unnumbered}
 
-[{{< bi download >}}](CivProSyllabus.pdf "Download Syllabus")
+[{{< bi download >}}](EmploymentLawSyllabus.pdf "Download Syllabus")
 
 ::: {.syllabus-header}
 
