@@ -1,0 +1,31 @@
+# References {.unnumbered}
+
+## Cases {.unnumbered}
+
+::: {#refs-cases}
+:::
+
+## Federal Statutes {.unnumbered}
+
+::: {#refs-statutes}
+:::
+
+## State Statutes {.unnumbered} 
+
+::: {#refs-state_statutes}
+:::
+
+## Rules of Professional Conduct {.unnumbered}
+
+::: {#refs-frcp}
+:::
+
+## Restatement {.unnumbered}
+
+::: {#refs-restatement}
+:::
+
+## Other Material {.unnumbered}
+
+::: {#refs-other}
+::: 

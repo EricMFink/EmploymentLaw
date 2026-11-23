@@ -72,8 +72,6 @@ citeproc: false
 
 {{< include /02-Main/chap10.qmd >}}
 
-\backmatter
-
 \pagestyle{plain.scrheadings}
 
-{{< include /03-Back/references_multibib.qmd >}}
+\backmatter
